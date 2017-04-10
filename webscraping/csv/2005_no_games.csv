@@ -1,0 +1,247 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,New,100,Utah,75
+2003-11-01,Chicago,84,New,79
+2003-11-02,New,100,Miami,95
+2003-11-06,New,86,Oklahoma City,84
+2003-11-08,New,110,Golden State,104
+2003-11-10,NY Knicks,91 OT,New,97
+2003-11-12,Detroit,93,New,87
+2003-11-13,New,102,Minnesota,98
+2003-11-15,New,105,Chicago,87
+2003-11-16,Atlanta,89,New,82
+2003-11-19,New,99,Philadelphia,98
+2003-11-22,New,105,NY Knicks,97 OT
+2003-11-23,Cleveland,84,New,97
+2003-11-25,Philadelphia,108,New,87
+2003-11-27,New,106,Atlanta,94
+2003-11-30,NY Knicks,92,New,86 OT
+2003-12-01,Boston,95,New,86
+2003-12-03,Chicago,90,New,115
+2003-12-04,New,89,Toronto,74
+2003-12-06,New,98,Houston,96 OT
+2003-12-07,Milwaukee,88,New,94
+2003-12-09,New,90,LA,94
+2003-12-12,Utah,88,New,93
+2003-12-13,Los Angeles,82,New,98
+2003-12-15,Sacramento,107,New,92
+2003-12-17,Portland,102,New,93
+2003-12-18,Golden State,111,New,106
+2003-12-20,Oklahoma City,86 OT,New,88
+2003-12-23,San Antonio,99,New,94 OT
+2003-12-26,New,81,Dallas,83
+2003-12-28,Indiana,91,New,84
+2003-12-29,Houston,97,New,85
+2003-12-31,New,86,Indiana,89
+2003-01-03,New,100,Orlando,89
+2003-01-05,Toronto,84,New,99
+2003-01-06,Memphis,106,New,102
+2003-01-08,New,83,Boston,93
+2003-01-10,New,99 OT,Detroit,101
+2003-01-11,Atlanta,87,New,80
+2003-01-15,New,82,Los Angeles,90
+2003-01-17,New,90,Chicago,83
+2003-01-20,New,114,Phoenix,102
+2003-01-22,New,103,Washington,94
+2003-01-24,New,96 OT,Portland,97
+2003-01-27,New,93,Milwaukee,108
+2003-01-29,New,104,Toronto,83
+2003-01-31,Brooklyn,89,New,72
+2003-02-01,Washington,109,New,104
+2003-02-03,New,103,Boston,96
+2003-02-05,New,108,Sacramento,84
+2003-02-11,Miami,69,New,78
+2003-02-12,New,72,Indiana,83
+2003-02-14,Minnesota,114,New,93
+2003-02-16,New,100,Denver,92
+2003-02-18,Orlando,99,New,94
+2003-02-19,New,87,Washington,75
+2003-02-21,New,125,Memphis,123 OT
+2003-02-22,Detroit,91,New,93
+2003-02-26,New,91,Miami,82
+2003-02-28,Denver,88,New,94
+2003-03-01,Phoenix,92,New,97
+2003-03-03,LA,108,New,111
+2003-03-07,New,102,Cleveland,76
+2003-03-09,New,92,Brooklyn,102
+2003-03-11,Indiana,71,New,81
+2003-03-12,Boston,93,New,65
+2003-03-14,Miami,83,New,87
+2003-03-15,Orlando,96,New,86
+2003-03-19,New,101,NY Knicks,96
+2003-03-21,New,113,Milwaukee,98
+2003-03-22,Milwaukee,93,New,85
+2003-03-26,New,95,Orlando,97
+2003-03-28,Toronto,92,New,101
+2003-03-30,New,90,San Antonio,92
+2003-04-01,Dallas,95,New,86
+2003-04-02,New,106,Brooklyn,97
+2003-04-05,Cleveland,79,New,76
+2003-04-09,New,100,Cleveland,81
+2003-04-11,New,93,Detroit,89
+2003-04-13,Philadelphia,89,New,94
+2003-04-14,Brooklyn,74,New,87
+2003-04-16,New,92,Atlanta,77
+2004-10-29,New,88,Atlanta,83 OT
+2004-10-30,Orlando,98,New,100
+2004-11-01,New,97,Boston,90
+2004-11-03,Atlanta,90,New,80
+2004-11-05,Philadelphia,99 OT,New,106
+2004-11-07,New,114,Los Angeles,95
+2004-11-08,New,106,Chicago,109
+2004-11-11,Dallas,125,New,97
+2004-11-12,New,96,Utah,89
+2004-11-15,New,101,Portland,79
+2004-11-18,Brooklyn,85,New,88
+2004-11-19,Boston,73,New,81
+2004-11-21,New,75,Indiana,76
+2004-11-23,Detroit,80,New,81
+2004-11-25,Miami,91,New,87
+2004-11-26,New,82,Cleveland,72
+2004-11-29,NY Knicks,79,New,74
+2004-12-02,Orlando,91,New,100
+2004-12-03,New,106,Orlando,91
+2004-12-05,New,74,Houston,83
+2004-12-06,Chicago,91,New,97
+2004-12-08,New,91,Milwaukee,85
+2004-12-11,Phoenix,101,New,111
+2004-12-12,Golden State,85,New,96
+2004-12-15,LA,109,New,80
+2004-12-16,Denver,116,New,94
+2004-12-18,New,90,Sacramento,101
+2004-12-20,New,94,Memphis,89
+2004-12-23,Cleveland,97,New,86
+2004-12-26,New,109,Atlanta,79
+2004-12-29,Detroit,108,New,99
+2004-12-31,Boston,94,New,96
+2004-01-02,Toronto,74,New,86
+2004-01-03,Indiana,91,New,84
+2004-01-07,New,97,Washington,87
+2004-01-09,New,84,San Antonio,94
+2004-01-10,Chicago,89,New,84
+2004-01-13,New,89,Minnesota,94
+2004-01-15,New,74 OT,Toronto,78
+2004-01-17,New,91,Orlando,90
+2004-01-19,Minnesota,97,New,90
+2004-01-21,New,86,Philadelphia,92
+2004-01-23,New,97,Denver,91
+2004-01-24,San Antonio,96,New,98
+2004-01-28,New,101,Milwaukee,100
+2004-01-30,Philadelphia,85,New,82
+2004-01-31,New,70,Miami,94
+2004-02-02,New,70,Brooklyn,91
+2004-02-04,New,104,Dallas,113
+2004-02-06,New,92,Detroit,81
+2004-02-07,Milwaukee,107,New,97
+2004-02-11,New,106,NY Knicks,98
+2004-02-17,Indiana,75,New,89
+2004-02-18,New,120,Washington,98
+2004-02-21,Brooklyn,97,New,84
+2004-02-23,Cleveland,104,New,100
+2004-02-25,New,99,LA,93
+2004-02-27,New,89,Indiana,77
+2004-02-28,Memphis,97,New,92
+2004-03-01,Washington,111,New,106 OT
+2004-03-03,New,100,Chicago,97 OT
+2004-03-05,New,85,Cleveland,88
+2004-03-07,Toronto,84,New,76
+2004-03-10,New,95,Miami,84
+2004-03-11,Houston,97,New,86
+2004-03-13,New,102,Golden State,84
+2004-03-16,Miami,96,New,83
+2004-03-17,New,104,Philadelphia,80
+2004-03-19,New,80,Oklahoma City,91
+2004-03-21,New,120 OT,Toronto,121
+2004-03-23,New,82,Detroit,81
+2004-03-25,Atlanta,84,New,76
+2004-03-26,New,94,Phoenix,99
+2004-03-30,Los Angeles,107,New,88
+2004-03-31,Utah,89,New,76
+2004-04-03,Portland,81,New,94
+2004-04-04,Oklahoma City,96,New,88
+2004-04-06,Sacramento,105,New,91
+2004-04-09,New,89,Boston,80
+2004-04-10,Milwaukee,87,New,92
+2004-04-12,New,97,NY Knicks,101
+2004-04-14,Washington,78,New,94
+2005-11-03,New,91,Dallas,106
+2005-11-05,New,89,Orlando,90
+2005-11-06,Minnesota,99,New,92
+2005-11-09,New,98,Los Angeles,106
+2005-11-12,New,95,Atlanta,96
+2005-11-13,Milwaukee,94,New,91
+2005-11-17,New,84,Phoenix,95
+2005-11-20,New,94,Minnesota,99
+2005-11-22,Utah,75,New,76
+2005-11-23,Golden State,115,New,109 3OT
+2005-11-26,Phoenix,95,New,86
+2005-11-28,Los Angeles,89,New,76
+2005-11-29,Denver,76,New,67
+2005-12-01,New,81,Sacramento,94
+2005-12-04,New,69,Detroit,92
+2005-12-07,Houston,89,New,81
+2005-12-08,New,79,NY Knicks,86
+2005-12-10,Brooklyn,94,New,91 OT
+2005-12-12,Washington,88,New,69
+2005-12-14,Charlotte,94,New,93 OT
+2005-12-15,New,98,Golden State,89
+2005-12-17,New,67,San Antonio,83
+2005-12-19,Sacramento,107,New,71
+2005-12-21,LA,100,New,91 OT
+2005-12-22,Los Angeles,101,New,89
+2005-12-26,Cleveland,100,New,91
+2005-12-27,Indiana,100,New,82
+2005-12-29,New,96,Phoenix,107
+2005-01-03,Boston,108,New,90
+2005-01-05,New,89,Chicago,95
+2005-01-07,Memphis,84,New,76
+2005-01-08,New,121,Sacramento,117 OT
+2005-01-11,NY Knicks,82,New,88
+2005-01-12,Detroit,90,New,76
+2005-01-14,New,112,Portland,106
+2005-01-16,Toronto,102,New,99
+2005-01-17,Philadelphia,95,New,91
+2005-01-19,New,90,Indiana,87
+2005-01-22,New,88,LA,85
+2005-01-23,Miami,97,New,68
+2005-01-26,New,77,Houston,82
+2005-01-28,New,99,Philadelphia,95 OT
+2005-01-29,San Antonio,93,New,83
+2005-01-31,New,91,Memphis,98
+2005-02-02,New,82,Dallas,90
+2005-02-04,Golden State,90,New,82
+2005-02-05,Utah,108,New,92
+2005-02-08,Oklahoma City,108,New,91
+2005-02-09,Portland,80,New,91
+2005-02-11,New,111,Golden State,108
+2005-02-13,Orlando,97,New,94
+2005-02-14,New,98,Washington,96
+2005-02-16,New,78,San Antonio,101
+2005-02-23,New,85,Oklahoma City,103
+2005-02-27,New,93,Denver,94
+2005-02-28,Dallas,90,New,86
+2005-03-02,New,94,Charlotte,85
+2005-03-04,New,92,Utah,85
+2005-03-06,New,84,Toronto,95
+2005-03-09,New,85 OT,Brooklyn,86
+2005-03-12,New,111,Milwaukee,107
+2005-03-14,San Antonio,112,New,89
+2005-03-16,New,82,Memphis,88
+2005-03-18,Chicago,90,New,94
+2005-03-19,New,100,Boston,113
+2005-03-21,Dallas,103,New,86
+2005-03-23,Minnesota,107,New,102
+2005-03-25,New,68,Houston,81
+2005-03-26,Memphis,85,New,96
+2005-03-28,New,108 OT,Cleveland,109
+2005-04-01,Houston,73,New,76
+2005-04-02,New,99,Miami,111
+2005-04-05,Atlanta,86,New,96
+2005-04-06,New,83,Denver,94
+2005-04-08,New,87,Utah,98
+2005-04-10,New,81,Portland,90
+2005-04-12,Phoenix,99,New,85
+2005-04-13,Denver,116,New,102
+2005-04-15,Oklahoma City,97,New,72
+2005-04-16,LA,94,New,89
+2005-04-18,New,99,Minnesota,102
+2005-04-20,New,75,LA,86

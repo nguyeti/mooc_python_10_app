@@ -1,0 +1,970 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Brooklyn,105,Atlanta,94
+2003-11-01,Brooklyn,102,Indiana,91
+2003-11-02,Washington,79,Brooklyn,87
+2003-11-04,Brooklyn,106,Minnesota,82
+2003-11-06,Milwaukee,99,Brooklyn,93
+2003-11-08,Brooklyn,106,LA,92
+2003-11-09,Chicago,100,Brooklyn,93
+2003-11-13,Brooklyn,91,San Antonio,82
+2003-11-15,Miami,84,Brooklyn,93
+2003-11-16,Brooklyn,88,Dallas,96
+2003-11-18,Brooklyn,99,Denver,79
+2003-11-20,Boston,96,Brooklyn,79
+2003-11-22,Brooklyn,120,Cleveland,79
+2003-11-23,Minnesota,82,Brooklyn,96
+2003-11-27,Phoenix,82,Brooklyn,75
+2003-11-28,LA,126,Brooklyn,118 OT
+2003-11-30,Portland,86,Brooklyn,93
+2003-12-01,Oklahoma City,96,Brooklyn,95
+2003-12-03,Brooklyn,87,Atlanta,72
+2003-12-07,Brooklyn,121,Orlando,88
+2003-12-09,Brooklyn,106,Phoenix,93
+2003-12-11,Brooklyn,105,Portland,104
+2003-12-13,Brooklyn,79,Washington,65
+2003-12-15,Detroit,101,Brooklyn,91
+2003-12-17,NY Knicks,101,Brooklyn,99
+2003-12-19,Brooklyn,98,Los Angeles,71
+2003-12-21,Brooklyn,100,Detroit,92
+2003-12-23,Brooklyn,99,Chicago,83
+2003-12-25,Brooklyn,117,Boston,81
+2003-12-27,Brooklyn,110,Milwaukee,90
+2003-12-28,Milwaukee,96,Brooklyn,104
+2003-12-30,Brooklyn,102,Cleveland,88
+2003-01-03,Miami,80,Brooklyn,100
+2003-01-04,Orlando,83,Brooklyn,88
+2003-01-06,Atlanta,94,Brooklyn,101
+2003-01-09,Brooklyn,82,Sacramento,118
+2003-01-10,Toronto,79,Brooklyn,94
+2003-01-15,Philadelphia,108,Brooklyn,107
+2003-01-17,Brooklyn,88,Toronto,77
+2003-01-20,Utah,106,Brooklyn,103 OT
+2003-01-21,Sacramento,109,Brooklyn,102
+2003-01-23,Golden State,105,Brooklyn,97
+2003-01-24,Los Angeles,83,Brooklyn,89
+2003-01-27,Denver,66,Brooklyn,92
+2003-01-29,Brooklyn,86,Washington,78
+2003-01-31,Brooklyn,89,New Orleans,72
+2003-02-01,Detroit,106,Brooklyn,84
+2003-02-03,Brooklyn,109,Oklahoma City,108 OT
+2003-02-05,Philadelphia,85,Brooklyn,111
+2003-02-11,Orlando,92,Brooklyn,83
+2003-02-12,Memphis,97,Brooklyn,90
+2003-02-14,Brooklyn,90,Chicago,72
+2003-02-16,Brooklyn,83,Philadelphia,90
+2003-02-18,Brooklyn,84,Miami,79
+2003-02-20,Brooklyn,98,Indiana,91
+2003-02-21,Washington,89,Brooklyn,86
+2003-02-23,Brooklyn,105,Orlando,113
+2003-02-25,Cleveland,93,Brooklyn,90
+2003-02-26,Brooklyn,105,NY Knicks,76
+2003-03-02,Brooklyn,90,Utah,91
+2003-03-04,Dallas,88,Brooklyn,79
+2003-03-06,San Antonio,92,Brooklyn,78
+2003-03-08,Houston,83,Brooklyn,71
+2003-03-09,New Orleans,92,Brooklyn,102
+2003-03-13,Brooklyn,90,Boston,75
+2003-03-16,Brooklyn,87,Philadelphia,92
+2003-03-18,Boston,74,Brooklyn,87
+2003-03-19,Brooklyn,85,Milwaukee,104
+2003-03-22,Brooklyn,107,Memphis,99
+2003-03-23,Cleveland,93,Brooklyn,88
+2003-03-26,Brooklyn,101,NY Knicks,95
+2003-03-28,NY Knicks,101,Brooklyn,122
+2003-03-29,Brooklyn,109,Golden State,97
+2003-03-31,Brooklyn,110,Houston,86
+2003-04-02,New Orleans,106,Brooklyn,97
+2003-04-04,Brooklyn,99,Miami,83
+2003-04-06,Toronto,87,Brooklyn,96
+2003-04-09,Atlanta,97,Brooklyn,92
+2003-04-11,Chicago,95,Brooklyn,86
+2003-04-12,Brooklyn,94,Toronto,86
+2003-04-14,Brooklyn,74,New Orleans,87
+2003-04-16,Indiana,90,Brooklyn,83
+2004-10-29,Toronto,90,Brooklyn,87
+2004-10-31,Brooklyn,84,Minnesota,61
+2004-11-01,Washington,85,Brooklyn,98
+2004-11-04,Brooklyn,75,Houston,86
+2004-11-06,Brooklyn,81,Indiana,87
+2004-11-07,Boston,87,Brooklyn,94
+2004-11-09,Detroit,98,Brooklyn,84
+2004-11-12,Brooklyn,71,San Antonio,85
+2004-11-14,Brooklyn,85,NY Knicks,80
+2004-11-15,Atlanta,85,Brooklyn,100
+2004-11-18,Brooklyn,85,New Orleans,88
+2004-11-22,Brooklyn,80,Toronto,81
+2004-11-25,Oklahoma City,70,Brooklyn,93
+2004-11-27,LA,96,Brooklyn,102
+2004-11-28,Portland,97,Brooklyn,93
+2004-11-30,Sacramento,105,Brooklyn,92
+2004-12-01,Utah,91,Brooklyn,84
+2004-12-03,Brooklyn,93,Memphis,96
+2004-12-05,Brooklyn,93,Milwaukee,86
+2004-12-06,Brooklyn,99,Phoenix,88
+2004-12-09,Brooklyn,101,Oklahoma City,88
+2004-12-12,Orlando,95,Brooklyn,99
+2004-12-13,Memphis,110,Brooklyn,63
+2004-12-17,Brooklyn,87,Utah,74
+2004-12-19,Brooklyn,97,Washington,87
+2004-12-20,Milwaukee,92,Brooklyn,87
+2004-12-23,Brooklyn,95,Chicago,78
+2004-12-26,Detroit,79,Brooklyn,82
+2004-12-27,Indiana,75,Brooklyn,82
+2004-12-29,Brooklyn,87,Portland,91
+2004-12-31,Brooklyn,88,Golden State,70
+2004-01-02,Brooklyn,97,Cleveland,82
+2004-01-04,NY Knicks,85,Brooklyn,95
+2004-01-06,Brooklyn,92,LA,75
+2004-01-09,Philadelphia,97,Brooklyn,81
+2004-01-14,Brooklyn,115,Washington,103
+2004-01-15,Milwaukee,86,Brooklyn,83
+2004-01-17,Brooklyn,84,Indiana,90
+2004-01-20,Dallas,106,Brooklyn,93
+2004-01-21,San Antonio,99,Brooklyn,76
+2004-01-23,Miami,85,Brooklyn,64
+2004-01-25,Brooklyn,110,Boston,91
+2004-01-27,Philadelphia,76,Brooklyn,94
+2004-01-29,Orlando,79,Brooklyn,89
+2004-01-31,Houston,77,Brooklyn,88
+2004-02-02,New Orleans,70,Brooklyn,91
+2004-02-04,Brooklyn,99,Miami,88
+2004-02-06,Brooklyn,120,Orlando,99
+2004-02-08,Brooklyn,99,Philadelphia,87
+2004-02-10,Brooklyn,89,Detroit,78
+2004-02-11,Cleveland,85,Brooklyn,105
+2004-02-18,Brooklyn,98,Atlanta,92
+2004-02-20,Toronto,72,Brooklyn,91
+2004-02-21,Brooklyn,97,New Orleans,84
+2004-02-24,Brooklyn,86,Toronto,74
+2004-02-25,Minnesota,81,Brooklyn,68
+2004-02-28,Brooklyn,92,Miami,86
+2004-02-29,Brooklyn,83,Los Angeles,100
+2004-03-02,Denver,91,Brooklyn,95
+2004-03-03,Phoenix,87,Brooklyn,74
+2004-03-05,Golden State,74,Brooklyn,78
+2004-03-07,Los Angeles,94,Brooklyn,88
+2004-03-10,Brooklyn,98,Denver,97
+2004-03-12,Brooklyn,88,Chicago,76
+2004-03-14,Miami,104,Brooklyn,95
+2004-03-16,Brooklyn,94,Sacramento,77
+2004-03-18,Brooklyn,71,Detroit,89
+2004-03-19,NY Knicks,79,Brooklyn,65
+2004-03-21,Brooklyn,98,Dallas,101
+2004-03-23,Chicago,81,Brooklyn,84
+2004-03-26,Boston,102,Brooklyn,93
+2004-03-27,Cleveland,107,Brooklyn,104
+2004-03-29,Brooklyn,80,Boston,84
+2004-03-31,Washington,99 OT,Brooklyn,103
+2004-04-02,Brooklyn,108,NY Knicks,83
+2004-04-04,Brooklyn,106,Atlanta,89
+2004-04-06,Brooklyn,98,Milwaukee,103
+2004-04-08,Brooklyn,101,Orlando,81
+2004-04-09,Indiana,90,Brooklyn,80
+2004-04-11,Brooklyn,89,Philadelphia,75
+2004-04-12,Atlanta,129,Brooklyn,107
+2004-04-14,Miami,96,Brooklyn,84
+2005-11-03,Brooklyn,77,Miami,100
+2005-11-05,Chicago,106 2OT,Brooklyn,111
+2005-11-06,Brooklyn,80,Phoenix,112
+2005-11-09,Brooklyn,64,Portland,60
+2005-11-10,Philadelphia,108,Brooklyn,100 OT
+2005-11-13,Brooklyn,78,Dallas,94
+2005-11-15,Brooklyn,69,Houston,80
+2005-11-17,Brooklyn,68,Oklahoma City,79
+2005-11-20,Brooklyn,86,Washington,97
+2005-11-23,Denver,90,Brooklyn,88
+2005-11-25,LA,101,Brooklyn,88
+2005-11-26,Oklahoma City,92,Brooklyn,79
+2005-11-28,Portland,83,Brooklyn,71
+2005-11-30,Brooklyn,99,Charlotte,86
+2005-12-01,Washington,95,Brooklyn,68
+2005-12-04,Brooklyn,109,Atlanta,88
+2005-12-06,Brooklyn,88,Toronto,86
+2005-12-07,Cleveland,103,Brooklyn,97
+2005-12-10,Brooklyn,94,New Orleans,91 OT
+2005-12-11,Atlanta,90,Brooklyn,95
+2005-12-14,Brooklyn,79,NY Knicks,87
+2005-12-17,Memphis,89,Brooklyn,84
+2005-12-19,Toronto,110,Brooklyn,99
+2005-12-21,Charlotte,91,Brooklyn,94
+2005-12-22,Brooklyn,92,Cleveland,90
+2005-12-27,Detroit,100,Brooklyn,90 OT
+2005-12-28,Chicago,80,Brooklyn,84
+2005-12-30,Brooklyn,83,Indiana,96
+2005-01-01,NY Knicks,87,Brooklyn,93
+2005-01-04,Washington,112,Brooklyn,88
+2005-01-05,Milwaukee,97,Brooklyn,74
+2005-01-07,Brooklyn,82,Golden State,72
+2005-01-08,Orlando,104,Brooklyn,101
+2005-01-11,Brooklyn,80,Detroit,89
+2005-01-13,Houston,94,Brooklyn,85 OT
+2005-01-15,Dallas,98,Brooklyn,93
+2005-01-17,Atlanta,84,Brooklyn,85
+2005-01-19,Brooklyn,96,Milwaukee,90
+2005-01-21,Brooklyn,104,Boston,98
+2005-01-23,Phoenix,113,Brooklyn,105
+2005-01-25,Sacramento,113,Brooklyn,93
+2005-01-26,Golden State,99,Brooklyn,113
+2005-01-28,Los Angeles,103,Brooklyn,109
+2005-01-29,Utah,82,Brooklyn,99
+2005-02-01,Brooklyn,107,Chicago,97
+2005-02-02,Boston,110,Brooklyn,89
+2005-02-05,Brooklyn,107,Detroit,85
+2005-02-07,Brooklyn,107,Philadelphia,97 OT
+2005-02-09,Brooklyn,103 OT,Los Angeles,104
+2005-02-11,Brooklyn,91,San Antonio,101
+2005-02-13,Brooklyn,94,Denver,79
+2005-02-15,Minnesota,82,Brooklyn,71
+2005-02-16,Brooklyn,96,Sacramento,85
+2005-02-22,Brooklyn,82,Toronto,100
+2005-02-23,Milwaukee,100,Brooklyn,81
+2005-02-25,Brooklyn,93,Charlotte,86
+2005-02-27,Brooklyn,104,Cleveland,98
+2005-03-02,Philadelphia,93,Brooklyn,99
+2005-03-03,Brooklyn,90,Miami,106
+2005-03-05,Brooklyn,81,Orlando,105
+2005-03-08,San Antonio,90,Brooklyn,74
+2005-03-09,New Orleans,85 OT,Brooklyn,86
+2005-03-12,Miami,90,Brooklyn,65
+2005-03-13,Orlando,82,Brooklyn,98
+2005-03-16,Brooklyn,100,Chicago,84
+2005-03-18,Brooklyn,94,Utah,80
+2005-03-20,Indiana,85,Brooklyn,94
+2005-03-22,Brooklyn,98,Indiana,91
+2005-03-24,Brooklyn,96,Memphis,105
+2005-03-26,Brooklyn,75,Minnesota,96
+2005-03-28,Charlotte,91,Brooklyn,95
+2005-03-30,Brooklyn,95,LA,78
+2005-04-01,NY Knicks,91,Brooklyn,93
+2005-04-02,Brooklyn,102,Orlando,103
+2005-04-05,Cleveland,80,Brooklyn,111
+2005-04-07,Brooklyn,110,NY Knicks,98
+2005-04-09,Brooklyn,99,Boston,86
+2005-04-13,Indiana,90,Brooklyn,86
+2005-04-15,Toronto,90,Brooklyn,101
+2005-04-17,Brooklyn,104,Philadelphia,83
+2005-04-19,Brooklyn,109,Washington,101
+2005-04-20,Boston,93,Brooklyn,102
+2006-11-02,Brooklyn,96,Milwaukee,110
+2006-11-04,Toronto,92,Brooklyn,102
+2006-11-05,Brooklyn,100,Chicago,99
+2006-11-07,Miami,90,Brooklyn,89
+2006-11-09,Brooklyn,91,Utah,83
+2006-11-11,Indiana,102,Brooklyn,90
+2006-11-12,Brooklyn,91,Houston,99
+2006-11-15,Brooklyn,109,Oklahoma City,99
+2006-11-19,Brooklyn,89,Washington,83
+2006-11-21,Golden State,100,Brooklyn,97
+2006-11-23,Sacramento,114,Brooklyn,105
+2006-11-25,Phoenix,92,Brooklyn,81
+2006-11-27,Los Angeles,96 OT,Brooklyn,102
+2006-11-28,Denver,92,Brooklyn,101
+2006-11-30,Brooklyn,83,Detroit,93
+2006-12-03,Brooklyn,82,Toronto,95
+2006-12-07,Charlotte,84,Brooklyn,97
+2006-12-09,Cleveland,100,Brooklyn,109
+2006-12-10,Brooklyn,95,Philadelphia,107
+2006-12-13,Washington,94,Brooklyn,74
+2006-12-14,Brooklyn,83,Charlotte,91
+2006-12-16,Brooklyn,115,Denver,106 OT
+2006-12-18,Brooklyn,118,Golden State,90
+2006-12-20,Brooklyn,99,LA,85
+2006-12-21,Orlando,85,Brooklyn,96
+2006-12-23,Miami,88,Brooklyn,95
+2006-12-26,NY Knicks,101,Brooklyn,109
+2006-12-27,Brooklyn,96,Cleveland,91
+2006-12-30,Brooklyn,99,Atlanta,91
+2006-01-06,Brooklyn,113,Orlando,106
+2006-01-08,Toronto,104,Brooklyn,105
+2006-01-10,San Antonio,96,Brooklyn,91
+2006-01-13,Memphis,81,Brooklyn,69
+2006-01-14,Dallas,110,Brooklyn,77
+2006-01-16,Brooklyn,97,Indiana,92
+2006-01-18,Philadelphia,90,Brooklyn,101
+2006-01-20,Boston,99,Brooklyn,96
+2006-01-21,Brooklyn,103,Boston,83
+2006-01-23,Utah,89,Brooklyn,78
+2006-01-25,LA,90,Brooklyn,77
+2006-01-27,Portland,88,Brooklyn,83
+2006-01-28,Oklahoma City,113,Brooklyn,104
+2006-01-31,Brooklyn,91,Detroit,84
+2006-02-01,Cleveland,91,Brooklyn,85
+2006-02-04,Brooklyn,105,Miami,92
+2006-02-06,Brooklyn,99,New Orleans,91
+2006-02-08,Brooklyn,96,NY Knicks,83
+2006-02-10,Brooklyn,73,San Antonio,83
+2006-02-12,Brooklyn,94,Milwaukee,79
+2006-02-14,Detroit,85,Brooklyn,71
+2006-02-15,Charlotte,94,Brooklyn,95
+2006-02-21,Milwaukee,85,Brooklyn,89
+2006-02-22,Brooklyn,96,Orlando,93
+2006-02-24,NY Knicks,90,Brooklyn,94
+2006-02-26,Brooklyn,91,Indiana,101
+2006-02-27,Atlanta,104,Brooklyn,102 OT
+2006-03-01,Minnesota,100,Brooklyn,90
+2006-03-04,Brooklyn,105,Toronto,100 OT
+2006-03-06,Brooklyn,84,Sacramento,109
+2006-03-07,Chicago,95,Brooklyn,87
+2006-03-12,New Orleans,84,Brooklyn,95
+2006-03-13,Houston,77,Brooklyn,90
+2006-03-15,Brooklyn,78,Portland,65
+2006-03-17,Brooklyn,92,Los Angeles,89
+2006-03-19,Brooklyn,100,Dallas,89
+2006-03-21,Washington,100,Brooklyn,112
+2006-03-23,Brooklyn,86,Minnesota,82
+2006-03-26,Detroit,74,Brooklyn,79
+2006-03-27,Brooklyn,110,Phoenix,72
+2006-03-29,Brooklyn,86,Memphis,74
+2006-03-31,Atlanta,88,Brooklyn,91
+2006-04-02,Brooklyn,90,Miami,78
+2006-04-04,Brooklyn,96,Atlanta,94
+2006-04-06,Brooklyn,113,Charlotte,102
+2006-04-08,Brooklyn,102,Cleveland,108
+2006-04-09,Milwaukee,83,Brooklyn,95
+2006-04-11,Chicago,104,Brooklyn,101
+2006-04-12,Brooklyn,96,Philadelphia,116
+2006-04-14,Boston,74,Brooklyn,79
+2006-04-16,Brooklyn,95,Boston,93
+2006-04-18,Philadelphia,91,Brooklyn,88
+2006-04-19,Brooklyn,83,NY Knicks,90
+2007-11-01,Brooklyn,102,Toronto,92
+2007-11-03,Miami,91,Brooklyn,85
+2007-11-08,Brooklyn,96,Utah,89
+2007-11-10,Brooklyn,106,Miami,113
+2007-11-12,Washington,93 OT,Brooklyn,105
+2007-11-13,Brooklyn,113,Oklahoma City,119
+2007-11-15,Brooklyn,100,Milwaukee,87
+2007-11-17,Indiana,91,Brooklyn,100
+2007-11-18,Brooklyn,68,Portland,86
+2007-11-20,Oklahoma City,99,Brooklyn,87
+2007-11-22,Portland,100,Brooklyn,97
+2007-11-24,Phoenix,99,Brooklyn,93
+2007-11-26,Los Angeles,99,Brooklyn,93
+2007-11-28,Brooklyn,92,Charlotte,96
+2007-11-29,Boston,103,Brooklyn,106
+2007-12-02,Brooklyn,112,Philadelphia,107
+2007-12-05,Brooklyn,75,Dallas,92
+2007-12-07,Brooklyn,157 2OT,Phoenix,161
+2007-12-09,Brooklyn,90,Boston,92
+2007-12-11,Brooklyn,105,Memphis,92
+2007-12-13,Brooklyn,108,Milwaukee,95
+2007-12-15,Toronto,90,Brooklyn,78
+2007-12-16,Brooklyn,82,Detroit,90
+2007-12-18,Brooklyn,105,Golden State,97
+2007-12-20,Brooklyn,113,Cleveland,111
+2007-12-22,Brooklyn,95,Los Angeles,99
+2007-12-23,Milwaukee,115,Brooklyn,104
+2007-12-26,Detroit,92,Brooklyn,91
+2007-12-27,Brooklyn,71,Houston,96
+2007-12-29,Miami,81,Brooklyn,91
+2007-12-30,Brooklyn,100,Minnesota,92
+2007-01-05,Brooklyn,91,Chicago,86
+2007-01-06,Cleveland,96,Brooklyn,91
+2007-01-09,Brooklyn,101,Toronto,86
+2007-01-11,Chicago,83,Brooklyn,86
+2007-01-13,Minnesota,109,Brooklyn,98
+2007-01-15,Brooklyn,105,Indiana,95
+2007-01-17,Charlotte,85,Brooklyn,92
+2007-01-19,NY Knicks,100,Brooklyn,101
+2007-01-20,Brooklyn,101,Orlando,94
+2007-01-22,Sacramento,88,Brooklyn,87
+2007-01-24,Golden State,110,Brooklyn,109
+2007-01-25,LA,102,Brooklyn,101
+2007-01-27,Denver,102,Brooklyn,112
+2007-01-29,Utah,115,Brooklyn,116
+2007-01-31,Brooklyn,89,Detroit,113
+2007-02-02,Orlando,119,Brooklyn,86
+2007-02-04,Brooklyn,99 OT,Atlanta,101
+2007-02-05,Philadelphia,100,Brooklyn,98 OT
+2007-02-07,Atlanta,85,Brooklyn,87
+2007-02-09,Boston,78,Brooklyn,92
+2007-02-10,Brooklyn,93,Orlando,78
+2007-02-13,Brooklyn,82,San Antonio,107
+2007-02-14,Toronto,120,Brooklyn,109
+2007-02-21,Brooklyn,107,New Orleans,111
+2007-02-23,Brooklyn,109,Sacramento,96
+2007-02-25,Brooklyn,101,NY Knicks,92
+2007-02-27,Brooklyn,113,Washington,101
+2007-03-03,Brooklyn,88 OT,Boston,96
+2007-03-04,Philadelphia,99,Brooklyn,86
+2007-03-06,Dallas,102,Brooklyn,89
+2007-03-09,Houston,112,Brooklyn,91
+2007-03-10,San Antonio,93,Brooklyn,77
+2007-03-12,Memphis,102,Brooklyn,113
+2007-03-13,New Orleans,108,Brooklyn,112
+2007-03-15,Brooklyn,86,Miami,93
+2007-03-18,Brooklyn,101,LA,95
+2007-03-20,Brooklyn,90,Denver,94
+2007-03-23,Orlando,90,Brooklyn,82
+2007-03-24,Charlotte,107 OT,Brooklyn,113
+2007-03-28,Brooklyn,118,Indiana,94
+2007-03-30,Detroit,110,Brooklyn,105
+2007-03-31,Brooklyn,86,Philadelphia,82
+2007-04-04,Brooklyn,101,Atlanta,86
+2007-04-06,Chicago,105,Brooklyn,74
+2007-04-07,Brooklyn,120,Washington,114 OT
+2007-04-10,Washington,92,Brooklyn,96
+2007-04-12,Cleveland,94,Brooklyn,76
+2007-04-13,Brooklyn,100,NY Knicks,86
+2007-04-15,Indiana,107,Brooklyn,111
+2007-04-16,NY Knicks,95,Brooklyn,104
+2007-04-18,Brooklyn,106,Chicago,97
+2008-10-31,Brooklyn,112,Chicago,103 OT
+2008-11-02,Brooklyn,69,Toronto,106
+2008-11-03,Philadelphia,88,Brooklyn,93
+2008-11-06,Brooklyn,87,Atlanta,82
+2008-11-08,Brooklyn,87,Washington,85
+2008-11-10,Brooklyn,101,Boston,112
+2008-11-12,Brooklyn,82,New Orleans,84
+2008-11-14,Boston,91,Brooklyn,69
+2008-11-16,Brooklyn,70,Orlando,95
+2008-11-17,Brooklyn,87,Miami,91
+2008-11-19,Utah,102,Brooklyn,75
+2008-11-21,Portland,101,Brooklyn,106
+2008-11-23,Oklahoma City,93,Brooklyn,98
+2008-11-25,Los Angeles,100,Brooklyn,102
+2008-11-27,Brooklyn,103,Memphis,110
+2008-12-01,Brooklyn,94,Philadelphia,92 OT
+2008-12-02,Detroit,118,Brooklyn,95
+2008-12-04,Cleveland,79,Brooklyn,100
+2008-12-05,Brooklyn,93,NY Knicks,100
+2008-12-07,Brooklyn,89,Houston,96
+2008-12-09,Washington,104,Brooklyn,89
+2008-12-11,Brooklyn,82,LA,91
+2008-12-14,Brooklyn,105,Cleveland,97
+2008-12-15,NY Knicks,94,Brooklyn,86
+2008-12-18,Brooklyn,101,Sacramento,106
+2008-12-20,Miami,103 OT,Brooklyn,107
+2008-12-22,Brooklyn,100,Golden State,95
+2008-12-26,Brooklyn,83,Detroit,101
+2008-12-28,Brooklyn,109,Washington,106
+2008-12-29,Milwaukee,95,Brooklyn,97
+2008-01-02,Orlando,95,Brooklyn,96
+2008-01-04,Brooklyn,102,Charlotte,96
+2008-01-05,Atlanta,107,Brooklyn,113
+2008-01-08,Charlotte,115,Brooklyn,99
+2008-01-09,Brooklyn,99,Oklahoma City,88
+2008-01-11,Brooklyn,77,Boston,86
+2008-01-14,Brooklyn,73,Portland,99
+2008-01-16,Brooklyn,105,NY Knicks,111
+2008-01-19,LA,120,Brooklyn,107 OT
+2008-01-20,Phoenix,116,Brooklyn,92
+2008-01-22,Sacramento,128,Brooklyn,94
+2008-01-24,Golden State,121,Brooklyn,119
+2008-01-25,Denver,100,Brooklyn,85
+2008-01-27,Minnesota,98,Brooklyn,95
+2008-01-29,Brooklyn,87,Milwaukee,80
+2008-02-01,Miami,85,Brooklyn,94
+2008-02-02,Atlanta,104,Brooklyn,92
+2008-02-05,Brooklyn,90,Los Angeles,105
+2008-02-06,Orlando,100,Brooklyn,84
+2008-02-08,Charlotte,90,Brooklyn,104
+2008-02-10,Brooklyn,101,Dallas,82
+2008-02-12,Brooklyn,92,Minnesota,88
+2008-02-13,Toronto,109,Brooklyn,91
+2008-02-20,Brooklyn,110,Chicago,102 OT
+2008-02-22,Indiana,113,Brooklyn,103
+2008-02-23,Brooklyn,102,Indiana,91
+2008-02-26,Brooklyn,92,Orlando,102
+2008-02-28,Brooklyn,120,Milwaukee,106
+2008-03-02,Brooklyn,83,San Antonio,93
+2008-03-04,San Antonio,81,Brooklyn,70
+2008-03-05,Memphis,100,Brooklyn,93
+2008-03-07,New Orleans,107,Brooklyn,96
+2008-03-08,Dallas,111,Brooklyn,91
+2008-03-10,Houston,91,Brooklyn,73
+2008-03-12,Brooklyn,104,Cleveland,99
+2008-03-15,Brooklyn,117,Utah,115
+2008-03-18,Chicago,112,Brooklyn,96
+2008-03-19,Brooklyn,125,Atlanta,117
+2008-03-21,Brooklyn,114,Denver,125
+2008-03-22,Philadelphia,91,Brooklyn,87
+2008-03-24,NY Knicks,91,Brooklyn,106
+2008-03-26,Brooklyn,124,Indiana,117
+2008-03-28,Indiana,123,Brooklyn,115
+2008-03-29,Brooklyn,104,Phoenix,110
+2008-04-01,Brooklyn,99,Philadelphia,108
+2008-04-04,Detroit,106,Brooklyn,87
+2008-04-05,Brooklyn,99,Toronto,90
+2008-04-09,Cleveland,104,Brooklyn,83
+2008-04-11,Toronto,113,Brooklyn,85
+2008-04-12,Milwaukee,98,Brooklyn,111
+2008-04-15,Brooklyn,112,Charlotte,108 OT
+2008-04-16,Boston,105,Brooklyn,94
+2009-10-29,Washington,85,Brooklyn,95
+2009-11-01,Brooklyn,97,Golden State,105
+2009-11-04,Brooklyn,86,Phoenix,114
+2009-11-07,Brooklyn,103,Detroit,96
+2009-11-08,Indiana,98,Brooklyn,80
+2009-11-10,Miami,99,Brooklyn,94
+2009-11-12,Brooklyn,87,Indiana,98
+2009-11-14,Brooklyn,115,Atlanta,108
+2009-11-15,Atlanta,107,Brooklyn,119
+2009-11-18,Brooklyn,82,Cleveland,106
+2009-11-21,Toronto,127 OT,Brooklyn,129
+2009-11-22,Brooklyn,112,LA,95
+2009-11-25,Los Angeles,120,Brooklyn,93
+2009-11-26,Sacramento,114 OT,Brooklyn,116
+2009-11-29,Utah,88,Brooklyn,105
+2009-11-30,Phoenix,109,Brooklyn,117
+2009-12-02,Brooklyn,88,Washington,108
+2009-12-05,Brooklyn,113,Minnesota,84
+2009-12-06,Philadelphia,84,Brooklyn,95
+2009-12-10,Brooklyn,109,NY Knicks,121
+2009-12-12,Brooklyn,79,Toronto,101
+2009-12-13,Chicago,113,Brooklyn,104
+2009-12-15,Toronto,87,Brooklyn,94
+2009-12-17,Brooklyn,92,Utah,103
+2009-12-19,Brooklyn,121,Dallas,97
+2009-12-20,Brooklyn,103,Miami,106
+2009-12-22,Brooklyn,91,Houston,114
+2009-12-23,Indiana,107,Brooklyn,108
+2009-12-26,Brooklyn,87,Charlotte,95
+2009-12-27,Charlotte,103 OT,Brooklyn,114
+2009-12-29,Brooklyn,87,Chicago,100
+2009-12-31,Detroit,83,Brooklyn,75
+2009-01-02,Brooklyn,93,Atlanta,91 OT
+2009-01-03,Miami,101,Brooklyn,96 OT
+2009-01-05,Brooklyn,98,Sacramento,90
+2009-01-07,Brooklyn,100,Memphis,89
+2009-01-09,Milwaukee,104,Brooklyn,102
+2009-01-12,Brooklyn,103,Oklahoma City,99 OT
+2009-01-14,Boston,118,Brooklyn,86
+2009-01-15,Brooklyn,99,Portland,105
+2009-01-17,Brooklyn,85,Boston,105
+2009-01-21,New Orleans,102,Brooklyn,92
+2009-01-23,San Antonio,94,Brooklyn,91
+2009-01-24,Memphis,88,Brooklyn,99
+2009-01-26,Oklahoma City,94,Brooklyn,85
+2009-01-28,Brooklyn,106,Toronto,107
+2009-01-30,Atlanta,105,Brooklyn,88
+2009-01-31,Philadelphia,83,Brooklyn,85
+2009-02-03,Brooklyn,99,Milwaukee,85
+2009-02-04,Washington,88,Brooklyn,115
+2009-02-07,Brooklyn,114,Denver,70
+2009-02-08,Orlando,101,Brooklyn,84
+2009-02-10,Brooklyn,93,San Antonio,108
+2009-02-17,Houston,114,Brooklyn,88
+2009-02-18,Dallas,113,Brooklyn,98
+2009-02-20,Brooklyn,96,Washington,107
+2009-02-23,Brooklyn,98,Philadelphia,96
+2009-02-25,Brooklyn,111,Chicago,99
+2009-03-01,Brooklyn,96,New Orleans,99
+2009-03-03,Milwaukee,95,Brooklyn,99
+2009-03-04,Brooklyn,111,Boston,115
+2009-03-06,Orlando,105,Brooklyn,102
+2009-03-08,Brooklyn,106,NY Knicks,101
+2009-03-11,Golden State,116,Brooklyn,112
+2009-03-13,Portland,109,Brooklyn,100
+2009-03-15,LA,107,Brooklyn,105
+2009-03-16,Denver,121,Brooklyn,96
+2009-03-18,NY Knicks,89,Brooklyn,115
+2009-03-20,Brooklyn,96,Miami,88
+2009-03-22,Brooklyn,88,Cleveland,96
+2009-03-25,Cleveland,98,Brooklyn,87
+2009-03-27,Brooklyn,95,Los Angeles,103
+2009-03-29,Minnesota,108,Brooklyn,99
+2009-03-30,Brooklyn,78,Milwaukee,107
+2009-04-01,Brooklyn,111,Detroit,98
+2009-04-04,Chicago,103,Brooklyn,94
+2009-04-05,Brooklyn,96,Philadelphia,67
+2009-04-08,Boston,106,Brooklyn,104
+2009-04-10,Detroit,100,Brooklyn,93
+2009-04-11,Brooklyn,103,Orlando,93
+2009-04-13,Brooklyn,91,Charlotte,87
+2009-04-15,NY Knicks,102,Brooklyn,73
+2010-10-28,Minnesota,95,Brooklyn,93
+2010-10-30,Brooklyn,85,Orlando,95
+2010-10-31,Washington,123,Brooklyn,104
+2010-11-02,Charlotte,79,Brooklyn,68
+2010-11-04,Brooklyn,94,Denver,122
+2010-11-06,Philadelphia,97,Brooklyn,94
+2010-11-07,Brooklyn,76,Boston,86
+2010-11-11,Brooklyn,79,Philadelphia,82
+2010-11-13,Orlando,88,Brooklyn,72
+2010-11-14,Miami,81,Brooklyn,80
+2010-11-17,Brooklyn,83,Indiana,91
+2010-11-18,Milwaukee,99,Brooklyn,85
+2010-11-21,Brooklyn,91,NY Knicks,98
+2010-11-24,Denver,101,Brooklyn,87
+2010-11-25,Portland,93,Brooklyn,83
+2010-11-27,Sacramento,109,Brooklyn,96
+2010-11-29,Los Angeles,106,Brooklyn,87
+2010-12-02,Brooklyn,101,Dallas,117
+2010-12-04,Brooklyn,97,Charlotte,91
+2010-12-06,NY Knicks,106,Brooklyn,97
+2010-12-08,Chicago,101,Brooklyn,103
+2010-12-09,Brooklyn,89,Golden State,105
+2010-12-11,Indiana,107,Brooklyn,91
+2010-12-13,Atlanta,130,Brooklyn,107
+2010-12-15,Cleveland,99,Brooklyn,89
+2010-12-16,Brooklyn,92,Utah,108
+2010-12-18,Toronto,118,Brooklyn,95
+2010-12-19,Brooklyn,84,Los Angeles,103
+2010-12-23,Brooklyn,99,Minnesota,103
+2010-12-26,Brooklyn,93,Houston,98
+2010-12-28,Brooklyn,89,Oklahoma City,105
+2010-12-30,Brooklyn,104,NY Knicks,95
+2010-01-02,Brooklyn,86,Cleveland,94
+2010-01-05,Brooklyn,76,Milwaukee,98
+2010-01-06,Atlanta,119,Brooklyn,89
+2010-01-08,New Orleans,103,Brooklyn,99
+2010-01-10,San Antonio,97,Brooklyn,85
+2010-01-13,Brooklyn,87,Boston,111
+2010-01-15,Brooklyn,105,Indiana,121
+2010-01-18,LA,106,Brooklyn,95
+2010-01-20,Phoenix,118,Brooklyn,94
+2010-01-22,Golden State,111,Brooklyn,79
+2010-01-23,Utah,116,Brooklyn,83
+2010-01-27,Brooklyn,103,LA,87
+2010-01-29,Brooklyn,79,Washington,81
+2010-01-31,Brooklyn,79,Philadelphia,83
+2010-02-02,Brooklyn,93,Detroit,97
+2010-02-03,Toronto,108,Brooklyn,99
+2010-02-05,Boston,96,Brooklyn,87
+2010-02-06,Detroit,99,Brooklyn,92
+2010-02-09,Cleveland,104,Brooklyn,97
+2010-02-10,Brooklyn,77,Milwaukee,97
+2010-02-16,Charlotte,94,Brooklyn,103
+2010-02-17,Brooklyn,84,Miami,87
+2010-02-19,Brooklyn,89,Toronto,106
+2010-02-21,Brooklyn,94,Memphis,104
+2010-02-23,Brooklyn,93,Portland,102
+2010-02-27,Boston,96,Brooklyn,104
+2010-02-28,Brooklyn,85,Washington,89
+2010-03-03,Brooklyn,92,Cleveland,111
+2010-03-05,Brooklyn,87,Orlando,97
+2010-03-06,NY Knicks,93,Brooklyn,113
+2010-03-08,Memphis,107,Brooklyn,101
+2010-03-10,Dallas,96,Brooklyn,87
+2010-03-12,Oklahoma City,104,Brooklyn,102
+2010-03-13,Houston,116,Brooklyn,108
+2010-03-16,Brooklyn,84,Atlanta,108
+2010-03-17,Philadelphia,108,Brooklyn,97
+2010-03-20,Brooklyn,90,Toronto,100
+2010-03-22,Brooklyn,89,Miami,99
+2010-03-24,Brooklyn,93,Sacramento,79
+2010-03-26,Brooklyn,118,Detroit,110
+2010-03-27,Chicago,106,Brooklyn,83
+2010-03-29,Brooklyn,90,San Antonio,84
+2010-03-31,Brooklyn,105,Phoenix,116
+2010-04-03,Brooklyn,115,New Orleans,87
+2010-04-04,Washington,109,Brooklyn,99
+2010-04-07,Milwaukee,108,Brooklyn,89
+2010-04-09,Brooklyn,127,Chicago,116 2OT
+2010-04-10,Indiana,115,Brooklyn,102
+2010-04-12,Brooklyn,95,Charlotte,105
+2010-04-14,Miami,94,Brooklyn,86 2OT
+2011-10-27,Brooklyn,101,Detroit,98
+2011-10-29,Brooklyn,106,Sacramento,100
+2011-10-31,Brooklyn,78,Miami,101
+2011-11-03,Brooklyn,83,Charlotte,85
+2011-11-05,Orlando,105,Brooklyn,90
+2011-11-06,Miami,101,Brooklyn,89
+2011-11-09,Brooklyn,91,Cleveland,93
+2011-11-10,Cleveland,87,Brooklyn,95
+2011-11-13,Brooklyn,90,Orlando,91
+2011-11-15,LA,96,Brooklyn,110
+2011-11-17,Utah,98,Brooklyn,88
+2011-11-19,Sacramento,86,Brooklyn,81
+2011-11-20,Denver,107,Brooklyn,103
+2011-11-23,Brooklyn,107,Atlanta,101 OT
+2011-11-24,Boston,89,Brooklyn,83
+2011-11-27,Philadelphia,102,Brooklyn,86
+2011-11-28,Brooklyn,98,Portland,96
+2011-11-30,NY Knicks,111,Brooklyn,100
+2011-12-01,Brooklyn,120 3OT,Oklahoma City,123
+2011-12-03,Charlotte,91,Brooklyn,84 OT
+2011-12-05,Brooklyn,75,Boston,100
+2011-12-07,Atlanta,116,Brooklyn,101
+2011-12-09,Dallas,102,Brooklyn,89
+2011-12-12,Brooklyn,92,Los Angeles,99
+2011-12-14,Brooklyn,77,Philadelphia,82
+2011-12-16,Brooklyn,97,Washington,89
+2011-12-17,Toronto,98,Brooklyn,92
+2011-12-19,Brooklyn,89,Atlanta,82
+2011-12-21,Memphis,94,Brooklyn,101
+2011-12-22,New Orleans,105,Brooklyn,91
+2011-12-27,Brooklyn,88,Orlando,104
+2011-12-29,Oklahoma City,114,Brooklyn,93
+2011-12-31,Chicago,90,Brooklyn,81
+2011-01-01,Minnesota,103,Brooklyn,88
+2011-01-05,Brooklyn,96,Chicago,94
+2011-01-07,Washington,97,Brooklyn,77
+2011-01-08,Brooklyn,92,Milwaukee,115
+2011-01-12,Phoenix,118,Brooklyn,109 OT
+2011-01-14,Los Angeles,100,Brooklyn,88
+2011-01-15,Portland,96,Brooklyn,89
+2011-01-17,Golden State,109,Brooklyn,100
+2011-01-19,Brooklyn,103,Utah,95
+2011-01-21,Brooklyn,89,Detroit,74
+2011-01-22,Brooklyn,86,Dallas,87
+2011-01-24,Brooklyn,103,Cleveland,101
+2011-01-26,Brooklyn,93,Memphis,88
+2011-01-28,Indiana,124,Brooklyn,92
+2011-01-29,Milwaukee,91,Brooklyn,81
+2011-01-31,Brooklyn,115,Denver,99
+2011-02-02,Brooklyn,92,Philadelphia,106
+2011-02-04,Detroit,92,Brooklyn,82
+2011-02-06,Brooklyn,86,Indiana,105
+2011-02-09,Brooklyn,103,New Orleans,101 OT
+2011-02-11,Charlotte,89,Brooklyn,94
+2011-02-12,Brooklyn,95,NY Knicks,105
+2011-02-14,Brooklyn,85,San Antonio,102
+2011-02-16,Boston,94,Brooklyn,80
+2011-02-25,San Antonio,106,Brooklyn,96
+2011-02-26,Houston,123,Brooklyn,108
+2011-02-28,Brooklyn,103 OT,Phoenix,104
+2011-03-04,Brooklyn,116,Toronto,103
+2011-03-05,Brooklyn,137,Toronto,136 3OT
+2011-03-09,Brooklyn,94,Golden State,90
+2011-03-11,Brooklyn,102,LA,98 OT
+2011-03-14,Brooklyn,88,Boston,79
+2011-03-17,Brooklyn,73,Chicago,84
+2011-03-18,Milwaukee,110,Brooklyn,95
+2011-03-20,Washington,98,Brooklyn,92
+2011-03-21,Brooklyn,98,Indiana,102
+2011-03-23,Cleveland,94 OT,Brooklyn,98
+2011-03-25,Orlando,95,Brooklyn,85
+2011-03-26,Atlanta,98,Brooklyn,87
+2011-03-29,Brooklyn,87,Houston,112
+2011-03-30,NY Knicks,120,Brooklyn,116
+2011-04-01,Philadelphia,115,Brooklyn,90
+2011-04-03,Brooklyn,94,Miami,108
+2011-04-05,Brooklyn,107,Minnesota,105
+2011-04-06,Detroit,116,Brooklyn,109
+2011-04-08,Brooklyn,93,NY Knicks,116
+2011-04-10,Toronto,99,Brooklyn,92
+2011-04-11,Brooklyn,103,Charlotte,105
+2011-04-13,Chicago,97,Brooklyn,92
+2012-12-26,Washington,84,Brooklyn,90
+2012-12-27,Brooklyn,70,Atlanta,106
+2012-12-29,Orlando,94,Brooklyn,78
+2012-12-30,Atlanta,105,Brooklyn,98
+2012-01-01,Cleveland,98,Brooklyn,82
+2012-01-02,Brooklyn,94,Indiana,108
+2012-01-04,Boston,89,Brooklyn,70
+2012-01-06,Toronto,85,Brooklyn,97
+2012-01-07,Brooklyn,90,Miami,101
+2012-01-09,Brooklyn,101,Atlanta,106
+2012-01-11,Denver,123,Brooklyn,115
+2012-01-13,Phoenix,103,Brooklyn,110
+2012-01-14,Utah,107,Brooklyn,94
+2012-01-16,LA,101,Brooklyn,91
+2012-01-18,Brooklyn,107,Golden State,100
+2012-01-21,Brooklyn,74,Oklahoma City,84
+2012-01-22,Brooklyn,97,Charlotte,87
+2012-01-23,Chicago,110,Brooklyn,95
+2012-01-25,Philadelphia,90 OT,Brooklyn,97
+2012-01-27,Cleveland,96,Brooklyn,99
+2012-01-29,Brooklyn,73,Toronto,94
+2012-01-31,Indiana,106,Brooklyn,99
+2012-02-01,Brooklyn,99,Detroit,96
+2012-02-03,Brooklyn,105,Minnesota,108
+2012-02-04,NY Knicks,99,Brooklyn,92
+2012-02-06,Brooklyn,87,Chicago,108
+2012-02-08,Brooklyn,92,Detroit,99
+2012-02-10,Detroit,109,Brooklyn,92
+2012-02-11,Brooklyn,89,San Antonio,103
+2012-02-15,Brooklyn,100,Memphis,105
+2012-02-16,Indiana,93,Brooklyn,88
+2012-02-18,Chicago,85,Brooklyn,97
+2012-02-19,Brooklyn,85,Milwaukee,92
+2012-02-20,NY Knicks,92,Brooklyn,100
+2012-02-22,Brooklyn,91,Orlando,108
+2012-02-28,Dallas,92,Brooklyn,93
+2012-03-02,Boston,107,Brooklyn,94
+2012-03-04,Charlotte,101,Brooklyn,104
+2012-03-06,Miami,108,Brooklyn,78
+2012-03-07,Brooklyn,101,LA,100
+2012-03-09,Charlotte,74,Brooklyn,83
+2012-03-10,Brooklyn,106,Houston,112
+2012-03-12,Brooklyn,99,Milwaukee,105
+2012-03-14,Brooklyn,98,Toronto,84
+2012-03-16,Orlando,86,Brooklyn,70
+2012-03-17,Brooklyn,94,New Orleans,102
+2012-03-19,Brooklyn,100,Cleveland,105
+2012-03-21,Brooklyn,89,Washington,108
+2012-03-23,Atlanta,93,Brooklyn,84
+2012-03-24,Brooklyn,102,Charlotte,89
+2012-03-26,Brooklyn,84,Utah,105
+2012-03-28,Brooklyn,100,Indiana,84
+2012-03-30,Golden State,100,Brooklyn,102
+2012-03-31,Sacramento,99,Brooklyn,111
+2012-04-03,Los Angeles,91,Brooklyn,87
+2012-04-04,Portland,101,Brooklyn,88
+2012-04-06,Brooklyn,110,Washington,98
+2012-04-08,Brooklyn,122,Cleveland,117 OT
+2012-04-10,Brooklyn,88,Philadelphia,107
+2012-04-13,Philadelphia,89,Brooklyn,95
+2012-04-14,Brooklyn,82,Boston,94
+2012-04-16,Brooklyn,98,Miami,101
+2012-04-18,Brooklyn,95,NY Knicks,104
+2012-04-21,Milwaukee,106,Brooklyn,95
+2012-04-23,Brooklyn,87,Philadelphia,105
+2012-04-26,Toronto,98,Brooklyn,67
+2013-11-01,Brooklyn,-,NY Knicks,-
+2013-11-03,Brooklyn,107,Toronto,100
+2013-11-05,Brooklyn,96,Minnesota,107
+2013-11-07,Miami,103,Brooklyn,73
+2013-11-09,Orlando,68,Brooklyn,107
+2013-11-11,Brooklyn,82,Orlando,74
+2013-11-13,Brooklyn,114,Cleveland,101
+2013-11-15,Brooklyn,102,Boston,97
+2013-11-18,Sacramento,90,Brooklyn,99
+2013-11-20,Los Angeles,95,Brooklyn,90
+2013-11-21,Golden State,102,Brooklyn,93
+2013-11-23,Brooklyn,86,LA,76
+2013-11-25,Brooklyn,98,Portland,85
+2013-11-26,Brooklyn,96,NY Knicks,89 OT
+2013-11-28,Boston,83,Brooklyn,95
+2013-11-30,Orlando,86,Brooklyn,98
+2013-12-01,Miami,102,Brooklyn,89
+2013-12-04,Brooklyn,111,Oklahoma City,117
+2013-12-07,Brooklyn,102,Golden State,109
+2013-12-09,Brooklyn,88,Milwaukee,97
+2013-12-11,Brooklyn,97,NY Knicks,100
+2013-12-12,Toronto,88,Brooklyn,94
+2013-12-14,Brooklyn,107,Detroit,105 2OT
+2013-12-15,Chicago,83,Brooklyn,82
+2013-12-18,Brooklyn,90,Utah,92
+2013-12-19,NY Knicks,100,Brooklyn,86
+2013-12-23,Brooklyn,95,Philadelphia,92
+2013-12-25,Brooklyn,76,Boston,93
+2013-12-26,Milwaukee,108,Brooklyn,93
+2013-12-28,Brooklyn,97,Charlotte,81
+2013-12-29,Brooklyn,103,Cleveland,100
+2013-12-31,San Antonio,104,Brooklyn,73
+2013-01-02,Oklahoma City,93,Brooklyn,110
+2013-01-04,Washington,113 2OT,Brooklyn,115
+2013-01-05,Brooklyn,113,Sacramento,93
+2013-01-08,Philadelphia,89,Brooklyn,109
+2013-01-11,Brooklyn,99,Phoenix,79
+2013-01-13,Brooklyn,97,Indiana,86
+2013-01-15,Brooklyn,113,Toronto,106
+2013-01-16,Atlanta,109,Brooklyn,95
+2013-01-18,Brooklyn,94,Atlanta,89
+2013-01-21,NY Knicks,85,Brooklyn,88
+2013-01-23,Minnesota,83,Brooklyn,91
+2013-01-25,Memphis,101,Brooklyn,77
+2013-01-26,Houston,119,Brooklyn,106
+2013-01-28,Brooklyn,97,Orlando,77
+2013-01-30,Brooklyn,85,Miami,105
+2013-02-01,Brooklyn,93,Chicago,89
+2013-02-05,Brooklyn,83,Los Angeles,92
+2013-02-06,Detroit,90,Brooklyn,93
+2013-02-08,Washington,89,Brooklyn,74
+2013-02-10,Brooklyn,86,San Antonio,111
+2013-02-11,Indiana,84 OT,Brooklyn,89
+2013-02-13,Brooklyn,119,Denver,108
+2013-02-19,Brooklyn,113,Milwaukee,111 OT
+2013-02-20,Milwaukee,94,Brooklyn,97
+2013-02-22,Brooklyn,96,Houston,106
+2013-02-24,Brooklyn,72,Memphis,76
+2013-02-26,New Orleans,97,Brooklyn,101
+2013-03-01,Brooklyn,90,Dallas,98
+2013-03-02,Chicago,96,Brooklyn,85
+2013-03-06,Charlotte,78,Brooklyn,99
+2013-03-08,Brooklyn,95,Washington,78
+2013-03-09,Atlanta,80,Brooklyn,93
+2013-03-11,Philadelphia,106,Brooklyn,97
+2013-03-12,Brooklyn,108,New Orleans,98
+2013-03-17,Brooklyn,93,Atlanta,105
+2013-03-18,Detroit,82,Brooklyn,119
+2013-03-20,Dallas,96,Brooklyn,113
+2013-03-23,LA,101,Brooklyn,95
+2013-03-24,Phoenix,100,Brooklyn,102
+2013-03-27,Portland,93,Brooklyn,111
+2013-03-29,Denver,109,Brooklyn,87
+2013-03-30,Utah,116,Brooklyn,107
+2013-04-03,Cleveland,95,Brooklyn,113
+2013-04-04,Brooklyn,90,Chicago,92
+2013-04-06,Brooklyn,105,Charlotte,96
+2013-04-09,Brooklyn,104,Philadelphia,83
+2013-04-10,Boston,93,Brooklyn,101
+2013-04-12,Indiana,109,Brooklyn,117
+2013-04-14,Toronto,93,Brooklyn,87
+2013-04-15,Brooklyn,106,Washington,101
+2013-04-17,Brooklyn,103,Detroit,99
+2014-10-30,Cleveland,98,Brooklyn,94
+2014-11-01,Brooklyn,101,Miami,100
+2014-11-03,Orlando,107,Brooklyn,86
+2014-11-05,Brooklyn,104,Utah,88
+2014-11-08,Washington,112,Brooklyn,108 OT
+2014-11-09,Brooklyn,91,Indiana,96
+2014-11-13,Sacramento,107,Brooklyn,86
+2014-11-15,Phoenix,98 OT,Brooklyn,100
+2014-11-16,LA,110,Brooklyn,103
+2014-11-18,Brooklyn,98,Portland,108
+2014-11-20,Charlotte,95,Brooklyn,91
+2014-11-22,Minnesota,111,Brooklyn,81
+2014-11-24,Brooklyn,97,Detroit,109
+2014-11-26,Toronto,100,Brooklyn,102
+2014-11-27,Brooklyn,94,Los Angeles,99
+2014-11-29,Houston,114,Brooklyn,95
+2014-11-30,Memphis,88,Brooklyn,97
+2014-12-03,Brooklyn,87,Denver,111
+2014-12-05,Brooklyn,83,NY Knicks,113
+2014-12-07,Milwaukee,82,Brooklyn,90
+2014-12-10,Brooklyn,104,Boston,96
+2014-12-12,Brooklyn,102,LA,93
+2014-12-13,Detroit,103,Brooklyn,99
+2014-12-16,Brooklyn,130,Philadelphia,94
+2014-12-18,Brooklyn,107,Washington,113
+2014-12-20,Philadelphia,121,Brooklyn,120 OT
+2014-12-23,Brooklyn,86,Indiana,103
+2014-12-25,Brooklyn,78,Chicago,95
+2014-12-27,Brooklyn,104,Milwaukee,93
+2014-12-28,Indiana,105,Brooklyn,91
+2014-12-31,San Antonio,113,Brooklyn,92
+2014-01-02,Oklahoma City,93,Brooklyn,95
+2014-01-04,Brooklyn,89,Cleveland,82
+2014-01-06,Brooklyn,91,Atlanta,86
+2014-01-08,Brooklyn,102,Golden State,98
+2014-01-10,Brooklyn,104,Miami,95 2OT
+2014-01-11,Toronto,96,Brooklyn,80
+2014-01-16,Atlanta,110,Brooklyn,127
+2014-01-20,NY Knicks,80,Brooklyn,103
+2014-01-21,Brooklyn,101,Orlando,90
+2014-01-24,Brooklyn,107,Dallas,106
+2014-01-26,Boston,79,Brooklyn,85
+2014-01-27,Brooklyn,103,Toronto,104
+2014-01-31,Brooklyn,95,Oklahoma City,120
+2014-02-01,Indiana,97,Brooklyn,96
+2014-02-03,Brooklyn,108,Philadelphia,102
+2014-02-06,Brooklyn,103,San Antonio,89
+2014-02-07,Detroit,111,Brooklyn,95
+2014-02-09,Brooklyn,93,New Orleans,81
+2014-02-12,Brooklyn,105,Charlotte,89
+2014-02-13,Chicago,92,Brooklyn,76
+2014-02-19,Utah,99,Brooklyn,105
+2014-02-22,Golden State,93,Brooklyn,86
+2014-02-23,Los Angeles,102,Brooklyn,108
+2014-02-26,Portland,124,Brooklyn,80
+2014-02-27,Denver,89,Brooklyn,112
+2014-03-01,Milwaukee,98,Brooklyn,107
+2014-03-03,Brooklyn,96,Chicago,80
+2014-03-05,Brooklyn,103,Memphis,94
+2014-03-07,Boston,91,Brooklyn,84
+2014-03-09,Brooklyn,104,Sacramento,89
+2014-03-10,Brooklyn,101,Toronto,97
+2014-03-12,Miami,95,Brooklyn,96
+2014-03-15,Washington,101,Brooklyn,94
+2014-03-17,Brooklyn,108,Phoenix,95
+2014-03-19,Brooklyn,104,Charlotte,99
+2014-03-21,Brooklyn,114,Boston,98
+2014-03-23,Dallas,104 OT,Brooklyn,107
+2014-03-24,New Orleans,109,Brooklyn,104 OT
+2014-03-26,Charlotte,116,Brooklyn,111 OT
+2014-03-28,Brooklyn,108,Cleveland,97
+2014-03-30,Brooklyn,114,Minnesota,99
+2014-04-01,Brooklyn,105,Houston,96
+2014-04-02,NY Knicks,110,Brooklyn,81
+2014-04-04,Brooklyn,116,Detroit,104
+2014-04-05,Philadelphia,101,Brooklyn,105
+2014-04-08,Miami,87,Brooklyn,88
+2014-04-09,Orlando,115,Brooklyn,111
+2014-04-11,Brooklyn,88,Atlanta,93
+2014-04-13,Brooklyn,97,Orlando,88
+2014-04-15,Brooklyn,98,NY Knicks,109
+2014-04-16,Cleveland,114,Brooklyn,85

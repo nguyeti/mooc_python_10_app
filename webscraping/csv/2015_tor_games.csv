@@ -1,0 +1,1051 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Toronto,74,Washington,68
+2003-11-01,San Antonio,91,Toronto,72
+2003-11-02,Houston,88,Toronto,76
+2003-11-04,Toronto,109,Chicago,105 OT
+2003-11-06,Toronto,92,Dallas,106
+2003-11-09,Indiana,108,Toronto,84
+2003-11-12,Orlando,109,Toronto,115
+2003-11-15,Toronto,84,Denver,79
+2003-11-17,Toronto,78,Utah,82
+2003-11-18,Atlanta,117,Toronto,92
+2003-11-20,Toronto,95,Indiana,97
+2003-11-22,Philadelphia,90,Toronto,80
+2003-11-24,Toronto,84,Philadelphia,94
+2003-11-27,Toronto,81,NY Knicks,87
+2003-11-29,Boston,95,Toronto,98
+2003-12-01,Memphis,87,Toronto,92
+2003-12-02,Dallas,113,Toronto,102
+2003-12-04,New Orleans,89,Toronto,74
+2003-12-06,Toronto,103,Chicago,85
+2003-12-08,Toronto,91,Portland,104
+2003-12-11,Cleveland,96,Toronto,83
+2003-12-13,Toronto,79,Oklahoma City,91
+2003-12-15,Toronto,82,Washington,95
+2003-12-17,Milwaukee,117 OT,Toronto,122
+2003-12-18,Chicago,96,Toronto,83
+2003-12-20,Toronto,77,Miami,97
+2003-12-22,Toronto,107 OT,Los Angeles,109
+2003-12-26,Oklahoma City,97,Toronto,88
+2003-12-27,Golden State,101,Toronto,96
+2003-12-29,Los Angeles,104,Toronto,88
+2003-12-30,Utah,107,Toronto,85
+2003-01-01,NY Knicks,95,Toronto,75
+2003-01-03,Toronto,80,Cleveland,81
+2003-01-05,Toronto,84,New Orleans,99
+2003-01-06,Detroit,82,Toronto,74
+2003-01-10,Toronto,79,Brooklyn,94
+2003-01-12,Toronto,105,Minnesota,91
+2003-01-14,Washington,75,Toronto,84
+2003-01-15,Toronto,87,Milwaukee,99
+2003-01-17,Brooklyn,88,Toronto,77
+2003-01-19,Toronto,93,Orlando,101
+2003-01-20,Minnesota,89,Toronto,81
+2003-01-22,Indiana,101,Toronto,98
+2003-01-26,Toronto,101,Sacramento,97
+2003-01-29,New Orleans,104,Toronto,83
+2003-01-31,Toronto,102,Indiana,90
+2003-02-02,Toronto,100,LA,86
+2003-02-04,Milwaukee,95,Toronto,98
+2003-02-12,Toronto,97,Atlanta,96
+2003-02-14,Toronto,114 OT,Golden State,118
+2003-02-16,Toronto,99,Orlando,97
+2003-02-19,Toronto,84,Detroit,89
+2003-02-21,Toronto,92,Phoenix,89
+2003-02-26,Chicago,103,Toronto,95
+2003-02-28,Boston,90,Toronto,85
+2003-03-02,Toronto,104,Boston,92
+2003-03-04,Washington,86,Toronto,89
+2003-03-05,Toronto,95,Houston,97
+2003-03-08,Atlanta,98,Toronto,107
+2003-03-09,Toronto,106,Memphis,119
+2003-03-11,Denver,95,Toronto,87
+2003-03-12,Portland,125,Toronto,103
+2003-03-14,Sacramento,119,Toronto,84
+2003-03-16,LA,111,Toronto,110
+2003-03-17,Phoenix,95,Toronto,91 OT
+2003-03-19,Toronto,87,Atlanta,86
+2003-03-21,Miami,107,Toronto,98
+2003-03-23,Toronto,95,Philadelphia,112
+2003-03-24,NY Knicks,100,Toronto,90
+2003-03-26,Toronto,89,Cleveland,83
+2003-03-28,Toronto,92,New Orleans,101
+2003-03-30,Toronto,95,NY Knicks,86
+2003-04-01,Toronto,85,Detroit,92
+2003-04-02,Detroit,78,Toronto,89
+2003-04-04,Toronto,98,San Antonio,124
+2003-04-06,Toronto,87,Brooklyn,96
+2003-04-08,Miami,89,Toronto,83
+2003-04-09,Orlando,88,Toronto,82
+2003-04-11,Toronto,103,Milwaukee,105
+2003-04-12,Brooklyn,94,Toronto,86
+2003-04-15,Toronto,99,Miami,103
+2003-04-16,Cleveland,96,Toronto,86
+2004-10-29,Toronto,90,Brooklyn,87
+2004-10-31,Toronto,82,Washington,79
+2004-11-01,Minnesota,73,Toronto,56
+2004-11-06,Toronto,77,Dallas,71
+2004-11-07,Washington,86,Toronto,60
+2004-11-09,Toronto,89,Denver,76
+2004-11-11,Portland,83,Toronto,80
+2004-11-12,Los Angeles,94,Toronto,79
+2004-11-14,Sacramento,94,Toronto,64
+2004-11-16,Toronto,101,Houston,97 2OT
+2004-11-19,Toronto,75,Philadelphia,81
+2004-11-22,Brooklyn,80,Toronto,81
+2004-11-23,Toronto,62,Milwaukee,82
+2004-11-26,Atlanta,97 OT,Toronto,99
+2004-11-28,Orlando,86,Toronto,87
+2004-11-29,Miami,78,Toronto,66
+2004-12-02,Philadelphia,88,Toronto,95
+2004-12-03,Toronto,105,Boston,95
+2004-12-05,Toronto,92,Atlanta,87
+2004-12-07,Toronto,108,Oklahoma City,98
+2004-12-09,Cleveland,93,Toronto,100
+2004-12-12,Boston,114,Toronto,111
+2004-12-14,Toronto,89,Miami,90
+2004-12-15,Dallas,111,Toronto,94
+2004-12-17,San Antonio,73,Toronto,70
+2004-12-19,Toronto,105,NY Knicks,99 OT
+2004-12-21,Toronto,93,Orlando,104
+2004-12-26,Utah,97,Toronto,94 OT
+2004-12-28,LA,88,Toronto,94
+2004-12-30,Denver,74,Toronto,81
+2004-01-02,Toronto,74,New Orleans,86
+2004-01-04,Toronto,83,Phoenix,73
+2004-01-07,Toronto,75,Cleveland,69
+2004-01-09,Toronto,68,LA,78
+2004-01-11,Toronto,83,Portland,72
+2004-01-14,Detroit,95,Toronto,91
+2004-01-15,New Orleans,74 OT,Toronto,78
+2004-01-17,Atlanta,75,Toronto,70
+2004-01-19,NY Knicks,90,Toronto,79
+2004-01-21,Toronto,97,Minnesota,108
+2004-01-23,Milwaukee,98,Toronto,86
+2004-01-25,Chicago,96,Toronto,89
+2004-01-28,Toronto,94,Philadelphia,84
+2004-01-30,Toronto,89 OT,Detroit,90
+2004-02-01,Toronto,83,Los Angeles,84
+2004-02-03,Philadelphia,80,Toronto,93
+2004-02-04,Toronto,110,Orlando,90
+2004-02-06,Toronto,77,Indiana,83
+2004-02-08,Golden State,81 OT,Toronto,84
+2004-02-10,Phoenix,94,Toronto,101
+2004-02-12,Oklahoma City,94,Toronto,74
+2004-02-17,Chicago,75,Toronto,73
+2004-02-18,Toronto,82,San Antonio,86
+2004-02-20,Toronto,72,Brooklyn,91
+2004-02-22,Toronto,81,Sacramento,96
+2004-02-24,Brooklyn,86,Toronto,74
+2004-02-25,Toronto,74,Washington,76
+2004-02-27,Boston,88,Toronto,75
+2004-02-29,Toronto,82,Boston,91
+2004-03-02,Miami,86,Toronto,89
+2004-03-03,Washington,84,Toronto,70
+2004-03-05,Toronto,103,NY Knicks,109
+2004-03-07,Toronto,84,New Orleans,76
+2004-03-09,Indiana,94,Toronto,84 OT
+2004-03-10,Toronto,92,Cleveland,106
+2004-03-14,Toronto,101,Atlanta,84
+2004-03-17,Toronto,85,Utah,81
+2004-03-19,Toronto,91,Chicago,96
+2004-03-21,New Orleans,120 OT,Toronto,121
+2004-03-23,Memphis,95,Toronto,86
+2004-03-24,Houston,90,Toronto,89 OT
+2004-03-26,NY Knicks,108,Toronto,101
+2004-03-28,Toronto,88,Memphis,94
+2004-03-31,Toronto,78,Golden State,85
+2004-04-02,Indiana,84,Toronto,64
+2004-04-04,Toronto,83,Milwaukee,90
+2004-04-06,Cleveland,86,Toronto,87
+2004-04-07,Toronto,90,Indiana,94
+2004-04-09,Detroit,74,Toronto,66
+2004-04-11,Toronto,108 OT,Chicago,114
+2004-04-13,Toronto,87,Detroit,78
+2004-04-14,Milwaukee,87,Toronto,89
+2005-11-03,Toronto,95,Houston,88
+2005-11-05,Toronto,101,Detroit,89
+2005-11-07,Toronto,101,Portland,97
+2005-11-09,Sacramento,108,Toronto,92
+2005-11-10,Utah,95,Toronto,104
+2005-11-12,Oklahoma City,88,Toronto,87
+2005-11-13,Portland,105,Toronto,102
+2005-11-16,LA,101,Toronto,89
+2005-11-17,Denver,112,Toronto,106
+2005-11-19,Toronto,94,Oklahoma City,101
+2005-11-21,Toronto,96,San Antonio,91
+2005-11-23,Washington,102,Toronto,86
+2005-11-24,Toronto,114,NY Knicks,91
+2005-11-27,NY Knicks,108,Toronto,102
+2005-11-28,Toronto,109 OT,Washington,114
+2005-11-30,Miami,92,Toronto,94
+2005-12-01,Orlando,129,Toronto,108
+2005-12-03,Boston,91,Toronto,89
+2005-12-04,Cleveland,105,Toronto,97
+2005-12-06,Brooklyn,88,Toronto,86
+2005-12-08,Detroit,90,Toronto,86 OT
+2005-12-10,Toronto,87,Denver,101
+2005-12-12,Toronto,98,Miami,106
+2005-12-15,Toronto,96,Minnesota,90
+2005-12-17,Indiana,89,Toronto,86
+2005-12-19,Toronto,110,Brooklyn,99
+2005-12-20,Houston,114,Toronto,102
+2005-12-22,Toronto,98,Utah,86
+2005-12-26,Phoenix,106,Toronto,94
+2005-12-28,Los Angeles,117,Toronto,99
+2005-12-29,Golden State,111,Toronto,105
+2005-01-03,Toronto,105,Orlando,94
+2005-01-05,Toronto,96,Sacramento,93
+2005-01-07,Toronto,105 OT,Milwaukee,107
+2005-01-09,Toronto,109,Golden State,87
+2005-01-12,Toronto,104,Boston,93
+2005-01-14,Philadelphia,106,Toronto,96
+2005-01-16,Toronto,102,New Orleans,99
+2005-01-17,Minnesota,91,Toronto,100
+2005-01-19,Toronto,98,NY Knicks,81
+2005-01-21,Washington,118,Toronto,109
+2005-01-23,Toronto,103,Charlotte,92
+2005-01-26,Toronto,96,Miami,111
+2005-01-28,Charlotte,101,Toronto,94
+2005-01-30,Toronto,105,Phoenix,123
+2005-02-02,Indiana,97,Toronto,98
+2005-02-04,Toronto,103,Washington,100
+2005-02-06,Toronto,113,Dallas,122
+2005-02-08,Cleveland,104,Toronto,91
+2005-02-09,Toronto,107,Milwaukee,110
+2005-02-11,Toronto,91,Philadelphia,106
+2005-02-13,Toronto,109,LA,106
+2005-02-16,Toronto,115,Chicago,121
+2005-02-22,Brooklyn,82,Toronto,100
+2005-02-25,Milwaukee,102,Toronto,106
+2005-02-27,Toronto,108,Los Angeles,102
+2005-03-02,San Antonio,92,Toronto,86
+2005-03-04,Memphis,86,Toronto,75
+2005-03-06,New Orleans,84,Toronto,95
+2005-03-07,Dallas,113,Toronto,105
+2005-03-09,Toronto,106,Orlando,96
+2005-03-11,Toronto,112 OT,Atlanta,116
+2005-03-13,Toronto,128,Philadelphia,110
+2005-03-16,Boston,110,Toronto,109
+2005-03-18,Detroit,103,Toronto,92
+2005-03-20,Toronto,105,Cleveland,98
+2005-03-23,Toronto,85,Chicago,94
+2005-03-25,Philadelphia,103,Toronto,101
+2005-03-26,Atlanta,104,Toronto,109
+2005-03-29,Miami,103,Toronto,91
+2005-03-30,Orlando,108,Toronto,96
+2005-04-01,Charlotte,107,Toronto,119
+2005-04-03,Toronto,103,Detroit,113
+2005-04-06,Toronto,74,Memphis,104
+2005-04-08,Toronto,109,Atlanta,101 OT
+2005-04-09,Chicago,110,Toronto,97
+2005-04-11,Toronto,90,Indiana,94
+2005-04-12,NY Knicks,93,Toronto,105
+2005-04-15,Toronto,90,Brooklyn,101
+2005-04-17,Toronto,98,Boston,103
+2005-04-19,Milwaukee,109,Toronto,127
+2005-04-20,Toronto,95,Cleveland,104
+2006-11-02,Toronto,96,Washington,99
+2006-11-04,Toronto,92,Brooklyn,102
+2006-11-05,Detroit,117,Toronto,84
+2006-11-07,Toronto,93,Cleveland,105
+2006-11-11,Toronto,84,Utah,99
+2006-11-13,Toronto,121 OT,Oklahoma City,126
+2006-11-15,Philadelphia,104,Toronto,92
+2006-11-16,Toronto,115,Philadelphia,121
+2006-11-18,Boston,100,Toronto,93
+2006-11-20,Toronto,107,Miami,94
+2006-11-22,Phoenix,90,Toronto,82
+2006-11-23,LA,103,Toronto,100
+2006-11-25,Sacramento,106,Toronto,104
+2006-11-26,Golden State,117,Toronto,91
+2006-11-28,Toronto,91,Dallas,93
+2006-11-30,Toronto,66,Memphis,92
+2006-12-02,Atlanta,101,Toronto,102
+2006-12-03,Brooklyn,82,Toronto,95
+2006-12-06,Washington,119,Toronto,111 OT
+2006-12-07,Toronto,91,Los Angeles,102
+2006-12-10,Charlotte,103,Toronto,111
+2006-12-14,Toronto,94,Chicago,105
+2006-12-16,Toronto,98,Golden State,108
+2006-12-18,Toronto,80,Philadelphia,107
+2006-12-19,Orlando,90,Toronto,92
+2006-12-21,Houston,81,Toronto,94
+2006-12-23,San Antonio,95,Toronto,90
+2006-12-27,Detroit,113,Toronto,106
+2006-12-28,Toronto,108,Atlanta,102
+2006-12-30,Indiana,97,Toronto,99
+2006-01-03,Atlanta,97,Toronto,108
+2006-01-04,Toronto,121,Orlando,97
+2006-01-06,Toronto,112,Houston,92
+2006-01-08,Toronto,104,Brooklyn,105
+2006-01-09,Chicago,113,Toronto,104
+2006-01-11,Toronto,95,Charlotte,86
+2006-01-15,Toronto,129,NY Knicks,103
+2006-01-17,Utah,111,Toronto,98
+2006-01-18,Portland,96,Toronto,94
+2006-01-20,Oklahoma City,113,Toronto,121
+2006-01-22,Los Angeles,122,Toronto,104
+2006-01-23,Denver,107,Toronto,101
+2006-01-25,Toronto,88,Chicago,104
+2006-01-27,Milwaukee,108,Toronto,87
+2006-01-29,Toronto,124,Sacramento,123 OT
+2006-02-01,Toronto,117,Washington,112
+2006-02-03,Toronto,104,NY Knicks,90
+2006-02-05,Toronto,113 OT,LA,115
+2006-02-08,Toronto,118 OT,San Antonio,125
+2006-02-10,Charlotte,73,Toronto,88
+2006-02-12,Toronto,114,Portland,81
+2006-02-13,Minnesota,94,Toronto,98
+2006-02-15,NY Knicks,98,Toronto,96
+2006-02-21,Memphis,94,Toronto,88
+2006-02-25,Dallas,115,Toronto,113 OT
+2006-02-27,Miami,101,Toronto,94
+2006-03-01,Toronto,111 OT,Atlanta,113
+2006-03-04,Brooklyn,105,Toronto,100 OT
+2006-03-05,Toronto,111,Boston,105
+2006-03-07,Cleveland,106,Toronto,99
+2006-03-08,Toronto,97,Cleveland,98
+2006-03-10,Toronto,97,Denver,108
+2006-03-12,Toronto,93,Indiana,89
+2006-03-14,Philadelphia,97,Toronto,111
+2006-03-15,Toronto,98,Detroit,105
+2006-03-17,Toronto,97,Milwaukee,96
+2006-03-21,NY Knicks,109,Toronto,114
+2006-03-22,Boston,110,Toronto,96
+2006-03-24,Toronto,97,Minnesota,77
+2006-03-26,Milwaukee,125,Toronto,116 OT
+2006-03-29,Toronto,94,Miami,98
+2006-03-31,Toronto,126,Phoenix,140
+2006-04-02,Toronto,113 2OT,New Orleans,120
+2006-04-04,Toronto,120,Boston,124
+2006-04-05,Indiana,111,Toronto,103
+2006-04-07,New Orleans,95,Toronto,89
+2006-04-09,Toronto,88,Charlotte,94
+2006-04-11,Miami,106,Toronto,97
+2006-04-12,Orlando,103,Toronto,96
+2006-04-14,Toronto,108,Detroit,103
+2006-04-17,Toronto,95,Indiana,120
+2006-04-19,Chicago,127,Toronto,106
+2007-11-01,Brooklyn,102,Toronto,92
+2007-11-03,Toronto,109,Milwaukee,92
+2007-11-05,Toronto,94,San Antonio,103
+2007-11-08,Toronto,106,Philadelphia,104
+2007-11-10,Toronto,102,Atlanta,111
+2007-11-12,Sacramento,107,Toronto,92
+2007-11-14,Golden State,110,Toronto,99
+2007-11-17,Los Angeles,107,Toronto,100
+2007-11-18,Denver,117,Toronto,109
+2007-11-20,Utah,101,Toronto,96
+2007-11-22,Toronto,95,Cleveland,87
+2007-11-24,Atlanta,97,Toronto,93
+2007-11-26,Toronto,92,Indiana,83
+2007-11-28,New Orleans,77,Toronto,94
+2007-11-29,Dallas,117,Toronto,98
+2007-12-01,Toronto,106,Boston,102
+2007-12-02,NY Knicks,100,Toronto,103
+2007-12-06,Cleveland,95,Toronto,91
+2007-12-08,Chicago,93,Toronto,90
+2007-12-10,Toronto,83,Portland,93
+2007-12-11,Miami,99,Toronto,77
+2007-12-13,Orlando,84,Toronto,91
+2007-12-15,Toronto,90,Brooklyn,78
+2007-12-17,Toronto,120,Golden State,115
+2007-12-19,Phoenix,115,Toronto,98
+2007-12-20,LA,96,Toronto,98
+2007-12-22,Portland,100 OT,Toronto,101
+2007-12-23,Oklahoma City,110,Toronto,97
+2007-12-27,Toronto,100,Minnesota,97
+2007-12-29,Toronto,97,Chicago,107
+2007-12-30,Memphis,110,Toronto,104
+2007-01-03,Toronto,98,Phoenix,100
+2007-01-05,Toronto,105,Atlanta,92
+2007-01-07,Toronto,116,Washington,111
+2007-01-09,Brooklyn,101,Toronto,86
+2007-01-10,Milwaukee,77,Toronto,90
+2007-01-12,Boston,86,Toronto,95
+2007-01-14,Toronto,96,Dallas,97
+2007-01-15,Philadelphia,86,Toronto,104
+2007-01-17,Toronto,101,Sacramento,85
+2007-01-19,Toronto,94,Utah,102
+2007-01-22,Toronto,105,Charlotte,84
+2007-01-24,Toronto,90,New Orleans,88
+2007-01-26,Toronto,96,Boston,90
+2007-01-27,Indiana,102,Toronto,84
+2007-01-31,Toronto,119,Washington,109
+2007-02-02,Atlanta,91,Toronto,103
+2007-02-04,Toronto,122,LA,110
+2007-02-07,Toronto,113,Orlando,103
+2007-02-09,Toronto,96,Los Angeles,92
+2007-02-10,Detroit,98,Toronto,92
+2007-02-13,Chicago,111,Toronto,112
+2007-02-14,Toronto,120,Brooklyn,109
+2007-02-21,Toronto,85,Cleveland,86
+2007-02-23,Toronto,110,Indiana,88
+2007-02-24,Charlotte,76,Toronto,93
+2007-02-26,San Antonio,107,Toronto,91
+2007-02-28,Houston,90,Toronto,106
+2007-03-02,Toronto,81,Milwaukee,94
+2007-03-03,Cleveland,120,Toronto,97
+2007-03-06,Washington,129,Toronto,109
+2007-03-07,Toronto,94,Memphis,87
+2007-03-11,Toronto,120,Oklahoma City,119 OT
+2007-03-12,Milwaukee,93,Toronto,108
+2007-03-14,Toronto,104,NY Knicks,94
+2007-03-16,Toronto,100,Houston,114
+2007-03-18,NY Knicks,92,Toronto,74
+2007-03-21,Toronto,92,Orlando,85
+2007-03-23,Toronto,121,Denver,94
+2007-03-26,Boston,95,Toronto,87
+2007-03-28,Toronto,96,Miami,83
+2007-03-30,Washington,118 OT,Toronto,123
+2007-04-01,Toronto,107,Charlotte,94
+2007-04-03,Miami,92,Toronto,89
+2007-04-04,Orlando,108,Toronto,111
+2007-04-06,Philadelphia,85,Toronto,94
+2007-04-08,Toronto,103,Chicago,89
+2007-04-09,Minnesota,100,Toronto,111
+2007-04-13,Toronto,87,Detroit,84
+2007-04-15,Toronto,107,NY Knicks,105
+2007-04-17,Detroit,100,Toronto,84
+2007-04-18,Toronto,119,Philadelphia,122
+2008-10-31,Toronto,106,Philadelphia,97
+2008-11-02,Brooklyn,69,Toronto,106
+2008-11-04,Toronto,95 OT,Boston,98
+2008-11-06,Milwaukee,112,Toronto,85
+2008-11-07,Toronto,96,Orlando,105
+2008-11-09,Philadelphia,103,Toronto,105
+2008-11-10,Chicago,71,Toronto,101
+2008-11-14,Toronto,88,Utah,92
+2008-11-16,Toronto,110,Indiana,101
+2008-11-18,Toronto,100,Golden State,106
+2008-11-20,Dallas,105,Toronto,99
+2008-11-21,Memphis,89,Toronto,95
+2008-11-24,Cleveland,111,Toronto,108
+2008-11-25,Toronto,93,Chicago,78
+2008-11-28,Toronto,103,Memphis,91
+2008-11-30,Toronto,91,Cleveland,82
+2008-12-01,Washington,101,Toronto,97
+2008-12-03,Toronto,98,Charlotte,79
+2008-12-05,Toronto,123,Phoenix,136
+2008-12-07,Boston,112,Toronto,84
+2008-12-09,Toronto,93,Houston,80
+2008-12-11,Atlanta,88,Toronto,100
+2008-12-12,Toronto,92,Dallas,76
+2008-12-14,Indiana,93,Toronto,104
+2008-12-16,Toronto,77,Boston,90
+2008-12-18,LA,77,Toronto,80
+2008-12-19,Portland,101,Toronto,96
+2008-12-21,Oklahoma City,123,Toronto,115
+2008-12-22,Phoenix,122,Toronto,103
+2008-12-28,San Antonio,73,Toronto,83
+2008-12-29,Houston,91,Toronto,79
+2008-12-31,New Orleans,92,Toronto,97
+2008-01-04,Toronto,85,Detroit,101
+2008-01-06,Toronto,90,Cleveland,93
+2008-01-09,Toronto,109,Philadelphia,96
+2008-01-11,NY Knicks,90,Toronto,99
+2008-01-13,Toronto,116,Portland,109 2OT
+2008-01-15,Detroit,103,Toronto,89
+2008-01-16,Toronto,116,Sacramento,91
+2008-01-18,Toronto,89,Atlanta,78
+2008-01-19,Philadelphia,99,Toronto,95
+2008-01-23,Boston,112,Toronto,114
+2008-01-25,Toronto,106,Milwaukee,75
+2008-01-29,Washington,108,Toronto,104 OT
+2008-01-30,Toronto,122,Washington,83
+2008-02-01,Toronto,101,Los Angeles,121
+2008-02-04,Miami,82,Toronto,114
+2008-02-08,Toronto,98,LA,102
+2008-02-10,Minnesota,82,Toronto,105
+2008-02-11,Toronto,88,San Antonio,93
+2008-02-13,Toronto,109,Brooklyn,91
+2008-02-20,Toronto,127,Orlando,110
+2008-02-22,NY Knicks,103,Toronto,99
+2008-02-24,Toronto,115,NY Knicks,92
+2008-02-25,Indiana,98,Toronto,102
+2008-02-27,Toronto,107,Minnesota,85
+2008-02-29,Toronto,111,Indiana,122
+2008-03-02,Charlotte,110,Toronto,98
+2008-03-04,Orlando,102,Toronto,87
+2008-03-05,Miami,83,Toronto,108
+2008-03-07,Toronto,106 OT,Washington,110
+2008-03-09,Toronto,114,Oklahoma City,106
+2008-03-11,Los Angeles,117,Toronto,108
+2008-03-12,Golden State,117,Toronto,106
+2008-03-14,Denver,137,Toronto,105
+2008-03-16,Sacramento,106,Toronto,100
+2008-03-17,Utah,96,Toronto,79
+2008-03-19,Toronto,96,Miami,54
+2008-03-21,Cleveland,90,Toronto,83
+2008-03-23,Toronto,100,Denver,109
+2008-03-26,Toronto,89,Detroit,82
+2008-03-28,Toronto,103,NY Knicks,95
+2008-03-30,Toronto,111,New Orleans,118
+2008-03-31,Charlotte,100,Toronto,104
+2008-04-02,Atlanta,127,Toronto,120 OT
+2008-04-04,Toronto,100,Charlotte,105
+2008-04-05,Brooklyn,99,Toronto,90
+2008-04-09,Toronto,111,Milwaukee,93
+2008-04-11,Toronto,113,Brooklyn,85
+2008-04-13,Detroit,91,Toronto,84
+2008-04-14,Toronto,91,Miami,75
+2008-04-16,Chicago,107,Toronto,97
+2009-10-29,Philadelphia,84,Toronto,95
+2009-10-31,Toronto,112,Golden State,108 OT
+2009-11-01,Milwaukee,87,Toronto,91
+2009-11-05,Toronto,93,Detroit,100
+2009-11-07,Atlanta,110,Toronto,92
+2009-11-09,Charlotte,79,Toronto,89
+2009-11-10,Boston,94,Toronto,87
+2009-11-12,Toronto,96,Philadelphia,106
+2009-11-16,Toronto,107,Miami,96
+2009-11-18,Orlando,103,Toronto,90
+2009-11-19,Miami,95,Toronto,101
+2009-11-21,Toronto,127 OT,Brooklyn,129
+2009-11-23,Toronto,103,Boston,118
+2009-11-26,Toronto,93,Charlotte,86
+2009-11-28,Toronto,93,Atlanta,88
+2009-11-30,Los Angeles,112,Toronto,99
+2009-12-02,Denver,132,Toronto,93
+2009-12-05,Utah,114,Toronto,87
+2009-12-07,Toronto,97,Portland,98
+2009-12-09,Cleveland,114,Toronto,94
+2009-12-10,Toronto,101,Indiana,88
+2009-12-12,Brooklyn,79,Toronto,101
+2009-12-14,Toronto,91,New Orleans,99
+2009-12-15,Toronto,87,Brooklyn,94
+2009-12-17,Toronto,86,Dallas,96
+2009-12-19,Oklahoma City,91,Toronto,83
+2009-12-20,San Antonio,107,Toronto,97
+2009-12-22,LA,75,Toronto,97
+2009-12-26,Sacramento,101,Toronto,107
+2009-12-27,Portland,102,Toronto,89
+2009-12-29,Golden State,117,Toronto,111
+2009-12-31,Toronto,107,Denver,114
+2009-01-02,Toronto,94,Houston,73
+2009-01-04,Toronto,108,Orlando,102
+2009-01-05,Milwaukee,107,Toronto,97
+2009-01-07,Washington,93,Toronto,99
+2009-01-09,Toronto,103,Memphis,82
+2009-01-11,Toronto,88,Boston,94
+2009-01-12,Boston,115,Toronto,109 OT
+2009-01-14,Toronto,98,Chicago,102
+2009-01-16,Indiana,111,Toronto,104
+2009-01-18,Toronto,113,Phoenix,117
+2009-01-19,Atlanta,87,Toronto,84
+2009-01-21,Detroit,95,Toronto,76
+2009-01-23,Chicago,94,Toronto,114
+2009-01-25,Toronto,113,Sacramento,97
+2009-01-28,Brooklyn,106,Toronto,107
+2009-01-30,Toronto,85,Milwaukee,96
+2009-02-01,Toronto,90,Orlando,113
+2009-02-03,Cleveland,101,Toronto,83
+2009-02-04,Toronto,107,Los Angeles,115
+2009-02-06,New Orleans,101,Toronto,92
+2009-02-07,Memphis,78,Toronto,70
+2009-02-10,Minnesota,102,Toronto,110
+2009-02-11,Toronto,91,San Antonio,89
+2009-02-18,Toronto,76,Cleveland,93
+2009-02-20,NY Knicks,127,Toronto,97
+2009-02-22,Toronto,111,NY Knicks,100
+2009-02-24,Toronto,118,Minnesota,110
+2009-02-27,Phoenix,133,Toronto,113
+2009-03-01,Dallas,109,Toronto,98
+2009-03-03,Houston,107,Toronto,97
+2009-03-06,Toronto,102,Miami,108
+2009-03-08,Toronto,101,Utah,109
+2009-03-11,Philadelphia,115,Toronto,106
+2009-03-13,Toronto,95 OT,Detroit,99
+2009-03-15,Toronto,110,Indiana,87
+2009-03-16,Charlotte,112,Toronto,86
+2009-03-20,Toronto,89,Charlotte,102
+2009-03-22,Toronto,100,LA,76
+2009-03-25,Toronto,115,Milwaukee,106
+2009-03-27,Toronto,112,Oklahoma City,96
+2009-03-29,Toronto,134,Chicago,129 OT
+2009-04-01,Orlando,95,Toronto,99
+2009-04-04,NY Knicks,95,Toronto,102
+2009-04-05,Toronto,103,NY Knicks,112
+2009-04-07,Toronto,110,Atlanta,118
+2009-04-08,Indiana,130,Toronto,101
+2009-04-10,Toronto,98,Washington,100
+2009-04-12,Toronto,111,Philadelphia,104
+2009-04-13,Washington,96,Toronto,97
+2009-04-15,Chicago,98,Toronto,109
+2010-10-28,Toronto,101,Cleveland,91
+2010-10-30,Memphis,115,Toronto,107
+2010-11-01,Toronto,116,Orlando,125
+2010-11-04,Toronto,110,Detroit,99
+2010-11-06,New Orleans,90,Toronto,107
+2010-11-07,Dallas,129,Toronto,101
+2010-11-09,San Antonio,131,Toronto,124
+2010-11-11,Toronto,99,Chicago,89
+2010-11-13,LA,89,Toronto,104
+2010-11-15,Phoenix,101,Toronto,100
+2010-11-17,Denver,130,Toronto,112
+2010-11-18,Utah,104,Toronto,91
+2010-11-20,Toronto,120,Miami,113
+2010-11-22,Toronto,96,Orlando,104
+2010-11-24,Toronto,123,Indiana,112
+2010-11-25,Charlotte,116,Toronto,81
+2010-11-27,Boston,116,Toronto,103
+2010-11-29,Toronto,94,Phoenix,113
+2010-12-01,Toronto,102,Washington,106
+2010-12-02,Atlanta,146,Toronto,115
+2010-12-04,Washington,107 OT,Toronto,109
+2010-12-05,Chicago,78,Toronto,110
+2010-12-08,Toronto,94,Minnesota,88
+2010-12-09,Milwaukee,117,Toronto,95
+2010-12-11,Toronto,89,Atlanta,111
+2010-12-13,Toronto,101,Houston,88
+2010-12-15,Miami,115,Toronto,95
+2010-12-16,Orlando,118,Toronto,99
+2010-12-18,Toronto,118,Brooklyn,95
+2010-12-20,Toronto,98,New Orleans,92
+2010-12-23,Detroit,64,Toronto,94
+2010-12-27,Toronto,102,Detroit,95
+2010-12-30,Toronto,107,Charlotte,103
+2010-01-02,Boston,103,Toronto,96
+2010-01-03,Toronto,91,San Antonio,86
+2010-01-06,Orlando,103,Toronto,108
+2010-01-08,Philadelphia,106,Toronto,108
+2010-01-10,Toronto,107,Boston,114
+2010-01-11,Indiana,105,Toronto,101
+2010-01-15,NY Knicks,104,Toronto,112
+2010-01-17,Toronto,110,Dallas,88
+2010-01-19,Cleveland,108,Toronto,100
+2010-01-20,Milwaukee,113,Toronto,107
+2010-01-22,Toronto,101,Milwaukee,96
+2010-01-24,Toronto,106,Los Angeles,105
+2010-01-27,Toronto,111,Miami,103
+2010-01-28,NY Knicks,104,Toronto,106
+2010-01-31,Toronto,117,Indiana,102
+2010-02-02,Indiana,130,Toronto,115
+2010-02-03,Toronto,108,Brooklyn,99
+2010-02-07,Toronto,115,Sacramento,104
+2010-02-10,Toronto,104,Philadelphia,93
+2010-02-17,Toronto,102 OT,Memphis,109
+2010-02-19,Brooklyn,89,Toronto,106
+2010-02-20,Toronto,109,Washington,104
+2010-02-24,Toronto,87,Portland,101
+2010-02-26,Toronto,118 OT,Cleveland,126
+2010-02-28,Oklahoma City,119,Toronto,99
+2010-03-01,Houston,116,Toronto,92
+2010-03-05,Toronto,102,NY Knicks,96
+2010-03-07,Toronto,101,Philadelphia,114
+2010-03-09,Los Angeles,109,Toronto,107
+2010-03-10,Sacramento,113,Toronto,90
+2010-03-13,Golden State,124,Toronto,112
+2010-03-14,Portland,109,Toronto,98
+2010-03-17,Toronto,106,Atlanta,105
+2010-03-19,Toronto,89,Oklahoma City,115
+2010-03-20,Brooklyn,90,Toronto,100
+2010-03-22,Minnesota,100,Toronto,106
+2010-03-24,Toronto,87,Utah,113
+2010-03-26,Toronto,96,Denver,97
+2010-03-28,Miami,97,Toronto,94
+2010-03-29,Charlotte,101,Toronto,103
+2010-03-31,Toronto,114,LA,92
+2010-04-03,Philadelphia,123 OT,Toronto,128
+2010-04-04,Toronto,112,Golden State,113
+2010-04-06,Cleveland,113,Toronto,101
+2010-04-07,Toronto,104,Boston,115
+2010-04-09,Atlanta,107,Toronto,101
+2010-04-11,Toronto,88,Chicago,104
+2010-04-12,Detroit,97,Toronto,111
+2010-04-14,Toronto,131,NY Knicks,113
+2011-10-27,Toronto,93,NY Knicks,98
+2011-10-29,Toronto,101,Cleveland,81
+2011-11-01,Sacramento,111,Toronto,108
+2011-11-03,Utah,125,Toronto,108
+2011-11-05,Los Angeles,108,Toronto,103
+2011-11-06,Portland,97,Toronto,84
+2011-11-08,Toronto,102,Golden State,109
+2011-11-10,Toronto,96,Charlotte,101
+2011-11-12,Orlando,106,Toronto,110
+2011-11-13,Miami,109,Toronto,100
+2011-11-16,Washington,109,Toronto,94
+2011-11-17,Philadelphia,86,Toronto,94
+2011-11-19,Toronto,106,Houston,96
+2011-11-21,Toronto,102,Boston,101
+2011-11-24,Toronto,106,Philadelphia,90
+2011-11-26,Boston,110,Toronto,101
+2011-11-28,Toronto,78,Atlanta,96
+2011-12-01,Toronto,127,Washington,108
+2011-12-03,Toronto,111,Oklahoma City,99
+2011-12-05,Toronto,99,NY Knicks,116
+2011-12-06,Indiana,124,Toronto,100
+2011-12-08,NY Knicks,113,Toronto,110
+2011-12-10,Toronto,116,Denver,123
+2011-12-11,Detroit,116,Toronto,120
+2011-12-14,Charlotte,97,Toronto,91
+2011-12-15,Toronto,93,Chicago,110
+2011-12-17,Toronto,98,Brooklyn,92
+2011-12-19,Toronto,110,Los Angeles,120
+2011-12-22,Toronto,93,Detroit,115
+2011-12-27,Memphis,96,Toronto,85
+2011-12-28,Dallas,76,Toronto,84
+2011-12-31,Houston,114,Toronto,105
+2011-01-02,Toronto,79,Boston,93
+2011-01-04,Chicago,111,Toronto,91
+2011-01-05,Cleveland,105,Toronto,120
+2011-01-07,Boston,122,Toronto,102
+2011-01-09,Toronto,118,Sacramento,112
+2011-01-12,Toronto,101,Atlanta,104
+2011-01-14,Toronto,95,Detroit,101
+2011-01-15,Washington,98,Toronto,95
+2011-01-17,New Orleans,85,Toronto,81
+2011-01-19,San Antonio,104,Toronto,95
+2011-01-21,Orlando,112,Toronto,72
+2011-01-22,Miami,120,Toronto,103
+2011-01-24,Toronto,98,Memphis,100
+2011-01-26,Toronto,94,Philadelphia,107
+2011-01-28,Toronto,110 OT,Milwaukee,116
+2011-01-29,Minnesota,103,Toronto,87
+2011-01-31,Indiana,104,Toronto,93
+2011-02-02,Atlanta,100,Toronto,87
+2011-02-04,Toronto,111,Minnesota,100
+2011-02-08,Milwaukee,92,Toronto,74
+2011-02-09,Toronto,100,San Antonio,111
+2011-02-11,Toronto,96,Portland,102
+2011-02-13,Toronto,98,LA,93
+2011-02-16,Toronto,95,Miami,103
+2011-02-22,Charlotte,114,Toronto,101
+2011-02-23,Toronto,118,Chicago,113
+2011-02-25,Toronto,92,Phoenix,110
+2011-02-27,Toronto,96,Dallas,114
+2011-03-01,Toronto,96,New Orleans,90
+2011-03-04,Brooklyn,116,Toronto,103
+2011-03-05,Brooklyn,137,Toronto,136 3OT
+2011-03-09,Toronto,94,Utah,96
+2011-03-11,Toronto,108,Indiana,98
+2011-03-13,Toronto,90,Charlotte,95
+2011-03-16,Detroit,107,Toronto,93
+2011-03-18,Toronto,116,Washington,107
+2011-03-20,Oklahoma City,93,Toronto,95
+2011-03-21,Denver,123,Toronto,90
+2011-03-23,Phoenix,114,Toronto,106
+2011-03-25,Golden State,138,Toronto,100
+2011-03-26,LA,94,Toronto,90
+2011-03-30,Toronto,98,Milwaukee,104
+2011-04-02,Chicago,113,Toronto,106
+2011-04-03,Toronto,102,Orlando,98
+2011-04-05,NY Knicks,131,Toronto,118
+2011-04-06,Toronto,96,Cleveland,104
+2011-04-08,Philadelphia,98,Toronto,93
+2011-04-10,Toronto,99,Brooklyn,92
+2011-04-11,Milwaukee,93,Toronto,86
+2011-04-13,Toronto,79,Miami,97
+2012-12-26,Cleveland,96,Toronto,104
+2012-12-28,Toronto,85,Indiana,90
+2012-12-30,Dallas,99,Toronto,86
+2012-01-01,Orlando,102,Toronto,96
+2012-01-02,NY Knicks,85,Toronto,90
+2012-01-04,Toronto,92,Cleveland,77
+2012-01-06,Toronto,85,Brooklyn,97
+2012-01-07,Philadelphia,97,Toronto,62
+2012-01-09,Toronto,97,Minnesota,87
+2012-01-10,Washington,93,Toronto,78
+2012-01-11,Toronto,91,Sacramento,98
+2012-01-13,Toronto,90,Indiana,95
+2012-01-14,Chicago,77,Toronto,64
+2012-01-16,Atlanta,93,Toronto,84
+2012-01-18,Boston,96,Toronto,73
+2012-01-20,Toronto,84,Portland,94
+2012-01-22,LA,103,Toronto,91
+2012-01-24,Phoenix,96,Toronto,99
+2012-01-25,Utah,106 2OT,Toronto,111
+2012-01-27,Denver,96,Toronto,81
+2012-01-29,Brooklyn,73,Toronto,94
+2012-01-31,Toronto,77,Atlanta,100
+2012-02-01,Boston,100,Toronto,64
+2012-02-03,Toronto,106,Washington,89
+2012-02-05,Miami,95,Toronto,89
+2012-02-06,Washington,111,Toronto,108 OT
+2012-02-08,Toronto,99,Milwaukee,105
+2012-02-10,Toronto,86,Boston,74
+2012-02-12,Toronto,92,Los Angeles,94
+2012-02-14,Toronto,87,NY Knicks,90
+2012-02-15,Toronto,106,San Antonio,113
+2012-02-17,Toronto,91,Charlotte,98
+2012-02-22,Toronto,103,Detroit,93
+2012-02-28,Houston,88,Toronto,85
+2012-02-29,New Orleans,84,Toronto,95
+2012-03-02,Toronto,99,Memphis,102
+2012-03-04,Toronto,83,Golden State,75
+2012-03-05,Toronto,88,Orlando,92
+2012-03-07,Toronto,116,Houston,98
+2012-03-10,Detroit,105,Toronto,86
+2012-03-11,Toronto,99,Milwaukee,105
+2012-03-13,Cleveland,88,Toronto,96
+2012-03-14,Brooklyn,98,Toronto,84
+2012-03-16,Memphis,110 OT,Toronto,114
+2012-03-17,Charlotte,107,Toronto,103
+2012-03-20,NY Knicks,106,Toronto,87
+2012-03-21,Toronto,82,Chicago,94
+2012-03-23,Toronto,96,NY Knicks,79
+2012-03-24,Chicago,102,Toronto,101 OT
+2012-03-26,Toronto,101,Orlando,117
+2012-03-28,Toronto,105,Denver,96
+2012-03-30,Toronto,101,Miami,113
+2012-04-01,Toronto,99,Washington,92
+2012-04-03,Toronto,92,Charlotte,87
+2012-04-04,Philadelphia,78,Toronto,99
+2012-04-06,Toronto,80,Cleveland,84
+2012-04-08,Oklahoma City,91,Toronto,75
+2012-04-09,Indiana,103,Toronto,98
+2012-04-11,Toronto,75,Philadelphia,93
+2012-04-13,Toronto,84,Boston,79
+2012-04-15,Atlanta,86,Toronto,102
+2012-04-16,Toronto,87,Atlanta,109
+2012-04-18,Miami,96,Toronto,72
+2012-04-22,Detroit,76,Toronto,73
+2012-04-23,Milwaukee,92,Toronto,86
+2012-04-26,Toronto,98,Brooklyn,67
+2013-10-31,Toronto,88,Indiana,90
+2013-11-03,Brooklyn,107,Toronto,100
+2013-11-04,Toronto,105,Minnesota,86
+2013-11-06,Oklahoma City,108,Toronto,88
+2013-11-07,Dallas,109,Toronto,104
+2013-11-10,Toronto,83,Philadelphia,93
+2013-11-12,Toronto,133 3OT,Utah,140
+2013-11-13,Indiana,72,Toronto,74
+2013-11-17,Boston,107,Toronto,89
+2013-11-18,Toronto,97,Orlando,86
+2013-11-20,Philadelphia,106,Toronto,98
+2013-11-21,Charlotte,98,Toronto,97
+2013-11-23,Detroit,91,Toronto,90
+2013-11-25,Toronto,106 2OT,San Antonio,111
+2013-11-27,Houston,117,Toronto,101
+2013-11-28,Memphis,103,Toronto,82
+2013-11-30,Toronto,101,Phoenix,97
+2013-12-03,Denver,113,Toronto,110
+2013-12-05,Sacramento,107,Toronto,100
+2013-12-07,Utah,131,Toronto,99
+2013-12-09,LA,102,Toronto,83
+2013-12-10,Portland,92,Toronto,74
+2013-12-12,Toronto,88,Brooklyn,94
+2013-12-14,Toronto,95,Dallas,74
+2013-12-16,Toronto,103,Houston,96
+2013-12-18,Cleveland,99,Toronto,113
+2013-12-19,Toronto,97,Detroit,91
+2013-12-21,Toronto,93,Orlando,90
+2013-12-26,San Antonio,100,Toronto,80
+2013-12-28,New Orleans,97 OT,Toronto,104
+2013-12-29,Orlando,88,Toronto,123
+2013-01-02,Toronto,102,Portland,79
+2013-01-04,Toronto,96,Sacramento,105
+2013-01-06,Toronto,92,Oklahoma City,104
+2013-01-09,Toronto,90,Philadelphia,72
+2013-01-11,Toronto,99,Charlotte,78
+2013-01-13,Toronto,96,Milwaukee,107
+2013-01-15,Brooklyn,113,Toronto,106
+2013-01-16,Toronto,105 OT,Chicago,107
+2013-01-18,Philadelphia,108,Toronto,101 OT
+2013-01-20,Toronto,108,Los Angeles,103
+2013-01-23,Miami,123,Toronto,116 OT
+2013-01-24,Orlando,95,Toronto,97
+2013-01-26,Toronto,98,Cleveland,99
+2013-01-28,Toronto,102,Golden State,114
+2013-01-30,Atlanta,93,Toronto,92
+2013-02-01,Toronto,98,LA,73
+2013-02-03,Toronto,85,Miami,100
+2013-02-06,Toronto,95,Boston,99
+2013-02-08,Indiana,98 OT,Toronto,100
+2013-02-10,Toronto,102,New Orleans,89
+2013-02-12,Toronto,109,Denver,108
+2013-02-13,NY Knicks,88,Toronto,92
+2013-02-19,Washington,88,Toronto,96
+2013-02-20,Toronto,82,Memphis,88
+2013-02-22,Toronto,100,NY Knicks,98
+2013-02-25,Toronto,84,Washington,90
+2013-02-27,Cleveland,103,Toronto,92
+2013-03-01,Toronto,81,Indiana,93
+2013-03-02,Milwaukee,122,Toronto,114 OT
+2013-03-04,Golden State,125,Toronto,118
+2013-03-06,Phoenix,71,Toronto,98
+2013-03-08,Los Angeles,118,Toronto,116 OT
+2013-03-10,Toronto,100,Cleveland,96
+2013-03-13,Boston,112,Toronto,88
+2013-03-15,Toronto,92,Charlotte,78
+2013-03-17,Toronto,91,Miami,108
+2013-03-20,Charlotte,107,Toronto,101
+2013-03-22,Toronto,94,NY Knicks,99
+2013-03-23,NY Knicks,110,Toronto,84
+2013-03-27,Toronto,88,Atlanta,107
+2013-03-29,Detroit,82,Toronto,99
+2013-03-31,Washington,109,Toronto,92
+2013-04-01,Toronto,98,Detroit,108
+2013-04-03,Toronto,88,Washington,78
+2013-04-05,Minnesota,93,Toronto,95
+2013-04-06,Milwaukee,100,Toronto,83
+2013-04-09,Chicago,98,Toronto,101
+2013-04-12,Toronto,97,Chicago,88
+2013-04-14,Toronto,93,Brooklyn,87
+2013-04-16,Atlanta,96,Toronto,113
+2013-04-17,Toronto,114,Boston,90
+2014-10-30,Toronto,93,Boston,87
+2014-11-01,Atlanta,102,Toronto,95
+2014-11-02,Milwaukee,90,Toronto,97
+2014-11-05,Toronto,95,Miami,104
+2014-11-06,Charlotte,92,Toronto,90
+2014-11-08,Indiana,91,Toronto,84
+2014-11-09,Toronto,115,Utah,91
+2014-11-11,Houston,110,Toronto,104 2OT
+2014-11-13,Memphis,87,Toronto,103
+2014-11-15,Toronto,80,Chicago,96
+2014-11-17,Toronto,110 OT,Portland,118
+2014-11-20,Philadelphia,98,Toronto,108
+2014-11-22,Toronto,96,Washington,88
+2014-11-26,Toronto,100,Brooklyn,102
+2014-11-29,Toronto,83,Miami,90
+2014-12-01,Toronto,98,Denver,112
+2014-12-03,Golden State,112,Toronto,103
+2014-12-06,Phoenix,106,Toronto,97
+2014-12-08,Los Angeles,94,Toronto,106
+2014-12-10,Toronto,103,San Antonio,116
+2014-12-13,Toronto,108,Philadelphia,100
+2014-12-14,Chicago,77,Toronto,99
+2014-12-18,Toronto,102 OT,Charlotte,104
+2014-12-20,Dallas,108 OT,Toronto,109
+2014-12-22,Oklahoma City,98,Toronto,104
+2014-12-23,San Antonio,112,Toronto,99
+2014-12-27,NY Knicks,83,Toronto,95
+2014-12-28,Toronto,115,NY Knicks,100
+2014-12-31,Chicago,79,Toronto,85
+2014-01-01,Toronto,95,Indiana,82
+2014-01-03,Washington,88,Toronto,101
+2014-01-05,Miami,102,Toronto,97
+2014-01-07,Indiana,86,Toronto,79
+2014-01-08,Toronto,112,Detroit,91
+2014-01-11,Toronto,96,Brooklyn,80
+2014-01-13,Toronto,116,Milwaukee,94
+2014-01-15,Boston,88,Toronto,83
+2014-01-17,Toronto,94,Minnesota,89
+2014-01-19,Toronto,106,Los Angeles,112
+2014-01-20,Charlotte,100,Toronto,95
+2014-01-22,Toronto,93,Dallas,85
+2014-01-24,Philadelphia,95,Toronto,104
+2014-01-25,Toronto,118,LA,126
+2014-01-27,Brooklyn,103,Toronto,104
+2014-01-29,Toronto,98,Orlando,83
+2014-01-31,Denver,90,Toronto,100
+2014-02-01,Portland,106,Toronto,103
+2014-02-03,Utah,79,Toronto,94
+2014-02-05,Sacramento,109,Toronto,101
+2014-02-07,LA,118,Toronto,105
+2014-02-10,Toronto,108,New Orleans,101
+2014-02-12,Toronto,104,Atlanta,83
+2014-02-18,Washington,93,Toronto,103
+2014-02-19,Toronto,92,Chicago,94
+2014-02-21,Toronto,98,Cleveland,91
+2014-02-23,Toronto,105,Orlando,90
+2014-02-25,Cleveland,93,Toronto,99
+2014-02-27,Toronto,129 3OT,Washington,134
+2014-03-02,Toronto,104,Golden State,98
+2014-03-07,Toronto,99,Sacramento,87
+2014-03-09,Minnesota,104,Toronto,111
+2014-03-10,Brooklyn,101,Toronto,97
+2014-03-12,Toronto,101,Detroit,87
+2014-03-14,Toronto,99,Memphis,86
+2014-03-16,Toronto,113,Phoenix,121
+2014-03-18,Atlanta,118,Toronto,113 OT
+2014-03-19,New Orleans,100,Toronto,107
+2014-03-21,Toronto,118 2OT,Oklahoma City,119
+2014-03-23,Toronto,96,Atlanta,86
+2014-03-25,Cleveland,102,Toronto,100
+2014-03-26,Boston,90,Toronto,99
+2014-03-28,Toronto,105,Boston,103
+2014-03-30,Orlando,93,Toronto,98
+2014-03-31,Miami,93,Toronto,83
+2014-04-02,Toronto,107,Houston,103
+2014-04-04,Toronto,102,Indiana,94
+2014-04-05,Milwaukee,98,Toronto,102
+2014-04-09,Toronto,125,Philadelphia,114
+2014-04-11,Toronto,100,NY Knicks,108
+2014-04-13,Detroit,107,Toronto,116
+2014-04-14,Toronto,110,Milwaukee,100
+2014-04-16,NY Knicks,95,Toronto,92
+2015-10-29,Toronto,109,Atlanta,102
+2015-11-01,Orlando,95,Toronto,108
+2015-11-02,Miami,107,Toronto,102
+2015-11-04,Toronto,100,Oklahoma City,88
+2015-11-05,Boston,107,Toronto,110
+2015-11-07,Toronto,103,Washington,84
+2015-11-09,Toronto,120,Philadelphia,88
+2015-11-11,Toronto,104,Orlando,100
+2015-11-13,Toronto,93,Chicago,100
+2015-11-15,Toronto,111,Utah,93
+2015-11-19,Toronto,96,Memphis,92
+2015-11-21,Toronto,124,Milwaukee,82
+2015-11-22,Cleveland,93,Toronto,110
+2015-11-24,Toronto,104,Phoenix,100
+2015-11-26,Atlanta,115,Toronto,126
+2015-11-28,Toronto,102,Dallas,106
+2015-11-30,Los Angeles,129,Toronto,122 OT
+2015-12-02,Sacramento,109,Toronto,117
+2015-12-03,Utah,104,Toronto,123
+2015-12-05,Toronto,91,Cleveland,105
+2015-12-08,Toronto,112,Denver,107 OT
+2015-12-09,Cleveland,105,Toronto,101
+2015-12-12,Toronto,106,Indiana,94
+2015-12-14,NY Knicks,90 OT,Toronto,95
+2015-12-15,Toronto,95,Orlando,82
+2015-12-17,Toronto,105,Brooklyn,89
+2015-12-19,Detroit,100,Toronto,110
+2015-12-21,Toronto,118,NY Knicks,108
+2015-12-22,Chicago,129,Toronto,120
+2015-12-27,LA,98,Toronto,110
+2015-12-28,Denver,102,Toronto,116
+2015-12-30,Portland,102,Toronto,97 OT
+2015-01-02,Golden State,126,Toronto,105
+2015-01-04,Phoenix,125,Toronto,109
+2015-01-08,Toronto,95,Charlotte,103
+2015-01-10,Toronto,109,Boston,96
+2015-01-12,Toronto,111,Detroit,114
+2015-01-14,Toronto,100,Philadelphia,84
+2015-01-16,Toronto,89,Atlanta,110
+2015-01-18,Toronto,93,New Orleans,95
+2015-01-19,Milwaukee,89,Toronto,92
+2015-01-21,Memphis,92,Toronto,86
+2015-01-23,Philadelphia,86,Toronto,91
+2015-01-25,Toronto,114,Detroit,110
+2015-01-27,Indiana,91,Toronto,104
+2015-01-28,Toronto,119,Sacramento,102
+2015-01-30,Brooklyn,122 OT,Toronto,127
+2015-01-31,Washington,116 OT,Toronto,120
+2015-02-02,Toronto,75,Milwaukee,82
+2015-02-04,Toronto,93,Brooklyn,109
+2015-02-06,Toronto,123,LA,107
+2015-02-08,Toronto,87,San Antonio,82
+2015-02-11,Toronto,95,Washington,93
+2015-02-20,Atlanta,80,Toronto,105
+2015-02-21,Houston,98,Toronto,76
+2015-02-23,New Orleans,100,Toronto,97
+2015-02-24,Dallas,99,Toronto,92
+2015-02-27,Toronto,89,Golden State,113
+2015-02-28,NY Knicks,103,Toronto,98
+2015-03-02,Philadelphia,103,Toronto,114
+2015-03-04,Toronto,112,Cleveland,120
+2015-03-06,Charlotte,103,Toronto,94
+2015-03-08,Oklahoma City,108,Toronto,104
+2015-03-10,San Antonio,117,Toronto,107
+2015-03-13,Toronto,102,Miami,92
+2015-03-15,Toronto,97,Portland,113
+2015-03-16,Indiana,98,Toronto,117
+2015-03-18,Toronto,105,Minnesota,100
+2015-03-20,Chicago,108,Toronto,92
+2015-03-22,Toronto,106,NY Knicks,89
+2015-03-24,Detroit,108,Toronto,104
+2015-03-25,Toronto,103,Chicago,116
+2015-03-27,Toronto,94,Los Angeles,83
+2015-03-30,Toronto,99,Houston,96
+2015-04-01,Minnesota,99,Toronto,113
+2015-04-03,Brooklyn,114,Toronto,109
+2015-04-04,Toronto,116 OT,Boston,117
+2015-04-08,Charlotte,74,Toronto,92
+2015-04-10,Orlando,99,Toronto,101
+2015-04-11,Miami,104,Toronto,107
+2015-04-14,Boston,95,Toronto,93
+2015-04-15,Toronto,92,Charlotte,87

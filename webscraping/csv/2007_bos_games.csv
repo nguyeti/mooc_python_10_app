@@ -1,0 +1,411 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Boston,96,Chicago,99
+2003-10-31,Washington,114,Boston,69
+2003-11-02,NY Knicks,107,Boston,117
+2003-11-06,Chicago,69,Boston,91
+2003-11-07,Boston,98,Los Angeles,95 OT
+2003-11-09,Minnesota,99,Boston,105
+2003-11-11,Boston,112,Utah,95
+2003-11-13,Boston,91,Philadelphia,81
+2003-11-15,Boston,86,Dallas,97
+2003-11-16,Milwaukee,102,Boston,85
+2003-11-20,Boston,96,Brooklyn,79
+2003-11-22,Boston,105,Atlanta,98 2OT
+2003-11-23,Atlanta,99,Boston,109
+2003-11-27,Boston,92,Chicago,82
+2003-11-29,Boston,95,Toronto,98
+2003-12-01,Boston,95,New Orleans,86
+2003-12-02,Orlando,97,Boston,102
+2003-12-04,Philadelphia,99,Boston,93
+2003-12-06,Boston,91,NY Knicks,80
+2003-12-09,Boston,114,Orlando,109 OT
+2003-12-11,Boston,94,Phoenix,103
+2003-12-13,Boston,115,Cleveland,100
+2003-12-14,NY Knicks,90,Boston,113
+2003-12-16,Chicago,94,Boston,83
+2003-12-18,Boston,81,Miami,91
+2003-12-20,Boston,108,Minnesota,99
+2003-12-21,Cleveland,82,Boston,89
+2003-12-25,Brooklyn,117,Boston,81
+2003-12-27,Miami,90,Boston,70
+2003-12-28,Orlando,101,Boston,95
+2003-12-31,Boston,96,Memphis,89
+2003-01-03,Boston,103,Portland,108
+2003-01-06,Boston,95,Washington,100
+2003-01-08,New Orleans,83,Boston,93
+2003-01-10,Dallas,103,Boston,78
+2003-01-12,San Antonio,81,Boston,80
+2003-01-13,Houston,101,Boston,92
+2003-01-15,Boston,86,Atlanta,66
+2003-01-17,Boston,98,Indiana,93
+2003-01-18,Milwaukee,95,Boston,97
+2003-01-20,Philadelphia,99,Boston,100
+2003-01-22,Boston,97,Milwaukee,106
+2003-01-24,Boston,77,Denver,58
+2003-01-26,Boston,91,Orlando,83
+2003-01-28,Detroit,86,Boston,83
+2003-01-31,Boston,66,Detroit,118
+2003-02-01,Indiana,109,Boston,100
+2003-02-03,New Orleans,103,Boston,96
+2003-02-05,Boston,114,Oklahoma City,74
+2003-02-11,Oklahoma City,76,Boston,82
+2003-02-13,Portland,92,Boston,100
+2003-02-15,LA,84,Boston,92
+2003-02-16,Phoenix,102,Boston,92
+2003-02-18,Golden State,117,Boston,125
+2003-02-20,Sacramento,105,Boston,83
+2003-02-24,Boston,95 OT,Houston,101
+2003-02-26,Boston,71,Indiana,69
+2003-02-28,Boston,90,Toronto,85
+2003-03-02,Toronto,104,Boston,92
+2003-03-03,Memphis,110,Boston,111
+2003-03-05,Boston,97,NY Knicks,95
+2003-03-07,Boston,83,LA,72
+2003-03-09,Boston,78,San Antonio,94
+2003-03-12,Boston,93,New Orleans,65
+2003-03-13,Brooklyn,90,Boston,75
+2003-03-15,Detroit,71,Boston,81
+2003-03-18,Boston,74,Brooklyn,87
+2003-03-19,Indiana,102,Boston,72
+2003-03-21,Los Angeles,104,Boston,96
+2003-03-22,Denver,90,Boston,80
+2003-03-24,Utah,96,Boston,91
+2003-03-26,Boston,95,Golden State,107
+2003-03-28,Boston,104,Cleveland,95
+2003-03-29,Cleveland,106,Boston,110
+2003-04-02,Boston,90,Miami,62
+2003-04-04,Boston,92,Sacramento,93
+2003-04-06,Boston,98 OT,Washington,99
+2003-04-09,Washington,83,Boston,87
+2003-04-10,Boston,78,Philadelphia,99
+2003-04-12,Orlando,89,Boston,86
+2003-04-13,Miami,86,Boston,94
+2003-04-16,Boston,99,Detroit,92
+2004-10-29,Boston,98,Miami,75
+2004-10-31,Memphis,91,Boston,93
+2004-11-01,New Orleans,97,Boston,90
+2004-11-05,Detroit,96,Boston,88
+2004-11-07,Boston,87,Brooklyn,94
+2004-11-09,Boston,91,Sacramento,82
+2004-11-11,Indiana,76,Boston,78
+2004-11-12,Boston,82,Chicago,89
+2004-11-14,Boston,91,Cleveland,82
+2004-11-17,NY Knicks,89,Boston,86
+2004-11-19,Boston,73,New Orleans,81
+2004-11-21,Philadelphia,87,Boston,85
+2004-11-24,Boston,88,NY Knicks,94
+2004-11-26,Orlando,92,Boston,94
+2004-11-28,Boston,106,Milwaukee,96
+2004-11-29,Milwaukee,100,Boston,94
+2004-12-01,Boston,89,Memphis,96
+2004-12-03,Toronto,105,Boston,95
+2004-12-05,Boston,106,Phoenix,110
+2004-12-07,Denver,111,Boston,116
+2004-12-08,Utah,80,Boston,102
+2004-12-10,Boston,126,Oklahoma City,112
+2004-12-12,Boston,114,Toronto,111
+2004-12-13,Cleveland,98,Boston,105
+2004-12-15,Boston,95,Minnesota,116
+2004-12-17,Boston,105,Dallas,103
+2004-12-19,Boston,96,Utah,99
+2004-12-21,Boston,87,Philadelphia,84
+2004-12-23,Atlanta,93,Boston,88
+2004-12-26,Phoenix,102,Boston,104
+2004-12-28,Los Angeles,105,Boston,82
+2004-12-29,Golden State,91,Boston,100
+2004-12-31,Boston,94,New Orleans,96
+2004-01-02,Boston,90,Indiana,103
+2004-01-03,Chicago,77,Boston,88
+2004-01-05,Boston,68,Detroit,78
+2004-01-07,Boston,101,Orlando,93
+2004-01-09,Boston,107,Cleveland,82
+2004-01-11,Houston,93,Boston,97
+2004-01-13,Milwaukee,111,Boston,103
+2004-01-14,Boston,80,Houston,95
+2004-01-16,Orlando,124,Boston,118 OT
+2004-01-18,Boston,92,San Antonio,109
+2004-01-20,Miami,84,Boston,86
+2004-01-23,Boston,100,Washington,89
+2004-01-25,Brooklyn,110,Boston,91
+2004-01-28,Boston,103,Detroit,106
+2004-01-30,Boston,74,NY Knicks,92
+2004-01-31,Indiana,99,Boston,98
+2004-02-04,Boston,86,LA,95
+2004-02-06,Boston,96,Atlanta,100
+2004-02-07,Philadelphia,80,Boston,110
+2004-02-09,Cleveland,97,Boston,89
+2004-02-12,Chicago,107,Boston,87
+2004-02-17,Sacramento,127,Boston,111
+2004-02-19,LA,102,Boston,100
+2004-02-21,Portland,105,Boston,84
+2004-02-22,Oklahoma City,108,Boston,87
+2004-02-25,Boston,104,Milwaukee,106
+2004-02-27,Boston,88,Toronto,75
+2004-02-29,Toronto,82,Boston,91
+2004-03-01,Boston,117,Orlando,96
+2004-03-05,Boston,94,Washington,90
+2004-03-07,Minnesota,77,Boston,80
+2004-03-09,NY Knicks,84,Boston,87
+2004-03-10,Boston,109,Los Angeles,117
+2004-03-12,Boston,81,Indiana,99
+2004-03-13,Washington,102,Boston,111
+2004-03-17,Boston,104,Denver,100
+2004-03-19,Dallas,120,Boston,104
+2004-03-20,San Antonio,103,Boston,87
+2004-03-26,Boston,102,Brooklyn,93
+2004-03-28,Boston,89,Philadelphia,65
+2004-03-29,Brooklyn,80,Boston,84
+2004-03-31,Boston,98,Portland,105
+2004-04-02,Boston,111,Golden State,106
+2004-04-04,Washington,112,Boston,102
+2004-04-07,Miami,104,Boston,101
+2004-04-09,New Orleans,89,Boston,80
+2004-04-10,Atlanta,110,Boston,99
+2004-04-12,Boston,77,Miami,84
+2004-04-14,Boston,137,Atlanta,132
+2005-11-03,Boston,95,Philadelphia,98
+2005-11-05,Boston,94,Indiana,100
+2005-11-06,NY Knicks,73,Boston,107
+2005-11-10,Boston,90,Portland,88
+2005-11-12,Boston,91,Charlotte,74
+2005-11-17,Washington,110,Boston,105 OT
+2005-11-19,Boston,84,San Antonio,92
+2005-11-21,Boston,102,Oklahoma City,83
+2005-11-23,Indiana,106,Boston,96
+2005-11-24,Philadelphia,110,Boston,97
+2005-11-26,Boston,96,Cleveland,98
+2005-11-28,Miami,106,Boston,104
+2005-11-29,Orlando,101,Boston,117
+2005-12-01,Boston,101,Milwaukee,100
+2005-12-03,Boston,91,Toronto,89
+2005-12-05,Sacramento,119,Boston,105
+2005-12-06,Golden State,110,Boston,106
+2005-12-09,Portland,89,Boston,87
+2005-12-11,Oklahoma City,84,Boston,98
+2005-12-13,LA,127 2OT,Boston,134
+2005-12-15,Boston,99,Denver,100
+2005-12-17,Boston,114,Utah,106
+2005-12-18,Cleveland,107 OT,Boston,114
+2005-12-21,Miami,108,Boston,100
+2005-12-22,Boston,114,NY Knicks,109
+2005-12-26,San Antonio,107,Boston,90
+2005-12-28,Dallas,113,Boston,94
+2005-12-29,Memphis,117,Boston,109
+2005-12-31,Boston,108,Washington,103
+2005-01-02,Detroit,100,Boston,88
+2005-01-03,Boston,108,New Orleans,90
+2005-01-05,Boston,84,Golden State,83
+2005-01-07,Boston,104,Detroit,110
+2005-01-08,Chicago,102,Boston,91
+2005-01-10,Boston,119,Orlando,101
+2005-01-12,Toronto,104,Boston,93
+2005-01-14,Boston,106,Atlanta,94
+2005-01-19,Boston,92,Chicago,83
+2005-01-21,Brooklyn,104,Boston,98
+2005-01-22,Atlanta,100,Boston,96
+2005-01-25,Charlotte,92,Boston,97
+2005-01-26,Boston,100,Indiana,86
+2005-01-28,Boston,119,Phoenix,128
+2005-01-29,Chicago,97,Boston,101
+2005-01-31,Boston,94,Houston,97
+2005-02-02,Boston,110,Brooklyn,89
+2005-02-04,Boston,112,Orlando,100
+2005-02-06,Minnesota,100,Boston,103
+2005-02-08,Milwaukee,121,Boston,97
+2005-02-09,Boston,94,LA,89
+2005-02-11,Boston,111,NY Knicks,94
+2005-02-13,Boston,100,Sacramento,104
+2005-02-16,Boston,90,Memphis,88
+2005-02-22,Los Angeles,104,Boston,95
+2005-02-23,Denver,107,Boston,86
+2005-02-25,Utah,102,Boston,109
+2005-02-27,Phoenix,113 OT,Boston,120
+2005-03-02,Boston,104,Los Angeles,101
+2005-03-04,Boston,104,Charlotte,84
+2005-03-06,Boston,97,Minnesota,99
+2005-03-09,Boston,95,Atlanta,91
+2005-03-11,Boston,115,Detroit,113 2OT
+2005-03-13,Boston,105,Washington,101
+2005-03-14,Charlotte,110,Boston,119
+2005-03-16,Boston,110,Toronto,109
+2005-03-18,Houston,92,Boston,103
+2005-03-19,New Orleans,100,Boston,113
+2005-03-23,NY Knicks,107,Boston,82
+2005-03-25,Boston,86,Chicago,94
+2005-03-26,Detroit,105,Boston,99 OT
+2005-03-30,Boston,100,Dallas,112
+2005-04-01,Atlanta,100,Boston,116
+2005-04-03,Boston,93,Philadelphia,97
+2005-04-05,Washington,108,Boston,116
+2005-04-06,Boston,103,Milwaukee,97
+2005-04-09,Brooklyn,99,Boston,86
+2005-04-12,Philadelphia,98,Boston,105
+2005-04-13,Milwaukee,108,Boston,111
+2005-04-15,Boston,101,Miami,99
+2005-04-17,Toronto,98,Boston,103
+2005-04-19,Cleveland,100,Boston,86
+2005-04-20,Boston,93,Brooklyn,102
+2006-11-02,Boston,114,NY Knicks,100 OT
+2006-11-04,Boston,81,Detroit,82
+2006-11-05,Charlotte,107,Boston,105 OT
+2006-11-09,Boston,99,Memphis,98
+2006-11-11,Boston,82,San Antonio,103
+2006-11-13,Boston,102,Houston,82
+2006-11-15,Detroit,115,Boston,100
+2006-11-16,Boston,100,Oklahoma City,113
+2006-11-18,Boston,100,Toronto,93
+2006-11-22,Cleveland,115,Boston,93
+2006-11-23,Atlanta,120,Boston,117
+2006-11-25,Boston,90,Charlotte,89
+2006-11-28,Boston,83,Orlando,87
+2006-11-30,Boston,110,Philadelphia,103
+2006-12-02,Boston,102,Chicago,106
+2006-12-04,NY Knicks,99,Boston,102
+2006-12-06,Houston,91,Boston,73
+2006-12-07,New Orleans,87,Boston,101
+2006-12-09,San Antonio,101,Boston,89
+2006-12-10,Dallas,103,Boston,94
+2006-12-14,Boston,85,Indiana,71
+2006-12-16,Boston,96,Milwaukee,100
+2006-12-17,Chicago,118,Boston,86
+2006-12-19,Boston,109,Golden State,98
+2006-12-21,Boston,101,Utah,89
+2006-12-26,Oklahoma City,118,Boston,111
+2006-12-28,Golden State,111,Boston,109
+2006-12-30,Sacramento,116,Boston,112
+2006-12-31,LA,92,Boston,111
+2006-01-02,Denver,120,Boston,110
+2006-01-04,Boston,109,Charlotte,106
+2006-01-06,Boston,98,Atlanta,103
+2006-01-07,Washington,103,Boston,102
+2006-01-09,Boston,102,Dallas,104
+2006-01-10,Atlanta,94,Boston,98
+2006-01-13,Philadelphia,125,Boston,124 3OT
+2006-01-16,Detroit,94,Boston,84
+2006-01-18,Boston,103,Minnesota,96
+2006-01-20,Boston,99,Brooklyn,96
+2006-01-21,Brooklyn,103,Boston,83
+2006-01-23,Boston,91,New Orleans,78
+2006-01-25,Boston,87,Washington,89
+2006-01-27,Boston,84,Sacramento,74
+2006-01-29,Milwaukee,83,Boston,79
+2006-01-30,Minnesota,110,Boston,85
+2006-02-01,Boston,94,Phoenix,102
+2006-02-03,Boston,81,LA,98
+2006-02-04,Orlando,100,Boston,91
+2006-02-06,Miami,114,Boston,98
+2006-02-10,Boston,115,Portland,83
+2006-02-12,Boston,102,Orlando,94
+2006-02-15,Boston,109 2OT,Cleveland,113
+2006-02-21,Utah,83,Boston,103
+2006-02-22,Phoenix,103,Boston,94
+2006-02-24,Portland,96,Boston,102
+2006-02-26,Los Angeles,111,Boston,112
+2006-03-01,Boston,96,Miami,103
+2006-03-03,Boston,99,Indiana,98
+2006-03-05,Toronto,111,Boston,105
+2006-03-07,Washington,115 OT,Boston,116
+2006-03-08,Boston,104,Philadelphia,101
+2006-03-10,Boston,86,Milwaukee,92
+2006-03-12,Boston,106,Denver,101
+2006-03-14,Memphis,93,Boston,76
+2006-03-16,Miami,107,Boston,104
+2006-03-17,Orlando,84,Boston,77
+2006-03-19,Indiana,88,Boston,103
+2006-03-20,Boston,97,Los Angeles,105
+2006-03-22,Boston,110,Toronto,96
+2006-03-24,Cleveland,94,Boston,82
+2006-03-26,Boston,97,Chicago,101
+2006-03-29,NY Knicks,98,Boston,123
+2006-04-01,Chicago,100,Boston,94
+2006-04-04,Toronto,120,Boston,124
+2006-04-05,Boston,91,Washington,108
+2006-04-07,Philadelphia,99,Boston,109
+2006-04-09,Boston,86,NY Knicks,101
+2006-04-12,Indiana,117,Boston,112
+2006-04-14,Boston,74,Brooklyn,79
+2006-04-16,Brooklyn,95,Boston,93
+2006-04-17,Boston,88,Cleveland,93
+2006-04-19,Boston,85,Miami,78
+2007-11-01,Boston,87,New Orleans,91
+2007-11-03,Boston,88,Detroit,101
+2007-11-04,Washington,124,Boston,117
+2007-11-08,Boston,110,Charlotte,108 OT
+2007-11-10,Boston,100,Utah,107
+2007-11-11,Cleveland,94,Boston,93
+2007-11-13,Boston,89,Orlando,92
+2007-11-15,Boston,114,Indiana,88
+2007-11-17,Boston,118,Portland,90
+2007-11-18,NY Knicks,118,Boston,122
+2007-11-22,Charlotte,92,Boston,83
+2007-11-24,Boston,77,NY Knicks,101
+2007-11-25,Milwaukee,98,Boston,111
+2007-11-29,Boston,103,Brooklyn,106
+2007-12-01,Toronto,106,Boston,102
+2007-12-04,Chicago,100,Boston,82
+2007-12-06,Boston,96,Memphis,98
+2007-12-08,Boston,111,Phoenix,116
+2007-12-09,Brooklyn,90,Boston,92
+2007-12-11,NY Knicks,90,Boston,97
+2007-12-13,Philadelphia,81,Boston,101
+2007-12-15,Boston,119,Denver,114
+2007-12-16,Charlotte,100,Boston,106
+2007-12-20,Boston,95,Golden State,96
+2007-12-22,Boston,83,Philadelphia,98
+2007-12-26,Denver,116,Boston,105
+2007-12-27,LA,100,Boston,77
+2007-12-29,Golden State,110,Boston,100
+2007-12-31,Oklahoma City,101,Boston,95
+2007-01-01,Portland,81,Boston,89
+2007-01-03,Boston,104,Cleveland,107
+2007-01-05,Memphis,119,Boston,128
+2007-01-07,Orlando,87,Boston,79
+2007-01-10,Boston,84,Indiana,97
+2007-01-12,Boston,86,Toronto,95
+2007-01-13,Detroit,81,Boston,73
+2007-01-15,Atlanta,100,Boston,96
+2007-01-19,Boston,91,Sacramento,96
+2007-01-20,Washington,115,Boston,110 OT
+2007-01-22,Boston,89,San Antonio,93
+2007-01-24,Boston,76,Atlanta,82
+2007-01-26,Toronto,96,Boston,90
+2007-01-28,Boston,91,Washington,105
+2007-01-30,Indiana,103,Boston,96
+2007-01-31,Boston,98,Los Angeles,111
+2007-02-02,Boston,89,LA,100
+2007-02-06,Detroit,109,Boston,102
+2007-02-07,Boston,79,Miami,91
+2007-02-09,Boston,78,Brooklyn,92
+2007-02-11,Minnesota,109,Boston,107
+2007-02-14,Boston,117,Milwaukee,97
+2007-02-20,Sacramento,104,Boston,101
+2007-02-21,Phoenix,118,Boston,108
+2007-02-23,Los Angeles,122,Boston,96
+2007-02-24,Utah,105,Boston,87
+2007-02-26,Houston,72,Boston,77
+2007-02-28,Boston,102,NY Knicks,94
+2007-03-03,Brooklyn,88 OT,Boston,96
+2007-03-04,Boston,124,Minnesota,117 2OT
+2007-03-07,Boston,80,Houston,111
+2007-03-09,Boston,118,Oklahoma City,103
+2007-03-11,Boston,78,Chicago,94
+2007-03-13,Chicago,95,Boston,87
+2007-03-14,Boston,109,Atlanta,88
+2007-03-16,Dallas,106,Boston,101
+2007-03-17,San Antonio,85,Boston,91
+2007-03-19,New Orleans,106,Boston,88
+2007-03-21,Boston,84,Charlotte,92
+2007-03-23,Boston,95,Dallas,109
+2007-03-26,Boston,95,Toronto,87
+2007-03-28,Boston,105,Orlando,96 2OT
+2007-03-30,Philadelphia,88,Boston,82
+2007-04-01,Boston,98,Cleveland,96
+2007-04-04,Milwaukee,98,Boston,89
+2007-04-06,Boston,85,Miami,88
+2007-04-07,Indiana,105,Boston,98
+2007-04-10,Atlanta,104,Boston,96
+2007-04-11,Boston,94,Philadelphia,102
+2007-04-13,Boston,102,Milwaukee,104
+2007-04-15,Orlando,88,Boston,86
+2007-04-16,Miami,89,Boston,91
+2007-04-18,Boston,89,Detroit,91

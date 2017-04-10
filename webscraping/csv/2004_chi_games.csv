@@ -1,0 +1,165 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Boston,96,Chicago,99
+2003-11-01,Chicago,84,New Orleans,79
+2003-11-02,Atlanta,98,Chicago,92
+2003-11-04,Toronto,109,Chicago,105 OT
+2003-11-06,Chicago,69,Boston,91
+2003-11-08,Chicago,87,Dallas,114
+2003-11-09,Chicago,100,Brooklyn,93
+2003-11-13,Milwaukee,108,Chicago,101
+2003-11-15,New Orleans,105,Chicago,87
+2003-11-16,Chicago,111,Memphis,93
+2003-11-19,Sacramento,111,Chicago,98
+2003-11-20,Golden State,100,Chicago,94
+2003-11-22,Los Angeles,86,Chicago,73
+2003-11-23,Utah,110,Chicago,90
+2003-11-27,Boston,92,Chicago,82
+2003-11-30,Dallas,103,Chicago,90
+2003-12-03,Chicago,90,New Orleans,115
+2003-12-04,Cleveland,111,Chicago,101
+2003-12-06,Toronto,103,Chicago,85
+2003-12-07,Chicago,112,Cleveland,104
+2003-12-10,Chicago,107,Orlando,87
+2003-12-12,Chicago,76,Detroit,86
+2003-12-14,Chicago,97,Milwaukee,95
+2003-12-16,Chicago,94,Boston,83
+2003-12-18,Chicago,96,Toronto,83
+2003-12-20,Indiana,101,Chicago,86
+2003-12-21,Chicago,110,Indiana,103
+2003-12-23,Brooklyn,99,Chicago,83
+2003-12-27,Chicago,100,Minnesota,113
+2003-12-28,Chicago,95,San Antonio,109
+2003-12-31,Chicago,102,Portland,87
+2003-01-02,Chicago,82,Washington,107
+2003-01-04,Chicago,85,Cleveland,79
+2003-01-06,Chicago,113,Utah,98
+2003-01-08,Washington,101,Chicago,98
+2003-01-10,Milwaukee,93,Chicago,85 OT
+2003-01-13,Chicago,101,NY Knicks,94
+2003-01-14,NY Knicks,98,Chicago,86
+2003-01-17,New Orleans,90,Chicago,83
+2003-01-18,Miami,102,Chicago,101 2OT
+2003-01-20,Atlanta,102,Chicago,115
+2003-01-22,Orlando,94,Chicago,91
+2003-01-24,Chicago,104,Washington,97
+2003-01-26,Chicago,100,Houston,98
+2003-01-29,LA,77,Chicago,75
+2003-01-31,Portland,107,Chicago,94
+2003-02-01,Oklahoma City,90,Chicago,77
+2003-02-03,Phoenix,115,Chicago,111 OT
+2003-02-04,Denver,102,Chicago,100 OT
+2003-02-11,Chicago,79,Detroit,89
+2003-02-12,Philadelphia,119,Chicago,111 OT
+2003-02-14,Brooklyn,90,Chicago,72
+2003-02-15,Chicago,88,Denver,69
+2003-02-18,Cleveland,101,Chicago,107
+2003-02-19,Chicago,82,Philadelphia,110
+2003-02-21,Orlando,110,Chicago,96
+2003-02-22,Miami,100,Chicago,90
+2003-02-24,Chicago,90,Phoenix,87
+2003-02-26,Chicago,103,Toronto,95
+2003-02-28,Chicago,88,Atlanta,110
+2003-03-01,Washington,101,Chicago,93
+2003-03-03,Chicago,89,Orlando,104
+2003-03-06,Chicago,119,Golden State,105
+2003-03-08,Chicago,97,LA,103
+2003-03-11,Chicago,116,Los Angeles,99
+2003-03-12,Memphis,124,Chicago,95
+2003-03-14,Houston,121,Chicago,91
+2003-03-16,San Antonio,108,Chicago,97
+2003-03-18,Chicago,103,Atlanta,78
+2003-03-22,Chicago,100,NY Knicks,98
+2003-03-23,Detroit,105,Chicago,82
+2003-03-26,Chicago,82,Miami,74
+2003-03-28,Indiana,140,Chicago,89
+2003-03-29,Chicago,92,Sacramento,107
+2003-04-01,Chicago,94 OT,Oklahoma City,101
+2003-04-02,Philadelphia,108,Chicago,101
+2003-04-05,Chicago,117,Milwaukee,115 OT
+2003-04-08,Chicago,115,Indiana,103
+2003-04-09,Detroit,111,Chicago,102 OT
+2003-04-11,Chicago,95,Brooklyn,86
+2003-04-13,Minnesota,119,Chicago,95
+2003-04-15,Chicago,115,Philadelphia,106
+2004-10-29,Chicago,74,Washington,99
+2004-10-31,Chicago,100,Atlanta,94
+2004-11-01,Milwaukee,98,Chicago,68
+2004-11-03,Chicago,66,Houston,98
+2004-11-05,Orlando,100,Chicago,106
+2004-11-07,Chicago,85,Philadelphia,106
+2004-11-08,New Orleans,106,Chicago,109
+2004-11-10,Chicago,97,Denver,105
+2004-11-12,Boston,82,Chicago,89
+2004-11-13,Chicago,89 OT,Minnesota,92
+2004-11-15,Chicago,90,Oklahoma City,98
+2004-11-18,Phoenix,95,Chicago,82
+2004-11-21,Los Angeles,101,Chicago,94
+2004-11-23,Sacramento,110,Chicago,99
+2004-11-25,Dallas,124,Chicago,98
+2004-11-26,San Antonio,109,Chicago,98
+2004-12-01,Chicago,97,Milwaukee,87
+2004-12-04,Philadelphia,83,Chicago,82
+2004-12-06,Chicago,91,New Orleans,97
+2004-12-08,Chicago,82,San Antonio,96
+2004-12-12,Milwaukee,109,Chicago,95
+2004-12-13,Chicago,86,Indiana,75
+2004-12-16,Chicago,102,Orlando,88
+2004-12-17,Detroit,77,Chicago,73
+2004-12-20,Chicago,87,Cleveland,95
+2004-12-22,Chicago,80,Utah,92
+2004-12-23,Brooklyn,95,Chicago,78
+2004-12-26,Cleveland,80,Chicago,87
+2004-12-27,Chicago,100,Washington,86
+2004-12-29,Chicago,83,Miami,90
+2004-12-30,Minnesota,98,Chicago,93
+2004-01-02,NY Knicks,99,Chicago,104
+2004-01-03,Chicago,77,Boston,88
+2004-01-05,Chicago,87,Phoenix,82
+2004-01-07,Miami,102,Chicago,95
+2004-01-09,Chicago,78,Portland,87
+2004-01-10,Chicago,89,New Orleans,84
+2004-01-13,Chicago,89,Detroit,105
+2004-01-15,Memphis,108,Chicago,93
+2004-01-17,Chicago,96,NY Knicks,101
+2004-01-19,Washington,93,Chicago,83
+2004-01-21,Atlanta,97,Chicago,87
+2004-01-23,Chicago,93,Dallas,106
+2004-01-25,Chicago,96,Toronto,89
+2004-01-27,LA,102,Chicago,92
+2004-01-28,Denver,115,Chicago,99
+2004-01-30,Golden State,101,Chicago,81
+2004-01-31,Portland,102,Chicago,95 OT
+2004-02-02,Oklahoma City,109,Chicago,97
+2004-02-04,Utah,79,Chicago,95
+2004-02-06,Houston,82,Chicago,80
+2004-02-10,Chicago,84,Indiana,103
+2004-02-12,Chicago,107,Boston,87
+2004-02-17,Chicago,75,Toronto,73
+2004-02-20,Chicago,83,Sacramento,91
+2004-02-21,Chicago,98,Memphis,105
+2004-02-25,Chicago,88,Detroit,107
+2004-02-26,Washington,95,Chicago,87
+2004-02-28,Chicago,87,Golden State,81 OT
+2004-03-01,Chicago,92,Cleveland,81
+2004-03-03,New Orleans,100,Chicago,97 OT
+2004-03-06,Philadelphia,97,Chicago,88
+2004-03-09,Chicago,81,Philadelphia,89
+2004-03-10,Detroit,98,Chicago,65
+2004-03-12,Brooklyn,88,Chicago,76
+2004-03-13,Chicago,81,Los Angeles,88
+2004-03-16,Cleveland,111,Chicago,87
+2004-03-19,Toronto,91,Chicago,96
+2004-03-20,Chicago,87,NY Knicks,81
+2004-03-22,Indiana,101,Chicago,77
+2004-03-23,Chicago,81,Brooklyn,84
+2004-03-26,Chicago,105,Milwaukee,115
+2004-03-27,Atlanta,97,Chicago,88
+2004-03-29,Miami,105,Chicago,96
+2004-03-31,Orlando,91,Chicago,109
+2004-04-02,Chicago,114,LA,110 OT
+2004-04-03,Chicago,83,Miami,97
+2004-04-07,NY Knicks,96,Chicago,82
+2004-04-09,Chicago,101,Atlanta,116
+2004-04-11,Toronto,108 OT,Chicago,114
+2004-04-12,Chicago,84,Orlando,93
+2004-04-14,Indiana,101,Chicago,96

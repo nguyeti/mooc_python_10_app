@@ -1,0 +1,83 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2016-10-28,Houston,85,Denver,105
+2016-10-30,Denver,78,Minnesota,95
+2016-11-01,Oklahoma City,117,Denver,93
+2016-11-03,Los Angeles,109,Denver,120
+2016-11-05,Denver,84,Utah,96
+2016-11-06,Golden State,119,Denver,104
+2016-11-09,Denver,108,Portland,104
+2016-11-11,Denver,103,Milwaukee,102
+2016-11-13,Denver,107,Houston,98
+2016-11-14,Phoenix,105,Denver,81
+2016-11-17,New Orleans,98,Denver,115
+2016-11-18,San Antonio,109,Denver,98
+2016-11-20,Denver,107,Phoenix,114
+2016-11-22,Denver,105,Golden State,118
+2016-11-24,Denver,94,LA,111
+2016-11-27,Denver,80,San Antonio,91
+2016-11-28,Dallas,92,Denver,81
+2016-11-30,Milwaukee,92,Denver,74
+2016-12-02,Chicago,99,Denver,90
+2016-12-03,Toronto,105,Denver,106
+2016-12-05,Philadelphia,105,Denver,108
+2016-12-08,Denver,74,Orlando,85
+2016-12-11,Denver,111,Minnesota,108 OT
+2016-12-14,Denver,114,Houston,108
+2016-12-15,Minnesota,100,Denver,112
+2016-12-18,Utah,97,Denver,88
+2016-12-20,Denver,125,New Orleans,130
+2016-12-22,Denver,107,Los Angeles,111
+2016-12-23,Phoenix,96,Denver,104
+2016-12-26,San Antonio,101,Denver,86
+2016-12-27,Oklahoma City,122,Denver,112
+2016-12-29,Denver,87,Cleveland,93
+2016-12-30,Portland,110,Denver,103
+2016-01-02,Golden State,111,Denver,108 OT
+2016-01-03,Denver,106,Portland,112
+2016-01-06,Minnesota,74,Denver,78
+2016-01-08,Memphis,91,Denver,84
+2016-01-10,Denver,95,Charlotte,92
+2016-01-13,Denver,112,Golden State,110
+2016-01-15,Denver,95,Miami,98
+2016-01-17,Denver,129,Indiana,126
+2016-01-19,Denver,104,Oklahoma City,110
+2016-01-21,Denver,101,Memphis,102
+2016-01-23,Denver,104,Detroit,101
+2016-01-25,Denver,105,Atlanta,119
+2016-01-27,Boston,111,Denver,103
+2016-01-28,Washington,113,Denver,117
+2016-01-30,Indiana,109,Denver,105 OT
+2016-02-01,Denver,112,Toronto,93
+2016-02-03,Utah,85,Denver,81
+2016-02-05,Denver,115,Chicago,110
+2016-02-07,NY Knicks,96,Denver,101
+2016-02-08,Brooklyn,105,Denver,104
+2016-02-10,Detroit,92,Denver,103
+2016-02-19,Sacramento,116,Denver,110
+2016-02-21,Denver,101,Boston,121
+2016-02-23,Denver,110,Sacramento,114
+2016-02-24,LA,81,Denver,87
+2016-02-26,Dallas,122,Denver,116 OT
+2016-02-29,Denver,96,Memphis,103
+2016-03-02,Denver,117,Los Angeles,107
+2016-03-04,Denver,120 OT,Brooklyn,121
+2016-03-06,Denver,116,Dallas,114 OT
+2016-03-08,Denver,110,NY Knicks,94
+2016-03-10,Denver,116,Phoenix,98
+2016-03-12,Denver,116,Washington,100
+2016-03-14,Miami,124,Denver,119
+2016-03-15,Orlando,116,Denver,110
+2016-03-17,Atlanta,116,Denver,98
+2016-03-19,Charlotte,93,Denver,101
+2016-03-21,Cleveland,124,Denver,91
+2016-03-23,Denver,104,Philadelphia,103
+2016-03-25,Los Angeles,105,Denver,116
+2016-03-27,LA,105,Denver,90
+2016-03-28,Denver,88,Dallas,97
+2016-03-30,Memphis,105,Denver,109
+2016-03-31,New Orleans,101,Denver,95
+2016-04-02,Denver,106,Sacramento,115
+2016-04-05,Denver,102,Oklahoma City,124
+2016-04-08,Denver,102,San Antonio,98
+2016-04-10,Denver,84,Utah,100
+2016-04-13,Portland,107,Denver,99

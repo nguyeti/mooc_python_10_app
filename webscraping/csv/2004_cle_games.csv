@@ -1,0 +1,165 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-29,Sacramento,94,Cleveland,67
+2003-10-30,LA,96,Cleveland,98
+2003-11-01,Phoenix,78,Cleveland,74
+2003-11-05,Cleveland,89,Los Angeles,70
+2003-11-06,Washington,107,Cleveland,100
+2003-11-08,Philadelphia,108,Cleveland,84
+2003-11-09,Cleveland,79,Washington,93
+2003-11-12,Indiana,95,Cleveland,75
+2003-11-13,Cleveland,99,Dallas,103
+2003-11-16,Cleveland,77,San Antonio,90
+2003-11-18,San Antonio,104,Cleveland,78
+2003-11-19,Houston,97,Cleveland,80
+2003-11-22,Brooklyn,120,Cleveland,79
+2003-11-23,Cleveland,84,New Orleans,97
+2003-11-26,Cleveland,85,Sacramento,91
+2003-11-27,Milwaukee,112,Cleveland,80
+2003-11-29,Cleveland,99,Philadelphia,106
+2003-11-30,Miami,85,Cleveland,79
+2003-12-02,NY Knicks,125,Cleveland,93
+2003-12-04,Cleveland,111,Chicago,101
+2003-12-07,Chicago,112,Cleveland,104
+2003-12-09,Cleveland,133 2OT,Milwaukee,140
+2003-12-11,Cleveland,96,Toronto,83
+2003-12-13,Boston,115,Cleveland,100
+2003-12-14,Cleveland,111,Denver,104
+2003-12-16,Cleveland,98,Oklahoma City,111
+2003-12-18,Cleveland,106 OT,Detroit,111
+2003-12-20,Detroit,109,Cleveland,107 OT
+2003-12-21,Cleveland,82,Boston,89
+2003-12-23,Cleveland,74,Miami,72
+2003-12-27,Cleveland,89,Indiana,113
+2003-12-29,Cleveland,84,Phoenix,103
+2003-12-30,Brooklyn,102,Cleveland,88
+2003-01-03,Toronto,80,Cleveland,81
+2003-01-04,Chicago,85,Cleveland,79
+2003-01-06,Cleveland,94,Milwaukee,106
+2003-01-10,Los Angeles,115,Cleveland,99
+2003-01-12,Oklahoma City,79,Cleveland,87
+2003-01-13,Portland,118,Cleveland,94
+2003-01-15,Golden State,108,Cleveland,80
+2003-01-17,Denver,97,Cleveland,80
+2003-01-18,Utah,95,Cleveland,78
+2003-01-21,Cleveland,94,Orlando,103
+2003-01-25,Cleveland,101 OT,Atlanta,102
+2003-01-27,Cleveland,104,LA,100
+2003-01-29,Orlando,113,Cleveland,108
+2003-01-31,Atlanta,96,Cleveland,91
+2003-02-02,Cleveland,95,Portland,114
+2003-02-04,Washington,93,Cleveland,84
+2003-02-05,Cleveland,105,Houston,102
+2003-02-11,Indiana,107,Cleveland,96
+2003-02-12,Cleveland,91,Minnesota,102
+2003-02-16,Cleveland,75,Detroit,90
+2003-02-18,Cleveland,101,Chicago,107
+2003-02-21,Cleveland,99,Philadelphia,119
+2003-02-23,Philadelphia,116,Cleveland,103
+2003-02-25,Cleveland,93,Brooklyn,90
+2003-02-28,Minnesota,118,Cleveland,95
+2003-03-02,Cleveland,76,Orlando,102
+2003-03-04,NY Knicks,89,Cleveland,80
+2003-03-05,Cleveland,105,Atlanta,111
+2003-03-07,New Orleans,102,Cleveland,76
+2003-03-08,Cleveland,89,Memphis,115
+2003-03-11,Cleveland,75,Miami,77
+2003-03-16,Cleveland,122,Utah,95
+2003-03-18,Dallas,114,Cleveland,93
+2003-03-19,Memphis,128,Cleveland,101
+2003-03-21,Orlando,109,Cleveland,85
+2003-03-23,Cleveland,93,Brooklyn,88
+2003-03-25,Cleveland,124,Golden State,103
+2003-03-26,Toronto,89,Cleveland,83
+2003-03-28,Boston,104,Cleveland,95
+2003-03-29,Cleveland,106,Boston,110
+2003-04-02,Cleveland,82,Indiana,103
+2003-04-04,Milwaukee,95,Cleveland,93
+2003-04-05,Cleveland,79,New Orleans,76
+2003-04-08,Cleveland,91,Washington,100
+2003-04-09,New Orleans,100,Cleveland,81
+2003-04-11,Atlanta,109,Cleveland,89
+2003-04-12,Cleveland,104,NY Knicks,99 OT
+2003-04-14,Detroit,89,Cleveland,88
+2003-04-16,Cleveland,96,Toronto,86
+2004-10-29,Sacramento,106,Cleveland,92
+2004-10-30,Phoenix,95,Cleveland,86
+2004-11-01,Portland,104,Cleveland,85
+2004-11-05,Cleveland,89,Denver,93
+2004-11-07,Indiana,91,Cleveland,90
+2004-11-08,Cleveland,111,Washington,98
+2004-11-10,Cleveland,94,NY Knicks,80
+2004-11-12,Miami,88,Cleveland,83
+2004-11-14,Boston,91,Cleveland,82
+2004-11-15,Cleveland,91,Philadelphia,88 OT
+2004-11-18,Cleveland,103,LA,95
+2004-11-19,Washington,106,Cleveland,95
+2004-11-21,Cleveland,83,Minnesota,97
+2004-11-22,Atlanta,92,Cleveland,83
+2004-11-26,New Orleans,82,Cleveland,72
+2004-11-28,Detroit,92,Cleveland,88
+2004-11-29,Cleveland,115 2OT,Memphis,122
+2004-12-02,Denver,115,Cleveland,103
+2004-12-03,LA,90,Cleveland,80
+2004-12-06,Cleveland,95,Atlanta,85
+2004-12-09,Cleveland,93,Toronto,100
+2004-12-11,Cleveland,95,Detroit,86
+2004-12-13,Cleveland,98,Boston,105
+2004-12-15,Indiana,95,Cleveland,85
+2004-12-17,Cleveland,85,Houston,89
+2004-12-19,Philadelphia,81,Cleveland,88
+2004-12-20,Chicago,87,Cleveland,95
+2004-12-23,Cleveland,97,New Orleans,86
+2004-12-25,Orlando,113,Cleveland,101 OT
+2004-12-26,Cleveland,80,Chicago,87
+2004-12-28,Cleveland,86,Portland,74
+2004-12-30,Cleveland,89,Indiana,92
+2004-01-02,Brooklyn,97,Cleveland,82
+2004-01-06,Cleveland,107,NY Knicks,96
+2004-01-07,Toronto,75,Cleveland,69
+2004-01-09,Boston,107,Cleveland,82
+2004-01-12,Los Angeles,89,Cleveland,79
+2004-01-13,Oklahoma City,96,Cleveland,104
+2004-01-15,Golden State,119,Cleveland,102
+2004-01-17,Utah,96 OT,Cleveland,102
+2004-01-20,Cleveland,99,Oklahoma City,94
+2004-01-22,Cleveland,89,Sacramento,95
+2004-01-24,Cleveland,95,Philadelphia,87
+2004-01-26,Cleveland,99,Orlando,98
+2004-01-28,Cleveland,94,Miami,93
+2004-01-30,Milwaukee,101,Cleveland,95
+2004-02-01,Washington,100,Cleveland,104
+2004-02-03,Detroit,82,Cleveland,85
+2004-02-04,Cleveland,106 OT,Los Angeles,111
+2004-02-06,Minnesota,103,Cleveland,92
+2004-02-07,Cleveland,88,Washington,106
+2004-02-09,Cleveland,97,Boston,89
+2004-02-11,Cleveland,85,Brooklyn,105
+2004-02-18,Cleveland,98,Dallas,114
+2004-02-20,Cleveland,89,San Antonio,87
+2004-02-22,NY Knicks,86,Cleveland,92
+2004-02-23,Cleveland,104,New Orleans,100
+2004-02-25,Houston,90,Cleveland,84
+2004-02-27,Orlando,107 OT,Cleveland,112
+2004-03-01,Chicago,92,Cleveland,81
+2004-03-03,Cleveland,112,Atlanta,80
+2004-03-05,New Orleans,85,Cleveland,88
+2004-03-06,Cleveland,106,Milwaukee,97
+2004-03-08,Atlanta,102,Cleveland,108
+2004-03-10,Toronto,92,Cleveland,106
+2004-03-14,Cleveland,107,Indiana,104
+2004-03-16,Cleveland,111,Chicago,87
+2004-03-19,Cleveland,88,Utah,97
+2004-03-21,Cleveland,76,Detroit,96
+2004-03-23,Cleveland,86,Phoenix,103
+2004-03-26,Philadelphia,86,Cleveland,71
+2004-03-27,Cleveland,107,Brooklyn,104
+2004-03-29,San Antonio,101,Cleveland,93
+2004-03-30,Dallas,126,Cleveland,109
+2004-04-02,Milwaukee,107,Cleveland,89
+2004-04-03,Cleveland,100,Golden State,103
+2004-04-06,Cleveland,86,Toronto,87
+2004-04-07,Memphis,92,Cleveland,74
+2004-04-09,Miami,106,Cleveland,91
+2004-04-10,Cleveland,91,Miami,80
+2004-04-12,Cleveland,93,Milwaukee,89
+2004-04-14,NY Knicks,90,Cleveland,100

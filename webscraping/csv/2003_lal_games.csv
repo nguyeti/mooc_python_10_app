@@ -1,0 +1,83 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-29,Los,81,San Antonio,87
+2003-10-30,Portland,102,Los,90
+2003-11-01,LA,93,Los,108
+2003-11-03,Los,98,Portland,95 OT
+2003-11-05,Cleveland,89,Los,70
+2003-11-07,Boston,98,Los,95 OT
+2003-11-08,Washington,100,Los,99
+2003-11-12,Los,83,Atlanta,95
+2003-11-15,Los,96,Golden State,89 OT
+2003-11-17,Los,89,Houston,93
+2003-11-19,Dallas,98,Los,72
+2003-11-20,San Antonio,95,Los,88
+2003-11-22,Los,86,Chicago,73
+2003-11-24,Los,111,Milwaukee,99
+2003-11-26,Miami,97,Los,85
+2003-11-27,Orlando,112,Los,102
+2003-11-29,Memphis,106 OT,Los,112
+2003-12-01,Los,107,Minnesota,110
+2003-12-03,Los,101,Memphis,91
+2003-12-04,Utah,93,Los,85
+2003-12-06,Los,105,Dallas,103
+2003-12-08,Los,110,Utah,101
+2003-12-10,Golden State,106,Los,102
+2003-12-13,Los,82,New Orleans,98
+2003-12-15,Los,107,Orlando,84
+2003-12-17,Minnesota,96,Los,80
+2003-12-19,Brooklyn,98,Los,71
+2003-12-20,Philadelphia,107,Los,104 OT
+2003-12-22,Toronto,107 OT,Los,109
+2003-12-25,Los,99,Sacramento,105
+2003-12-28,Denver,93,Los,112
+2003-12-29,Los,104,Toronto,88
+2003-01-04,Phoenix,107,Los,93
+2003-01-05,Los,109,Phoenix,97
+2003-01-07,Los,119,Oklahoma City,98
+2003-01-10,Los,115,Cleveland,99
+2003-01-12,Los,106,Miami,81
+2003-01-15,New Orleans,82,Los,90
+2003-01-17,Houston,108,Los,104 OT
+2003-01-20,Los,96,LA,92
+2003-01-22,Los,110,Golden State,114
+2003-01-24,Los,83,Brooklyn,89
+2003-01-29,Phoenix,90,Los,99
+2003-01-31,Sacramento,113,Los,124
+2003-02-01,Los,99,Utah,87
+2003-02-04,Indiana,94,Los,97
+2003-02-06,NY Knicks,109,Los,114
+2003-02-11,Los,121,Denver,93
+2003-02-12,Denver,102,Los,113
+2003-02-14,Los,95,San Antonio,103
+2003-02-16,Los,110,NY Knicks,117
+2003-02-18,Los,106,Houston,99 2OT
+2003-02-19,Utah,87,Los,93
+2003-02-21,Los,92,Portland,84
+2003-02-23,Los,106,Oklahoma City,101
+2003-02-25,Los,109,LA,98
+2003-02-27,Los,95,Detroit,85
+2003-02-28,Oklahoma City,107,Los,90
+2003-03-05,Los,97,Indiana,95
+2003-03-07,Los,106,Minnesota,96
+2003-03-09,Los,106,Philadelphia,92
+2003-03-11,Chicago,116,Los,99
+2003-03-12,Detroit,111,Los,88
+2003-03-14,Minnesota,99,Los,106
+2003-03-15,Milwaukee,94,Los,98
+2003-03-17,LA,85,Los,102
+2003-03-20,Sacramento,107,Los,99
+2003-03-21,Los,104,Boston,96
+2003-03-23,San Antonio,98,Los,89
+2003-03-25,Atlanta,91,Los,108
+2003-03-26,Houston,93,Los,96
+2003-03-28,Los,108,Washington,94
+2003-03-30,Oklahoma City,119,Los,98
+2003-03-31,Los,110,Memphis,94
+2003-04-03,Dallas,89,Los,100
+2003-04-04,Memphis,101,Los,102
+2003-04-06,Los,115,Phoenix,113 OT
+2003-04-08,Los,108,Dallas,99
+2003-04-10,Los,117,Sacramento,104
+2003-04-13,Portland,101,Los,99
+2003-04-15,Los,126,Denver,104
+2003-04-16,Golden State,111,Los,117

@@ -1,0 +1,84 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2016-10-28,Boston,112,Philadelphia,95
+2016-10-30,Philadelphia,71,Utah,99
+2016-11-02,Philadelphia,100,Cleveland,107
+2016-11-04,Milwaukee,91,Philadelphia,87
+2016-11-06,Cleveland,108,Philadelphia,102
+2016-11-07,Philadelphia,97,Orlando,105
+2016-11-09,Philadelphia,88,Chicago,111
+2016-11-11,Philadelphia,103,Toronto,119
+2016-11-13,Oklahoma City,102,Philadelphia,85
+2016-11-14,San Antonio,92,Philadelphia,83
+2016-11-16,Philadelphia,86,Dallas,92
+2016-11-18,Philadelphia,85,Indiana,112
+2016-11-20,Charlotte,113,Philadelphia,88
+2016-11-21,Miami,96,Philadelphia,91
+2016-11-23,Minnesota,100,Philadelphia,95
+2016-11-25,Boston,84,Philadelphia,80
+2016-11-27,Houston,116,Philadelphia,114
+2016-11-29,Memphis,92,Philadelphia,84
+2016-12-01,Philadelphia,103,Los Angeles,91
+2016-12-02,NY Knicks,99,Philadelphia,87
+2016-12-05,Philadelphia,105,Denver,108
+2016-12-07,Philadelphia,68,San Antonio,119
+2016-12-10,Brooklyn,100,Philadelphia,91
+2016-12-11,Philadelphia,95,Detroit,107
+2016-12-13,Toronto,96,Philadelphia,76
+2016-12-14,Chicago,115,Philadelphia,96
+2016-12-16,Atlanta,127,Philadelphia,106
+2016-12-18,Philadelphia,97,NY Knicks,107
+2016-12-20,Cleveland,108,Philadelphia,86
+2016-12-22,Philadelphia,90,Memphis,104
+2016-12-23,Milwaukee,113,Philadelphia,100
+2016-12-26,Phoenix,104,Philadelphia,111
+2016-12-28,Utah,95,Philadelphia,91
+2016-12-30,Sacramento,105,Philadelphia,110
+2016-01-01,Los Angeles,93,Philadelphia,84
+2016-01-02,LA,130,Philadelphia,99
+2016-01-04,Philadelphia,109,Minnesota,99
+2016-01-07,Philadelphia,98,Atlanta,126
+2016-01-09,Philadelphia,95,Toronto,108
+2016-01-10,Philadelphia,85,Cleveland,95
+2016-01-14,Philadelphia,111 OT,Chicago,115
+2016-01-16,Philadelphia,114,Portland,89
+2016-01-18,NY Knicks,119,Philadelphia,113 2OT
+2016-01-20,Orlando,87,Philadelphia,96
+2016-01-23,Philadelphia,-,Boston,-
+2016-01-24,Philadelphia,92,Boston,112
+2016-01-26,Philadelphia,113,Phoenix,103
+2016-01-27,Detroit,110,Philadelphia,97
+2016-01-30,Philadelphia,105,Golden State,108
+2016-02-03,Philadelphia,86,Atlanta,124
+2016-02-05,Washington,106,Philadelphia,94
+2016-02-06,Philadelphia,103,Brooklyn,98
+2016-02-08,Philadelphia,92 OT,LA,98
+2016-02-10,Philadelphia,110,Sacramento,114
+2016-02-19,New Orleans,121,Philadelphia,114
+2016-02-21,Dallas,129,Philadelphia,103
+2016-02-23,Philadelphia,115,Orlando,124
+2016-02-24,Detroit,111,Philadelphia,91
+2016-02-26,Philadelphia,94,Washington,103
+2016-02-28,Orlando,130,Philadelphia,116
+2016-02-29,Washington,116,Philadelphia,108
+2016-03-02,Philadelphia,99,Charlotte,119
+2016-03-04,Philadelphia,102,Miami,112
+2016-03-06,Miami,103,Philadelphia,98
+2016-03-09,Philadelphia,104,Houston,118
+2016-03-11,Philadelphia,95,Brooklyn,89
+2016-03-12,Philadelphia,111,Detroit,125
+2016-03-15,Brooklyn,131,Philadelphia,114
+2016-03-17,Philadelphia,94,Washington,99
+2016-03-18,Philadelphia,97,Oklahoma City,111
+2016-03-20,Philadelphia,105,Boston,120
+2016-03-21,Indiana,91,Philadelphia,75
+2016-03-23,Denver,104,Philadelphia,103
+2016-03-26,Portland,108,Philadelphia,105
+2016-03-27,Golden State,117,Philadelphia,105
+2016-03-29,Philadelphia,85,Charlotte,100
+2016-04-01,Charlotte,100,Philadelphia,91
+2016-04-02,Philadelphia,102,Indiana,115
+2016-04-05,Philadelphia,107,New Orleans,93
+2016-04-08,Philadelphia,102,NY Knicks,109
+2016-04-10,Philadelphia,108 OT,Milwaukee,109
+2016-04-12,Toronto,122,Philadelphia,98
+2016-04-13,Chicago,115,Philadelphia,105

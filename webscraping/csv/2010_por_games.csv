@@ -1,0 +1,657 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Portland,102,Los Angeles,90
+2003-10-31,Sacramento,100,Portland,72
+2003-11-02,Portland,79,Denver,96
+2003-11-03,Los Angeles,98,Portland,95 OT
+2003-11-06,Portland,94,Memphis,88
+2003-11-08,Phoenix,86,Portland,75
+2003-11-09,San Antonio,76,Portland,95
+2003-11-11,Dallas,82,Portland,73
+2003-11-12,Houston,86,Portland,83
+2003-11-15,Portland,112,LA,88
+2003-11-20,Portland,98,Orlando,84
+2003-11-21,Oklahoma City,85,Portland,89
+2003-11-23,Portland,94,Sacramento,95
+2003-11-26,Portland,77,Houston,71
+2003-11-30,Portland,86,Brooklyn,93
+2003-12-04,Portland,88,Dallas,103
+2003-12-06,Portland,88,Miami,69
+2003-12-08,Toronto,91,Portland,104
+2003-12-10,Washington,79,Portland,98
+2003-12-11,Brooklyn,105,Portland,104
+2003-12-13,Milwaukee,101,Portland,79
+2003-12-14,Minnesota,92 OT,Portland,98
+2003-12-17,Portland,102,New Orleans,93
+2003-12-18,LA,93,Portland,97
+2003-12-20,Golden State,111,Portland,113
+2003-12-21,Portland,81,Oklahoma City,80
+2003-12-27,Portland,103,Utah,98
+2003-12-28,Sacramento,113 OT,Portland,119
+2003-12-30,Detroit,74,Portland,85
+2003-12-31,Chicago,102,Portland,87
+2003-01-03,Boston,103,Portland,108
+2003-01-05,NY Knicks,89,Portland,92
+2003-01-07,Portland,81,Phoenix,88
+2003-01-09,Portland,90,San Antonio,87
+2003-01-10,Denver,82,Portland,81
+2003-01-13,Portland,118,Cleveland,94
+2003-01-15,Portland,100,Memphis,92
+2003-01-18,Portland,98,Minnesota,104
+2003-01-20,Memphis,87,Portland,99
+2003-01-22,Atlanta,110 2OT,Portland,112
+2003-01-24,New Orleans,96 OT,Portland,97
+2003-01-26,Dallas,93,Portland,100
+2003-01-28,Portland,98,Denver,92
+2003-01-29,Utah,95,Portland,71
+2003-01-31,Portland,107,Chicago,94
+2003-02-02,Cleveland,95,Portland,114
+2003-02-04,Orlando,89,Portland,96
+2003-02-05,Miami,87,Portland,101
+2003-02-11,Portland,111 OT,San Antonio,116
+2003-02-13,Portland,92,Boston,100
+2003-02-15,Portland,101,Oklahoma City,96
+2003-02-17,Portland,99,NY Knicks,91
+2003-02-19,Portland,125,Golden State,98
+2003-02-21,Los Angeles,92,Portland,84
+2003-02-22,Portland,90,Milwaukee,93
+2003-02-25,Portland,89,Atlanta,86
+2003-02-26,Denver,84,Portland,94
+2003-02-28,Portland,109,LA,103
+2003-03-02,Portland,103,Detroit,86
+2003-03-05,Phoenix,98,Portland,92
+2003-03-06,Portland,60,Philadelphia,88
+2003-03-08,Portland,94,Indiana,80
+2003-03-11,Oklahoma City,77,Portland,92
+2003-03-12,Portland,125,Toronto,103
+2003-03-14,Philadelphia,90,Portland,79
+2003-03-16,Minnesota,111,Portland,95
+2003-03-17,Indiana,88,Portland,95
+2003-03-19,Portland,94,Houston,83
+2003-03-22,Portland,104,Sacramento,113
+2003-03-25,Portland,91,Washington,95
+2003-03-26,Utah,94,Portland,85
+2003-03-28,Portland,112,Dallas,95
+2003-04-01,Portland,100,Golden State,86
+2003-04-03,Portland,88,Utah,93
+2003-04-04,Golden State,100,Portland,122
+2003-04-06,Portland,78,Minnesota,97
+2003-04-08,Houston,66,Portland,81
+2003-04-09,San Antonio,84,Portland,79
+2003-04-11,Memphis,96,Portland,93
+2003-04-13,Portland,101,Los Angeles,99
+2003-04-15,Portland,120,Phoenix,102
+2003-04-16,LA,107,Portland,93
+2004-10-29,Utah,99,Portland,92
+2004-11-01,Portland,104,Cleveland,85
+2004-11-03,Portland,83,Philadelphia,94
+2004-11-05,Portland,93,Memphis,87
+2004-11-07,Oklahoma City,100,Portland,82
+2004-11-08,Portland,90,Atlanta,83
+2004-11-11,Portland,83,Toronto,80
+2004-11-13,Portland,112,Sacramento,110 OT
+2004-11-15,New Orleans,101,Portland,79
+2004-11-17,Dallas,105,Portland,98
+2004-11-19,Portland,94,Miami,93
+2004-11-21,Portland,85,Houston,78
+2004-11-23,Golden State,78,Portland,72
+2004-11-25,Portland,80,Washington,81
+2004-11-28,Portland,97,Brooklyn,93
+2004-12-03,Portland,97,Indiana,95 OT
+2004-12-05,Portland,88,NY Knicks,81
+2004-12-07,Memphis,93,Portland,79
+2004-12-09,Houston,93,Portland,91
+2004-12-10,San Antonio,102,Portland,77
+2004-12-13,Portland,112,Los Angeles,108
+2004-12-16,Portland,99,Milwaukee,106
+2004-12-18,Portland,101,Phoenix,94
+2004-12-20,Portland,91,San Antonio,101
+2004-12-21,Sacramento,117,Portland,98
+2004-12-23,Portland,97,Dallas,88
+2004-12-26,Portland,101,Minnesota,92
+2004-12-28,Cleveland,86,Portland,74
+2004-12-29,Brooklyn,87,Portland,91
+2004-12-31,Detroit,78,Portland,71
+2004-01-02,Portland,96,Denver,106
+2004-01-05,Oklahoma City,119,Portland,108 OT
+2004-01-08,Minnesota,96,Portland,75
+2004-01-09,Chicago,78,Portland,87
+2004-01-11,Toronto,83,Portland,72
+2004-01-13,LA,103,Portland,96 OT
+2004-01-15,Portland,96,Phoenix,105
+2004-01-17,Portland,104,Dallas,108
+2004-01-18,Phoenix,96,Portland,92
+2004-01-20,Sacramento,104 OT,Portland,109
+2004-01-24,Portland,87,Golden State,105
+2004-01-26,Washington,83,Portland,94
+2004-01-28,Memphis,76,Portland,88
+2004-01-29,Atlanta,85,Portland,93
+2004-01-31,Portland,102,Chicago,95 OT
+2004-02-02,Denver,116,Portland,97
+2004-02-04,Phoenix,97,Portland,101
+2004-02-06,Utah,73,Portland,87
+2004-02-08,Portland,95,Oklahoma City,85
+2004-02-10,Portland,81,Utah,86
+2004-02-12,Portland,98,Denver,107
+2004-02-17,Los Angeles,89,Portland,86
+2004-02-18,Portland,101,LA,86
+2004-02-20,Golden State,93,Portland,94
+2004-02-21,Portland,105,Boston,84
+2004-02-23,Miami,81,Portland,89
+2004-02-24,Orlando,91 OT,Portland,94
+2004-02-27,Houston,89,Portland,85
+2004-02-28,Dallas,111,Portland,91
+2004-03-03,Portland,88,Memphis,97
+2004-03-04,Portland,68,Detroit,83
+2004-03-06,Portland,91,Utah,70
+2004-03-07,LA,91,Portland,71
+2004-03-10,Portland,92,Minnesota,79
+2004-03-12,Portland,83,Sacramento,81
+2004-03-14,Minnesota,83,Portland,92
+2004-03-16,Milwaukee,99,Portland,100
+2004-03-17,Indiana,80,Portland,71
+2004-03-20,Portland,92,Orlando,73
+2004-03-22,Portland,85 OT,Houston,93
+2004-03-24,Portland,91,LA,85
+2004-03-27,Portland,115,Oklahoma City,108 OT
+2004-03-29,NY Knicks,92,Portland,91
+2004-03-31,Boston,98,Portland,105
+2004-04-01,Philadelphia,82,Portland,88
+2004-04-03,Portland,81,New Orleans,94
+2004-04-06,Los Angeles,80,Portland,91
+2004-04-07,Portland,87,Golden State,81
+2004-04-09,San Antonio,84,Portland,74
+2004-04-10,Denver,110,Portland,100 OT
+2004-04-12,Portland,66,San Antonio,78
+2004-04-14,Portland,104 2OT,Los Angeles,105
+2005-11-03,Golden State,75,Portland,78
+2005-11-05,Portland,94,LA,81
+2005-11-07,Toronto,101,Portland,97
+2005-11-09,Brooklyn,64,Portland,60
+2005-11-10,Boston,90,Portland,88
+2005-11-13,Portland,105,Toronto,102
+2005-11-17,Portland,82,Memphis,101
+2005-11-19,Portland,110,Milwaukee,98
+2005-11-21,Portland,93,Houston,97
+2005-11-23,Miami,87,Portland,99
+2005-11-24,Orlando,83,Portland,89
+2005-11-26,Dallas,92,Portland,83
+2005-11-28,Portland,83,Brooklyn,71
+2005-11-30,Portland,100,Oklahoma City,94
+2005-12-04,Oklahoma City,99,Portland,89
+2005-12-05,Portland,99,Phoenix,121
+2005-12-09,Portland,89,Boston,87
+2005-12-10,Utah,92,Portland,87 OT
+2005-12-12,Portland,98,Utah,88
+2005-12-14,Minnesota,100,Portland,89
+2005-12-15,Cleveland,112,Portland,88
+2005-12-17,Atlanta,84,Portland,100
+2005-12-18,Detroit,74,Portland,75
+2005-12-20,Chicago,92,Portland,87
+2005-12-22,Milwaukee,95,Portland,104
+2005-12-27,Portland,104,Philadelphia,111
+2005-12-30,Portland,80,San Antonio,114
+2005-01-01,Portland,97,Golden State,88
+2005-01-02,Phoenix,117,Portland,98
+2005-01-05,LA,102,Portland,98
+2005-01-07,Portland,92,Miami,103
+2005-01-09,NY Knicks,113,Portland,105
+2005-01-10,Philadelphia,100,Portland,109
+2005-01-12,Washington,104,Portland,100
+2005-01-14,New Orleans,112,Portland,106
+2005-01-15,Minnesota,92,Portland,84
+2005-01-18,Sacramento,113,Portland,107 OT
+2005-01-19,Portland,101,Cleveland,107
+2005-01-22,Portland,83,Minnesota,92
+2005-01-24,Portland,107,San Antonio,99
+2005-01-26,Portland,88,Dallas,95
+2005-01-28,Portland,90,LA,86
+2005-02-01,Los Angeles,92,Portland,79
+2005-02-02,Portland,97,Denver,94
+2005-02-04,Portland,101,Charlotte,89
+2005-02-05,Portland,114,Sacramento,108
+2005-02-09,Portland,80,New Orleans,91
+2005-02-11,Memphis,88,Portland,82
+2005-02-13,Houston,81,Portland,80
+2005-02-14,Charlotte,77,Portland,80
+2005-02-16,Indiana,95,Portland,87
+2005-02-23,Portland,83,Los Angeles,86
+2005-02-25,Portland,102,Atlanta,101
+2005-02-27,Portland,83,Minnesota,91
+2005-03-01,Portland,93,Detroit,103
+2005-03-04,Portland,97,Indiana,106
+2005-03-05,Phoenix,129,Portland,116
+2005-03-07,Denver,111,Portland,98
+2005-03-09,Portland,84,Chicago,97
+2005-03-12,Portland,80,Memphis,66
+2005-03-14,Memphis,104,Portland,83
+2005-03-16,Houston,108,Portland,77
+2005-03-17,Dallas,98,Portland,94
+2005-03-19,Portland,92,Orlando,97
+2005-03-21,LA,96,Portland,89
+2005-03-22,Sacramento,112,Portland,93
+2005-03-24,Portland,91,Oklahoma City,96
+2005-03-26,Portland,103,NY Knicks,96
+2005-03-28,Portland,106,Washington,114
+2005-03-30,Portland,84,Houston,100
+2005-04-01,Oklahoma City,89,Portland,87
+2005-04-02,Portland,97,Denver,103
+2005-04-05,Utah,90,Portland,79
+2005-04-06,Portland,102,Golden State,104
+2005-04-08,Portland,115,Sacramento,119
+2005-04-10,New Orleans,81,Portland,90
+2005-04-12,San Antonio,95,Portland,89
+2005-04-14,Portland,90,Dallas,102
+2005-04-15,Golden State,108,Portland,88
+2005-04-17,Portland,100,Utah,82
+2005-04-19,Denver,119,Portland,115
+2005-04-20,Portland,106,Los Angeles,103
+2006-11-02,Minnesota,90,Portland,86
+2006-11-04,Denver,107,Portland,68
+2006-11-05,Portland,94,Atlanta,93
+2006-11-09,Portland,95,NY Knicks,83
+2006-11-11,Portland,81,Detroit,84
+2006-11-16,Portland,96,Chicago,93
+2006-11-18,Portland,80,Golden State,91
+2006-11-20,NY Knicks,103,Portland,92
+2006-11-22,Memphis,87,Portland,95
+2006-11-23,Miami,100,Portland,79
+2006-11-25,Orlando,104,Portland,89
+2006-11-27,Atlanta,75,Portland,77
+2006-11-29,Philadelphia,107,Portland,83
+2006-11-30,Washington,96,Portland,89
+2006-12-02,Portland,78,Indiana,98
+2006-12-04,Portland,93,Utah,98
+2006-12-06,Phoenix,130,Portland,85
+2006-12-07,Portland,74,Minnesota,84
+2006-12-09,Portland,98,New Orleans,95 OT
+2006-12-11,Portland,86,Houston,100
+2006-12-14,Utah,82,Portland,77
+2006-12-16,Portland,99,Oklahoma City,111
+2006-12-18,Portland,97,Washington,92
+2006-12-20,Detroit,93,Portland,89
+2006-12-21,Memphis,89,Portland,79
+2006-12-23,Minnesota,83,Portland,91
+2006-12-26,Sacramento,92,Portland,105
+2006-12-28,Portland,95,Philadelphia,91
+2006-12-30,Portland,90,Memphis,93
+2006-01-01,Portland,94,LA,100
+2006-01-03,Dallas,95,Portland,81
+2006-01-04,San Antonio,106,Portland,75
+2006-01-06,New Orleans,90,Portland,80
+2006-01-08,Portland,89,Miami,118
+2006-01-11,Portland,113,Los Angeles,103
+2006-01-13,Portland,113,Orlando,108
+2006-01-15,Portland,89,Cleveland,87
+2006-01-18,Portland,96,Toronto,94
+2006-01-22,Portland,89 OT,Dallas,95
+2006-01-25,Portland,94,Denver,97
+2006-01-27,Portland,88,Brooklyn,83
+2006-01-28,Golden State,98,Portland,83
+2006-01-30,Oklahoma City,111,Portland,116
+2006-02-01,Portland,82,San Antonio,86
+2006-02-03,Portland,89,Minnesota,85
+2006-02-04,Denver,105,Portland,104
+2006-02-08,Indiana,101,Portland,69
+2006-02-10,Boston,115,Portland,83
+2006-02-12,Toronto,114,Portland,81
+2006-02-13,Charlotte,83,Portland,91
+2006-02-15,New Orleans,102,Portland,86
+2006-02-21,Los Angeles,99,Portland,82
+2006-02-22,Portland,106,Charlotte,110
+2006-02-24,Portland,96,Boston,102
+2006-02-26,Portland,75,New Orleans,88
+2006-02-27,Sacramento,115,Portland,91
+2006-03-01,Portland,99,Los Angeles,93
+2006-03-04,San Antonio,101,Portland,81
+2006-03-05,Houston,102,Portland,84
+2006-03-07,Dallas,93,Portland,87
+2006-03-09,Portland,92,Dallas,109
+2006-03-12,Portland,111,Phoenix,101
+2006-03-14,Chicago,95,Portland,66
+2006-03-15,Brooklyn,78,Portland,65
+2006-03-17,Cleveland,99,Portland,84
+2006-03-18,Milwaukee,97,Portland,93
+2006-03-20,Portland,93,Milwaukee,100
+2006-03-23,Phoenix,125,Portland,108
+2006-03-24,Portland,79,San Antonio,98
+2006-03-26,Portland,83,LA,97
+2006-03-29,Portland,90,Sacramento,106
+2006-04-01,Portland,89,Utah,102
+2006-04-02,Oklahoma City,122,Portland,83
+2006-04-05,Portland,76,Houston,75
+2006-04-07,Portland,108,Oklahoma City,121
+2006-04-08,Utah,110,Portland,93
+2006-04-10,Portland,98,Denver,110
+2006-04-12,LA,97,Portland,93
+2006-04-14,Los Angeles,110,Portland,99
+2006-04-15,Portland,81,Golden State,86
+2006-04-17,Golden State,93,Portland,79
+2006-04-19,Portland,96,Phoenix,106
+2007-11-01,Oklahoma City,106,Portland,110
+2007-11-03,Golden State,102,Portland,89
+2007-11-04,Portland,88,Minnesota,86
+2007-11-06,LA,102,Portland,89
+2007-11-08,Portland,101,Los Angeles,90
+2007-11-10,Portland,92,New Orleans,91
+2007-11-12,Portland,96,Dallas,103
+2007-11-14,Minnesota,101,Portland,89
+2007-11-15,Cleveland,100,Portland,87
+2007-11-17,Boston,118,Portland,90
+2007-11-18,Brooklyn,68,Portland,86
+2007-11-20,Portland,98,San Antonio,107
+2007-11-22,Portland,100,Brooklyn,97
+2007-11-25,Sacramento,105,Portland,85
+2007-11-26,Portland,101,Phoenix,119
+2007-11-28,Portland,97,Indiana,105
+2007-12-01,Portland,89,Orlando,91
+2007-12-03,Portland,96,Atlanta,107
+2007-12-05,Detroit,85,Portland,88
+2007-12-06,Milwaukee,102,Portland,94 OT
+2007-12-08,Indiana,108,Portland,95
+2007-12-10,Toronto,83,Portland,93
+2007-12-11,Philadelphia,79,Portland,81
+2007-12-13,Memphis,79,Portland,85
+2007-12-15,Portland,109,LA,99
+2007-12-20,Portland,89,Houston,87
+2007-12-22,Portland,100 OT,Toronto,101
+2007-12-26,Phoenix,110,Portland,87
+2007-12-27,Portland,100,New Orleans,85
+2007-12-29,Portland,95,Philadelphia,98
+2007-12-30,Utah,96,Portland,86
+2007-01-01,Portland,81,Boston,89
+2007-01-03,Portland,81,NY Knicks,99
+2007-01-06,Sacramento,105 OT,Portland,110
+2007-01-07,Portland,90,Miami,93
+2007-01-09,San Antonio,98,Portland,84
+2007-01-10,Dallas,99,Portland,74
+2007-01-12,Portland,95,Sacramento,87
+2007-01-14,Portland,93,Denver,109
+2007-01-17,Portland,94,Cleveland,76
+2007-01-19,Phoenix,106,Portland,101
+2007-01-21,Portland,99,Milwaukee,95
+2007-01-24,Portland,101,Minnesota,98 OT
+2007-01-26,Houston,99,Portland,69
+2007-01-27,Memphis,132 2OT,Portland,135
+2007-01-29,New Orleans,103,Portland,91
+2007-01-31,Portland,100,Denver,91
+2007-02-02,Denver,114,Portland,107 OT
+2007-02-03,Portland,86,Chicago,88
+2007-02-06,Portland,102 OT,Phoenix,109
+2007-02-09,Charlotte,100 OT,Portland,108
+2007-02-11,Washington,73,Portland,94
+2007-02-13,Miami,104,Portland,85
+2007-02-14,Orlando,103,Portland,91
+2007-02-20,Portland,103,Utah,100
+2007-02-21,Los Angeles,108,Portland,112
+2007-02-23,Portland,102,Memphis,103
+2007-02-26,Oklahoma City,97,Portland,73
+2007-03-01,Portland,127,Charlotte,90
+2007-03-03,Portland,96,Sacramento,104
+2007-03-06,Portland,94,San Antonio,99
+2007-03-11,Portland,106,Golden State,87
+2007-03-13,Denver,107,Portland,99
+2007-03-14,Portland,75,Detroit,87
+2007-03-16,Los Angeles,116,Portland,111 OT
+2007-03-18,Portland,77,Oklahoma City,95
+2007-03-20,Portland,100,Washington,98
+2007-03-22,NY Knicks,86,Portland,92
+2007-03-23,Atlanta,100 OT,Portland,102
+2007-03-25,Minnesota,94,Portland,93
+2007-03-26,Chicago,100,Portland,89
+2007-03-29,Portland,92,Memphis,96
+2007-03-31,Portland,86,LA,99
+2007-04-04,Portland,94,Utah,89
+2007-04-06,Houston,78,Portland,85
+2007-04-07,Dallas,86,Portland,74
+2007-04-09,San Antonio,112,Portland,96
+2007-04-11,Portland,95,Houston,99
+2007-04-13,LA,107,Portland,89
+2007-04-14,Portland,108,Oklahoma City,102
+2007-04-16,Utah,130,Portland,93
+2007-04-18,Portland,98,Golden State,120
+2008-10-30,San Antonio,106,Portland,97
+2008-11-02,New Orleans,113,Portland,93
+2008-11-03,Houston,89,Portland,80
+2008-11-07,Portland,93,New Orleans,90
+2008-11-09,Portland,110,Memphis,98
+2008-11-10,Portland,91,Dallas,82
+2008-11-13,Portland,102,Detroit,94
+2008-11-14,Denver,110,Portland,93
+2008-11-16,Philadelphia,92,Portland,88
+2008-11-17,Washington,109,Portland,90
+2008-11-19,Charlotte,101,Portland,92
+2008-11-21,Portland,101,Brooklyn,106
+2008-11-23,Portland,87,Sacramento,84
+2008-11-26,Portland,74,Orlando,85
+2008-11-28,Portland,89,Indiana,95
+2008-11-30,Dallas,91,Portland,80
+2008-12-02,San Antonio,100,Portland,79
+2008-12-03,Memphis,105,Portland,106
+2008-12-06,Portland,112,Miami,106
+2008-12-09,Portland,117,Milwaukee,113 OT
+2008-12-11,Utah,89,Portland,97
+2008-12-12,Portland,105,Golden State,95
+2008-12-14,Portland,99,Utah,91
+2008-12-16,Denver,105,Portland,116
+2008-12-17,Portland,88,New Orleans,76
+2008-12-19,Portland,101,Toronto,96
+2008-12-21,Portland,99,Denver,96
+2008-12-25,Portland,89,Oklahoma City,79
+2008-12-28,Portland,109,Minnesota,98
+2008-12-30,Portland,97,Philadelphia,72
+2008-12-31,Utah,111,Portland,101
+2008-01-02,Minnesota,79,Portland,90
+2008-01-03,Chicago,109 2OT,Portland,115
+2008-01-05,Portland,103,Utah,89
+2008-01-09,Portland,109,Golden State,91
+2008-01-13,Toronto,116,Portland,109 2OT
+2008-01-14,Brooklyn,73,Portland,99
+2008-01-16,Boston,100,Portland,90
+2008-01-18,Miami,91,Portland,98
+2008-01-19,Orlando,101,Portland,94
+2008-01-21,Atlanta,109 OT,Portland,111
+2008-01-23,New Orleans,96,Portland,81
+2008-01-25,Portland,79,Houston,89
+2008-01-27,Portland,94,Atlanta,93
+2008-01-30,Portland,83,Cleveland,84
+2008-02-01,Portland,94,NY Knicks,88 OT
+2008-02-04,Portland,103 OT,Denver,105
+2008-02-06,Portland,100,Chicago,97
+2008-02-08,Detroit,91,Portland,82
+2008-02-09,Indiana,101,Portland,93
+2008-02-11,Houston,95,Portland,83
+2008-02-13,Dallas,96,Portland,76
+2008-02-19,Portland,94,Sacramento,105
+2008-02-21,Portland,92,Oklahoma City,88
+2008-02-22,Oklahoma City,99,Portland,87
+2008-02-24,Portland,102,Boston,112
+2008-02-26,Los Angeles,96,Portland,83
+2008-02-27,LA,80,Portland,82
+2008-02-29,Portland,119,Los Angeles,111
+2008-03-02,Golden State,110,Portland,104
+2008-03-04,Portland,92,Phoenix,97
+2008-03-07,Milwaukee,101,Portland,103
+2008-03-08,NY Knicks,114 OT,Portland,120
+2008-03-10,Cleveland,88,Portland,80
+2008-03-11,Minnesota,96,Portland,103
+2008-03-13,Sacramento,96,Portland,85
+2008-03-15,Portland,107,Minnesota,96
+2008-03-18,Portland,98,Phoenix,111
+2008-03-21,Portland,107,LA,102
+2008-03-22,LA,72,Portland,83
+2008-03-24,Oklahoma City,97,Portland,84
+2008-03-25,Portland,102,Washington,82
+2008-03-27,Golden State,111,Portland,95
+2008-03-29,Portland,85,Charlotte,93
+2008-04-02,Los Angeles,104,Portland,91
+2008-04-03,Portland,86,Houston,95
+2008-04-06,Portland,65,San Antonio,72
+2008-04-08,Portland,112,Los Angeles,103
+2008-04-11,Sacramento,103,Portland,86
+2008-04-12,Portland,108,Dallas,105
+2008-04-15,Portland,113,Memphis,91
+2008-04-16,Phoenix,100,Portland,91
+2009-10-28,Los Angeles,96,Portland,76
+2009-10-31,Portland,100,San Antonio,99
+2009-11-01,Phoenix,107,Portland,96
+2009-11-05,Utah,103,Portland,96
+2009-11-06,Portland,101,Houston,99 OT
+2009-11-08,Portland,97,Minnesota,93
+2009-11-10,Orlando,99,Portland,106
+2009-11-12,Miami,96,Portland,104
+2009-11-14,New Orleans,87,Portland,82
+2009-11-15,Minnesota,83,Portland,88
+2009-11-18,Golden State,111,Portland,106
+2009-11-19,Portland,116,Chicago,74
+2009-11-21,Sacramento,96,Portland,117
+2009-11-22,Phoenix,102,Portland,92
+2009-11-24,Portland,91,Sacramento,90
+2009-11-26,Portland,106,Miami,68
+2009-11-28,Portland,101,New Orleans,86
+2009-11-30,Detroit,85,Portland,96
+2009-12-02,NY Knicks,97,Portland,104
+2009-12-03,Washington,92,Portland,98
+2009-12-05,Boston,93,Portland,78
+2009-12-07,Toronto,97,Portland,98
+2009-12-09,Portland,108,Orlando,109
+2009-12-11,Utah,97,Portland,88
+2009-12-12,Portland,112 2OT,LA,120
+2009-12-16,Portland,109,Sacramento,77
+2009-12-18,Portland,124,Phoenix,119
+2009-12-22,Denver,97,Portland,89
+2009-12-23,Portland,101,Denver,92
+2009-12-25,Portland,94,Dallas,102
+2009-12-27,Portland,102,Toronto,89
+2009-12-30,Portland,91,Boston,86
+2009-01-02,Portland,77,New Orleans,92
+2009-01-04,Los Angeles,100,Portland,86
+2009-01-07,Portland,84,Detroit,83
+2009-01-10,Portland,113,Golden State,100
+2009-01-12,Chicago,95,Portland,109
+2009-01-14,Philadelphia,100,Portland,79
+2009-01-15,Brooklyn,99,Portland,105
+2009-01-17,Charlotte,102,Portland,97 OT
+2009-01-19,Portland,102,Milwaukee,85
+2009-01-21,Portland,98,Cleveland,104
+2009-01-24,Portland,100,Washington,87
+2009-01-26,LA,88,Portland,113
+2009-01-28,Portland,88,Charlotte,74
+2009-01-31,Portland,122,Utah,108
+2009-02-02,New Orleans,89,Portland,97
+2009-02-04,Dallas,104,Portland,99
+2009-02-06,Oklahoma City,102,Portland,93
+2009-02-08,Portland,109,NY Knicks,108
+2009-02-11,Portland,106,Oklahoma City,92
+2009-02-12,Golden State,105,Portland,98
+2009-02-18,Portland,94,Memphis,90
+2009-02-20,Portland,108,Atlanta,98
+2009-02-22,Portland,116,LA,87
+2009-02-24,Houston,98,Portland,94
+2009-02-25,San Antonio,99,Portland,84
+2009-02-27,Minnesota,82,Portland,102
+2009-03-01,Portland,102,San Antonio,84
+2009-03-04,Portland,107,Indiana,105
+2009-03-05,Denver,106,Portland,90
+2009-03-07,Portland,95,Minnesota,93
+2009-03-09,Portland,111,Los Angeles,94
+2009-03-11,Portland,89,Dallas,93
+2009-03-13,Portland,109,Brooklyn,100
+2009-03-15,Atlanta,98,Portland,80
+2009-03-16,Memphis,92,Portland,103
+2009-03-18,Indiana,85,Portland,95
+2009-03-19,Cleveland,97,Portland,92 OT
+2009-03-21,Milwaukee,84,Portland,96
+2009-03-23,Portland,108 OT,Philadelphia,114
+2009-03-26,Portland,129,Phoenix,109
+2009-03-28,Portland,86,Memphis,66
+2009-03-31,Portland,125,Utah,104
+2009-04-03,Oklahoma City,72,Portland,107
+2009-04-05,Houston,102,Portland,88
+2009-04-07,Memphis,93,Portland,96
+2009-04-08,San Antonio,83,Portland,95
+2009-04-10,Portland,106,Los Angeles,98
+2009-04-11,LA,72,Portland,87
+2009-04-13,Portland,113,Oklahoma City,83
+2009-04-15,Portland,104,Denver,76
+2010-10-27,Portland,96,Houston,87
+2010-10-29,Portland,94,Denver,97
+2010-10-31,Houston,111,Portland,107
+2010-11-01,Oklahoma City,74,Portland,83
+2010-11-03,Portland,91,Atlanta,97
+2010-11-06,Portland,96,San Antonio,84
+2010-11-08,Portland,116,Minnesota,93
+2010-11-10,Memphis,79,Portland,93
+2010-11-11,Minnesota,84,Portland,107
+2010-11-13,New Orleans,78,Portland,86
+2010-11-14,Charlotte,74,Portland,80
+2010-11-16,Atlanta,99,Portland,95 OT
+2010-11-18,Portland,87,Detroit,81
+2010-11-20,Golden State,108,Portland,94
+2010-11-21,Portland,106,Minnesota,78
+2010-11-23,Portland,122,Chicago,98
+2010-11-25,Portland,93,Brooklyn,83
+2010-11-27,Portland,96,Memphis,106
+2010-11-28,Utah,108,Portland,92
+2010-12-01,Portland,100,Miami,107
+2010-12-05,Portland,90,Houston,89
+2010-12-07,NY Knicks,93,Portland,84
+2010-12-09,Indiana,91,Portland,102
+2010-12-11,Cleveland,104,Portland,99
+2010-12-12,Milwaukee,108,Portland,101 2OT
+2010-12-15,Portland,95,Sacramento,88
+2010-12-17,Portland,105,Phoenix,102
+2010-12-19,Orlando,92,Portland,83
+2010-12-20,Miami,95,Portland,102
+2010-12-22,Dallas,81,Portland,85
+2010-12-23,San Antonio,94,Portland,98
+2010-12-25,Portland,107,Denver,96
+2010-12-28,Portland,93,Philadelphia,104
+2010-12-30,Portland,103,LA,99
+2010-01-02,Portland,105,Golden State,89
+2010-01-04,LA,105,Portland,95
+2010-01-05,Portland,105,Memphis,109
+2010-01-08,Portland,107,Los Angeles,98
+2010-01-10,Portland,94,Cleveland,106
+2010-01-13,Portland,120,Milwaukee,108
+2010-01-15,Portland,102,Orlando,87
+2010-01-18,Washington,97,Portland,92
+2010-01-20,Philadelphia,90,Portland,98
+2010-01-22,Boston,98,Portland,95 OT
+2010-01-23,Detroit,93,Portland,97
+2010-01-25,Portland,97,New Orleans,98
+2010-01-27,Portland,95,Utah,106
+2010-01-29,Houston,104,Portland,100
+2010-01-30,Dallas,112 OT,Portland,114
+2010-02-01,Portland,98,Charlotte,79
+2010-02-03,Utah,118,Portland,105
+2010-02-04,Portland,96,San Antonio,93
+2010-02-06,Portland,82,Los Angeles,99
+2010-02-09,Portland,77,Oklahoma City,89
+2010-02-10,Phoenix,101,Portland,108
+2010-02-16,Portland,109,LA,87
+2010-02-19,Portland,76,Boston,96
+2010-02-21,Portland,89 OT,Utah,93
+2010-02-23,Brooklyn,93,Portland,102
+2010-02-24,Toronto,87,Portland,101
+2010-02-26,Chicago,115,Portland,111 OT
+2010-02-27,Minnesota,91,Portland,110
+2010-03-01,Memphis,93,Portland,103
+2010-03-03,Portland,102,Indiana,79
+2010-03-07,Denver,118,Portland,106
+2010-03-09,Portland,88,Sacramento,81
+2010-03-11,Golden State,105,Portland,110
+2010-03-12,Sacramento,94,Portland,110
+2010-03-14,Portland,109,Toronto,98
+2010-03-19,Portland,76,Washington,74
+2010-03-21,Phoenix,93,Portland,87
+2010-03-25,Portland,101,Dallas,89
+2010-03-27,New Orleans,101,Portland,112
+2010-03-28,Oklahoma City,87,Portland,92
+2010-03-31,Portland,118,NY Knicks,90
+2010-04-01,Denver,109,Portland,92
+2010-04-03,Sacramento,87,Portland,98
+2010-04-07,LA,85,Portland,93
+2010-04-09,Portland,77,Dallas,83
+2010-04-11,Los Angeles,88,Portland,91
+2010-04-12,Portland,103,Oklahoma City,95
+2010-04-14,Portland,116,Golden State,122

@@ -1,0 +1,165 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-29,Los Angeles,81,San,87
+2003-10-30,Golden State,106,San,98
+2003-11-01,San,91,Toronto,72
+2003-11-04,Memphis,101 OT,San,103
+2003-11-05,San,93,Golden State,73
+2003-11-09,San,76,Portland,95
+2003-11-11,San,91,Minnesota,75
+2003-11-13,Brooklyn,91,San,82
+2003-11-14,Philadelphia,99,San,94
+2003-11-16,Cleveland,77,San,90
+2003-11-18,San,104,Cleveland,78
+2003-11-20,San,95,Los Angeles,88
+2003-11-22,San,95,Memphis,86
+2003-11-24,San,90,Oklahoma City,91
+2003-11-26,Denver,85,San,81
+2003-11-27,San,99,Denver,68
+2003-11-29,Phoenix,94,San,87
+2003-11-30,San,107,Utah,85
+2003-12-03,Houston,89,San,75
+2003-12-06,San,98,Philadelphia,93
+2003-12-08,San,80,Sacramento,104
+2003-12-11,San,111,Dallas,104
+2003-12-13,San,97,LA,84
+2003-12-16,LA,91,San,79
+2003-12-18,Oklahoma City,88,San,91
+2003-12-19,Sacramento,81,San,83
+2003-12-21,San,92,Washington,81
+2003-12-23,San,99,New Orleans,94 OT
+2003-12-27,Atlanta,81,San,79
+2003-12-28,Chicago,95,San,109
+2003-12-30,NY Knicks,96,San,95
+2003-12-31,Washington,105,San,103
+2003-01-03,San,98,Golden State,95
+2003-01-05,LA,86,San,94
+2003-01-08,Oklahoma City,95,San,106
+2003-01-09,Portland,90,San,87
+2003-01-12,San,81,Boston,80
+2003-01-14,San,108,Phoenix,100 OT
+2003-01-17,San,106,Atlanta,93
+2003-01-20,San,87,Houston,82
+2003-01-22,San,93,Memphis,98
+2003-01-24,Utah,90,San,91
+2003-01-25,San,108,Detroit,76
+2003-01-27,Minnesota,106,San,95
+2003-01-29,Indiana,97,San,106
+2003-01-31,Orlando,108,San,109
+2003-02-01,Miami,65,San,67
+2003-02-05,Golden State,99,San,103
+2003-02-06,Denver,74,San,83
+2003-02-11,Portland,111 OT,San,116
+2003-02-14,Los Angeles,95,San,103
+2003-02-16,Sacramento,101,San,104
+2003-02-18,San,101,Denver,76
+2003-02-20,Dallas,95,San,87
+2003-02-22,San,105,Indiana,96
+2003-02-25,San,84,Miami,69
+2003-03-01,San,108,Sacramento,100
+2003-03-02,Houston,88,San,97
+2003-03-04,San,97,Phoenix,104
+2003-03-06,San,92,Brooklyn,78
+2003-03-09,Boston,78,San,94
+2003-03-11,Milwaukee,102,San,105
+2003-03-12,Minnesota,99,San,111
+2003-03-14,San,107,LA,96
+2003-03-16,San,108,Chicago,97
+2003-03-18,San,97,NY Knicks,105
+2003-03-20,Dallas,110 OT,San,112
+2003-03-21,San,94 OT,Minnesota,101
+2003-03-23,San,98,Los Angeles,89
+2003-03-25,San,107,Milwaukee,94
+2003-03-27,San,98,Houston,85
+2003-03-29,San,101,Utah,81
+2003-03-30,New Orleans,90,San,92
+2003-04-01,San,118,Orlando,105
+2003-04-02,Memphis,87,San,105
+2003-04-04,Toronto,98,San,124
+2003-04-06,Detroit,83,San,89
+2003-04-09,San,84,Portland,79
+2003-04-11,San,94,Oklahoma City,86
+2003-04-13,Phoenix,92,San,85
+2003-04-14,Utah,83,San,91
+2003-04-16,San,72,Dallas,93
+2004-10-28,San,83,Phoenix,82
+2004-10-29,Denver,80,San,72
+2004-11-01,San,86,NY Knicks,74
+2004-11-03,Memphis,88,San,80
+2004-11-04,San,80,Miami,73
+2004-11-06,San,117 2OT,Los Angeles,120
+2004-11-08,San,78,Dallas,81
+2004-11-10,San,87,Utah,78
+2004-11-12,Brooklyn,71,San,85
+2004-11-14,Philadelphia,100,San,96
+2004-11-15,Washington,71,San,95
+2004-11-18,San,94,Golden State,81
+2004-11-20,Dallas,95,San,92
+2004-11-21,San,114,Atlanta,75
+2004-11-26,San,109,Chicago,98
+2004-11-28,Los Angeles,103,San,87
+2004-11-29,Golden State,91,San,89
+2004-12-01,LA,91,San,83
+2004-12-03,San,86,Los Angeles,90
+2004-12-05,Orlando,94,San,105
+2004-12-06,Miami,70,San,86
+2004-12-08,Chicago,82,San,96
+2004-12-10,San,102,Portland,77
+2004-12-11,Houston,67,San,71
+2004-12-13,San,86,Houston,73
+2004-12-15,San,78,Memphis,67
+2004-12-17,San,73,Toronto,70
+2004-12-19,Oklahoma City,73,San,87
+2004-12-20,Portland,91,San,101
+2004-12-23,San,111,LA,90
+2004-12-26,San,98,Orlando,83
+2004-12-28,San,89,Milwaukee,74
+2004-01-03,San,77,Philadelphia,83
+2004-01-05,Denver,74,San,98
+2004-01-06,San,94,Washington,72
+2004-01-09,New Orleans,84,San,94
+2004-01-10,San,89,Indiana,88 OT
+2004-01-13,Atlanta,86,San,77
+2004-01-14,San,93,Minnesota,100
+2004-01-16,Indiana,89,San,79
+2004-01-18,Boston,92,San,109
+2004-01-19,Detroit,85,San,77
+2004-01-21,San,99,Brooklyn,76
+2004-01-23,Phoenix,84,San,86
+2004-01-24,San,96,New Orleans,98
+2004-01-26,Milwaukee,93,San,92
+2004-01-27,NY Knicks,67,San,77
+2004-01-29,San,91,Sacramento,96
+2004-01-31,San,85,Utah,81
+2004-02-02,Utah,65,San,83
+2004-02-05,Oklahoma City,90,San,96
+2004-02-06,Sacramento,94,San,102
+2004-02-09,Houston,82,San,85
+2004-02-18,Toronto,82,San,86
+2004-02-20,Cleveland,89,San,87
+2004-02-22,Minnesota,92,San,94
+2004-02-24,San,86,Houston,77
+2004-02-26,Dallas,115,San,91
+2004-02-28,San,117,Denver,92
+2004-03-01,San,80,Memphis,81
+2004-03-03,San,88,Oklahoma City,84
+2004-03-05,San,113,Dallas,100
+2004-03-06,Phoenix,86,San,107
+2004-03-09,Memphis,94,San,88
+2004-03-10,San,108,LA,90
+2004-03-12,San,99,Golden State,74
+2004-03-14,Sacramento,101,San,87
+2004-03-15,Golden State,97,San,80
+2004-03-18,San,106,Minnesota,86
+2004-03-20,San,103,Boston,87
+2004-03-23,Minnesota,86,San,81
+2004-03-25,San,84,Detroit,75
+2004-03-27,San,105,Phoenix,76
+2004-03-29,San,101,Cleveland,93
+2004-03-31,San,107,Sacramento,89
+2004-04-02,Utah,81,San,94
+2004-04-04,Los Angeles,89,San,95
+2004-04-07,San,96,Oklahoma City,75
+2004-04-09,San,84,Portland,74
+2004-04-11,LA,79,San,88
+2004-04-12,Portland,66,San,78
+2004-04-14,San,93,Denver,67

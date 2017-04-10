@@ -1,0 +1,83 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2016-10-28,Memphis,76,Cleveland,106
+2016-10-29,Indiana,103,Memphis,112
+2016-10-31,Memphis,101,Brooklyn,91
+2016-11-02,Golden State,119,Memphis,69
+2016-11-03,Sacramento,89,Memphis,103
+2016-11-05,Portland,115,Memphis,96
+2016-11-07,Utah,89,Memphis,79
+2016-11-09,LA,94,Memphis,92
+2016-11-11,Memphis,84,Golden State,100
+2016-11-13,Memphis,101,Portland,100
+2016-11-15,Minnesota,106,Memphis,114
+2016-11-16,Memphis,122,Oklahoma City,114
+2016-11-20,Memphis,96,Houston,84
+2016-11-21,San Antonio,92,Memphis,82
+2016-11-24,Memphis,110,Dallas,96
+2016-11-25,Houston,93,Memphis,102
+2016-11-27,Memphis,101,Atlanta,116
+2016-11-29,Memphis,92,Philadelphia,84
+2016-12-01,New Orleans,104,Memphis,113
+2016-12-03,Memphis,83,San Antonio,103
+2016-12-06,Memphis,95,Phoenix,93
+2016-12-08,Memphis,88,Oklahoma City,125
+2016-12-09,Detroit,92,Memphis,93
+2016-12-11,Memphis,99,Charlotte,123
+2016-12-13,Miami,100,Memphis,97
+2016-12-14,Memphis,112,Washington,95
+2016-12-16,Chicago,98,Memphis,85
+2016-12-18,Dallas,97,Memphis,88
+2016-12-19,Memphis,96,Indiana,84
+2016-12-22,Philadelphia,90,Memphis,104
+2016-12-23,Washington,100,Memphis,91
+2016-12-26,Charlotte,98,Memphis,92
+2016-12-27,Memphis,112,Los Angeles,96
+2016-12-29,Memphis,99,Miami,90 OT
+2016-01-02,Utah,92,Memphis,87 OT
+2016-01-04,Portland,78,Memphis,91
+2016-01-06,Oklahoma City,112,Memphis,94
+2016-01-08,Memphis,91,Denver,84
+2016-01-10,Memphis,101,Boston,98
+2016-01-12,Memphis,91,Houston,107
+2016-01-14,Memphis,103,Detroit,101
+2016-01-16,Memphis,103,NY Knicks,95
+2016-01-18,Memphis,101,New Orleans,99
+2016-01-21,Denver,101,Memphis,102
+2016-01-23,Minnesota,106,Memphis,101
+2016-01-25,Memphis,108,Orlando,102 OT
+2016-01-28,Memphis,103,Milwaukee,83
+2016-01-30,Memphis,121,Sacramento,117
+2016-02-01,New Orleans,95,Memphis,110
+2016-02-05,NY Knicks,85,Memphis,91
+2016-02-06,Memphis,110 OT,Dallas,114
+2016-02-08,Memphis,106 OT,Portland,112
+2016-02-10,Brooklyn,90,Memphis,109
+2016-02-19,Memphis,109,Minnesota,104
+2016-02-21,Toronto,98,Memphis,85
+2016-02-24,Memphis,128,Los Angeles,119
+2016-02-26,Los Angeles,95,Memphis,112
+2016-02-27,Phoenix,111,Memphis,106
+2016-02-29,Denver,96,Memphis,103
+2016-03-02,Memphis,104,Sacramento,98
+2016-03-04,Memphis,94,Utah,88
+2016-03-06,Memphis,100,Phoenix,109
+2016-03-07,Cleveland,103,Memphis,106
+2016-03-09,Boston,116,Memphis,96
+2016-03-11,Memphis,121,New Orleans,114 OT
+2016-03-12,Atlanta,95,Memphis,83
+2016-03-14,Houston,130,Memphis,81
+2016-03-16,Memphis,108,Minnesota,114
+2016-03-17,Milwaukee,96,Memphis,86
+2016-03-19,Memphis,113,LA,102
+2016-03-21,Phoenix,97,Memphis,103
+2016-03-22,Los Angeles,107,Memphis,100
+2016-03-25,San Antonio,110,Memphis,104
+2016-03-28,Memphis,87,San Antonio,101
+2016-03-30,Memphis,105,Denver,109
+2016-04-01,Memphis,95,Toronto,99
+2016-04-03,Orlando,119,Memphis,107
+2016-04-05,Memphis,108,Chicago,92
+2016-04-08,Dallas,103,Memphis,93
+2016-04-09,Memphis,99,Golden State,100
+2016-04-12,LA,110,Memphis,84
+2016-04-13,Golden State,125,Memphis,104

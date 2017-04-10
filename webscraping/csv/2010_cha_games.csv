@@ -1,0 +1,493 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2005-11-04,Charlotte,96,Washington,103
+2005-11-06,Charlotte,111,Orlando,100
+2005-11-10,Milwaukee,102,Charlotte,100
+2005-11-12,Boston,91,Charlotte,74
+2005-11-13,Charlotte,87,Golden State,103
+2005-11-16,Charlotte,105,Utah,107
+2005-11-18,Charlotte,89,Cleveland,106
+2005-11-20,Cleveland,100,Charlotte,84
+2005-11-21,Detroit,117,Charlotte,116 2OT
+2005-11-23,Charlotte,91,Detroit,89
+2005-11-26,Indiana,82,Charlotte,77
+2005-11-27,Charlotte,107,Atlanta,92
+2005-11-30,Brooklyn,99,Charlotte,86
+2005-12-04,Charlotte,107,NY Knicks,101
+2005-12-06,LA,99,Charlotte,93 2OT
+2005-12-07,Sacramento,109,Charlotte,92
+2005-12-10,Phoenix,115,Charlotte,106
+2005-12-12,Golden State,99,Charlotte,87
+2005-12-14,Charlotte,94,New Orleans,93 OT
+2005-12-18,Charlotte,101,Houston,100 OT
+2005-12-21,Charlotte,91,Brooklyn,94
+2005-12-22,Houston,87,Charlotte,90
+2005-12-26,NY Knicks,91,Charlotte,82
+2005-12-27,Washington,106,Charlotte,87
+2005-12-29,Charlotte,71,Indiana,74
+2005-12-31,Charlotte,97,Oklahoma City,103
+2005-01-01,Miami,113,Charlotte,90
+2005-01-03,Charlotte,83,Cleveland,94
+2005-01-05,Charlotte,102,Minnesota,84
+2005-01-07,Orlando,111,Charlotte,91
+2005-01-11,Cleveland,100,Charlotte,98 OT
+2005-01-14,Charlotte,89,Memphis,109
+2005-01-15,Atlanta,103,Charlotte,95
+2005-01-17,Charlotte,92,Milwaukee,99
+2005-01-19,Charlotte,105,Philadelphia,107
+2005-01-21,Charlotte,99,Dallas,105
+2005-01-23,Toronto,103,Charlotte,92
+2005-01-25,Charlotte,92,Boston,97
+2005-01-27,Chicago,101,Charlotte,93
+2005-01-28,Charlotte,101,Toronto,94
+2005-01-30,Los Angeles,101,Charlotte,90
+2005-02-01,Utah,105,Charlotte,109
+2005-02-04,Portland,101,Charlotte,89
+2005-02-05,Oklahoma City,113,Charlotte,99
+2005-02-08,Charlotte,85,San Antonio,104
+2005-02-09,Indiana,94,Charlotte,87
+2005-02-11,Charlotte,87,Miami,97
+2005-02-13,NY Knicks,102,Charlotte,99
+2005-02-14,Charlotte,77,Portland,80
+2005-02-16,Charlotte,94,Denver,88
+2005-02-22,Charlotte,102,Milwaukee,112
+2005-02-25,Brooklyn,93,Charlotte,86
+2005-02-26,Charlotte,90,Chicago,94
+2005-03-01,Charlotte,94,Sacramento,87
+2005-03-02,New Orleans,94,Charlotte,85
+2005-03-04,Boston,104,Charlotte,84
+2005-03-05,Charlotte,84,Washington,86
+2005-03-08,Minnesota,102,Charlotte,97
+2005-03-11,Philadelphia,112,Charlotte,80
+2005-03-12,Charlotte,116,Los Angeles,117
+2005-03-14,Charlotte,110,Boston,119
+2005-03-16,Denver,120,Charlotte,101
+2005-03-18,San Antonio,93,Charlotte,76
+2005-03-19,Dallas,104,Charlotte,93
+2005-03-21,Charlotte,102,Orlando,97
+2005-03-23,Charlotte,105,Phoenix,120
+2005-03-24,Orlando,94,Charlotte,108
+2005-03-26,Charlotte,94,Miami,92
+2005-03-28,Charlotte,91,Brooklyn,95
+2005-03-30,Charlotte,99,Chicago,102
+2005-04-01,Charlotte,107,Toronto,119
+2005-04-02,Chicago,112,Charlotte,97
+2005-04-05,Charlotte,102,LA,104
+2005-04-06,Philadelphia,106,Charlotte,103
+2005-04-08,Milwaukee,93,Charlotte,75
+2005-04-10,Memphis,102,Charlotte,95
+2005-04-11,Atlanta,105 OT,Charlotte,110
+2005-04-13,Charlotte,105,Atlanta,84
+2005-04-16,Charlotte,98,NY Knicks,100
+2005-04-17,Washington,106,Charlotte,104
+2005-04-19,Miami,99,Charlotte,80
+2005-04-20,Charlotte,97,Detroit,86
+2006-11-02,Chicago,109,Charlotte,105 OT
+2006-11-04,Philadelphia,93,Charlotte,110
+2006-11-05,Charlotte,107,Boston,105 OT
+2006-11-07,Charlotte,91 OT,Utah,95
+2006-11-09,Charlotte,86,San Antonio,94
+2006-11-11,Charlotte,88,Dallas,98
+2006-11-12,Miami,108,Charlotte,99
+2006-11-15,Orlando,85,Charlotte,77
+2006-11-16,Charlotte,122,Indiana,90
+2006-11-18,Indiana,93,Charlotte,85
+2006-11-19,Minnesota,102,Charlotte,89
+2006-11-23,Charlotte,108,NY Knicks,95
+2006-11-25,Boston,90,Charlotte,89
+2006-11-26,Charlotte,100,Washington,82
+2006-11-29,Sacramento,110,Charlotte,92
+2006-11-30,Oklahoma City,104,Charlotte,94
+2006-12-02,Golden State,107,Charlotte,100
+2006-12-04,Los Angeles,99,Charlotte,98
+2006-12-07,Charlotte,84,Brooklyn,97
+2006-12-09,Philadelphia,119,Charlotte,115
+2006-12-10,Charlotte,103,Toronto,111
+2006-12-13,Charlotte,85,Denver,101
+2006-12-14,Brooklyn,83,Charlotte,91
+2006-12-17,Charlotte,78,Detroit,103
+2006-12-19,Charlotte,106,Sacramento,103 OT
+2006-12-20,Chicago,92,Charlotte,105
+2006-12-23,Charlotte,88,LA,97
+2006-12-27,Atlanta,90,Charlotte,93
+2006-12-28,Charlotte,93,Chicago,80
+2006-12-30,Charlotte,100,Phoenix,110
+2006-01-02,New Orleans,103,Charlotte,86
+2006-01-04,Boston,109,Charlotte,106
+2006-01-07,Orlando,108,Charlotte,92
+2006-01-10,Charlotte,111,Houston,106 2OT
+2006-01-11,Toronto,95,Charlotte,86
+2006-01-13,Charlotte,102,Milwaukee,103
+2006-01-14,Detroit,114,Charlotte,91
+2006-01-16,Charlotte,92,New Orleans,107
+2006-01-18,Indiana,98,Charlotte,92
+2006-01-20,Charlotte,93,Orlando,104
+2006-01-21,Milwaukee,101,Charlotte,91
+2006-01-24,San Antonio,104,Charlotte,76
+2006-01-25,Houston,102,Charlotte,78
+2006-01-27,Charlotte,85,Miami,91
+2006-01-28,Washington,107,Charlotte,97
+2006-01-30,Charlotte,91,Cleveland,103
+2006-02-01,Charlotte,92,Atlanta,102
+2006-02-03,Charlotte,112,Los Angeles,102
+2006-02-06,Charlotte,119,Oklahoma City,106
+2006-02-08,Charlotte,100,Philadelphia,92
+2006-02-10,Charlotte,73,Toronto,88
+2006-02-11,Milwaukee,99,Charlotte,93
+2006-02-13,Charlotte,83,Portland,91
+2006-02-15,Charlotte,94,Brooklyn,95
+2006-02-21,Denver,100,Charlotte,84
+2006-02-22,Portland,106,Charlotte,110
+2006-02-25,Phoenix,136,Charlotte,121
+2006-02-27,LA,95,Charlotte,87
+2006-03-01,Utah,89,Charlotte,104
+2006-03-03,Dallas,90,Charlotte,76
+2006-03-06,Charlotte,105 OT,Miami,106
+2006-03-08,Charlotte,104,Golden State,101
+2006-03-11,Charlotte,116,NY Knicks,109
+2006-03-12,Detroit,94,Charlotte,78
+2006-03-14,Charlotte,114,Washington,119
+2006-03-15,Washington,107,Charlotte,99
+2006-03-18,Charlotte,103,Detroit,108
+2006-03-21,Charlotte,108,Orlando,102
+2006-03-22,Cleveland,120,Charlotte,118 OT
+2006-03-24,Miami,114,Charlotte,93
+2006-03-26,Memphis,102,Charlotte,95
+2006-03-28,Charlotte,125,Atlanta,117
+2006-03-31,Charlotte,107,Chicago,113
+2006-04-02,Charlotte,97,Cleveland,101
+2006-04-04,Charlotte,97,Minnesota,92
+2006-04-06,Brooklyn,113,Charlotte,102
+2006-04-09,Toronto,88,Charlotte,94
+2006-04-12,Charlotte,88,Memphis,96
+2006-04-14,Atlanta,110,Charlotte,116
+2006-04-15,Charlotte,92,Indiana,91 OT
+2006-04-17,NY Knicks,91,Charlotte,98
+2006-04-19,Charlotte,96,Philadelphia,86
+2007-11-01,Charlotte,99,Indiana,106
+2007-11-03,Memphis,96,Charlotte,83
+2007-11-04,Charlotte,92,Cleveland,88
+2007-11-08,Boston,110,Charlotte,108 OT
+2007-11-10,Charlotte,85,Oklahoma City,99
+2007-11-12,Charlotte,101,Denver,108
+2007-11-14,New Orleans,94,Charlotte,85
+2007-11-15,San Antonio,92 OT,Charlotte,95
+2007-11-18,Orlando,97,Charlotte,83
+2007-11-20,Charlotte,85,Dallas,93
+2007-11-22,Charlotte,92,Boston,83
+2007-11-24,Detroit,104,Charlotte,95
+2007-11-25,Charlotte,93,Miami,102
+2007-11-28,Brooklyn,92,Charlotte,96
+2007-11-29,Atlanta,99,Charlotte,90
+2007-12-01,Washington,121,Charlotte,109
+2007-12-03,Charlotte,97,Detroit,89
+2007-12-06,Charlotte,76,San Antonio,96
+2007-12-08,Charlotte,62,Houston,92
+2007-12-10,Charlotte,84,Phoenix,114
+2007-12-13,Cleveland,104,Charlotte,101
+2007-12-14,Charlotte,99,Orlando,89
+2007-12-16,Charlotte,100,Boston,106
+2007-12-20,NY Knicks,111,Charlotte,109 2OT
+2007-12-22,Charlotte,101,Utah,89
+2007-12-23,Chicago,115,Charlotte,76
+2007-12-26,Dallas,97,Charlotte,84
+2007-12-27,Charlotte,107,Washington,114
+2007-12-29,Charlotte,133,Los Angeles,124 3OT
+2007-12-30,Indiana,102,Charlotte,113
+2007-01-01,Charlotte,96,Minnesota,102
+2007-01-05,Orlando,106,Charlotte,74
+2007-01-10,Detroit,96,Charlotte,103
+2007-01-12,NY Knicks,110,Charlotte,126
+2007-01-13,Charlotte,89,Philadelphia,83
+2007-01-15,Charlotte,91,Milwaukee,99
+2007-01-17,Charlotte,85,Brooklyn,92
+2007-01-19,Atlanta,75,Charlotte,96
+2007-01-20,Charlotte,104,Atlanta,85
+2007-01-22,Toronto,105,Charlotte,84
+2007-01-24,Charlotte,92,Detroit,103
+2007-01-26,Los Angeles,97 OT,Charlotte,106
+2007-01-27,Golden State,131,Charlotte,105
+2007-01-29,Denver,101,Charlotte,105
+2007-01-31,Charlotte,104,NY Knicks,87
+2007-02-02,Cleveland,101,Charlotte,81
+2007-02-03,Charlotte,98,Golden State,90
+2007-02-05,Miami,113,Charlotte,93
+2007-02-07,Philadelphia,92,Charlotte,83
+2007-02-09,Charlotte,100 OT,Portland,108
+2007-02-10,Houston,104,Charlotte,83
+2007-02-14,Charlotte,100,Chicago,85
+2007-02-20,Charlotte,104,New Orleans,100
+2007-02-21,Minnesota,95,Charlotte,100
+2007-02-23,Charlotte,102,Philadelphia,87
+2007-02-24,Charlotte,76,Toronto,93
+2007-02-26,LA,100,Charlotte,93
+2007-02-28,Sacramento,135,Charlotte,120
+2007-03-01,Portland,127,Charlotte,90
+2007-03-04,Oklahoma City,96,Charlotte,89
+2007-03-05,Utah,120,Charlotte,95
+2007-03-07,Phoenix,115,Charlotte,106 OT
+2007-03-10,Charlotte,107,Memphis,115
+2007-03-12,Charlotte,119,Orlando,108
+2007-03-14,Charlotte,111,Sacramento,108
+2007-03-16,Charlotte,93,LA,102
+2007-03-17,Milwaukee,97,Charlotte,91
+2007-03-20,Charlotte,108,Cleveland,100 OT
+2007-03-21,Boston,84,Charlotte,92
+2007-03-23,Philadelphia,106,Charlotte,97
+2007-03-24,Charlotte,107 OT,Brooklyn,113
+2007-03-28,Charlotte,101,Atlanta,87
+2007-03-30,Charlotte,97,Milwaukee,81
+2007-04-01,Toronto,107,Charlotte,94
+2007-04-03,Charlotte,122,Washington,102
+2007-04-04,Washington,100,Charlotte,108
+2007-04-06,Charlotte,102,Indiana,112
+2007-04-08,Miami,103 OT,Charlotte,111
+2007-04-10,Charlotte,92,Miami,82
+2007-04-13,Chicago,100,Charlotte,81
+2007-04-14,Milwaukee,92,Charlotte,113
+2007-04-18,Charlotte,93,NY Knicks,94
+2008-11-02,Charlotte,102,Milwaukee,99
+2008-11-04,Miami,88,Charlotte,90
+2008-11-06,Charlotte,83,Phoenix,115
+2008-11-07,Philadelphia,94,Charlotte,63
+2008-11-09,Charlotte,96,Indiana,87
+2008-11-11,Charlotte,82,Houston,85
+2008-11-13,Charlotte,91,Miami,76
+2008-11-14,Atlanta,117,Charlotte,109
+2008-11-17,Charlotte,100,Oklahoma City,84
+2008-11-19,Charlotte,101,Portland,92
+2008-11-21,Charlotte,111 OT,Washington,114
+2008-11-23,Orlando,105,Charlotte,92
+2008-11-24,Charlotte,95,Boston,96
+2008-11-27,Miami,110,Charlotte,90
+2008-12-01,Chicago,111,Charlotte,95
+2008-12-03,Toronto,98,Charlotte,79
+2008-12-05,Charlotte,82,Chicago,91
+2008-12-08,Charlotte,96,Cleveland,93
+2008-12-09,Detroit,104,Charlotte,85
+2008-12-12,Charlotte,108,LA,103
+2008-12-14,Charlotte,87,Orlando,103
+2008-12-15,Atlanta,93,Charlotte,84
+2008-12-19,Charlotte,98,Utah,92
+2008-12-21,Charlotte,105,NY Knicks,95
+2008-12-22,Milwaukee,103,Charlotte,99
+2008-12-26,Charlotte,104,Washington,108
+2008-12-28,Charlotte,85,New Orleans,99
+2008-12-29,Orlando,104,Charlotte,95
+2008-12-31,Charlotte,107,Indiana,103 OT
+2008-01-02,Charlotte,97,Chicago,109
+2008-01-04,Brooklyn,102,Charlotte,96
+2008-01-06,Charlotte,89,Milwaukee,93
+2008-01-08,Charlotte,115,Brooklyn,99
+2008-01-09,Boston,83,Charlotte,95
+2008-01-11,Cleveland,113,Charlotte,106 2OT
+2008-01-12,Charlotte,100 OT,Detroit,103
+2008-01-14,Charlotte,119,Denver,116
+2008-01-16,Charlotte,99,Orlando,93
+2008-01-18,New Orleans,112,Charlotte,84
+2008-01-19,Charlotte,105,Memphis,87
+2008-01-21,Charlotte,86,San Antonio,95
+2008-01-23,Charlotte,95,Dallas,102
+2008-01-25,Chicago,77,Charlotte,90
+2008-01-26,Charlotte,96,Philadelphia,103
+2008-01-28,LA,100,Charlotte,107
+2008-01-30,Sacramento,105,Charlotte,91
+2008-02-01,Golden State,127,Charlotte,96
+2008-02-02,Denver,117,Charlotte,101
+2008-02-04,Phoenix,118,Charlotte,104
+2008-02-08,Charlotte,90,Brooklyn,104
+2008-02-10,Detroit,113,Charlotte,87
+2008-02-11,Charlotte,97,Los Angeles,106
+2008-02-13,Charlotte,100,Atlanta,98 OT
+2008-02-19,San Antonio,85,Charlotte,65
+2008-02-22,Charlotte,115 OT,Sacramento,116
+2008-02-23,Washington,110,Charlotte,95
+2008-02-27,NY Knicks,113,Charlotte,89
+2008-02-29,Boston,108,Charlotte,100
+2008-03-02,Charlotte,110,Toronto,98
+2008-03-04,Minnesota,89,Charlotte,109
+2008-03-05,Charlotte,118,Golden State,109
+2008-03-07,Charlotte,108,Atlanta,93
+2008-03-08,Washington,97,Charlotte,100
+2008-03-12,Dallas,118,Charlotte,93
+2008-03-14,Houston,89,Charlotte,80
+2008-03-16,Cleveland,98,Charlotte,91
+2008-03-17,Memphis,98,Charlotte,80
+2008-03-19,Indiana,102,Charlotte,95
+2008-03-22,Charlotte,94,Miami,82
+2008-03-25,Utah,128,Charlotte,106
+2008-03-26,Los Angeles,95,Charlotte,108
+2008-03-28,Oklahoma City,93,Charlotte,96
+2008-03-29,Portland,85,Charlotte,93
+2008-03-31,Charlotte,100,Toronto,104
+2008-04-02,Charlotte,114,Cleveland,118
+2008-04-04,Toronto,100,Charlotte,105
+2008-04-05,Charlotte,78,Boston,101
+2008-04-08,Charlotte,121,Minnesota,119
+2008-04-09,NY Knicks,109,Charlotte,107
+2008-04-12,Indiana,103,Charlotte,107
+2008-04-15,Brooklyn,112,Charlotte,108 OT
+2008-04-16,Charlotte,115,Philadelphia,109
+2009-10-30,Cleveland,96,Charlotte,79
+2009-11-01,Charlotte,100,Miami,87
+2009-11-03,Charlotte,83,Detroit,101
+2009-11-05,NY Knicks,101,Charlotte,98
+2009-11-07,Charlotte,92,New Orleans,89
+2009-11-09,Charlotte,79,Toronto,89
+2009-11-11,Charlotte,80,Denver,88
+2009-11-14,Charlotte,104,Utah,96
+2009-11-16,Charlotte,85,Orlando,90
+2009-11-18,Charlotte,83,Dallas,100
+2009-11-21,Atlanta,88,Charlotte,83
+2009-11-22,Charlotte,74,Milwaukee,79
+2009-11-24,Charlotte,93,Philadelphia,84
+2009-11-26,Toronto,93,Charlotte,86
+2009-11-28,Indiana,108 OT,Charlotte,115
+2009-11-29,Charlotte,84,Boston,89
+2009-12-01,Charlotte,100,Minnesota,90
+2009-12-03,Charlotte,103,Oklahoma City,97
+2009-12-05,Milwaukee,101,Charlotte,96
+2009-12-06,Charlotte,74,Cleveland,94
+2009-12-08,Miami,100,Charlotte,96
+2009-12-10,New Orleans,105,Charlotte,89
+2009-12-11,Dallas,95,Charlotte,90
+2009-12-13,Charlotte,86,Detroit,90
+2009-12-15,Atlanta,83,Charlotte,79
+2009-12-16,Charlotte,110,Chicago,101 OT
+2009-12-19,Memphis,83,Charlotte,112
+2009-12-20,Charlotte,103,Golden State,110
+2009-12-23,Charlotte,80,Washington,72
+2009-12-26,Brooklyn,87,Charlotte,95
+2009-12-27,Charlotte,103 OT,Brooklyn,114
+2009-12-30,Charlotte,89,NY Knicks,93
+2009-01-02,Milwaukee,103,Charlotte,75
+2009-01-03,Charlotte,102,Milwaukee,92
+2009-01-06,Charlotte,114,Boston,106 OT
+2009-01-07,Cleveland,111,Charlotte,81
+2009-01-09,Philadelphia,93,Charlotte,87
+2009-01-10,Washington,89,Charlotte,92
+2009-01-13,Detroit,78,Charlotte,80
+2009-01-17,Charlotte,102,Portland,97 OT
+2009-01-19,Charlotte,84,San Antonio,86
+2009-01-21,Charlotte,101,Memphis,86
+2009-01-23,Charlotte,98,Phoenix,76
+2009-01-25,Indiana,98,Charlotte,93
+2009-01-27,Los Angeles,110 2OT,Charlotte,117
+2009-01-28,Portland,88,Charlotte,74
+2009-01-30,Denver,110,Charlotte,99
+2009-02-02,Utah,105,Charlotte,86
+2009-02-06,Charlotte,97,Atlanta,102
+2009-02-08,Miami,96,Charlotte,92
+2009-02-09,Charlotte,94,LA,73
+2009-02-11,Charlotte,101,Washington,89
+2009-02-17,Orlando,107,Charlotte,102 OT
+2009-02-18,Charlotte,103,Indiana,94
+2009-02-20,Charlotte,80,Orlando,92
+2009-02-22,Houston,99,Charlotte,78
+2009-02-24,Phoenix,112,Charlotte,102
+2009-02-25,Sacramento,91,Charlotte,98
+2009-02-27,Golden State,109,Charlotte,112
+2009-02-28,LA,95,Charlotte,100
+2009-03-03,Charlotte,96,Chicago,80
+2009-03-06,Charlotte,98,Atlanta,91
+2009-03-07,NY Knicks,105,Charlotte,114
+2009-03-10,San Antonio,100,Charlotte,86
+2009-03-13,Charlotte,86,Houston,91
+2009-03-14,Minnesota,108,Charlotte,100
+2009-03-16,Charlotte,112,Toronto,86
+2009-03-18,Charlotte,104,Sacramento,88
+2009-03-20,Toronto,89,Charlotte,102
+2009-03-21,Charlotte,83,Indiana,108
+2009-03-25,Washington,95,Charlotte,93
+2009-03-27,Philadelphia,95,Charlotte,100
+2009-03-28,Charlotte,96,NY Knicks,85
+2009-03-31,Charlotte,94,Los Angeles,84
+2009-04-01,Boston,111,Charlotte,109 2OT
+2009-04-03,Charlotte,92,Miami,97
+2009-04-05,Detroit,104,Charlotte,97
+2009-04-07,Charlotte,101,Philadelphia,98
+2009-04-10,Oklahoma City,84,Charlotte,81
+2009-04-11,Chicago,113,Charlotte,106
+2009-04-13,Brooklyn,91,Charlotte,87
+2009-04-15,Orlando,98,Charlotte,73
+2010-10-28,Boston,92,Charlotte,59
+2010-10-30,Charlotte,102,NY Knicks,100 2OT
+2010-10-31,Cleveland,90,Charlotte,79
+2010-11-02,Charlotte,79,Brooklyn,68
+2010-11-06,Charlotte,103,Atlanta,83
+2010-11-07,Chicago,93,Charlotte,90
+2010-11-10,Charlotte,81,Orlando,93
+2010-11-11,Detroit,98,Charlotte,75
+2010-11-14,Charlotte,74,Portland,80
+2010-11-16,Orlando,97,Charlotte,91
+2010-11-18,Philadelphia,86,Charlotte,84
+2010-11-20,Milwaukee,95,Charlotte,88
+2010-11-22,Charlotte,104,Indiana,88
+2010-11-25,Charlotte,116,Toronto,81
+2010-11-27,Charlotte,94,Cleveland,87
+2010-11-28,Washington,76,Charlotte,92
+2010-12-01,Charlotte,90,Boston,108
+2010-12-04,Brooklyn,97,Charlotte,91
+2010-12-05,Charlotte,106,Philadelphia,105
+2010-12-08,Charlotte,107,Denver,95
+2010-12-11,San Antonio,104,Charlotte,85
+2010-12-12,Dallas,98,Charlotte,97 OT
+2010-12-15,Charlotte,94,NY Knicks,87
+2010-12-16,Indiana,101,Charlotte,98
+2010-12-19,Charlotte,102,Utah,110
+2010-12-20,NY Knicks,98,Charlotte,94
+2010-12-22,Charlotte,88,Detroit,76
+2010-12-26,Oklahoma City,98,Charlotte,91
+2010-12-28,Charlotte,94,Milwaukee,84
+2010-12-30,Toronto,107,Charlotte,103
+2010-01-02,Miami,97,Charlotte,107
+2010-01-03,Cleveland,88,Charlotte,91
+2010-01-05,Charlotte,113,Chicago,108
+2010-01-07,NY Knicks,97,Charlotte,93
+2010-01-09,Charlotte,89,Memphis,87
+2010-01-12,Charlotte,102,Houston,94
+2010-01-15,Charlotte,92,San Antonio,76
+2010-01-16,Charlotte,125,Phoenix,99
+2010-01-18,Charlotte,105,Sacramento,103
+2010-01-20,Charlotte,104,Miami,65
+2010-01-22,Atlanta,103,Charlotte,89
+2010-01-23,Charlotte,95 OT,Orlando,106
+2010-01-25,Denver,104,Charlotte,93
+2010-01-26,Phoenix,109 OT,Charlotte,114
+2010-01-29,Golden State,110,Charlotte,121
+2010-01-30,Sacramento,96,Charlotte,103
+2010-02-01,Portland,98,Charlotte,79
+2010-02-03,Los Angeles,99,Charlotte,97
+2010-02-06,Charlotte,99,New Orleans,104
+2010-02-09,Charlotte,94,Washington,92
+2010-02-10,Minnesota,92,Charlotte,93
+2010-02-16,Charlotte,94,Brooklyn,103
+2010-02-19,Charlotte,110,Cleveland,93
+2010-02-20,Milwaukee,93,Charlotte,88
+2010-02-22,LA,98,Charlotte,94
+2010-02-24,Utah,102,Charlotte,93
+2010-02-26,Memphis,89,Charlotte,93
+2010-03-01,Charlotte,84,Dallas,89
+2010-03-03,Boston,104,Charlotte,80
+2010-03-05,Charlotte,98,Los Angeles,83
+2010-03-06,Charlotte,101,Golden State,90
+2010-03-09,Charlotte,83,Miami,78
+2010-03-10,Philadelphia,87,Charlotte,102
+2010-03-12,Charlotte,106,LA,98
+2010-03-14,Orlando,89,Charlotte,96
+2010-03-16,Indiana,99,Charlotte,94
+2010-03-17,Charlotte,100,Oklahoma City,92
+2010-03-19,Atlanta,93,Charlotte,92 OT
+2010-03-20,Miami,77,Charlotte,71
+2010-03-23,Washington,86 OT,Charlotte,95
+2010-03-24,Charlotte,108,Minnesota,95
+2010-03-26,Charlotte,107,Washington,96
+2010-03-29,Charlotte,101,Toronto,103
+2010-03-31,Charlotte,103,Philadelphia,84
+2010-04-02,Charlotte,87,Milwaukee,86 OT
+2010-04-03,Chicago,96,Charlotte,88
+2010-04-06,Charlotte,109,Atlanta,100
+2010-04-07,New Orleans,103,Charlotte,104
+2010-04-09,Houston,97,Charlotte,90
+2010-04-10,Charlotte,99,Detroit,95
+2010-04-12,Brooklyn,95,Charlotte,105
+2010-04-14,Charlotte,89,Chicago,98

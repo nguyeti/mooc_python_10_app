@@ -1,0 +1,165 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Philadelphia,95,Milwaukee,93
+2003-11-02,Milwaukee,90,Orlando,100
+2003-11-04,NY Knicks,88,Milwaukee,97
+2003-11-06,Milwaukee,99,Brooklyn,93
+2003-11-07,Minnesota,114,Milwaukee,110
+2003-11-09,Milwaukee,110,Philadelphia,105 OT
+2003-11-13,Milwaukee,108,Chicago,101
+2003-11-15,Indiana,103,Milwaukee,100 OT
+2003-11-16,Milwaukee,102,Boston,85
+2003-11-19,Milwaukee,93,Miami,97
+2003-11-22,Golden State,91,Milwaukee,95
+2003-11-24,Los Angeles,111,Milwaukee,99
+2003-11-25,Phoenix,86,Milwaukee,81
+2003-11-27,Milwaukee,112,Cleveland,80
+2003-11-29,Detroit,96,Milwaukee,91
+2003-11-30,Milwaukee,109,Detroit,86
+2003-12-03,Washington,103,Milwaukee,78
+2003-12-05,Atlanta,98,Milwaukee,80
+2003-12-07,Milwaukee,88,New Orleans,94
+2003-12-09,Cleveland,133 2OT,Milwaukee,140
+2003-12-11,Milwaukee,119 OT,Indiana,126
+2003-12-13,Milwaukee,101,Portland,79
+2003-12-14,Chicago,97,Milwaukee,95
+2003-12-17,Milwaukee,117 OT,Toronto,122
+2003-12-20,Memphis,95,Milwaukee,84
+2003-12-21,Milwaukee,94,NY Knicks,90
+2003-12-23,Orlando,103,Milwaukee,108
+2003-12-27,Brooklyn,110,Milwaukee,90
+2003-12-28,Milwaukee,96,Brooklyn,104
+2003-12-30,Dallas,107,Milwaukee,110
+2003-12-31,Houston,105,Milwaukee,80
+2003-01-03,Milwaukee,115,Utah,118
+2003-01-06,Cleveland,94,Milwaukee,106
+2003-01-07,Milwaukee,76,Sacramento,101
+2003-01-10,Milwaukee,93,Chicago,85 OT
+2003-01-11,Detroit,87,Milwaukee,89
+2003-01-14,Milwaukee,97,Atlanta,88
+2003-01-15,Toronto,87,Milwaukee,99
+2003-01-17,Philadelphia,95,Milwaukee,99
+2003-01-18,Milwaukee,95,Boston,97
+2003-01-22,Boston,97,Milwaukee,106
+2003-01-25,Milwaukee,88,Denver,75
+2003-01-27,New Orleans,93,Milwaukee,108
+2003-01-28,Milwaukee,81,Philadelphia,108
+2003-01-30,Milwaukee,97,Washington,90
+2003-02-01,Milwaukee,107,NY Knicks,100
+2003-02-04,Milwaukee,95,Toronto,98
+2003-02-06,Milwaukee,97,Oklahoma City,91
+2003-02-12,Milwaukee,120,Dallas,114
+2003-02-14,Milwaukee,96,Detroit,86
+2003-02-16,Milwaukee,95,Memphis,101
+2003-02-18,Sacramento,102,Milwaukee,93
+2003-02-19,LA,110,Milwaukee,104
+2003-02-21,Oklahoma City,88,Milwaukee,58
+2003-02-22,Portland,90,Milwaukee,93
+2003-02-24,Milwaukee,114,Minnesota,117
+2003-02-26,Milwaukee,112,Phoenix,118
+2003-02-28,Indiana,107,Milwaukee,98
+2003-03-02,Milwaukee,120,Atlanta,93
+2003-03-04,Miami,91,Milwaukee,100
+2003-03-05,Orlando,111,Milwaukee,99
+2003-03-07,Washington,82,Milwaukee,85
+2003-03-08,Milwaukee,138,Golden State,133 OT
+2003-03-11,Milwaukee,102,San Antonio,105
+2003-03-12,Atlanta,111,Milwaukee,92
+2003-03-15,Milwaukee,94,Los Angeles,98
+2003-03-16,NY Knicks,120,Milwaukee,111
+2003-03-19,Brooklyn,85,Milwaukee,104
+2003-03-21,New Orleans,113,Milwaukee,98
+2003-03-22,Milwaukee,93,New Orleans,85
+2003-03-25,San Antonio,107,Milwaukee,94
+2003-03-26,Denver,108,Milwaukee,103
+2003-03-28,Utah,103,Milwaukee,90
+2003-03-30,Milwaukee,109,Miami,87
+2003-03-31,Miami,86,Milwaukee,91
+2003-04-02,Milwaukee,106,Houston,99
+2003-04-04,Milwaukee,95,Cleveland,93
+2003-04-05,Chicago,117,Milwaukee,115 OT
+2003-04-09,Milwaukee,112,LA,92
+2003-04-11,Toronto,103,Milwaukee,105
+2003-04-13,Milwaukee,107,Indiana,98
+2003-04-16,Milwaukee,93,Orlando,87
+2004-10-29,Minnesota,95,Milwaukee,89
+2004-10-31,Indiana,79,Milwaukee,93
+2004-11-01,Milwaukee,98,Chicago,68
+2004-11-04,Milwaukee,107,Los Angeles,113
+2004-11-05,NY Knicks,90,Milwaukee,106
+2004-11-07,Detroit,105,Milwaukee,99
+2004-11-08,Milwaukee,90,NY Knicks,87
+2004-11-12,Milwaukee,99,Oklahoma City,104
+2004-11-15,Milwaukee,100,Utah,95
+2004-11-18,Milwaukee,93,Atlanta,101
+2004-11-19,Denver,94,Milwaukee,86
+2004-11-21,Utah,99,Milwaukee,90
+2004-11-23,Toronto,62,Milwaukee,82
+2004-11-25,Milwaukee,95,Philadelphia,91
+2004-11-28,Boston,106,Milwaukee,96
+2004-11-29,Milwaukee,100,Boston,94
+2004-12-01,Chicago,97,Milwaukee,87
+2004-12-02,Atlanta,94,Milwaukee,106
+2004-12-05,Brooklyn,93,Milwaukee,86
+2004-12-06,Milwaukee,109 OT,Washington,114
+2004-12-08,New Orleans,91,Milwaukee,85
+2004-12-10,Milwaukee,94,Golden State,89 OT
+2004-12-12,Milwaukee,109,Chicago,95
+2004-12-14,Oklahoma City,108,Milwaukee,102
+2004-12-16,Portland,99,Milwaukee,106
+2004-12-17,LA,93,Milwaukee,83
+2004-12-20,Milwaukee,92,Brooklyn,87
+2004-12-23,Milwaukee,83,Detroit,78
+2004-12-26,Milwaukee,101,Indiana,96
+2004-12-28,San Antonio,89,Milwaukee,74
+2004-12-30,Dallas,101,Milwaukee,92
+2004-01-02,Milwaukee,109,Dallas,101
+2004-01-04,Washington,94,Milwaukee,100
+2004-01-05,Philadelphia,76,Milwaukee,88
+2004-01-07,Milwaukee,95,Phoenix,87
+2004-01-09,Milwaukee,103,Miami,94
+2004-01-10,NY Knicks,94,Milwaukee,88
+2004-01-13,Milwaukee,111,Boston,103
+2004-01-15,Milwaukee,86,Brooklyn,83
+2004-01-17,Milwaukee,94,Detroit,99
+2004-01-19,Orlando,106,Milwaukee,99
+2004-01-21,Milwaukee,113,Orlando,102
+2004-01-23,Milwaukee,98,Toronto,86
+2004-01-26,Milwaukee,93,San Antonio,92
+2004-01-28,New Orleans,101,Milwaukee,100
+2004-01-30,Milwaukee,101,Cleveland,95
+2004-01-31,Atlanta,93,Milwaukee,83
+2004-02-04,Houston,103,Milwaukee,89
+2004-02-06,Memphis,105,Milwaukee,85
+2004-02-07,Milwaukee,107,New Orleans,97
+2004-02-10,Milwaukee,117,Sacramento,124
+2004-02-17,Milwaukee,127,Orlando,104
+2004-02-18,Detroit,102,Milwaukee,98
+2004-02-21,Milwaukee,103,LA,105
+2004-02-22,Washington,85,Milwaukee,113
+2004-02-24,Milwaukee,102,Minnesota,108
+2004-02-25,Boston,104,Milwaukee,106
+2004-02-27,Milwaukee,106,Memphis,104
+2004-02-29,Milwaukee,108,Miami,104
+2004-03-03,Orlando,97,Milwaukee,105
+2004-03-04,Miami,104,Milwaukee,98
+2004-03-06,Cleveland,106,Milwaukee,97
+2004-03-08,Philadelphia,97,Milwaukee,92
+2004-03-10,Milwaukee,94,Atlanta,80
+2004-03-12,Milwaukee,111,Denver,117
+2004-03-14,Milwaukee,100,NY Knicks,103
+2004-03-16,Milwaukee,99,Portland,100
+2004-03-20,Phoenix,123,Milwaukee,111
+2004-03-21,Los Angeles,104,Milwaukee,103 OT
+2004-03-23,Sacramento,101,Milwaukee,112
+2004-03-24,Golden State,98,Milwaukee,89
+2004-03-26,Chicago,105,Milwaukee,115
+2004-03-28,Milwaukee,107 OT,Houston,111
+2004-03-30,Milwaukee,95,Indiana,86
+2004-03-31,Indiana,111,Milwaukee,78
+2004-04-02,Milwaukee,107,Cleveland,89
+2004-04-04,Toronto,83,Milwaukee,90
+2004-04-06,Brooklyn,98,Milwaukee,103
+2004-04-07,Milwaukee,116,Washington,107
+2004-04-10,Milwaukee,87,New Orleans,92
+2004-04-12,Cleveland,93,Milwaukee,89
+2004-04-14,Milwaukee,87,Toronto,89

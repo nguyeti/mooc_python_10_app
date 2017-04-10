@@ -1,0 +1,83 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2016-10-28,Phoenix,95,Dallas,111
+2016-10-30,Phoenix,110,Portland,92
+2016-10-31,Portland,90,Phoenix,101
+2016-11-02,LA,102,Phoenix,96
+2016-11-04,Phoenix,118,Sacramento,97
+2016-11-06,Phoenix,92,Detroit,100
+2016-11-08,Oklahoma City,124,Phoenix,103
+2016-11-12,Phoenix,118,LA,104
+2016-11-14,Phoenix,105,Denver,81
+2016-11-16,Phoenix,120,Los Angeles,101
+2016-11-18,Phoenix,97,Chicago,103
+2016-11-20,Denver,107,Phoenix,114
+2016-11-22,New Orleans,122,Phoenix,116
+2016-11-23,San Antonio,98,Phoenix,84
+2016-11-25,Phoenix,114,New Orleans,120
+2016-11-27,Phoenix,116,Golden State,135
+2016-11-29,Toronto,102,Phoenix,107
+2016-12-01,Brooklyn,94,Phoenix,91
+2016-12-02,Detroit,127,Phoenix,122 OT
+2016-12-04,Washington,109,Phoenix,106
+2016-12-06,Memphis,95,Phoenix,93
+2016-12-07,Chicago,101,Phoenix,103
+2016-12-09,Phoenix,107,Orlando,104
+2016-12-11,Phoenix,96,Portland,106
+2016-12-13,Phoenix,108,Minnesota,101
+2016-12-14,Dallas,104,Phoenix,94
+2016-12-16,Golden State,128,Phoenix,103
+2016-12-18,Phoenix,104,New Orleans,88
+2016-12-20,Phoenix,95,Milwaukee,101
+2016-12-21,Utah,110,Phoenix,89
+2016-12-23,Phoenix,96,Denver,104
+2016-12-26,Phoenix,104,Philadelphia,111
+2016-12-28,Phoenix,97,Cleveland,101
+2016-12-30,San Antonio,112,Phoenix,79
+2016-12-31,Oklahoma City,110,Phoenix,106
+2016-01-02,Sacramento,142,Phoenix,119
+2016-01-03,Los Angeles,97,Phoenix,77
+2016-01-06,Phoenix,111,Charlotte,102
+2016-01-08,Phoenix,95,Miami,103
+2016-01-12,Indiana,116,Phoenix,97
+2016-01-15,Boston,117,Phoenix,103
+2016-01-17,Minnesota,117,Phoenix,87
+2016-01-19,Phoenix,94,Indiana,97
+2016-01-21,Phoenix,89,San Antonio,117
+2016-01-23,Phoenix,98,Atlanta,95
+2016-01-26,Philadelphia,113,Phoenix,103
+2016-01-27,Cleveland,115,Phoenix,93
+2016-01-29,NY Knicks,102,Phoenix,84
+2016-01-31,Dallas,91,Phoenix,78
+2016-02-02,Phoenix,97,Toronto,104
+2016-02-04,Phoenix,105,Houston,111
+2016-02-06,Phoenix,89,Utah,98
+2016-02-08,Phoenix,106,Oklahoma City,122
+2016-02-10,Phoenix,104,Golden State,112
+2016-02-19,Phoenix,100,Houston,116
+2016-02-21,Phoenix,111,San Antonio,118
+2016-02-22,LA,124,Phoenix,84
+2016-02-25,Phoenix,106,Brooklyn,116
+2016-02-27,Phoenix,111,Memphis,106
+2016-03-01,Charlotte,126,Phoenix,92
+2016-03-03,Miami,108,Phoenix,92
+2016-03-04,Orlando,84,Phoenix,102
+2016-03-06,Memphis,100,Phoenix,109
+2016-03-09,Phoenix,97,NY Knicks,128
+2016-03-10,Denver,116,Phoenix,98
+2016-03-12,Golden State,123,Phoenix,116
+2016-03-14,Phoenix,107,Minnesota,104
+2016-03-17,Utah,103,Phoenix,69
+2016-03-18,Los Angeles,90,Phoenix,95
+2016-03-21,Phoenix,97,Memphis,103
+2016-03-23,Phoenix,119,Los Angeles,107
+2016-03-25,Sacramento,116,Phoenix,94
+2016-03-26,Phoenix,99,Boston,102
+2016-03-28,Minnesota,121,Phoenix,116
+2016-03-30,Milwaukee,105,Phoenix,94
+2016-04-01,Phoenix,99,Washington,106
+2016-04-03,Phoenix,86,Utah,101
+2016-04-05,Atlanta,103,Phoenix,90
+2016-04-07,Houston,115,Phoenix,124
+2016-04-09,New Orleans,100,Phoenix,121
+2016-04-11,Phoenix,101,Sacramento,105
+2016-04-13,Phoenix,114,LA,105

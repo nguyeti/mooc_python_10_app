@@ -1,0 +1,31 @@
+division,long_prefix,short_prefix,team,url
+Atlantic,boston-celtics,bos,Boston Celtics,http://www.espn.com/nba/team/_/name/bos/boston-celtics
+Atlantic,brooklyn-nets,bkn,Brooklyn Nets,http://www.espn.com/nba/team/_/name/bkn/brooklyn-nets
+Atlantic,new-york-knicks,ny,New York Knicks,http://www.espn.com/nba/team/_/name/ny/new-york-knicks
+Atlantic,philadelphia-76ers,phi,Philadelphia 76ers,http://www.espn.com/nba/team/_/name/phi/philadelphia-76ers
+Atlantic,toronto-raptors,tor,Toronto Raptors,http://www.espn.com/nba/team/_/name/tor/toronto-raptors
+Pacific,golden-state-warriors,gs,Golden State Warriors,http://www.espn.com/nba/team/_/name/gs/golden-state-warriors
+Pacific,la-clippers,lac,LA Clippers,http://www.espn.com/nba/team/_/name/lac/la-clippers
+Pacific,los-angeles-lakers,lal,Los Angeles Lakers,http://www.espn.com/nba/team/_/name/lal/los-angeles-lakers
+Pacific,phoenix-suns,phx,Phoenix Suns,http://www.espn.com/nba/team/_/name/phx/phoenix-suns
+Pacific,sacramento-kings,sac,Sacramento Kings,http://www.espn.com/nba/team/_/name/sac/sacramento-kings
+Central,chicago-bulls,chi,Chicago Bulls,http://www.espn.com/nba/team/_/name/chi/chicago-bulls
+Central,cleveland-cavaliers,cle,Cleveland Cavaliers,http://www.espn.com/nba/team/_/name/cle/cleveland-cavaliers
+Central,detroit-pistons,det,Detroit Pistons,http://www.espn.com/nba/team/_/name/det/detroit-pistons
+Central,indiana-pacers,ind,Indiana Pacers,http://www.espn.com/nba/team/_/name/ind/indiana-pacers
+Central,milwaukee-bucks,mil,Milwaukee Bucks,http://www.espn.com/nba/team/_/name/mil/milwaukee-bucks
+Southwest,dallas-mavericks,dal,Dallas Mavericks,http://www.espn.com/nba/team/_/name/dal/dallas-mavericks
+Southwest,houston-rockets,hou,Houston Rockets,http://www.espn.com/nba/team/_/name/hou/houston-rockets
+Southwest,memphis-grizzlies,mem,Memphis Grizzlies,http://www.espn.com/nba/team/_/name/mem/memphis-grizzlies
+Southwest,new-orleans-pelicans,no,New Orleans Pelicans,http://www.espn.com/nba/team/_/name/no/new-orleans-pelicans
+Southwest,san-antonio-spurs,sa,San Antonio Spurs,http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs
+Southeast,atlanta-hawks,atl,Atlanta Hawks,http://www.espn.com/nba/team/_/name/atl/atlanta-hawks
+Southeast,charlotte-hornets,cha,Charlotte Hornets,http://www.espn.com/nba/team/_/name/cha/charlotte-hornets
+Southeast,miami-heat,mia,Miami Heat,http://www.espn.com/nba/team/_/name/mia/miami-heat
+Southeast,orlando-magic,orl,Orlando Magic,http://www.espn.com/nba/team/_/name/orl/orlando-magic
+Southeast,washington-wizards,wsh,Washington Wizards,http://www.espn.com/nba/team/_/name/wsh/washington-wizards
+Northwest,denver-nuggets,den,Denver Nuggets,http://www.espn.com/nba/team/_/name/den/denver-nuggets
+Northwest,minnesota-timberwolves,min,Minnesota Timberwolves,http://www.espn.com/nba/team/_/name/min/minnesota-timberwolves
+Northwest,oklahoma-city-thunder,okc,Oklahoma City Thunder,http://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder
+Northwest,portland-trail-blazers,por,Portland Trail Blazers,http://www.espn.com/nba/team/_/name/por/portland-trail-blazers
+Northwest,utah-jazz,utah,Utah Jazz,http://www.espn.com/nba/team/_/name/utah/utah-jazz

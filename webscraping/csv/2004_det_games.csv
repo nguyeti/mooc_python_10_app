@@ -1,0 +1,165 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Detroit,86,NY Knicks,77
+2003-11-01,Detroit,109,Memphis,86
+2003-11-03,LA,74,Detroit,72
+2003-11-04,Phoenix,82,Detroit,84
+2003-11-06,Utah,78,Detroit,80
+2003-11-07,Denver,63,Detroit,89
+2003-11-09,Dallas,114,Detroit,75
+2003-11-12,Detroit,93,New Orleans,87
+2003-11-15,Detroit,86,Utah,75
+2003-11-16,Detroit,74,Denver,53
+2003-11-18,NY Knicks,94,Detroit,91
+2003-11-20,Detroit,79,Miami,68
+2003-11-22,Miami,72,Detroit,75
+2003-11-23,Indiana,91,Detroit,106
+2003-11-27,Detroit,82,Dallas,102
+2003-11-29,Detroit,96,Milwaukee,91
+2003-11-30,Milwaukee,109,Detroit,86
+2003-12-04,Detroit,83,Washington,88
+2003-12-07,Atlanta,94,Detroit,92
+2003-12-11,Detroit,91,Atlanta,80
+2003-12-12,Chicago,76,Detroit,86
+2003-12-14,Detroit,91,Oklahoma City,78
+2003-12-15,Detroit,101,Brooklyn,91
+2003-12-18,Cleveland,106 OT,Detroit,111
+2003-12-20,Detroit,109,Cleveland,107 OT
+2003-12-21,Brooklyn,100,Detroit,92
+2003-12-25,Orlando,104,Detroit,99
+2003-12-26,Washington,82,Detroit,87
+2003-12-28,Detroit,106,Minnesota,82
+2003-12-30,Detroit,74,Portland,85
+2003-01-04,Atlanta,86,Detroit,90
+2003-01-06,Detroit,82,Toronto,74
+2003-01-08,Philadelphia,94 OT,Detroit,103
+2003-01-10,New Orleans,99 OT,Detroit,101
+2003-01-11,Detroit,87,Milwaukee,89
+2003-01-13,Orlando,86,Detroit,101
+2003-01-14,Miami,88,Detroit,85
+2003-01-17,Detroit,99,NY Knicks,82
+2003-01-18,Indiana,88,Detroit,86
+2003-01-20,Detroit,88,Indiana,78
+2003-01-22,Detroit,83,Philadelphia,92
+2003-01-24,Houston,74,Detroit,98
+2003-01-25,San Antonio,108,Detroit,76
+2003-01-28,Detroit,86,Boston,83
+2003-01-31,Boston,66,Detroit,118
+2003-02-01,Detroit,106,Brooklyn,84
+2003-02-05,Detroit,89,LA,80
+2003-02-11,Chicago,79,Detroit,89
+2003-02-13,Detroit,98,Orlando,88
+2003-02-14,Milwaukee,96,Detroit,86
+2003-02-16,Cleveland,75,Detroit,90
+2003-02-17,Detroit,93,Miami,62
+2003-02-19,Toronto,84,Detroit,89
+2003-02-21,Minnesota,103,Detroit,96
+2003-02-22,Detroit,91,New Orleans,93
+2003-02-24,Oklahoma City,86,Detroit,79
+2003-02-25,Sacramento,81,Detroit,75
+2003-02-27,Los Angeles,95,Detroit,85
+2003-03-01,Golden State,92,Detroit,90
+2003-03-02,Portland,103,Detroit,86
+2003-03-04,Detroit,96,Houston,83
+2003-03-09,Detroit,107,Golden State,105
+2003-03-12,Detroit,111,Los Angeles,88
+2003-03-14,Detroit,90,Washington,80
+2003-03-15,Detroit,71,Boston,81
+2003-03-18,Washington,90 OT,Detroit,94
+2003-03-20,Detroit,113,Philadelphia,85
+2003-03-21,NY Knicks,97,Detroit,93
+2003-03-23,Detroit,105,Chicago,82
+2003-03-26,Detroit,102,Atlanta,99 OT
+2003-03-28,Detroit,91,Phoenix,94
+2003-03-30,Detroit,99,Sacramento,88
+2003-04-01,Toronto,85,Detroit,92
+2003-04-02,Detroit,78,Toronto,89
+2003-04-04,Detroit,92,Indiana,98
+2003-04-06,Detroit,83,San Antonio,89
+2003-04-08,Philadelphia,91,Detroit,74
+2003-04-09,Detroit,111,Chicago,102 OT
+2003-04-11,New Orleans,93,Detroit,89
+2003-04-13,Memphis,107 2OT,Detroit,110
+2003-04-14,Detroit,89,Cleveland,88
+2003-04-16,Boston,99,Detroit,92
+2004-10-29,Detroit,87,Indiana,89
+2004-10-31,Miami,81,Detroit,93
+2004-11-01,Orlando,85,Detroit,96
+2004-11-05,Detroit,96,Boston,88
+2004-11-07,Detroit,105,Milwaukee,99
+2004-11-09,Detroit,98,Brooklyn,84
+2004-11-11,Sacramento,97,Detroit,91
+2004-11-12,Golden State,87,Detroit,85 OT
+2004-11-14,Los Angeles,94,Detroit,89
+2004-11-15,Phoenix,91,Detroit,100
+2004-11-18,Detroit,106,Los Angeles,96
+2004-11-19,Memphis,92,Detroit,99
+2004-11-21,Detroit,94,NY Knicks,85
+2004-11-23,Detroit,80,New Orleans,81
+2004-11-24,Atlanta,89,Detroit,94
+2004-11-26,Philadelphia,90,Detroit,86
+2004-11-28,Detroit,92,Cleveland,88
+2004-11-29,Washington,69,Detroit,80
+2004-12-01,NY Knicks,78 OT,Detroit,79
+2004-12-03,Detroit,87,Miami,73
+2004-12-06,Houston,86,Detroit,80
+2004-12-09,Detroit,76,Philadelphia,78
+2004-12-11,Cleveland,95,Detroit,86
+2004-12-12,Detroit,72,Oklahoma City,93
+2004-12-17,Detroit,77,Chicago,73
+2004-12-19,Indiana,80,Detroit,75
+2004-12-21,Detroit,96,Utah,75
+2004-12-23,Milwaukee,83,Detroit,78
+2004-12-26,Detroit,79,Brooklyn,82
+2004-12-27,Atlanta,84,Detroit,87
+2004-12-29,Detroit,108,New Orleans,99
+2004-12-31,Detroit,78,Portland,71
+2004-01-02,Detroit,93,Phoenix,81
+2004-01-03,Detroit,99,Golden State,93
+2004-01-05,Boston,68,Detroit,78
+2004-01-07,Detroit,85,Houston,66
+2004-01-11,Detroit,115,Dallas,102
+2004-01-13,Chicago,89,Detroit,105
+2004-01-14,Detroit,95,Toronto,91
+2004-01-16,Detroit,98,Washington,77
+2004-01-17,Milwaukee,94,Detroit,99
+2004-01-19,Detroit,85,San Antonio,77
+2004-01-20,Indiana,81,Detroit,69
+2004-01-23,Minnesota,80,Detroit,79
+2004-01-25,Detroit,82,Atlanta,91
+2004-01-28,Boston,103,Detroit,106
+2004-01-30,Toronto,89 OT,Detroit,90
+2004-01-31,Detroit,80,Memphis,78
+2004-02-02,Miami,100 OT,Detroit,102
+2004-02-03,Detroit,82,Cleveland,85
+2004-02-06,New Orleans,92,Detroit,81
+2004-02-07,Dallas,111,Detroit,108
+2004-02-10,Brooklyn,89,Detroit,78
+2004-02-11,Detroit,94,Sacramento,96
+2004-02-17,NY Knicks,92,Detroit,88
+2004-02-18,Detroit,102,Milwaukee,98
+2004-02-20,Detroit,87,Minnesota,88
+2004-02-22,Detroit,86,Orlando,87
+2004-02-23,Philadelphia,66,Detroit,76
+2004-02-25,Chicago,88,Detroit,107
+2004-02-27,Detroit,105,Atlanta,83
+2004-02-29,LA,88,Detroit,100
+2004-03-01,Utah,94,Detroit,86
+2004-03-04,Portland,68,Detroit,83
+2004-03-06,Denver,66,Detroit,97
+2004-03-07,Oklahoma City,65,Detroit,86
+2004-03-10,Detroit,98,Chicago,65
+2004-03-14,Detroit,85,Philadelphia,69
+2004-03-18,Brooklyn,71,Detroit,89
+2004-03-19,Detroit,94,Denver,75
+2004-03-21,Cleveland,76,Detroit,96
+2004-03-23,New Orleans,82,Detroit,81
+2004-03-25,San Antonio,84,Detroit,75
+2004-03-27,Detroit,100,NY Knicks,85
+2004-03-31,Detroit,108,LA,99
+2004-04-02,Detroit,92,Miami,84
+2004-04-04,Detroit,79,Indiana,61
+2004-04-06,Detroit,102,Orlando,86
+2004-04-09,Detroit,74,Toronto,66
+2004-04-10,Orlando,89,Detroit,101
+2004-04-12,Detroit,101,Washington,79
+2004-04-13,Toronto,87,Detroit,78

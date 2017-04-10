@@ -1,0 +1,658 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Toronto,74,Washington,68
+2003-10-31,Washington,114,Boston,69
+2003-11-02,Washington,79,Brooklyn,87
+2003-11-05,Minnesota,90,Washington,86
+2003-11-06,Washington,107,Cleveland,100
+2003-11-08,Washington,100,Los Angeles,99
+2003-11-09,Cleveland,79,Washington,93
+2003-11-12,Washington,95,Oklahoma City,101
+2003-11-14,Washington,105,Utah,102
+2003-11-16,Washington,95,Miami,65
+2003-11-17,Philadelphia,100,Washington,84
+2003-11-22,Houston,93,Washington,86
+2003-11-23,Memphis,85,Washington,74
+2003-11-26,Washington,84,Indiana,88
+2003-11-29,Indiana,100,Washington,84
+2003-11-30,Washington,94,Philadelphia,95
+2003-12-03,Washington,103,Milwaukee,78
+2003-12-04,Detroit,83,Washington,88
+2003-12-06,Orlando,88,Washington,78
+2003-12-07,Washington,100,NY Knicks,97
+2003-12-10,Washington,79,Portland,98
+2003-12-13,Brooklyn,79,Washington,65
+2003-12-15,Toronto,82,Washington,95
+2003-12-17,Atlanta,99,Washington,109
+2003-12-18,Washington,118,Memphis,100
+2003-12-21,San Antonio,92,Washington,81
+2003-12-23,Dallas,92,Washington,86
+2003-12-26,Washington,82,Detroit,87
+2003-12-28,Washington,84,Atlanta,76
+2003-12-30,Orlando,112,Washington,95
+2003-12-31,Washington,105,San Antonio,103
+2003-01-02,Chicago,82,Washington,107
+2003-01-04,Washington,107,Indiana,104 2OT
+2003-01-06,Boston,95,Washington,100
+2003-01-08,Washington,101,Chicago,98
+2003-01-10,Washington,99,Golden State,104
+2003-01-11,NY Knicks,84,Washington,89
+2003-01-14,Washington,75,Toronto,84
+2003-01-16,Washington,108,Orlando,93
+2003-01-18,Washington,80,Philadelphia,88
+2003-01-20,Washington,89,Denver,74
+2003-01-22,New Orleans,103,Washington,94
+2003-01-24,Chicago,104,Washington,97
+2003-01-25,Washington,89,Minnesota,97
+2003-01-27,Washington,98,Phoenix,93
+2003-01-29,Brooklyn,86,Washington,78
+2003-01-30,Milwaukee,97,Washington,90
+2003-02-01,Washington,109,New Orleans,104
+2003-02-04,Washington,93,Cleveland,84
+2003-02-11,Sacramento,99,Washington,80
+2003-02-12,LA,104,Washington,108
+2003-02-14,Utah,109,Washington,77
+2003-02-19,New Orleans,87,Washington,75
+2003-02-21,Washington,89,Brooklyn,86
+2003-02-23,Washington,101 OT,Dallas,106
+2003-02-25,Indiana,78,Washington,83
+2003-02-27,Washington,100,Houston,98 OT
+2003-03-01,Washington,101,Chicago,93
+2003-03-02,Miami,93,Washington,83
+2003-03-04,Washington,86,Toronto,89
+2003-03-05,Washington,99,LA,80
+2003-03-07,Washington,82,Milwaukee,85
+2003-03-09,NY Knicks,97,Washington,96
+2003-03-11,Washington,106,Orlando,105
+2003-03-14,Detroit,90,Washington,80
+2003-03-15,Washington,89,Miami,82
+2003-03-18,Washington,90 OT,Detroit,94
+2003-03-21,Phoenix,109,Washington,83
+2003-03-23,Golden State,113,Washington,107
+2003-03-25,Portland,91,Washington,95
+2003-03-26,Oklahoma City,74,Washington,80
+2003-03-28,Los Angeles,108,Washington,94
+2003-03-30,Denver,88,Washington,72
+2003-04-02,Washington,99,Sacramento,105
+2003-04-03,Atlanta,91,Washington,89
+2003-04-06,Boston,98 OT,Washington,99
+2003-04-08,Cleveland,91,Washington,100
+2003-04-09,Washington,83,Boston,87
+2003-04-11,Miami,87,Washington,91
+2003-04-12,Washington,100,Atlanta,101
+2003-04-14,Washington,79,NY Knicks,93
+2003-04-16,Philadelphia,107,Washington,87
+2004-10-29,Chicago,74,Washington,99
+2004-10-31,Toronto,82,Washington,79
+2004-11-01,Washington,85,Brooklyn,98
+2004-11-05,Washington,100,Dallas,90
+2004-11-07,Washington,86,Toronto,60
+2004-11-08,Cleveland,111,Washington,98
+2004-11-11,Washington,105,Philadelphia,112
+2004-11-14,Miami,105,Washington,101 OT
+2004-11-15,Washington,71,San Antonio,95
+2004-11-17,Atlanta,97,Washington,106
+2004-11-19,Washington,106,Cleveland,95
+2004-11-21,Denver,108,Washington,87
+2004-11-23,Oklahoma City,88,Washington,85
+2004-11-25,Portland,80,Washington,81
+2004-11-26,Los Angeles,120,Washington,99
+2004-11-29,Washington,69,Detroit,80
+2004-12-02,Dallas,97,Washington,72
+2004-12-05,Memphis,92,Washington,77
+2004-12-06,Milwaukee,109 OT,Washington,114
+2004-12-09,Indiana,93,Washington,79
+2004-12-10,Washington,91,Orlando,95
+2004-12-12,Washington,91,Minnesota,110
+2004-12-14,NY Knicks,89,Washington,87
+2004-12-16,Washington,91,Utah,87
+2004-12-19,Brooklyn,97,Washington,87
+2004-12-23,Miami,79,Washington,72
+2004-12-26,Washington,84,Miami,92
+2004-12-27,Chicago,100,Washington,86
+2004-12-30,Washington,73,Atlanta,83
+2004-01-02,Washington,97,Golden State,79
+2004-01-04,Washington,94,Milwaukee,100
+2004-01-06,San Antonio,94,Washington,72
+2004-01-07,New Orleans,97,Washington,87
+2004-01-09,Orlando,103,Washington,92
+2004-01-10,Washington,94,Philadelphia,87
+2004-01-13,Washington,80,Houston,93
+2004-01-14,Brooklyn,115,Washington,103
+2004-01-16,Detroit,98,Washington,77
+2004-01-17,Washington,99,Oklahoma City,84
+2004-01-19,Washington,93,Chicago,83
+2004-01-23,Boston,100,Washington,89
+2004-01-24,Washington,107,Indiana,96
+2004-01-26,Washington,83,Portland,94
+2004-01-28,Washington,100,Orlando,104
+2004-01-30,Washington,105,Phoenix,100
+2004-02-01,Washington,100,Cleveland,104
+2004-02-04,Washington,101,Memphis,103
+2004-02-06,Washington,112,LA,100
+2004-02-07,Cleveland,88,Washington,106
+2004-02-11,Philadelphia,113,Washington,88
+2004-02-17,Houston,107,Washington,81
+2004-02-18,New Orleans,120,Washington,98
+2004-02-20,Washington,87,Indiana,96
+2004-02-22,Washington,85,Milwaukee,113
+2004-02-25,Toronto,74,Washington,76
+2004-02-26,Washington,95,Chicago,87
+2004-02-28,Washington,110,Los Angeles,122
+2004-03-01,Washington,111,New Orleans,106 OT
+2004-03-03,Washington,84,Toronto,70
+2004-03-05,Boston,94,Washington,90
+2004-03-07,Washington,86,NY Knicks,99
+2004-03-09,Washington,87,Denver,117
+2004-03-10,Orlando,108,Washington,99
+2004-03-12,Atlanta,138,Washington,124
+2004-03-13,Washington,102,Boston,111
+2004-03-16,NY Knicks,114,Washington,110 OT
+2004-03-17,Washington,114,Sacramento,108
+2004-03-19,Washington,94,Atlanta,84
+2004-03-21,Washington,81,Miami,101
+2004-03-23,Utah,85,Washington,77
+2004-03-25,LA,94,Washington,103
+2004-03-26,Golden State,99,Washington,78
+2004-03-28,Sacramento,100,Washington,92
+2004-03-29,Phoenix,101,Washington,95
+2004-03-31,Washington,99 OT,Brooklyn,103
+2004-04-02,Minnesota,91,Washington,73
+2004-04-04,Washington,112,Boston,102
+2004-04-07,Milwaukee,116,Washington,107
+2004-04-09,Philadelphia,80,Washington,83
+2004-04-10,Washington,98 OT,NY Knicks,102
+2004-04-12,Detroit,101,Washington,79
+2004-04-14,Washington,78,New Orleans,94
+2005-11-03,Memphis,91,Washington,103
+2005-11-04,Charlotte,96,Washington,103
+2005-11-06,Washington,106,Miami,118
+2005-11-09,Miami,103,Washington,93
+2005-11-10,Washington,106,Orlando,96
+2005-11-13,Cleveland,105,Washington,74
+2005-11-14,Washington,113,Dallas,122
+2005-11-17,Washington,110,Boston,105 OT
+2005-11-20,Brooklyn,86,Washington,97
+2005-11-23,Washington,102,Toronto,86
+2005-11-26,Philadelphia,116,Washington,114 OT
+2005-11-28,Toronto,109 OT,Washington,114
+2005-12-01,Washington,95,Brooklyn,68
+2005-12-03,Atlanta,90,Washington,114
+2005-12-04,Washington,95,Chicago,88
+2005-12-08,Washington,105,Denver,111
+2005-12-10,Washington,106,NY Knicks,104
+2005-12-12,Washington,88,New Orleans,69
+2005-12-13,Miami,106,Washington,83
+2005-12-15,Washington,93,Miami,98
+2005-12-17,Los Angeles,116 OT,Washington,120
+2005-12-18,Phoenix,110,Washington,96
+2005-12-20,Golden State,101,Washington,103
+2005-12-21,Sacramento,104,Washington,93
+2005-12-26,Minnesota,109,Washington,74
+2005-12-27,Washington,106,Charlotte,87
+2005-12-29,Washington,105,Detroit,107
+2005-12-31,Boston,108,Washington,103
+2005-01-02,Washington,104,Atlanta,101
+2005-01-04,Washington,112,Brooklyn,88
+2005-01-06,Washington,107,Oklahoma City,96
+2005-01-08,Washington,117,Minnesota,114
+2005-01-12,Washington,104,Portland,100
+2005-01-14,Milwaukee,103,Washington,105
+2005-01-15,Washington,108,Phoenix,103
+2005-01-17,San Antonio,101,Washington,73
+2005-01-18,Dallas,137,Washington,120
+2005-01-21,Washington,118,Toronto,109
+2005-01-22,Indiana,93,Washington,95
+2005-01-24,Cleveland,97,Washington,106
+2005-01-26,Washington,117,Philadelphia,107
+2005-01-28,Orlando,108,Washington,101
+2005-01-29,Washington,97,Orlando,103
+2005-02-01,Washington,96,Detroit,105
+2005-02-04,Toronto,103,Washington,100
+2005-02-05,Washington,112,Milwaukee,94
+2005-02-07,Washington,108,Indiana,104
+2005-02-09,Washington,95,San Antonio,87
+2005-02-11,Washington,94,LA,91
+2005-02-12,Detroit,107,Washington,86
+2005-02-14,New Orleans,98,Washington,96
+2005-02-15,Houston,123,Washington,93
+2005-02-23,Washington,93,Memphis,83
+2005-02-25,Chicago,97,Washington,90
+2005-02-27,Washington,108,Sacramento,110
+2005-03-02,Washington,101,Houston,98
+2005-03-04,Washington,90,Golden State,103
+2005-03-05,Charlotte,84,Washington,86
+2005-03-08,NY Knicks,93,Washington,83
+2005-03-13,Boston,105,Washington,101
+2005-03-14,Washington,95,Los Angeles,81
+2005-03-16,Atlanta,93,Washington,122
+2005-03-18,Milwaukee,99,Washington,90
+2005-03-19,Washington,96,Utah,95
+2005-03-22,Denver,127,Washington,98
+2005-03-24,Utah,84,Washington,85
+2005-03-25,LA,98,Washington,94
+2005-03-27,Oklahoma City,94,Washington,95
+2005-03-28,Portland,106,Washington,114
+2005-03-30,Washington,102,Atlanta,99
+2005-04-01,Orlando,102,Washington,111
+2005-04-03,Washington,76,Indiana,79
+2005-04-05,Washington,108,Boston,116
+2005-04-06,Detroit,105,Washington,93
+2005-04-08,Indiana,93,Washington,83
+2005-04-09,Washington,106,Philadelphia,112
+2005-04-11,Washington,119,Milwaukee,112
+2005-04-13,Washington,93,Chicago,82
+2005-04-15,Washington,119,Cleveland,111
+2005-04-17,Washington,106,Charlotte,104
+2005-04-19,Brooklyn,109,Washington,101
+2005-04-20,NY Knicks,113,Washington,105
+2006-11-02,Toronto,96,Washington,99
+2006-11-04,NY Knicks,75,Washington,86
+2006-11-05,Washington,87,Orlando,79
+2006-11-09,Washington,97,LA,102
+2006-11-11,Washington,137,Oklahoma City,96
+2006-11-12,Washington,110,San Antonio,95
+2006-11-15,Cleveland,114,Washington,99
+2006-11-17,Minnesota,109,Washington,98
+2006-11-19,Brooklyn,89,Washington,83
+2006-11-22,Washington,105,Denver,108
+2006-11-23,Orlando,91,Washington,83
+2006-11-25,Detroit,114 2OT,Washington,120
+2006-11-26,Charlotte,100,Washington,82
+2006-11-30,Washington,96,Portland,89
+2006-12-02,Washington,102,Milwaukee,105
+2006-12-06,Washington,119,Toronto,111 OT
+2006-12-08,Indiana,111,Washington,87
+2006-12-10,Washington,111,Chicago,118
+2006-12-11,Miami,104,Washington,101 OT
+2006-12-13,Washington,94,Brooklyn,74
+2006-12-16,Los Angeles,97,Washington,91
+2006-12-18,Portland,97,Washington,92
+2006-12-19,Oklahoma City,111,Washington,101
+2006-12-21,Denver,110,Washington,116
+2006-12-23,Phoenix,111,Washington,112
+2006-12-26,Washington,94,Los Angeles,91
+2006-12-28,Washington,99,Phoenix,104
+2006-12-30,Washington,113,Miami,128
+2006-01-03,Washington,111,Houston,123
+2006-01-06,NY Knicks,113,Washington,92
+2006-01-07,Washington,103,Boston,102
+2006-01-09,Washington,89,Utah,97
+2006-01-11,Washington,103,Atlanta,72
+2006-01-13,Indiana,85,Washington,94
+2006-01-14,Atlanta,106 OT,Washington,114
+2006-01-16,Washington,104,Philadelphia,76
+2006-01-18,Orlando,106,Washington,98
+2006-01-20,Washington,110,New Orleans,99
+2006-01-22,Washington,82,Memphis,93
+2006-01-25,Boston,87,Washington,89
+2006-01-27,Chicago,90,Washington,79
+2006-01-28,Washington,107,Charlotte,97
+2006-01-31,Washington,84,Indiana,79
+2006-02-01,Toronto,117,Washington,112
+2006-02-04,Washington,98,Atlanta,85
+2006-02-06,Washington,94,Orlando,82
+2006-02-08,Washington,129,Golden State,124
+2006-02-10,Washington,101,Cleveland,89
+2006-02-12,Washington,107,Philadelphia,97
+2006-02-13,New Orleans,97,Washington,96
+2006-02-15,Dallas,103,Washington,97
+2006-02-21,Washington,90,Minnesota,78
+2006-02-24,Cleveland,94,Washington,102
+2006-02-25,Washington,110,NY Knicks,89
+2006-02-27,Memphis,108,Washington,98
+2006-03-01,Washington,93,Indiana,99
+2006-03-03,Philadelphia,119,Washington,113
+2006-03-05,Washington,117,Sacramento,107
+2006-03-07,Washington,115 OT,Boston,116
+2006-03-08,Miami,118,Washington,112
+2006-03-11,Washington,110,Detroit,92
+2006-03-14,Charlotte,114,Washington,119
+2006-03-15,Washington,107,Charlotte,99
+2006-03-17,Washington,94,Dallas,104
+2006-03-19,Washington,113,Chicago,104
+2006-03-21,Washington,100,Brooklyn,112
+2006-03-23,Utah,97,Washington,109
+2006-03-25,LA,116,Washington,101
+2006-03-27,Golden State,98,Washington,116
+2006-03-28,Sacramento,84,Washington,97
+2006-03-31,Houston,105,Washington,103
+2006-04-01,San Antonio,106,Washington,99
+2006-04-04,Washington,105,NY Knicks,90
+2006-04-05,Boston,91,Washington,108
+2006-04-07,Atlanta,114,Washington,101
+2006-04-08,Washington,86,Miami,99
+2006-04-10,Philadelphia,105,Washington,97
+2006-04-12,Milwaukee,100,Washington,97
+2006-04-14,Chicago,103,Washington,101
+2006-04-16,Washington,104,Cleveland,92
+2006-04-18,Washington,116,Milwaukee,103
+2006-04-19,Detroit,80,Washington,96
+2007-11-01,Cleveland,97,Washington,94
+2007-11-04,Washington,124,Boston,117
+2007-11-06,Orlando,106,Washington,103
+2007-11-08,Washington,117,Indiana,91
+2007-11-10,Washington,116,Milwaukee,111
+2007-11-12,Washington,93 OT,Brooklyn,105
+2007-11-15,NY Knicks,102,Washington,82
+2007-11-17,Detroit,100,Washington,91
+2007-11-18,Washington,111,Cleveland,99
+2007-11-21,Dallas,107,Washington,80
+2007-11-22,Houston,86,Washington,82
+2007-11-24,Memphis,95,Washington,80
+2007-11-25,Washington,111,Detroit,115
+2007-11-28,Washington,96,Atlanta,95
+2007-12-01,Washington,121,Charlotte,109
+2007-12-02,Chicago,112,Washington,94
+2007-12-04,Washington,106,Dallas,97
+2007-12-06,NY Knicks,102,Washington,113
+2007-12-08,Philadelphia,98,Washington,113
+2007-12-09,Washington,109,Houston,114
+2007-12-13,Washington,120,Denver,91
+2007-12-15,Washington,106,Miami,95
+2007-12-17,Los Angeles,141 OT,Washington,147
+2007-12-18,Denver,117,Washington,108
+2007-12-21,Sacramento,119,Washington,126
+2007-12-22,Phoenix,139 OT,Washington,144
+2007-12-26,Washington,116,Memphis,101
+2007-12-27,Charlotte,107,Washington,114
+2007-12-29,Washington,112,Orlando,111
+2007-12-30,Milwaukee,119,Washington,102
+2007-01-03,Washington,108,Milwaukee,105
+2007-01-05,Washington,116,LA,105
+2007-01-07,Toronto,116,Washington,111
+2007-01-10,Washington,113,Chicago,103
+2007-01-12,New Orleans,104,Washington,97
+2007-01-13,San Antonio,93,Washington,80
+2007-01-15,Washington,114,Utah,111
+2007-01-17,Washington,99,NY Knicks,98
+2007-01-19,Orlando,93,Washington,114
+2007-01-20,Washington,115,Boston,110 OT
+2007-01-23,Washington,105,Phoenix,127
+2007-01-26,Detroit,96,Washington,99
+2007-01-28,Boston,91,Washington,105
+2007-01-30,Washington,104,Detroit,99
+2007-01-31,Toronto,119,Washington,109
+2007-02-03,Washington,102,Los Angeles,118
+2007-02-05,Washington,118,Oklahoma City,108
+2007-02-07,Washington,83,San Antonio,110
+2007-02-11,Washington,73,Portland,94
+2007-02-14,Philadelphia,85,Washington,92
+2007-02-20,Washington,112,Minnesota,100
+2007-02-22,Washington,109,Sacramento,106
+2007-02-23,Chicago,105,Washington,90
+2007-02-25,Minnesota,98,Washington,94
+2007-02-27,Brooklyn,113,Washington,101
+2007-02-28,Washington,83,Miami,92
+2007-03-02,Washington,93,Atlanta,92
+2007-03-04,Washington,107,Golden State,106
+2007-03-06,Washington,129,Toronto,109
+2007-03-07,Atlanta,100,Washington,97
+2007-03-10,Washington,89,NY Knicks,90
+2007-03-11,Miami,106,Washington,104
+2007-03-14,Indiana,96,Washington,112
+2007-03-17,Washington,125,New Orleans,103
+2007-03-20,Portland,100,Washington,98
+2007-03-21,Oklahoma City,106,Washington,108
+2007-03-23,Golden State,135,Washington,128
+2007-03-24,LA,111,Washington,105
+2007-03-26,Utah,103,Washington,97
+2007-03-28,Washington,111,Philadelphia,108
+2007-03-30,Washington,118 OT,Toronto,123
+2007-04-01,Milwaukee,107,Washington,121
+2007-04-03,Charlotte,122,Washington,102
+2007-04-04,Washington,100,Charlotte,108
+2007-04-06,Washington,94,Cleveland,99
+2007-04-07,Brooklyn,120,Washington,114 OT
+2007-04-10,Washington,92,Brooklyn,96
+2007-04-11,Miami,85,Washington,82
+2007-04-13,Atlanta,85,Washington,98
+2007-04-15,Washington,68,Chicago,101
+2007-04-17,Washington,89,Orlando,95
+2007-04-18,Indiana,95,Washington,98
+2008-10-31,Indiana,119,Washington,110 OT
+2008-11-02,Boston,103,Washington,83
+2008-11-03,Washington,82,Orlando,94
+2008-11-08,Brooklyn,87,Washington,85
+2008-11-09,Washington,92,Denver,118
+2008-11-11,Atlanta,90,Washington,101
+2008-11-14,Washington,103,Indiana,90
+2008-11-16,Minnesota,89,Washington,105
+2008-11-17,Washington,109,Portland,90
+2008-11-20,Washington,116,Philadelphia,101
+2008-11-21,Charlotte,111 OT,Washington,114
+2008-11-23,Washington,115,Golden State,123
+2008-11-24,Memphis,124,Washington,118
+2008-11-26,Dallas,98,Washington,110
+2008-11-28,San Antonio,109,Washington,94
+2008-11-30,Philadelphia,85,Washington,84
+2008-12-01,Washington,101,Toronto,97
+2008-12-05,Washington,105,Cleveland,86
+2008-12-07,Washington,107,Phoenix,122
+2008-12-09,Washington,104,Brooklyn,89
+2008-12-11,Washington,102,Minnesota,88
+2008-12-13,Miami,91,Washington,104
+2008-12-15,Washington,92,Sacramento,79
+2008-12-19,Washington,84,Chicago,95
+2008-12-21,Washington,92,Atlanta,97
+2008-12-22,Indiana,93,Washington,85
+2008-12-26,Charlotte,104,Washington,108
+2008-12-28,Brooklyn,109,Washington,106
+2008-12-29,Washington,96,Miami,74
+2008-01-02,Washington,93,Detroit,106
+2008-01-04,Milwaukee,77,Washington,101
+2008-01-06,Washington,108,Oklahoma City,86
+2008-01-08,Washington,84,Houston,92
+2008-01-11,Atlanta,98 OT,Washington,102
+2008-01-12,Washington,85,Boston,78
+2008-01-14,Boston,83,Washington,88
+2008-01-15,NY Knicks,105,Washington,93
+2008-01-18,Washington,111,NY Knicks,98
+2008-01-21,Washington,102,Dallas,84
+2008-01-23,Cleveland,121,Washington,85
+2008-01-25,Washington,104,Memphis,93
+2008-01-27,Milwaukee,105,Washington,102 OT
+2008-01-29,Washington,108,Toronto,104 OT
+2008-01-30,Toronto,122,Washington,83
+2008-02-01,Washington,87,Utah,96
+2008-02-03,Washington,91,Los Angeles,103
+2008-02-05,Philadelphia,101,Washington,96
+2008-02-06,Washington,77,San Antonio,85
+2008-02-08,Denver,111,Washington,100
+2008-02-10,Phoenix,108,Washington,107
+2008-02-11,Golden State,120,Washington,117
+2008-02-13,LA,89,Washington,91
+2008-02-19,Washington,100 OT,NY Knicks,113
+2008-02-22,Cleveland,90,Washington,89
+2008-02-23,Washington,110,Charlotte,95
+2008-02-25,New Orleans,92,Washington,95
+2008-02-26,Houston,94,Washington,69
+2008-02-29,Chicago,91,Washington,97
+2008-03-02,Washington,101,New Orleans,84
+2008-03-05,Washington,92,Orlando,122
+2008-03-07,Toronto,106 OT,Washington,110
+2008-03-08,Washington,97,Charlotte,100
+2008-03-11,Washington,105,Milwaukee,97
+2008-03-13,Washington,101,Cleveland,99
+2008-03-15,Washington,119,LA,109 OT
+2008-03-17,Washington,96,Atlanta,105
+2008-03-19,Orlando,86,Washington,87
+2008-03-21,Miami,86,Washington,103
+2008-03-23,Washington,95,Detroit,83
+2008-03-25,Portland,102,Washington,82
+2008-03-26,Oklahoma City,99,Washington,104
+2008-03-28,Sacramento,108,Washington,114
+2008-03-30,Los Angeles,126,Washington,120 OT
+2008-03-31,Utah,129,Washington,87
+2008-04-02,Washington,109,Milwaukee,110
+2008-04-04,Washington,109,Miami,95
+2008-04-05,Chicago,87,Washington,99
+2008-04-09,Washington,109,Boston,95
+2008-04-11,Detroit,102,Washington,74
+2008-04-12,Washington,109,Philadelphia,93
+2008-04-14,Washington,117,Indiana,110
+2008-04-16,Orlando,103,Washington,83
+2009-10-29,Washington,85,Brooklyn,95
+2009-11-01,Detroit,117,Washington,109
+2009-11-05,Milwaukee,112,Washington,104 OT
+2009-11-07,Washington,108,NY Knicks,114
+2009-11-08,Orlando,106,Washington,81
+2009-11-12,Washington,95,Utah,87
+2009-11-14,Miami,97,Washington,77
+2009-11-18,Washington,87,Miami,94
+2009-11-19,Atlanta,91,Washington,87
+2009-11-21,Washington,91,Houston,103
+2009-11-22,NY Knicks,122,Washington,117
+2009-11-25,Washington,124,Golden State,100
+2009-11-27,Washington,90,Orlando,105
+2009-11-29,Washington,98,Atlanta,102
+2009-12-02,Brooklyn,88,Washington,108
+2009-12-03,Washington,92,Portland,98
+2009-12-05,Washington,104,Los Angeles,106
+2009-12-06,Chicago,117,Washington,110
+2009-12-09,Washington,107,Detroit,94
+2009-12-11,Washington,88,Boston,122
+2009-12-13,Philadelphia,104,Washington,89
+2009-12-15,Washington,98,Indiana,118
+2009-12-17,Detroit,88,Washington,74
+2009-12-19,Washington,103,Philadelphia,109
+2009-12-21,Washington,86,Dallas,97
+2009-12-23,Charlotte,80,Washington,72
+2009-12-25,Cleveland,93,Washington,89
+2009-12-27,Washington,104,Oklahoma City,95
+2009-12-29,Houston,87,Washington,89
+2009-12-30,New Orleans,97,Washington,85
+2009-01-02,Boston,108,Washington,83
+2009-01-04,Washington,80,Cleveland,77
+2009-01-06,Orlando,89,Washington,80
+2009-01-07,Washington,93,Toronto,99
+2009-01-09,Chicago,98,Washington,86
+2009-01-10,Washington,89,Charlotte,92
+2009-01-12,Washington,91,Milwaukee,97
+2009-01-14,NY Knicks,128,Washington,122
+2009-01-16,Washington,96,NY Knicks,89
+2009-01-19,Golden State,119,Washington,98
+2009-01-21,Sacramento,107,Washington,110
+2009-01-22,Los Angeles,117,Washington,97
+2009-01-24,Portland,100,Washington,87
+2009-01-26,Washington,87,Phoenix,103
+2009-01-28,Miami,93,Washington,71
+2009-01-30,Philadelphia,104,Washington,94
+2009-01-31,Washington,106,LA,94
+2009-02-02,Washington,97,Memphis,113
+2009-02-04,Washington,88,Brooklyn,115
+2009-02-06,Washington,103,Denver,124
+2009-02-08,Washington,119,Indiana,117
+2009-02-10,Atlanta,111,Washington,90
+2009-02-11,Charlotte,101,Washington,89
+2009-02-17,Washington,111,Minnesota,103
+2009-02-20,Brooklyn,96,Washington,107
+2009-02-21,Washington,67,San Antonio,98
+2009-02-25,Washington,98,Philadelphia,106
+2009-02-27,Washington,113,Chicago,90
+2009-02-28,Milwaukee,109,Washington,93
+2009-03-02,Washington,89,Atlanta,98
+2009-03-04,Oklahoma City,88,Washington,83
+2009-03-06,San Antonio,100,Washington,78
+2009-03-07,Dallas,119,Washington,103
+2009-03-09,Minnesota,99,Washington,110
+2009-03-11,Washington,98,New Orleans,109
+2009-03-13,Washington,103,Orlando,112
+2009-03-15,Washington,106,Sacramento,104
+2009-03-17,Utah,103,Washington,88
+2009-03-18,LA,123,Washington,108
+2009-03-20,Denver,116,Washington,105
+2009-03-21,Phoenix,128,Washington,96
+2009-03-23,Washington,99,Chicago,101
+2009-03-25,Washington,95,Charlotte,93
+2009-03-28,Washington,96,Detroit,98
+2009-03-29,Indiana,124,Washington,115
+2009-04-01,Memphis,112,Washington,107
+2009-04-02,Washington,109,Cleveland,101
+2009-04-04,Washington,104,Miami,118
+2009-04-08,Cleveland,98,Washington,86
+2009-04-10,Toronto,98,Washington,100
+2009-04-13,Washington,96,Toronto,97
+2009-04-15,Boston,115,Washington,107
+2010-10-27,Dallas,91,Washington,102
+2010-10-30,Atlanta,100,Washington,89
+2010-10-31,Washington,123,Brooklyn,104
+2010-11-03,Cleveland,102,Washington,90
+2010-11-04,Washington,89,Miami,93
+2010-11-06,Indiana,102,Washington,86
+2010-11-08,Washington,90,Phoenix,102
+2010-11-10,Miami,90,Washington,76
+2010-11-14,Washington,103,Detroit,106
+2010-11-18,Washington,108,Cleveland,91
+2010-11-20,Oklahoma City,127,Washington,108
+2010-11-21,San Antonio,106,Washington,84
+2010-11-24,Washington,108,Philadelphia,107
+2010-11-27,Miami,84,Washington,94
+2010-11-28,Washington,76,Charlotte,92
+2010-12-01,Toronto,102,Washington,106
+2010-12-02,Washington,104,Milwaukee,102
+2010-12-04,Washington,107 OT,Toronto,109
+2010-12-06,Detroit,98,Washington,94
+2010-12-10,Washington,102,Boston,104
+2010-12-12,Washington,113,Indiana,114
+2010-12-14,LA,97,Washington,95
+2010-12-16,Sacramento,112,Washington,109
+2010-12-18,Golden State,109,Washington,118
+2010-12-19,Phoenix,121,Washington,95
+2010-12-22,Washington,105,Philadelphia,98
+2010-12-23,Milwaukee,97,Washington,109
+2010-12-26,Minnesota,101,Washington,89
+2010-12-28,Memphis,116,Washington,111 OT
+2010-12-29,Washington,98,Oklahoma City,110
+2010-01-02,Washington,86,San Antonio,97
+2010-01-05,Philadelphia,97,Washington,104
+2010-01-06,Cleveland,121,Washington,98
+2010-01-08,Washington,104,Orlando,97
+2010-01-10,Washington,110,New Orleans,115
+2010-01-12,Washington,90,Detroit,99
+2010-01-13,Atlanta,94,Washington,82
+2010-01-15,Chicago,121,Washington,119 2OT
+2010-01-16,Washington,96,Sacramento,86
+2010-01-18,Washington,97,Portland,92
+2010-01-20,Washington,93,Dallas,94
+2010-01-22,Washington,88,Miami,112
+2010-01-24,Washington,78,LA,92
+2010-01-26,Washington,103,Los Angeles,115
+2010-01-29,Brooklyn,79,Washington,81
+2010-01-30,Washington,106,NY Knicks,96
+2010-02-01,Washington,88,Boston,99
+2010-02-03,NY Knicks,107,Washington,85
+2010-02-05,Orlando,91,Washington,92
+2010-02-06,Washington,-,Atlanta,-
+2010-02-09,Charlotte,94,Washington,92
+2010-02-17,Washington,108,Minnesota,99
+2010-02-19,Washington,107,Denver,97
+2010-02-20,Toronto,109,Washington,104
+2010-02-22,Washington,101,Chicago,95
+2010-02-24,Washington,94,Memphis,99
+2010-02-26,Washington,116 OT,NY Knicks,118
+2010-02-28,Brooklyn,85,Washington,89
+2010-03-03,Milwaukee,100,Washington,87
+2010-03-05,Washington,74,Milwaukee,102
+2010-03-07,Boston,86,Washington,83
+2010-03-09,Washington,88,Houston,96
+2010-03-11,Washington,99,Atlanta,105
+2010-03-12,Detroit,101,Washington,87
+2010-03-13,Washington,95,Orlando,109
+2010-03-15,Utah,112,Washington,89
+2010-03-16,Denver,97,Washington,87
+2010-03-19,Portland,76,Washington,74
+2010-03-21,Los Angeles,99,Washington,92
+2010-03-23,Washington,86 OT,Charlotte,95
+2010-03-24,Indiana,99,Washington,82
+2010-03-26,Charlotte,107,Washington,96
+2010-03-27,Washington,87,Utah,103
+2010-03-30,Houston,98,Washington,94
+2010-03-31,New Orleans,91,Washington,96
+2010-04-02,Washington,87,Chicago,95
+2010-04-04,Washington,109,Brooklyn,99
+2010-04-06,Washington,112,Golden State,94
+2010-04-07,Orlando,121,Washington,94
+2010-04-09,Boston,96,Washington,106
+2010-04-10,Washington,95,Atlanta,105
+2010-04-12,NY Knicks,114,Washington,103
+2010-04-14,Washington,98,Indiana,97

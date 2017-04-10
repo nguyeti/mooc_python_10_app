@@ -1,0 +1,657 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Miami,86,Orlando,100
+2003-11-02,New Orleans,100,Miami,95
+2003-11-03,Miami,88,Sacramento,78
+2003-11-05,Miami,79,Indiana,83
+2003-11-09,Miami,82,Oklahoma City,84
+2003-11-12,Miami,82,LA,101
+2003-11-15,Miami,84,Brooklyn,93
+2003-11-16,Washington,95,Miami,65
+2003-11-19,Milwaukee,93,Miami,97
+2003-11-20,Detroit,79,Miami,68
+2003-11-22,Miami,72,Detroit,75
+2003-11-24,Orlando,77,Miami,75
+2003-11-26,Miami,97,Los Angeles,85
+2003-11-27,Philadelphia,83,Miami,74
+2003-11-29,Atlanta,100,Miami,94 OT
+2003-11-30,Miami,85,Cleveland,79
+2003-12-02,Phoenix,90 OT,Miami,100
+2003-12-04,LA,89,Miami,80
+2003-12-06,Portland,88,Miami,69
+2003-12-07,Oklahoma City,100,Miami,71
+2003-12-10,Miami,96,Memphis,107
+2003-12-13,Miami,92,NY Knicks,97
+2003-12-14,Miami,101,Golden State,92
+2003-12-16,Miami,100 OT,Houston,105
+2003-12-18,Boston,81,Miami,91
+2003-12-20,Toronto,77,Miami,97
+2003-12-22,NY Knicks,84,Miami,92
+2003-12-23,Cleveland,74,Miami,72
+2003-12-27,Miami,90,Boston,70
+2003-12-30,Miami,93,Atlanta,84
+2003-01-01,Atlanta,73,Miami,107
+2003-01-03,Miami,80,Brooklyn,100
+2003-01-05,Sacramento,96,Miami,70
+2003-01-06,Golden State,99,Miami,85
+2003-01-08,Denver,86,Miami,76
+2003-01-10,Utah,92,Miami,76
+2003-01-12,Los Angeles,106,Miami,81
+2003-01-14,Miami,88,Detroit,85
+2003-01-15,Indiana,104,Miami,81
+2003-01-18,Miami,102,Chicago,101 2OT
+2003-01-20,NY Knicks,72,Miami,65
+2003-01-22,Miami,92,Phoenix,85
+2003-01-25,Miami,91,Philadelphia,97
+2003-01-27,Miami,95,Indiana,102
+2003-01-29,Miami,82,NY Knicks,80
+2003-01-31,Philadelphia,104,Miami,99
+2003-02-01,Miami,65,San Antonio,67
+2003-02-03,Miami,99,Atlanta,79
+2003-02-05,Miami,87,Portland,101
+2003-02-11,Miami,69,New Orleans,78
+2003-02-14,Houston,82,Miami,94
+2003-02-15,Dallas,98,Miami,92
+2003-02-17,Detroit,93,Miami,62
+2003-02-18,Brooklyn,84,Miami,79
+2003-02-22,Miami,100,Chicago,90
+2003-02-25,San Antonio,84,Miami,69
+2003-02-26,New Orleans,91,Miami,82
+2003-02-28,Memphis,126,Miami,116 OT
+2003-03-02,Miami,93,Washington,83
+2003-03-04,Miami,91,Milwaukee,100
+2003-03-07,Miami,89,Dallas,91
+2003-03-08,Miami,92,Denver,98
+2003-03-10,Miami,73,Utah,83
+2003-03-11,Cleveland,75,Miami,77
+2003-03-14,Miami,83,New Orleans,87
+2003-03-15,Washington,89,Miami,82
+2003-03-18,Miami,83,Philadelphia,103
+2003-03-19,Orlando,109,Miami,93
+2003-03-21,Miami,107,Toronto,98
+2003-03-23,Miami,74,Orlando,96
+2003-03-25,Minnesota,108,Miami,91
+2003-03-26,Chicago,82,Miami,74
+2003-03-28,Miami,111,Minnesota,84
+2003-03-30,Milwaukee,109,Miami,87
+2003-03-31,Miami,86,Milwaukee,91
+2003-04-02,Boston,90,Miami,62
+2003-04-04,Brooklyn,99,Miami,83
+2003-04-06,Indiana,90,Miami,69
+2003-04-08,Miami,89,Toronto,83
+2003-04-11,Miami,87,Washington,91
+2003-04-13,Miami,86,Boston,94
+2003-04-15,Toronto,99,Miami,103
+2004-10-28,Philadelphia,89,Miami,74
+2004-10-29,Boston,98,Miami,75
+2004-10-31,Miami,81,Detroit,93
+2004-11-03,Dallas,103,Miami,93
+2004-11-04,San Antonio,80,Miami,73
+2004-11-08,Miami,79,Minnesota,88
+2004-11-11,Houston,90,Miami,70
+2004-11-12,Miami,88,Cleveland,83
+2004-11-14,Miami,105,Washington,101 OT
+2004-11-16,Los Angeles,99,Miami,77
+2004-11-18,Oklahoma City,98,Miami,105
+2004-11-19,Portland,94,Miami,93
+2004-11-21,Golden State,101,Miami,91
+2004-11-22,Phoenix,100,Miami,98
+2004-11-25,Miami,91,New Orleans,87
+2004-11-28,Atlanta,95,Miami,83
+2004-11-29,Miami,78,Toronto,66
+2004-12-03,Detroit,87,Miami,73
+2004-12-05,Miami,90,Philadelphia,93
+2004-12-06,Miami,70,San Antonio,86
+2004-12-09,Miami,92,Phoenix,72
+2004-12-12,Miami,91,Memphis,88
+2004-12-14,Toronto,89,Miami,90
+2004-12-16,Miami,97,Atlanta,79
+2004-12-17,Philadelphia,87,Miami,76
+2004-12-19,Memphis,97,Miami,83
+2004-12-21,Miami,104,Golden State,93
+2004-12-23,Miami,79,Washington,72
+2004-12-26,Washington,84,Miami,92
+2004-12-27,Miami,80,NY Knicks,100
+2004-12-29,Chicago,83,Miami,90
+2004-12-30,NY Knicks,102,Miami,73
+2004-01-02,Miami,112,Orlando,101
+2004-01-05,Miami,65,Indiana,87
+2004-01-07,Miami,102,Chicago,95
+2004-01-09,Milwaukee,103,Miami,94
+2004-01-10,Minnesota,83,Miami,77
+2004-01-13,Sacramento,90,Miami,86
+2004-01-15,Utah,97,Miami,85
+2004-01-16,LA,85,Miami,87
+2004-01-18,Denver,88,Miami,80
+2004-01-20,Miami,84,Boston,86
+2004-01-23,Miami,85,Brooklyn,64
+2004-01-24,NY Knicks,77,Miami,85
+2004-01-26,Miami,95,Houston,81
+2004-01-28,Cleveland,94,Miami,93
+2004-01-30,Miami,97,LA,88
+2004-01-31,New Orleans,70,Miami,94
+2004-02-02,Miami,100 OT,Detroit,102
+2004-02-04,Brooklyn,99,Miami,88
+2004-02-07,Miami,64,NY Knicks,76
+2004-02-08,Indiana,97,Miami,91
+2004-02-10,Miami,83,Los Angeles,98
+2004-02-11,Orlando,98,Miami,111
+2004-02-17,Miami,97,Utah,85
+2004-02-20,Miami,125,Atlanta,92
+2004-02-21,Miami,97,Denver,81
+2004-02-23,Miami,81,Portland,89
+2004-02-28,Brooklyn,92,Miami,86
+2004-02-29,Milwaukee,108,Miami,104
+2004-03-02,Miami,86,Toronto,89
+2004-03-04,Miami,104,Milwaukee,98
+2004-03-06,Miami,102,Sacramento,96
+2004-03-09,Miami,100,Orlando,89
+2004-03-10,New Orleans,95,Miami,84
+2004-03-12,Miami,82,Oklahoma City,74
+2004-03-14,Miami,104,Brooklyn,95
+2004-03-16,Miami,96,New Orleans,83
+2004-03-20,Miami,101,Philadelphia,69
+2004-03-21,Washington,81,Miami,101
+2004-03-24,Orlando,90,Miami,105
+2004-03-26,Miami,119,Dallas,118 OT
+2004-03-28,Indiana,87,Miami,80
+2004-03-29,Miami,105,Chicago,96
+2004-03-31,Atlanta,97,Miami,100
+2004-04-02,Detroit,92,Miami,84
+2004-04-03,Chicago,83,Miami,97
+2004-04-07,Miami,104,Boston,101
+2004-04-09,Miami,106,Cleveland,91
+2004-04-10,Cleveland,91,Miami,80
+2004-04-12,Boston,77,Miami,84
+2004-04-14,Miami,96,Brooklyn,84
+2005-11-03,Brooklyn,77,Miami,100
+2005-11-04,Miami,92,Cleveland,86
+2005-11-06,Washington,106,Miami,118
+2005-11-09,Miami,103,Washington,93
+2005-11-11,Miami,93,Dallas,113
+2005-11-12,San Antonio,93,Miami,84
+2005-11-14,Miami,112,Milwaukee,110 2OT
+2005-11-16,Minnesota,108,Miami,97
+2005-11-17,Milwaukee,106,Miami,113
+2005-11-19,Miami,107,Utah,105 OT
+2005-11-21,Miami,93,Philadelphia,83
+2005-11-23,Miami,87,Portland,99
+2005-11-24,Atlanta,93,Miami,99
+2005-11-26,Detroit,78,Miami,77
+2005-11-28,Miami,106,Boston,104
+2005-11-30,Miami,92,Toronto,94
+2005-12-03,Chicago,81,Miami,105
+2005-12-04,Denver,104,Miami,95
+2005-12-06,Utah,80,Miami,100
+2005-12-08,Milwaukee,96,Miami,101
+2005-12-10,Miami,92,Memphis,84
+2005-12-12,Toronto,98,Miami,106
+2005-12-13,Miami,106,Washington,83
+2005-12-15,Washington,93,Miami,98
+2005-12-17,Miami,107,Denver,100
+2005-12-19,Miami,117,Orlando,107
+2005-12-21,Miami,108,Boston,100
+2005-12-23,Sacramento,107,Miami,109
+2005-12-25,Los Angeles,102 OT,Miami,104
+2005-12-27,Miami,116,Atlanta,102
+2005-12-30,Detroit,78,Miami,89
+2005-01-01,Miami,113,Charlotte,90
+2005-01-03,Miami,96,Oklahoma City,98
+2005-01-05,Miami,102,NY Knicks,94
+2005-01-07,Portland,92,Miami,103
+2005-01-09,Oklahoma City,108,Miami,98
+2005-01-11,Phoenix,122,Miami,107
+2005-01-12,Golden State,91,Miami,98
+2005-01-14,LA,114,Miami,112 2OT
+2005-01-19,Miami,111,Atlanta,92
+2005-01-21,Miami,100 OT,Indiana,106
+2005-01-23,Miami,97,New Orleans,68
+2005-01-24,Philadelphia,106,Miami,98
+2005-01-26,Toronto,96,Miami,111
+2005-01-28,Atlanta,96,Miami,106
+2005-01-30,Miami,104,Houston,95
+2005-02-01,Dallas,109,Miami,104
+2005-02-03,Miami,100,Cleveland,88
+2005-02-05,Miami,108,Chicago,97
+2005-02-07,Miami,105,Golden State,96
+2005-02-09,NY Knicks,110 OT,Miami,116
+2005-02-11,Charlotte,87,Miami,97
+2005-02-13,Miami,96,San Antonio,92
+2005-02-16,Miami,113,LA,95
+2005-02-22,Chicago,105,Miami,101 OT
+2005-02-23,Indiana,93,Miami,91 OT
+2005-02-26,Miami,101,Orlando,98
+2005-02-27,Orlando,103,Miami,112
+2005-03-03,Brooklyn,90,Miami,106
+2005-03-04,Miami,104,Sacramento,83
+2005-03-06,Cleveland,82,Miami,102
+2005-03-07,Miami,108,Philadelphia,100
+2005-03-10,Miami,107,Minnesota,90
+2005-03-12,Miami,90,Brooklyn,65
+2005-03-14,Miami,110,Milwaukee,71
+2005-03-15,NY Knicks,96,Miami,98
+2005-03-17,Miami,102,Los Angeles,89
+2005-03-19,Miami,97,NY Knicks,82
+2005-03-22,Houston,84,Miami,82
+2005-03-25,Miami,125,Phoenix,115
+2005-03-26,Charlotte,94,Miami,92
+2005-03-29,Miami,103,Toronto,91
+2005-03-31,Indiana,114,Miami,108 OT
+2005-04-02,New Orleans,99,Miami,111
+2005-04-05,Miami,104,Chicago,86
+2005-04-08,Memphis,97,Miami,81
+2005-04-10,Miami,72,Detroit,80
+2005-04-14,Philadelphia,126,Miami,119 OT
+2005-04-15,Boston,101,Miami,99
+2005-04-17,Miami,84,Indiana,80
+2005-04-19,Miami,99,Charlotte,80
+2005-04-20,Orlando,93,Miami,98
+2006-11-02,Memphis,78,Miami,97
+2006-11-03,Miami,102,Indiana,105
+2006-11-05,Milwaukee,105,Miami,100
+2006-11-07,Miami,90,Brooklyn,89
+2006-11-09,Indiana,95,Miami,90
+2006-11-10,Miami,88,Houston,84
+2006-11-12,Miami,108,Charlotte,99
+2006-11-15,Miami,109,New Orleans,102 OT
+2006-11-18,Miami,106,Philadelphia,96
+2006-11-20,Toronto,107,Miami,94
+2006-11-23,Miami,100,Portland,79
+2006-11-25,Miami,90,Dallas,103
+2006-11-26,Orlando,80,Miami,77
+2006-11-28,Miami,107,NY Knicks,94
+2006-11-30,Atlanta,74,Miami,96
+2006-12-02,Sacramento,87,Miami,98
+2006-12-03,Denver,101,Miami,99
+2006-12-05,LA,99,Miami,89
+2006-12-07,San Antonio,98,Miami,84
+2006-12-09,Miami,92,Denver,100
+2006-12-11,Miami,104,Washington,101 OT
+2006-12-13,Chicago,97,Miami,100
+2006-12-14,Milwaukee,83,Miami,100
+2006-12-16,Philadelphia,105,Miami,112
+2006-12-17,Cleveland,115,Miami,107
+2006-12-20,Miami,111,Atlanta,92
+2006-12-23,Miami,88,Brooklyn,95
+2006-12-25,Miami,97,Los Angeles,92
+2006-12-27,Miami,109,Milwaukee,98
+2006-12-29,Detroit,106,Miami,101
+2006-12-30,Washington,113,Miami,128
+2006-01-01,Miami,97,Minnesota,70
+2006-01-04,New Orleans,107,Miami,92
+2006-01-06,Phoenix,111,Miami,93
+2006-01-08,Portland,89,Miami,118
+2006-01-11,Golden State,96,Miami,110
+2006-01-13,Oklahoma City,104,Miami,117
+2006-01-14,Utah,94,Miami,100
+2006-01-16,Los Angeles,100,Miami,92
+2006-01-20,Miami,94,San Antonio,101
+2006-01-22,Miami,119,Sacramento,99
+2006-01-24,Miami,94,Memphis,82
+2006-01-26,Miami,98,Phoenix,107
+2006-01-27,Charlotte,85,Miami,91
+2006-01-29,Houston,95,Miami,101
+2006-01-30,Miami,118,LA,114
+2006-02-02,Miami,101,Cleveland,73
+2006-02-04,Brooklyn,105,Miami,92
+2006-02-06,Miami,114,Boston,98
+2006-02-09,Dallas,112,Miami,76
+2006-02-12,Miami,100,Detroit,98
+2006-02-14,Miami,107,Orlando,93
+2006-02-15,Orlando,100,Miami,110
+2006-02-22,NY Knicks,83,Miami,103
+2006-02-25,Miami,115,Oklahoma City,106
+2006-02-27,Miami,101,Toronto,94
+2006-03-01,Boston,96,Miami,103
+2006-03-04,Miami,95,Atlanta,93
+2006-03-06,Charlotte,105 OT,Miami,106
+2006-03-08,Miami,118,Washington,112
+2006-03-10,Miami,106,Golden State,111
+2006-03-12,Miami,98,Cleveland,92
+2006-03-14,Miami,121,Utah,83
+2006-03-16,Miami,107,Boston,104
+2006-03-18,Chicago,84,Miami,85
+2006-03-19,NY Knicks,100,Miami,111
+2006-03-21,Minnesota,100,Miami,96
+2006-03-22,Detroit,82,Miami,73
+2006-03-24,Miami,114,Charlotte,93
+2006-03-27,Miami,96,Indiana,91
+2006-03-29,Toronto,94,Miami,98
+2006-04-01,Cleveland,106,Miami,99
+2006-04-02,Brooklyn,90,Miami,78
+2006-04-04,Miami,115,Milwaukee,89
+2006-04-06,Miami,82,Detroit,95
+2006-04-08,Washington,86,Miami,99
+2006-04-09,Miami,84,Orlando,93
+2006-04-11,Miami,106,Toronto,97
+2006-04-14,Miami,104,Philadelphia,85
+2006-04-16,Miami,93,Chicago,117
+2006-04-18,Atlanta,103,Miami,100
+2006-04-19,Boston,85,Miami,78
+2007-10-31,Miami,66,Chicago,108
+2007-11-03,Miami,91,Brooklyn,85
+2007-11-05,Philadelphia,107,Miami,98
+2007-11-07,Miami,90,Oklahoma City,87
+2007-11-10,Brooklyn,106,Miami,113
+2007-11-12,Miami,72,Houston,94
+2007-11-14,Miami,105,Denver,112
+2007-11-17,Miami,76,NY Knicks,100
+2007-11-18,Atlanta,88 OT,Miami,93
+2007-11-21,New Orleans,101,Miami,86
+2007-11-22,San Antonio,106,Miami,86
+2007-11-24,Miami,104,Orlando,107
+2007-11-25,Charlotte,93,Miami,102
+2007-11-27,Miami,103,Philadelphia,91
+2007-11-30,Miami,85,Detroit,87
+2007-12-02,Memphis,97,Miami,98
+2007-12-05,LA,101,Miami,97
+2007-12-07,Sacramento,91 OT,Miami,93
+2007-12-08,Denver,123,Miami,107
+2007-12-11,Miami,99,Toronto,77
+2007-12-13,Miami,89,Phoenix,99
+2007-12-15,Washington,106,Miami,95
+2007-12-16,Miami,98,Memphis,90
+2007-12-18,Miami,101,New Orleans,99
+2007-12-20,Milwaukee,121,Miami,95
+2007-12-23,Miami,105,Golden State,92
+2007-12-25,Miami,101,Los Angeles,85
+2007-12-27,Chicago,109,Miami,103
+2007-12-29,Miami,81,Brooklyn,91
+2007-12-30,Orlando,97,Miami,68
+2007-01-03,Miami,95,LA,110
+2007-01-05,Phoenix,108,Miami,80
+2007-01-07,Portland,90,Miami,93
+2007-01-10,Oklahoma City,103,Miami,107
+2007-01-12,Golden State,96,Miami,118
+2007-01-13,Utah,110,Miami,119
+2007-01-15,Los Angeles,124,Miami,118 OT
+2007-01-18,Miami,104,Indiana,101
+2007-01-19,Philadelphia,98,Miami,95 OT
+2007-01-21,Miami,93,Dallas,99
+2007-01-22,Miami,101,NY Knicks,83
+2007-01-24,Indiana,96,Miami,94 OT
+2007-01-26,NY Knicks,116,Miami,96
+2007-01-27,Chicago,100,Miami,97
+2007-01-30,Miami,110,Milwaukee,80
+2007-02-01,Miami,92,Cleveland,89
+2007-02-03,Milwaukee,98,Miami,117
+2007-02-05,Miami,113,Charlotte,93
+2007-02-07,Boston,79,Miami,91
+2007-02-09,Cleveland,103,Miami,79
+2007-02-11,Miami,100,San Antonio,85
+2007-02-13,Miami,104,Portland,85
+2007-02-21,Houston,112,Miami,102
+2007-02-22,Dallas,112,Miami,100
+2007-02-25,Miami,86,Cleveland,81
+2007-02-26,NY Knicks,99,Miami,93
+2007-02-28,Washington,83,Miami,92
+2007-03-02,Miami,85,Detroit,82
+2007-03-05,Miami,88,Atlanta,81
+2007-03-07,Miami,103,Chicago,70
+2007-03-09,Miami,105,Minnesota,91
+2007-03-11,Miami,106,Washington,104
+2007-03-13,Miami,88,Utah,86
+2007-03-15,Brooklyn,86,Miami,93
+2007-03-16,Miami,103,Sacramento,97
+2007-03-18,Miami,83,Orlando,97
+2007-03-21,Atlanta,83,Miami,91
+2007-03-23,Indiana,95,Miami,70
+2007-03-24,Miami,85,Philadelphia,93
+2007-03-26,Miami,106,Atlanta,89
+2007-03-28,Toronto,96,Miami,83
+2007-03-30,Minnesota,77,Miami,92
+2007-04-01,Detroit,94,Miami,88
+2007-04-03,Miami,92,Toronto,89
+2007-04-05,Cleveland,90 OT,Miami,94
+2007-04-06,Boston,85,Miami,88
+2007-04-08,Miami,103 OT,Charlotte,111
+2007-04-10,Charlotte,92,Miami,82
+2007-04-11,Miami,85,Washington,82
+2007-04-13,Miami,100,Indiana,96
+2007-04-16,Miami,89,Boston,91
+2007-04-18,Orlando,94,Miami,68
+2008-11-01,Miami,80,Detroit,91
+2008-11-02,Indiana,87,Miami,85
+2008-11-04,Miami,88,Charlotte,90
+2008-11-07,San Antonio,88,Miami,78
+2008-11-09,Miami,101,Phoenix,106
+2008-11-11,NY Knicks,72,Miami,75
+2008-11-13,Charlotte,91,Miami,76
+2008-11-14,Miami,95,Oklahoma City,104
+2008-11-16,Boston,92,Miami,91
+2008-11-17,Brooklyn,87,Miami,91
+2008-11-21,Miami,79,Atlanta,82
+2008-11-23,Miami,98,Houston,91
+2008-11-24,Orlando,120,Miami,99
+2008-11-27,Miami,110,Charlotte,90
+2008-11-30,Miami,85,Boston,95
+2008-12-02,Denver,115,Miami,89
+2008-12-03,Utah,110,Miami,101
+2008-12-06,Portland,112,Miami,106
+2008-12-07,Golden State,120,Miami,113
+2008-12-09,LA,94,Miami,100
+2008-12-10,Phoenix,113,Miami,117
+2008-12-13,Miami,91,Washington,104
+2008-12-15,Miami,103,Indiana,106
+2008-12-17,Miami,91,Minnesota,87
+2008-12-19,Atlanta,114,Miami,111 OT
+2008-12-20,Miami,103 OT,Brooklyn,107
+2008-12-22,Miami,104,Utah,102
+2008-12-25,Cleveland,96,Miami,82
+2008-12-26,Philadelphia,96,Miami,85
+2008-12-28,Miami,114 OT,Orlando,121
+2008-12-29,Washington,96,Miami,74
+2008-01-02,Miami,98,Milwaukee,103
+2008-01-04,Dallas,94,Miami,89
+2008-01-06,Memphis,101,Miami,94
+2008-01-08,Minnesota,101,Miami,91
+2008-01-09,Milwaukee,98,Miami,92
+2008-01-11,New Orleans,114,Miami,88
+2008-01-16,Miami,96,Chicago,126
+2008-01-18,Miami,91,Portland,98
+2008-01-19,Miami,84,NY Knicks,88
+2008-01-21,Miami,90,Cleveland,97
+2008-01-24,Miami,89,San Antonio,90
+2008-01-26,Miami,98,Indiana,96
+2008-01-29,Miami,87,Boston,117
+2008-01-30,Orlando,107,Miami,91
+2008-02-01,Miami,85,Brooklyn,94
+2008-02-04,Miami,82,Toronto,114
+2008-02-06,Detroit,100,Miami,95
+2008-02-07,Philadelphia,101,Miami,84
+2008-02-10,Miami,94,Los Angeles,104
+2008-02-12,Miami,113 OT,Denver,114
+2008-02-14,Chicago,99,Miami,92
+2008-02-21,Houston,112,Miami,100
+2008-02-23,Miami,96 OT,Philadelphia,101
+2008-02-26,Miami,107,Sacramento,86
+2008-02-28,Los Angeles,106,Miami,88
+2008-02-29,Oklahoma City,93,Miami,103
+2008-03-02,Sacramento,120,Miami,109
+2008-03-05,Miami,83,Toronto,108
+2008-03-07,Miami,99,Golden State,134
+2008-03-08,Atlanta,97,Miami,94
+2008-03-10,Miami,98,LA,99
+2008-03-12,Miami,88,NY Knicks,91
+2008-03-14,Miami,94,Orlando,103
+2008-03-16,Miami,73,Dallas,98
+2008-03-18,Milwaukee,106,Miami,112
+2008-03-19,Toronto,96,Miami,54
+2008-03-21,Miami,86,Washington,103
+2008-03-22,Charlotte,94,Miami,82
+2008-03-24,Miami,78,Milwaukee,73
+2008-03-26,NY Knicks,103,Miami,96 OT
+2008-03-27,Detroit,85,Miami,69
+2008-03-30,Boston,88,Miami,62
+2008-03-31,Indiana,105,Miami,85
+2008-04-02,Miami,77,New Orleans,106
+2008-04-04,Washington,109,Miami,95
+2008-04-06,Miami,75,Detroit,91
+2008-04-08,Miami,95,Chicago,88
+2008-04-11,Miami,91,Memphis,96
+2008-04-13,Cleveland,84,Miami,76
+2008-04-14,Toronto,91,Miami,75
+2008-04-16,Miami,113,Atlanta,99
+2009-10-29,NY Knicks,120,Miami,115
+2009-10-31,Miami,103,Sacramento,77
+2009-11-01,Charlotte,100,Miami,87
+2009-11-05,Miami,106,Philadelphia,83
+2009-11-07,San Antonio,83,Miami,99
+2009-11-08,New Orleans,100,Miami,89
+2009-11-10,Miami,99,Brooklyn,94
+2009-11-12,Miami,96,Portland,104
+2009-11-14,Miami,97,Washington,77
+2009-11-16,Toronto,107,Miami,96
+2009-11-18,Washington,87,Miami,94
+2009-11-19,Miami,95,Toronto,101
+2009-11-22,Miami,109,Indiana,100
+2009-11-24,Miami,98,Houston,107
+2009-11-26,Portland,106,Miami,68
+2009-11-28,Phoenix,92,Miami,107
+2009-11-29,LA,97,Miami,96
+2009-12-01,Golden State,129 OT,Miami,130
+2009-12-03,Utah,89,Miami,93
+2009-12-06,Miami,105,Oklahoma City,99
+2009-12-08,Miami,100,Charlotte,96
+2009-12-12,Miami,73,Atlanta,87
+2009-12-14,Memphis,102,Miami,86
+2009-12-15,Miami,83,Milwaukee,98
+2009-12-19,Miami,89,Los Angeles,87
+2009-12-20,Brooklyn,103,Miami,106
+2009-12-23,Miami,96,Golden State,88
+2009-12-26,Miami,90,Chicago,77
+2009-12-28,Cleveland,93,Miami,86
+2009-12-30,Miami,104,Cleveland,95
+2009-01-02,Orlando,86,Miami,76
+2009-01-03,Miami,101,Brooklyn,96 OT
+2009-01-05,Miami,84,San Antonio,91
+2009-01-07,Denver,108,Miami,97
+2009-01-09,Sacramento,115 OT,Miami,119
+2009-01-11,Los Angeles,108,Miami,105
+2009-01-13,Minnesota,96,Miami,99
+2009-01-14,Milwaukee,99,Miami,102
+2009-01-17,Houston,93,Miami,86
+2009-01-18,Oklahoma City,94,Miami,104
+2009-01-21,Miami,83,Boston,98
+2009-01-24,Miami,103,Orlando,97
+2009-01-26,Miami,95,Atlanta,79
+2009-01-28,Miami,93,Washington,71
+2009-01-30,Indiana,114,Miami,103
+2009-01-31,Miami,96,Dallas,111
+2009-02-02,Miami,119,LA,95
+2009-02-04,Detroit,93,Miami,90
+2009-02-07,Philadelphia,94,Miami,84
+2009-02-08,Miami,96,Charlotte,92
+2009-02-10,Miami,82,Denver,99
+2009-02-12,Chicago,93,Miami,95
+2009-02-18,Miami,104,Minnesota,111
+2009-02-21,Miami,97,Philadelphia,91
+2009-02-22,Orlando,122,Miami,99
+2009-02-24,Miami,103,Detroit,91
+2009-02-27,Atlanta,91,Miami,83
+2009-02-28,Miami,120,NY Knicks,115
+2009-03-02,Miami,100,Cleveland,107
+2009-03-04,Miami,135,Phoenix,129
+2009-03-06,Toronto,102,Miami,108
+2009-03-07,Cleveland,99,Miami,89
+2009-03-09,Miami,130,Chicago,127 2OT
+2009-03-11,Miami,107,Boston,99
+2009-03-14,Miami,140,Utah,129 3OT
+2009-03-15,Philadelphia,85,Miami,77
+2009-03-18,Boston,112,Miami,108 OT
+2009-03-20,Brooklyn,96,Miami,88
+2009-03-22,Detroit,96,Miami,101
+2009-03-23,Miami,94,Memphis,82
+2009-03-25,Indiana,90,Miami,88
+2009-03-26,Chicago,106,Miami,87
+2009-03-28,Miami,102,Milwaukee,85
+2009-03-30,Miami,95,Orlando,101
+2009-04-01,Dallas,98,Miami,96
+2009-04-03,Charlotte,92,Miami,97
+2009-04-04,Washington,104,Miami,118
+2009-04-07,Miami,87 OT,New Orleans,93
+2009-04-10,Boston,105,Miami,98
+2009-04-12,Miami,122,NY Knicks,105
+2009-04-14,Atlanta,81,Miami,79
+2009-04-15,Miami,102,Detroit,96 OT
+2010-10-28,Miami,115,NY Knicks,93
+2010-10-30,Indiana,83,Miami,96
+2010-11-01,Miami,95,Chicago,87
+2010-11-03,Miami,96,Phoenix,104
+2010-11-04,Washington,89,Miami,93
+2010-11-06,Miami,96,Denver,88
+2010-11-10,Miami,90,Washington,76
+2010-11-12,Miami,104,Cleveland,111
+2010-11-14,Miami,81,Brooklyn,80
+2010-11-17,Miami,87,Oklahoma City,100
+2010-11-18,Atlanta,105,Miami,90
+2010-11-20,Toronto,120,Miami,113
+2010-11-22,Miami,102,New Orleans,101
+2010-11-25,Orlando,98,Miami,99
+2010-11-27,Miami,84,Washington,94
+2010-11-29,Miami,85,Boston,92
+2010-12-01,Portland,100,Miami,107
+2010-12-03,Denver,114,Miami,96
+2010-12-04,Los Angeles,108,Miami,107
+2010-12-06,Sacramento,102,Miami,115
+2010-12-11,Miami,93,Dallas,106
+2010-12-13,Miami,90,Memphis,118
+2010-12-15,Miami,115,Toronto,95
+2010-12-17,Miami,104,Orlando,86
+2010-12-20,Miami,95,Portland,102
+2010-12-23,Miami,80,Utah,70
+2010-12-25,NY Knicks,87,Miami,93
+2010-12-27,Miami,114,Indiana,80
+2010-12-30,New Orleans,95,Miami,91
+2010-12-31,San Antonio,108,Miami,78
+2010-01-02,Miami,97,Charlotte,107
+2010-01-04,Miami,92,Atlanta,75
+2010-01-06,Miami,106 OT,Boston,112
+2010-01-08,Phoenix,105,Miami,109
+2010-01-10,LA,94,Miami,84
+2010-01-11,Utah,118,Miami,89
+2010-01-13,Golden State,102,Miami,115
+2010-01-15,Houston,106,Miami,115
+2010-01-16,Oklahoma City,98,Miami,80
+2010-01-19,Miami,113,Indiana,83
+2010-01-20,Charlotte,104,Miami,65
+2010-01-22,Washington,88,Miami,112
+2010-01-23,Miami,115,Sacramento,84
+2010-01-25,Miami,91,Cleveland,92
+2010-01-27,Toronto,111,Miami,103
+2010-01-29,Detroit,65,Miami,92
+2010-01-30,Milwaukee,95,Miami,84
+2010-02-01,Miami,81,Milwaukee,97
+2010-02-03,Boston,107,Miami,102
+2010-02-04,Cleveland,102,Miami,86
+2010-02-06,Chicago,95,Miami,91
+2010-02-09,Miami,99,Houston,66
+2010-02-10,Atlanta,76,Miami,94
+2010-02-16,Philadelphia,78,Miami,105
+2010-02-17,Brooklyn,84,Miami,87
+2010-02-19,Memphis,87 2OT,Miami,100
+2010-02-20,Dallas,97,Miami,91
+2010-02-23,Miami,88,Minnesota,91
+2010-02-27,Miami,71,Milwaukee,94
+2010-02-28,Orlando,96,Miami,80
+2010-03-02,Miami,110,Golden State,106
+2010-03-04,Miami,114,Los Angeles,111 OT
+2010-03-06,Miami,100,Atlanta,94
+2010-03-09,Charlotte,83,Miami,78
+2010-03-10,Miami,108,LA,97
+2010-03-12,Miami,108,Chicago,95
+2010-03-14,Miami,104,Philadelphia,91
+2010-03-16,Miami,76,San Antonio,88
+2010-03-18,Miami,102 OT,Orlando,108
+2010-03-20,Miami,77,Charlotte,71
+2010-03-22,Brooklyn,89,Miami,99
+2010-03-25,Chicago,74,Miami,103
+2010-03-26,Milwaukee,74,Miami,87
+2010-03-28,Miami,97,Toronto,94
+2010-03-31,Detroit,81,Miami,98
+2010-04-02,Indiana,96 OT,Miami,105
+2010-04-03,Minnesota,84,Miami,97
+2010-04-07,Miami,99,Philadelphia,95
+2010-04-09,Miami,99,Detroit,106
+2010-04-11,NY Knicks,98,Miami,111
+2010-04-12,Philadelphia,105,Miami,107
+2010-04-14,Miami,94,Brooklyn,86 2OT

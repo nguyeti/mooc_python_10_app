@@ -1,0 +1,165 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Minnesota,83,Denver,77
+2003-11-01,Minnesota,111,Orlando,105
+2003-11-02,Indiana,87,Minnesota,80
+2003-11-04,Brooklyn,106,Minnesota,82
+2003-11-05,Minnesota,90,Washington,86
+2003-11-07,Minnesota,114,Milwaukee,110
+2003-11-09,Minnesota,99,Boston,105
+2003-11-11,San Antonio,91,Minnesota,75
+2003-11-13,New Orleans,102,Minnesota,98
+2003-11-15,Memphis,95,Minnesota,99
+2003-11-16,Minnesota,101,Indiana,107
+2003-11-19,Minnesota,110,Memphis,106 OT
+2003-11-20,Atlanta,93,Minnesota,103
+2003-11-23,Minnesota,82,Brooklyn,96
+2003-11-24,NY Knicks,88,Minnesota,106
+2003-11-27,Minnesota,90,Sacramento,74
+2003-11-29,Utah,95,Minnesota,77
+2003-12-01,Los Angeles,107,Minnesota,110
+2003-12-03,Sacramento,98,Minnesota,86
+2003-12-05,Golden State,98,Minnesota,114
+2003-12-07,LA,104,Minnesota,88
+2003-12-09,Denver,84,Minnesota,92
+2003-12-12,Minnesota,113,Atlanta,95
+2003-12-14,Minnesota,92 OT,Portland,98
+2003-12-17,Minnesota,96,Los Angeles,80
+2003-12-18,Philadelphia,99,Minnesota,94
+2003-12-20,Boston,108,Minnesota,99
+2003-12-21,Minnesota,98,Houston,86
+2003-12-27,Chicago,100,Minnesota,113
+2003-12-28,Detroit,106,Minnesota,82
+2003-12-30,Minnesota,104,Phoenix,98
+2003-01-04,Minnesota,97,Utah,105
+2003-01-07,Houston,94,Minnesota,86
+2003-01-08,Minnesota,102,Golden State,95
+2003-01-10,Minnesota,115,Sacramento,109 OT
+2003-01-12,Toronto,105,Minnesota,91
+2003-01-13,Minnesota,89,Denver,75
+2003-01-15,LA,64,Minnesota,95
+2003-01-17,Golden State,107,Minnesota,98
+2003-01-18,Portland,98,Minnesota,104
+2003-01-20,Minnesota,89,Toronto,81
+2003-01-22,Minnesota,96,Oklahoma City,91
+2003-01-24,Minnesota,88,LA,85
+2003-01-25,Washington,89,Minnesota,97
+2003-01-27,Minnesota,106,San Antonio,95
+2003-01-30,Dallas,112,Minnesota,109
+2003-01-31,Houston,121,Minnesota,101
+2003-02-02,Minnesota,99,Philadelphia,91
+2003-02-04,Minnesota,103,Houston,89
+2003-02-11,Minnesota,100,Dallas,98
+2003-02-12,Cleveland,91,Minnesota,102
+2003-02-14,Minnesota,114,New Orleans,93
+2003-02-16,Minnesota,109,Golden State,102
+2003-02-17,Utah,109,Minnesota,97
+2003-02-19,Denver,77,Minnesota,85
+2003-02-21,Minnesota,103,Detroit,96
+2003-02-23,Minnesota,99,Phoenix,97
+2003-02-24,Milwaukee,114,Minnesota,117
+2003-02-26,Minnesota,92,Utah,85
+2003-02-28,Minnesota,118,Cleveland,95
+2003-03-02,Minnesota,99,NY Knicks,90
+2003-03-04,Oklahoma City,92,Minnesota,83
+2003-03-05,Sacramento,96,Minnesota,95 OT
+2003-03-07,Los Angeles,106,Minnesota,96
+2003-03-09,Phoenix,98,Minnesota,105
+2003-03-10,Dallas,83,Minnesota,92
+2003-03-12,Minnesota,99,San Antonio,111
+2003-03-14,Minnesota,99,Los Angeles,106
+2003-03-16,Minnesota,111,Portland,95
+2003-03-18,Minnesota,96,Memphis,80
+2003-03-21,San Antonio,94 OT,Minnesota,101
+2003-03-25,Minnesota,108,Miami,91
+2003-03-27,Orlando,110,Minnesota,107
+2003-03-28,Miami,111,Minnesota,84
+2003-03-30,Minnesota,95,Dallas,119
+2003-04-02,Minnesota,91,Oklahoma City,86
+2003-04-05,Phoenix,111,Minnesota,94
+2003-04-06,Portland,78,Minnesota,97
+2003-04-09,Oklahoma City,100,Minnesota,92
+2003-04-11,Minnesota,106,LA,90
+2003-04-13,Minnesota,119,Chicago,95
+2003-04-16,Memphis,87,Minnesota,95
+2004-10-29,Minnesota,95,Milwaukee,89
+2004-10-31,Brooklyn,84,Minnesota,61
+2004-11-01,Minnesota,73,Toronto,56
+2004-11-03,Utah,93,Minnesota,88
+2004-11-05,Minnesota,121 OT,Sacramento,125
+2004-11-07,Orlando,71,Minnesota,100
+2004-11-08,Miami,79,Minnesota,88
+2004-11-11,Minnesota,87,Oklahoma City,89
+2004-11-13,Chicago,89 OT,Minnesota,92
+2004-11-14,Minnesota,77,Utah,85
+2004-11-18,Minnesota,89,Denver,76
+2004-11-21,Cleveland,83,Minnesota,97
+2004-11-22,Minnesota,103,LA,91
+2004-11-25,Indiana,98,Minnesota,75
+2004-11-26,Minnesota,92,NY Knicks,97
+2004-11-28,Memphis,98,Minnesota,102
+2004-11-29,Dallas,92,Minnesota,88
+2004-12-03,Phoenix,79,Minnesota,92
+2004-12-05,Sacramento,109 OT,Minnesota,112
+2004-12-07,LA,94,Minnesota,96
+2004-12-09,Minnesota,95,Golden State,98
+2004-12-12,Washington,91,Minnesota,110
+2004-12-15,Boston,95,Minnesota,116
+2004-12-16,Minnesota,92,Houston,75
+2004-12-18,Minnesota,114,Dallas,109
+2004-12-20,Minnesota,102,Indiana,80
+2004-12-23,NY Knicks,92,Minnesota,98
+2004-12-26,Portland,101,Minnesota,92
+2004-12-27,Oklahoma City,86,Minnesota,104
+2004-12-30,Minnesota,98,Chicago,93
+2004-01-02,Minnesota,93,Atlanta,75
+2004-01-03,Dallas,119,Minnesota,112
+2004-01-06,Minnesota,106,Los Angeles,90
+2004-01-08,Minnesota,96,Portland,75
+2004-01-10,Minnesota,83,Miami,77
+2004-01-13,New Orleans,89,Minnesota,94
+2004-01-14,San Antonio,93,Minnesota,100
+2004-01-17,Houston,95,Minnesota,76
+2004-01-19,Minnesota,97,New Orleans,90
+2004-01-21,Toronto,97,Minnesota,108
+2004-01-23,Minnesota,80,Detroit,79
+2004-01-25,Minnesota,99,Phoenix,95
+2004-01-26,Denver,95,Minnesota,97
+2004-01-28,Golden State,97,Minnesota,90
+2004-01-30,Los Angeles,84,Minnesota,97
+2004-02-01,Minnesota,106,Philadelphia,101
+2004-02-03,Minnesota,113,Orlando,100
+2004-02-04,Atlanta,97,Minnesota,89
+2004-02-06,Minnesota,103,Cleveland,92
+2004-02-08,Minnesota,98,Memphis,99
+2004-02-10,Minnesota,96,LA,84
+2004-02-11,Utah,66,Minnesota,77
+2004-02-17,Minnesota,110,Phoenix,95
+2004-02-19,Minnesota,92,Sacramento,75
+2004-02-20,Detroit,87,Minnesota,88
+2004-02-22,Minnesota,92,San Antonio,94
+2004-02-24,Milwaukee,102,Minnesota,108
+2004-02-25,Minnesota,81,Brooklyn,68
+2004-02-27,Minnesota,91,Golden State,81
+2004-02-29,Philadelphia,81,Minnesota,74
+2004-03-03,Minnesota,121,Dallas,97
+2004-03-05,Minnesota,109,Houston,112
+2004-03-07,Minnesota,77,Boston,80
+2004-03-09,Oklahoma City,92,Minnesota,105
+2004-03-10,Portland,92,Minnesota,79
+2004-03-12,Minnesota,96,Los Angeles,86
+2004-03-14,Minnesota,83,Portland,92
+2004-03-18,San Antonio,106,Minnesota,86
+2004-03-19,Phoenix,80,Minnesota,93
+2004-03-21,Minnesota,98,Denver,77
+2004-03-23,Minnesota,86,San Antonio,81
+2004-03-24,Denver,101,Minnesota,92
+2004-03-26,Los Angeles,90,Minnesota,73
+2004-03-27,LA,82,Minnesota,98
+2004-03-29,Houston,88,Minnesota,94
+2004-03-31,Minnesota,90,Oklahoma City,83
+2004-04-02,Minnesota,91,Washington,73
+2004-04-04,Minnesota,90,Memphis,82
+2004-04-08,Sacramento,86,Minnesota,94
+2004-04-09,Golden State,74,Minnesota,92
+2004-04-12,Minnesota,104,Utah,90
+2004-04-14,Memphis,90,Minnesota,107

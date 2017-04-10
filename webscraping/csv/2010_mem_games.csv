@@ -1,0 +1,657 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Memphis,108,Dallas,119
+2003-11-01,Detroit,109,Memphis,86
+2003-11-02,Memphis,99,Sacramento,116
+2003-11-04,Memphis,101 OT,San Antonio,103
+2003-11-06,Portland,94,Memphis,88
+2003-11-08,Sacramento,99,Memphis,91
+2003-11-09,Denver,84,Memphis,73
+2003-11-11,Memphis,101,Golden State,108
+2003-11-15,Memphis,95,Minnesota,99
+2003-11-16,Chicago,111,Memphis,93
+2003-11-19,Minnesota,110,Memphis,106 OT
+2003-11-20,Memphis,88,Philadelphia,95
+2003-11-22,San Antonio,95,Memphis,86
+2003-11-23,Memphis,85,Washington,74
+2003-11-27,Memphis,117,Oklahoma City,99
+2003-11-29,Memphis,106 OT,Los Angeles,112
+2003-12-01,Memphis,87,Toronto,92
+2003-12-03,Los Angeles,101,Memphis,91
+2003-12-04,Phoenix,98,Memphis,85
+2003-12-06,Utah,104,Memphis,71
+2003-12-08,Memphis,102,Phoenix,94
+2003-12-10,Miami,96,Memphis,107
+2003-12-11,Memphis,96,Denver,93
+2003-12-13,Memphis,114,Houston,109 OT
+2003-12-14,Dallas,104,Memphis,87
+2003-12-16,Memphis,104,Golden State,91
+2003-12-18,Washington,118,Memphis,100
+2003-12-20,Memphis,95,Milwaukee,84
+2003-12-22,Memphis,74,Utah,103
+2003-12-27,Memphis,99,Orlando,86
+2003-12-31,Boston,96,Memphis,89
+2003-01-03,Memphis,116,LA,111
+2003-01-06,Memphis,106,New Orleans,102
+2003-01-08,LA,103,Memphis,95
+2003-01-10,Phoenix,96,Memphis,90
+2003-01-12,Sacramento,106,Memphis,98
+2003-01-13,Golden State,108,Memphis,110
+2003-01-15,Portland,100,Memphis,92
+2003-01-17,Oklahoma City,103,Memphis,97 OT
+2003-01-20,Memphis,87,Portland,99
+2003-01-22,San Antonio,93,Memphis,98
+2003-01-23,Memphis,98,Sacramento,104
+2003-01-25,Memphis,83,Oklahoma City,95
+2003-01-27,Memphis,95,Houston,100
+2003-01-31,Memphis,102,NY Knicks,108
+2003-02-02,Denver,93,Memphis,78
+2003-02-03,Golden State,101,Memphis,91
+2003-02-05,Utah,105,Memphis,84
+2003-02-12,Memphis,97,Brooklyn,90
+2003-02-14,Memphis,103,Dallas,110
+2003-02-16,Milwaukee,95,Memphis,101
+2003-02-18,Memphis,108,Indiana,103 OT
+2003-02-21,New Orleans,125,Memphis,123 OT
+2003-02-22,Houston,93,Memphis,82
+2003-02-24,Memphis,103,Utah,92
+2003-02-26,Philadelphia,111,Memphis,107
+2003-02-28,Memphis,126,Miami,116 OT
+2003-03-01,Dallas,114,Memphis,87
+2003-03-03,Memphis,110,Boston,111
+2003-03-05,Memphis,96,Denver,86
+2003-03-08,Cleveland,89,Memphis,115
+2003-03-09,Toronto,106,Memphis,119
+2003-03-11,NY Knicks,85,Memphis,87
+2003-03-12,Memphis,124,Chicago,95
+2003-03-16,Memphis,124,Atlanta,92
+2003-03-18,Minnesota,96,Memphis,80
+2003-03-19,Memphis,128,Cleveland,101
+2003-03-21,Indiana,101,Memphis,92
+2003-03-22,Brooklyn,107,Memphis,99
+2003-03-24,Orlando,104,Memphis,110
+2003-03-26,Memphis,99,Phoenix,101
+2003-03-28,Oklahoma City,95,Memphis,71
+2003-03-30,LA,102,Memphis,100
+2003-03-31,Los Angeles,110,Memphis,94
+2003-04-02,Memphis,87,San Antonio,105
+2003-04-04,Memphis,101,Los Angeles,102
+2003-04-05,Atlanta,97,Memphis,91
+2003-04-08,Memphis,111,LA,108
+2003-04-11,Memphis,96,Portland,93
+2003-04-13,Memphis,107 2OT,Detroit,110
+2003-04-15,Houston,97,Memphis,86
+2003-04-16,Memphis,87,Minnesota,95
+2004-10-31,Memphis,91,Boston,93
+2004-11-01,Houston,71,Memphis,79
+2004-11-03,Memphis,88,San Antonio,80
+2004-11-05,Portland,93,Memphis,87
+2004-11-07,Phoenix,96,Memphis,88
+2004-11-08,Utah,96,Memphis,89
+2004-11-10,Memphis,105,Los Angeles,95
+2004-11-12,Orlando,97,Memphis,107
+2004-11-15,Memphis,108,Dallas,101 OT
+2004-11-19,Memphis,92,Detroit,99
+2004-11-21,Oklahoma City,97,Memphis,98
+2004-11-23,Los Angeles,121,Memphis,89
+2004-11-25,Sacramento,109,Memphis,89
+2004-11-28,Memphis,98,Minnesota,102
+2004-11-29,Cleveland,115 2OT,Memphis,122
+2004-12-01,Boston,89,Memphis,96
+2004-12-03,Brooklyn,93,Memphis,96
+2004-12-05,Memphis,92,Washington,77
+2004-12-07,Memphis,93,Portland,79
+2004-12-10,Memphis,103,Atlanta,90
+2004-12-12,Miami,91,Memphis,88
+2004-12-13,Memphis,110,Brooklyn,63
+2004-12-15,San Antonio,78,Memphis,67
+2004-12-16,Memphis,105,Sacramento,100
+2004-12-19,Memphis,97,Miami,83
+2004-12-20,New Orleans,94,Memphis,89
+2004-12-22,Denver,106,Memphis,99
+2004-12-23,Sacramento,114,Memphis,97
+2004-12-26,Memphis,94,NY Knicks,98
+2004-12-27,Dallas,104,Memphis,98
+2004-12-29,Indiana,94,Memphis,86
+2004-12-30,Memphis,99,Oklahoma City,105
+2004-01-02,Memphis,100,Utah,88
+2004-01-03,Memphis,112,Orlando,103
+2004-01-09,Oklahoma City,122,Memphis,116
+2004-01-11,LA,107 OT,Memphis,108
+2004-01-12,Golden State,113 2OT,Memphis,115
+2004-01-15,Memphis,108,Chicago,93
+2004-01-17,Philadelphia,87,Memphis,91
+2004-01-19,Memphis,88,Houston,83
+2004-01-21,Memphis,88,Los Angeles,82
+2004-01-23,Memphis,109,Sacramento,95
+2004-01-25,Memphis,106,Denver,88
+2004-01-28,Memphis,76,Portland,88
+2004-01-30,Memphis,79,Utah,85
+2004-01-31,Detroit,80,Memphis,78
+2004-02-02,Memphis,106,Golden State,101
+2004-02-04,Washington,101,Memphis,103
+2004-02-06,Memphis,105,Milwaukee,85
+2004-02-08,Minnesota,98,Memphis,99
+2004-02-09,Denver,86,Memphis,83
+2004-02-11,Memphis,110,LA,102
+2004-02-17,Memphis,109,Dallas,92
+2004-02-20,Memphis,97,Phoenix,92
+2004-02-21,Chicago,98,Memphis,105
+2004-02-23,Memphis,109,Denver,106
+2004-02-25,Memphis,92,Golden State,99
+2004-02-27,Milwaukee,106,Memphis,104
+2004-02-28,Memphis,97,New Orleans,92
+2004-03-01,San Antonio,80,Memphis,81
+2004-03-03,Portland,88,Memphis,97
+2004-03-06,LA,92,Memphis,98
+2004-03-07,Golden State,85,Memphis,95
+2004-03-09,Memphis,94,San Antonio,88
+2004-03-12,Memphis,98,LA,89
+2004-03-13,Houston,88,Memphis,80
+2004-03-16,Memphis,82,Philadelphia,79
+2004-03-18,Memphis,94,Oklahoma City,97
+2004-03-20,Memphis,99,Indiana,95
+2004-03-23,Memphis,95,Toronto,86
+2004-03-24,NY Knicks,97,Memphis,111
+2004-03-26,Memphis,109,Houston,86
+2004-03-28,Toronto,88,Memphis,94
+2004-03-29,Atlanta,133 2OT,Memphis,136
+2004-04-02,Memphis,109,Phoenix,99
+2004-04-04,Minnesota,90,Memphis,82
+2004-04-05,Utah,92,Memphis,81
+2004-04-07,Memphis,92,Cleveland,74
+2004-04-09,Los Angeles,103,Memphis,95
+2004-04-11,Phoenix,89,Memphis,83
+2004-04-13,Dallas,110,Memphis,103
+2004-04-14,Memphis,90,Minnesota,107
+2005-11-03,Memphis,91,Washington,103
+2005-11-05,Memphis,81,Houston,89
+2005-11-06,Dallas,112,Memphis,88
+2005-11-09,Houston,90,Memphis,87
+2005-11-10,Memphis,110,Los Angeles,87
+2005-11-12,Memphis,96,Golden State,67
+2005-11-14,Oklahoma City,118,Memphis,113
+2005-11-17,Portland,82,Memphis,101
+2005-11-19,Sacramento,107,Memphis,105
+2005-11-20,Golden State,87,Memphis,100
+2005-11-22,Memphis,93,San Antonio,90
+2005-11-24,Memphis,84,Oklahoma City,93
+2005-11-26,Minnesota,115,Memphis,90
+2005-11-27,Memphis,85,Dallas,98
+2005-11-30,Memphis,93,Sacramento,98
+2005-12-01,NY Knicks,90,Memphis,82
+2005-12-03,Memphis,94,Philadelphia,86
+2005-12-04,Orlando,96,Memphis,91
+2005-12-07,Memphis,96,NY Knicks,88
+2005-12-08,Atlanta,89,Memphis,97
+2005-12-10,Miami,92,Memphis,84
+2005-12-11,Memphis,72,Detroit,68
+2005-12-13,Memphis,86,Cleveland,92
+2005-12-15,Memphis,88,Chicago,96
+2005-12-17,Memphis,89,Brooklyn,84
+2005-12-19,LA,82,Memphis,92
+2005-12-20,Los Angeles,72,Memphis,82
+2005-12-22,Golden State,109,Memphis,99
+2005-12-23,Phoenix,109,Memphis,102
+2005-12-27,Memphis,96,LA,76
+2005-12-29,Memphis,117,Boston,109
+2005-01-01,Minnesota,95,Memphis,104
+2005-01-03,Memphis,92,Utah,82
+2005-01-06,Detroit,79,Memphis,101
+2005-01-07,Memphis,84,New Orleans,76
+2005-01-11,Memphis,85,Indiana,86
+2005-01-14,Charlotte,89,Memphis,109
+2005-01-15,Memphis,101,Milwaukee,82
+2005-01-17,Memphis,99,Houston,80
+2005-01-19,Phoenix,79,Memphis,88
+2005-01-21,Denver,92,Memphis,82
+2005-01-22,Utah,94,Memphis,110
+2005-01-25,Memphis,95,Orlando,83
+2005-01-26,Cleveland,114,Memphis,111
+2005-01-29,Memphis,84,Atlanta,83
+2005-01-31,New Orleans,91,Memphis,98
+2005-02-01,Memphis,108,Phoenix,97
+2005-02-03,Memphis,103,LA,106
+2005-02-08,Memphis,108,Minnesota,96
+2005-02-09,Philadelphia,95,Memphis,98
+2005-02-11,Memphis,88,Portland,82
+2005-02-13,Indiana,76,Memphis,73
+2005-02-16,Boston,90,Memphis,88
+2005-02-23,Washington,93,Memphis,83
+2005-02-25,Memphis,94 OT,Denver,97
+2005-02-26,San Antonio,82,Memphis,84
+2005-03-01,Memphis,99,Golden State,97
+2005-03-04,Memphis,86,Toronto,75
+2005-03-07,LA,102,Memphis,105
+2005-03-08,Sacramento,85,Memphis,82
+2005-03-11,Utah,82,Memphis,94
+2005-03-12,Portland,80,Memphis,66
+2005-03-14,Memphis,104,Portland,83
+2005-03-16,New Orleans,82,Memphis,88
+2005-03-18,Memphis,88,Minnesota,83
+2005-03-20,Memphis,91,Phoenix,97
+2005-03-24,Brooklyn,96,Memphis,105
+2005-03-26,Memphis,85,New Orleans,96
+2005-03-28,Chicago,94,Memphis,86
+2005-03-29,Memphis,99,Oklahoma City,102
+2005-04-01,Milwaukee,82,Memphis,93
+2005-04-03,Memphis,102,Los Angeles,82
+2005-04-05,Memphis,91,Denver,94
+2005-04-06,Toronto,74,Memphis,104
+2005-04-08,Memphis,97,Miami,81
+2005-04-10,Memphis,102,Charlotte,95
+2005-04-11,Dallas,110,Memphis,89
+2005-04-13,Houston,100,Memphis,92
+2005-04-15,Denver,111,Memphis,102
+2005-04-16,San Antonio,97,Memphis,75
+2005-04-18,Memphis,94,San Antonio,92
+2005-04-20,Memphis,88,Dallas,108
+2006-11-02,Memphis,78,Miami,97
+2006-11-04,Orlando,85,Memphis,94
+2006-11-05,Memphis,113,Cleveland,106
+2006-11-08,Memphis,94,Oklahoma City,69
+2006-11-09,Boston,99,Memphis,98
+2006-11-11,Cleveland,89,Memphis,70
+2006-11-12,Atlanta,84,Memphis,85
+2006-11-14,Memphis,85,Los Angeles,73
+2006-11-16,Phoenix,103,Memphis,115
+2006-11-19,Utah,72,Memphis,80
+2006-11-20,Denver,99,Memphis,83
+2006-11-22,Memphis,87,Portland,95
+2006-11-25,Memphis,86,Houston,81
+2006-11-26,Dallas,92,Memphis,112
+2006-11-30,Toronto,66,Memphis,92
+2006-12-02,Memphis,91,Orlando,69
+2006-12-03,Houston,75,Memphis,90
+2006-12-06,Memphis,89,New Orleans,73
+2006-12-09,Memphis,83,Dallas,90
+2006-12-10,Indiana,80,Memphis,66
+2006-12-14,Memphis,79,Los Angeles,94
+2006-12-17,Memphis,91,Phoenix,87
+2006-12-19,Memphis,104 2OT,Detroit,106
+2006-12-21,Memphis,89,Portland,79
+2006-12-23,Memphis,95,Chicago,77
+2006-12-26,Utah,105,Memphis,102 OT
+2006-12-28,Los Angeles,99 OT,Memphis,100
+2006-12-30,Portland,90,Memphis,93
+2006-12-31,Oklahoma City,96,Memphis,100
+2006-01-03,Memphis,104,Golden State,94
+2006-01-06,Memphis,87,Utah,65
+2006-01-07,Chicago,111,Memphis,82
+2006-01-10,Memphis,99,Sacramento,85
+2006-01-13,Memphis,81,Brooklyn,69
+2006-01-14,San Antonio,80,Memphis,79
+2006-01-16,Memphis,83,San Antonio,93
+2006-01-18,New Orleans,87,Memphis,79
+2006-01-20,Philadelphia,89,Memphis,86 OT
+2006-01-22,Washington,82,Memphis,93
+2006-01-24,Miami,94,Memphis,82
+2006-01-25,Memphis,107,Minnesota,87
+2006-01-27,Detroit,95,Memphis,89
+2006-01-28,Memphis,86,New Orleans,95
+2006-01-30,Memphis,86,Houston,77
+2006-02-01,Memphis,80,Dallas,81
+2006-02-04,Milwaukee,88,Memphis,78
+2006-02-07,Sacramento,104,Memphis,96
+2006-02-08,Phoenix,108,Memphis,102
+2006-02-10,LA,91,Memphis,87
+2006-02-11,Los Angeles,99,Memphis,100
+2006-02-13,Golden State,79,Memphis,81
+2006-02-15,Memphis,84,Sacramento,78
+2006-02-21,Memphis,94,Toronto,88
+2006-02-23,Dallas,97,Memphis,87
+2006-02-24,Memphis,80,San Antonio,83
+2006-02-26,Minnesota,105,Memphis,99
+2006-02-27,Memphis,108,Washington,98
+2006-03-01,Memphis,101,NY Knicks,99
+2006-03-05,LA,86,Memphis,102
+2006-03-06,Denver,115,Memphis,101
+2006-03-08,Oklahoma City,74,Memphis,99
+2006-03-10,Sacramento,105,Memphis,93
+2006-03-12,Memphis,91,Philadelphia,94
+2006-03-14,Memphis,93,Boston,76
+2006-03-17,Memphis,116,Denver,102
+2006-03-19,Memphis,90,Utah,84
+2006-03-21,Memphis,105,Indiana,75
+2006-03-23,Memphis,95,LA,85
+2006-03-24,NY Knicks,75,Memphis,91
+2006-03-26,Memphis,102,Charlotte,95
+2006-03-28,Memphis,97,Oklahoma City,98
+2006-03-29,Brooklyn,86,Memphis,74
+2006-03-31,New Orleans,107,Memphis,102
+2006-04-02,Memphis,98,Atlanta,87
+2006-04-04,Memphis,100,Golden State,75
+2006-04-07,Memphis,100,Milwaukee,90
+2006-04-09,San Antonio,83,Memphis,81
+2006-04-11,Memphis,92,Minnesota,76
+2006-04-12,Charlotte,88,Memphis,96
+2006-04-15,Houston,81,Memphis,93
+2006-04-18,Memphis,101,LA,95
+2006-04-19,Minnesota,92 2OT,Memphis,102
+2007-11-01,Memphis,117 3OT,NY Knicks,118
+2007-11-03,Memphis,96,Charlotte,83
+2007-11-04,Detroit,95,Memphis,86
+2007-11-07,Memphis,80,Houston,86
+2007-11-11,Phoenix,96,Memphis,87
+2007-11-12,Los Angeles,91,Memphis,81
+2007-11-15,Sacramento,115,Memphis,111
+2007-11-17,Memphis,103,Dallas,115
+2007-11-18,Dallas,89,Memphis,84
+2007-11-20,Memphis,95,Orlando,86
+2007-11-21,Cleveland,97,Memphis,94
+2007-11-24,Memphis,95,Washington,80
+2007-11-25,Houston,85,Memphis,76
+2007-11-28,Denver,96,Memphis,108
+2007-11-29,LA,105,Memphis,90
+2007-12-02,Memphis,97,Miami,98
+2007-12-04,NY Knicks,98,Memphis,90
+2007-12-06,Boston,96,Memphis,98
+2007-12-08,Milwaukee,100,Memphis,94
+2007-12-09,Memphis,82,LA,89
+2007-12-11,Brooklyn,105,Memphis,92
+2007-12-13,Memphis,79,Portland,85
+2007-12-15,Memphis,88,Atlanta,97
+2007-12-16,Miami,98,Memphis,90
+2007-12-18,Memphis,134,Oklahoma City,126 2OT
+2007-12-20,San Antonio,105,Memphis,98
+2007-12-22,New Orleans,100,Memphis,97 OT
+2007-12-23,Memphis,97,Utah,100
+2007-12-26,Washington,116,Memphis,101
+2007-12-27,Memphis,96,Milwaukee,112
+2007-12-30,Memphis,110,Toronto,104
+2007-12-31,Houston,111,Memphis,109
+2007-01-03,Memphis,144,Golden State,135
+2007-01-05,Memphis,119,Boston,128
+2007-01-07,Memphis,96,San Antonio,110
+2007-01-09,Memphis,128,Los Angeles,118
+2007-01-12,Memphis,110,Minnesota,116
+2007-01-13,Chicago,111,Memphis,66
+2007-01-15,Memphis,122,Phoenix,137
+2007-01-17,Memphis,118,Philadelphia,102
+2007-01-20,LA,112,Memphis,91
+2007-01-22,Denver,115,Memphis,98
+2007-01-24,Utah,130 OT,Memphis,132
+2007-01-26,San Antonio,112,Memphis,96
+2007-01-27,Memphis,132 2OT,Portland,135
+2007-01-29,Memphis,124,Sacramento,117
+2007-01-31,Memphis,94,Dallas,95
+2007-02-03,Memphis,110,Indiana,116
+2007-02-06,Memphis,90,Houston,98
+2007-02-07,Dallas,113,Memphis,97
+2007-02-09,Memphis,105,Minnesota,97 OT
+2007-02-10,New Orleans,114,Memphis,99
+2007-02-13,Memphis,108,New Orleans,104
+2007-02-14,Indiana,114,Memphis,104
+2007-02-20,Oklahoma City,121,Memphis,105
+2007-02-21,Golden State,118,Memphis,115 OT
+2007-02-23,Portland,102,Memphis,103
+2007-02-26,Memphis,107,Denver,111
+2007-02-28,Memphis,88,Utah,104
+2007-03-02,Philadelphia,117,Memphis,112 OT
+2007-03-03,Memphis,89,Detroit,92
+2007-03-07,Toronto,94,Memphis,87
+2007-03-09,Atlanta,106,Memphis,105
+2007-03-10,Charlotte,107,Memphis,115
+2007-03-12,Memphis,102,Brooklyn,113
+2007-03-14,Memphis,96,Cleveland,118
+2007-03-17,Memphis,104,Chicago,103
+2007-03-20,Memphis,103,New Orleans,114
+2007-03-22,Memphis,119,Los Angeles,121
+2007-03-24,Utah,118,Memphis,108
+2007-03-26,Phoenix,105,Memphis,87
+2007-03-27,Los Angeles,86,Memphis,88
+2007-03-29,Portland,92,Memphis,96
+2007-03-30,Oklahoma City,120,Memphis,93
+2007-04-01,Golden State,122,Memphis,117
+2007-04-03,Memphis,111,Phoenix,116
+2007-04-06,Memphis,104,Golden State,116
+2007-04-07,Orlando,116,Memphis,89
+2007-04-10,Memphis,100,Sacramento,112
+2007-04-14,Memphis,133,Denver,118
+2007-04-16,Memphis,101,San Antonio,91
+2007-04-18,Minnesota,94,Memphis,116
+2008-10-31,Memphis,101,San Antonio,104
+2008-11-03,Memphis,111,Indiana,121
+2008-11-07,Oklahoma City,98,Memphis,105
+2008-11-09,Portland,110,Memphis,98
+2008-11-10,Utah,118,Memphis,94
+2008-11-13,Memphis,105,Houston,99
+2008-11-14,Milwaukee,102,Memphis,99
+2008-11-16,Memphis,118 OT,New Orleans,120
+2008-11-17,Dallas,108,Memphis,105
+2008-11-19,Memphis,125,Oklahoma City,108
+2008-11-21,Memphis,89,Toronto,95
+2008-11-23,San Antonio,101,Memphis,88
+2008-11-24,Memphis,124,Washington,118
+2008-11-27,Brooklyn,103,Memphis,110
+2008-11-28,Toronto,103,Memphis,91
+2008-12-01,Memphis,109,Minnesota,80
+2008-12-03,Memphis,105,Portland,106
+2008-12-05,Houston,105,Memphis,92
+2008-12-07,New Orleans,118,Memphis,116 OT
+2008-12-08,Atlanta,86,Memphis,78
+2008-12-11,Memphis,103,Detroit,113
+2008-12-14,Memphis,91,LA,98
+2008-12-15,Orlando,119,Memphis,123
+2008-12-17,Memphis,117,Golden State,125
+2008-12-19,Memphis,88,San Antonio,85
+2008-12-21,Detroit,94,Memphis,67
+2008-12-22,Memphis,97,Philadelphia,99
+2008-12-26,Memphis,98,New Orleans,116
+2008-12-28,Memphis,83,Houston,103
+2008-12-30,San Antonio,111,Memphis,87
+2008-01-02,Indiana,72,Memphis,90
+2008-01-04,Boston,100,Memphis,96
+2008-01-06,Memphis,101,Miami,94
+2008-01-08,Memphis,101,Los Angeles,117
+2008-01-10,Sacramento,116,Memphis,113
+2008-01-11,Golden State,116,Memphis,104
+2008-01-13,Los Angeles,100,Memphis,99
+2008-01-15,Memphis,124 OT,Cleveland,132
+2008-01-18,Memphis,124,Oklahoma City,100
+2008-01-19,Charlotte,105,Memphis,87
+2008-01-21,Memphis,104,Chicago,90
+2008-01-23,Memphis,85,Orlando,112
+2008-01-25,Washington,104,Memphis,93
+2008-01-26,Memphis,125,LA,120 OT
+2008-01-28,Memphis,84,Dallas,103
+2008-01-30,Memphis,102,Denver,106
+2008-02-02,Memphis,91,Utah,110
+2008-02-05,Memphis,97,Milwaukee,102
+2008-02-08,Dallas,92,Memphis,81
+2008-02-09,New Orleans,112,Memphis,99
+2008-02-12,Memphis,107,Sacramento,94
+2008-02-13,Philadelphia,102,Memphis,88
+2008-02-19,Oklahoma City,108,Memphis,101
+2008-02-20,LA,100,Memphis,86
+2008-02-22,Memphis,83,Dallas,98
+2008-02-24,Cleveland,109,Memphis,89
+2008-02-26,Memphis,113,Phoenix,127
+2008-02-29,Houston,116,Memphis,95
+2008-03-01,Memphis,92,Utah,113
+2008-03-04,Chicago,112,Memphis,97
+2008-03-05,Memphis,100,Brooklyn,93
+2008-03-08,Memphis,89,Boston,119
+2008-03-11,Phoenix,132,Memphis,111
+2008-03-12,Denver,108,Memphis,86
+2008-03-15,Golden State,110,Memphis,107
+2008-03-17,Memphis,98,Charlotte,80
+2008-03-19,Minnesota,98,Memphis,94
+2008-03-21,NY Knicks,106,Memphis,120
+2008-03-22,Memphis,117,Sacramento,111
+2008-03-24,Memphis,106,Denver,120
+2008-03-26,Sacramento,107,Memphis,106 OT
+2008-03-28,Los Angeles,111,Memphis,114
+2008-03-29,LA,110,Memphis,97
+2008-03-31,Memphis,99,Atlanta,116
+2008-04-02,Memphis,130,NY Knicks,114
+2008-04-04,Memphis,86,Golden State,117
+2008-04-06,Minnesota,101,Memphis,113
+2008-04-08,Memphis,113,Phoenix,127
+2008-04-11,Miami,91,Memphis,96
+2008-04-12,Memphis,105,Minnesota,114
+2008-04-15,Portland,113,Memphis,91
+2008-04-16,Denver,120,Memphis,111
+2009-10-29,Houston,82,Memphis,71
+2009-10-31,Memphis,86,Orlando,84
+2009-11-01,Chicago,96,Memphis,86
+2009-11-03,Memphis,90,Golden State,79
+2009-11-05,Sacramento,100,Memphis,95
+2009-11-07,Golden State,104,Memphis,109
+2009-11-09,Denver,100,Memphis,90
+2009-11-10,Phoenix,107,Memphis,102
+2009-11-12,Memphis,103,NY Knicks,132
+2009-11-14,Memphis,96 OT,Milwaukee,101
+2009-11-18,Memphis,109,Sacramento,94
+2009-11-21,Dallas,91,Memphis,76
+2009-11-22,Memphis,94,Utah,103
+2009-11-24,Memphis,81,San Antonio,94
+2009-11-26,Utah,117,Memphis,100
+2009-11-28,San Antonio,109,Memphis,98
+2009-11-29,Memphis,103,Oklahoma City,111
+2009-12-03,Atlanta,105,Memphis,95
+2009-12-05,Memphis,93,LA,81
+2009-12-06,New Orleans,106,Memphis,87
+2009-12-08,Memphis,109,Houston,97
+2009-12-10,Oklahoma City,102,Memphis,108
+2009-12-12,Memphis,103,Chicago,96
+2009-12-14,Memphis,102,Miami,86
+2009-12-16,Memphis,84,New Orleans,91
+2009-12-19,Memphis,83,Charlotte,112
+2009-12-22,Memphis,96,Los Angeles,105
+2009-12-23,Dallas,100,Memphis,82
+2009-12-26,Memphis,108,Indiana,105
+2009-12-27,San Antonio,106,Memphis,103 2OT
+2009-12-29,Minnesota,108,Memphis,98 OT
+2009-12-30,Memphis,89,Phoenix,101
+2009-01-02,Memphis,80,San Antonio,91
+2009-01-04,Memphis,102,Dallas,82
+2009-01-06,Memphis,87,Minnesota,94
+2009-01-07,Brooklyn,100,Memphis,89
+2009-01-09,Toronto,103,Memphis,82
+2009-01-13,Memphis,87,Cleveland,102
+2009-01-16,Memphis,91,Utah,101
+2009-01-19,Memphis,79,Detroit,87
+2009-01-21,Charlotte,101,Memphis,86
+2009-01-23,NY Knicks,108,Memphis,88
+2009-01-24,Memphis,88,Brooklyn,99
+2009-01-27,Memphis,85,Denver,100
+2009-01-28,Oklahoma City,114,Memphis,102 OT
+2009-01-31,Memphis,98,Los Angeles,115
+2009-02-02,Washington,97,Memphis,113
+2009-02-04,Memphis,104,Houston,93
+2009-02-06,Memphis,105,LA,126
+2009-02-07,Memphis,78,Toronto,70
+2009-02-09,Memphis,85,New Orleans,80
+2009-02-11,Philadelphia,91,Memphis,87
+2009-02-17,Utah,117,Memphis,99
+2009-02-18,Portland,94,Memphis,90
+2009-02-20,Memphis,106,Sacramento,115
+2009-02-24,Cleveland,94,Memphis,79
+2009-02-25,Indiana,104,Memphis,99
+2009-02-28,Memphis,92,Oklahoma City,99
+2009-03-03,Los Angeles,99,Memphis,89
+2009-03-04,LA,95,Memphis,118
+2009-03-07,Memphis,105,Philadelphia,110
+2009-03-08,Houston,93,Memphis,83
+2009-03-11,Minnesota,104,Memphis,79
+2009-03-13,Boston,102,Memphis,92
+2009-03-15,Detroit,84,Memphis,89
+2009-03-16,Memphis,92,Portland,103
+2009-03-18,Memphis,109,Denver,111
+2009-03-20,New Orleans,96,Memphis,84
+2009-03-21,Memphis,87,Boston,105
+2009-03-23,Miami,94,Memphis,82
+2009-03-27,Sacramento,95,Memphis,113
+2009-03-28,Portland,86,Memphis,66
+2009-03-30,Golden State,109,Memphis,114
+2009-04-01,Memphis,112,Washington,107
+2009-04-03,Memphis,107,Dallas,102
+2009-04-04,Milwaukee,102,Memphis,107
+2009-04-07,Memphis,93,Portland,96
+2009-04-08,Orlando,81,Memphis,78
+2009-04-10,Memphis,106,Phoenix,89
+2009-04-12,Los Angeles,92,Memphis,75
+2009-04-13,Phoenix,119,Memphis,110
+2009-04-15,Memphis,98,Atlanta,90
+2010-10-28,Memphis,74,Detroit,96
+2010-10-30,Memphis,115,Toronto,107
+2010-11-01,Denver,133,Memphis,123
+2010-11-02,Sacramento,127,Memphis,116 OT
+2010-11-04,Golden State,113,Memphis,105
+2010-11-06,Los Angeles,114,Memphis,98
+2010-11-07,LA,113,Memphis,110
+2010-11-10,Memphis,79,Portland,93
+2010-11-11,Houston,104,Memphis,79
+2010-11-14,Memphis,97,Minnesota,87
+2010-11-18,Memphis,106,LA,91
+2010-11-20,Philadelphia,97,Memphis,102
+2010-11-21,Memphis,98,Milwaukee,103
+2010-11-23,Memphis,116,Sacramento,105
+2010-11-25,Phoenix,126,Memphis,111
+2010-11-27,Portland,96,Memphis,106
+2010-11-29,LA,98,Memphis,88
+2010-11-30,Utah,120,Memphis,93
+2010-12-02,Minnesota,95,Memphis,97
+2010-12-04,Memphis,98,Dallas,82
+2010-12-08,Memphis,111,Cleveland,109 OT
+2010-12-11,Memphis,94,Oklahoma City,102
+2010-12-13,Miami,90,Memphis,118
+2010-12-14,Memphis,105,Boston,110
+2010-12-16,Atlanta,110,Memphis,97
+2010-12-18,Memphis,107,Indiana,94
+2010-12-20,Memphis,102,Denver,96
+2010-12-22,Memphis,121,Golden State,108
+2010-12-26,Dallas,106,Memphis,101
+2010-12-28,Memphis,116,Washington,111 OT
+2010-12-30,Indiana,110,Memphis,121
+2010-01-02,Phoenix,103,Memphis,128
+2010-01-05,Portland,105,Memphis,109
+2010-01-06,Utah,117,Memphis,94
+2010-01-08,Memphis,91,Utah,89
+2010-01-09,Charlotte,89,Memphis,87
+2010-01-12,Memphis,104,LA,102
+2010-01-15,Memphis,135,Minnesota,110
+2010-01-16,Memphis,92,San Antonio,86
+2010-01-18,Memphis,125,Phoenix,118
+2010-01-20,New Orleans,113,Memphis,111
+2010-01-22,Memphis,86,Oklahoma City,84
+2010-01-25,Memphis,99,Orlando,94
+2010-01-27,Detroit,93,Memphis,99
+2010-01-29,San Antonio,104,Memphis,97
+2010-01-30,Memphis,102 OT,New Orleans,109
+2010-02-01,Memphis,95,Los Angeles,93
+2010-02-02,Cleveland,105,Memphis,89
+2010-02-05,Memphis,83,Houston,101
+2010-02-06,Minnesota,109,Memphis,102
+2010-02-09,Memphis,94,Atlanta,108
+2010-02-16,Memphis,95,Phoenix,109
+2010-02-17,Toronto,102 OT,Memphis,109
+2010-02-19,Memphis,87 2OT,Miami,100
+2010-02-21,Brooklyn,94,Memphis,104
+2010-02-23,Memphis,98,Los Angeles,99
+2010-02-24,Washington,94,Memphis,99
+2010-02-26,Memphis,89,Charlotte,93
+2010-02-27,NY Knicks,109,Memphis,120
+2010-03-01,Memphis,93,Portland,103
+2010-03-03,New Orleans,100,Memphis,104
+2010-03-04,Chicago,96,Memphis,105
+2010-03-06,Memphis,92,San Antonio,102
+2010-03-08,Memphis,107,Brooklyn,101
+2010-03-10,Boston,91,Memphis,111
+2010-03-12,Memphis,119,NY Knicks,112
+2010-03-13,Memphis,108,Denver,125
+2010-03-16,Memphis,104,Chicago,97
+2010-03-17,Houston,107,Memphis,94
+2010-03-20,Memphis,123,Golden State,107
+2010-03-22,Sacramento,85,Memphis,102
+2010-03-24,Golden State,128,Memphis,110
+2010-03-28,Milwaukee,108,Memphis,103 OT
+2010-03-31,Memphis,102 OT,Dallas,106
+2010-04-02,Memphis,107,New Orleans,96
+2010-04-04,Orlando,107,Memphis,92
+2010-04-06,Memphis,103,Houston,113
+2010-04-07,Dallas,110,Memphis,84
+2010-04-09,San Antonio,99,Memphis,107
+2010-04-10,Memphis,101,Philadelphia,120
+2010-04-12,Denver,123,Memphis,101
+2010-04-14,Oklahoma City,114,Memphis,105

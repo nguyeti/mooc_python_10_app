@@ -1,0 +1,658 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Brooklyn,105,Atlanta,94
+2003-10-31,Atlanta,105,Utah,98
+2003-11-02,Atlanta,98,Chicago,92
+2003-11-05,Denver,87,Atlanta,103
+2003-11-06,Phoenix,93,Atlanta,88
+2003-11-08,Utah,110,Atlanta,97
+2003-11-10,Sacramento,105,Atlanta,97
+2003-11-12,Los Angeles,83,Atlanta,95
+2003-11-16,Atlanta,89,New Orleans,82
+2003-11-18,Atlanta,117,Toronto,92
+2003-11-20,Atlanta,93,Minnesota,103
+2003-11-22,Boston,105,Atlanta,98 2OT
+2003-11-23,Atlanta,99,Boston,109
+2003-11-26,Atlanta,119,Oklahoma City,116 OT
+2003-11-27,New Orleans,106,Atlanta,94
+2003-11-29,Atlanta,100,Miami,94 OT
+2003-11-30,Orlando,117,Atlanta,92
+2003-12-03,Brooklyn,87,Atlanta,72
+2003-12-05,Atlanta,98,Milwaukee,80
+2003-12-07,Atlanta,94,Detroit,92
+2003-12-11,Detroit,91,Atlanta,80
+2003-12-12,Minnesota,113,Atlanta,95
+2003-12-14,Atlanta,88,Phoenix,102
+2003-12-17,Atlanta,99,Washington,109
+2003-12-20,Houston,101,Atlanta,82
+2003-12-21,Atlanta,79,Philadelphia,77
+2003-12-23,Indiana,112,Atlanta,97
+2003-12-27,Atlanta,81,San Antonio,79
+2003-12-28,Washington,84,Atlanta,76
+2003-12-30,Miami,93,Atlanta,84
+2003-01-01,Atlanta,73,Miami,107
+2003-01-04,Atlanta,86,Detroit,90
+2003-01-06,Atlanta,94,Brooklyn,101
+2003-01-08,Atlanta,99,Dallas,117
+2003-01-10,Atlanta,84,Houston,75
+2003-01-11,Atlanta,87,New Orleans,80
+2003-01-14,Milwaukee,97,Atlanta,88
+2003-01-15,Boston,86,Atlanta,66
+2003-01-17,San Antonio,106,Atlanta,93
+2003-01-18,Atlanta,92,NY Knicks,95
+2003-01-20,Atlanta,102,Chicago,115
+2003-01-22,Atlanta,110 2OT,Portland,112
+2003-01-24,Atlanta,115,Sacramento,104
+2003-01-25,Cleveland,101 OT,Atlanta,102
+2003-01-28,NY Knicks,103,Atlanta,98
+2003-01-29,Philadelphia,83,Atlanta,97
+2003-01-31,Atlanta,96,Cleveland,91
+2003-02-02,Atlanta,97,Orlando,89
+2003-02-03,Miami,99,Atlanta,79
+2003-02-11,Atlanta,113,Golden State,116
+2003-02-12,Toronto,97,Atlanta,96
+2003-02-14,Indiana,98,Atlanta,97 OT
+2003-02-16,Atlanta,99,Indiana,86
+2003-02-18,Dallas,105,Atlanta,79
+2003-02-22,LA,87,Atlanta,89
+2003-02-23,Golden State,115,Atlanta,93
+2003-02-25,Portland,89,Atlanta,86
+2003-02-26,Oklahoma City,93,Atlanta,76
+2003-02-28,Chicago,88,Atlanta,110
+2003-03-02,Milwaukee,120,Atlanta,93
+2003-03-04,Atlanta,92,Denver,86
+2003-03-05,Cleveland,105,Atlanta,111
+2003-03-08,Atlanta,98,Toronto,107
+2003-03-10,Atlanta,95,LA,86
+2003-03-12,Atlanta,111,Milwaukee,92
+2003-03-14,Atlanta,107,NY Knicks,104
+2003-03-16,Memphis,124,Atlanta,92
+2003-03-18,Chicago,103,Atlanta,78
+2003-03-19,Toronto,87,Atlanta,86
+2003-03-21,Philadelphia,105,Atlanta,114
+2003-03-22,Atlanta,92,Indiana,89
+2003-03-25,Atlanta,91,Los Angeles,108
+2003-03-26,Detroit,102,Atlanta,99 OT
+2003-03-29,Atlanta,89,Philadelphia,110
+2003-04-03,Atlanta,91,Washington,89
+2003-04-05,Atlanta,97,Memphis,91
+2003-04-08,NY Knicks,99,Atlanta,95
+2003-04-09,Atlanta,97,Brooklyn,92
+2003-04-11,Atlanta,109,Cleveland,89
+2003-04-12,Washington,100,Atlanta,101
+2003-04-14,Atlanta,100,Orlando,84
+2003-04-16,New Orleans,92,Atlanta,77
+2004-10-29,New Orleans,88,Atlanta,83 OT
+2004-10-31,Chicago,100,Atlanta,94
+2004-11-01,Atlanta,99 OT,Indiana,103
+2004-11-03,Atlanta,90,New Orleans,80
+2004-11-05,Golden State,99,Atlanta,72
+2004-11-08,Portland,90,Atlanta,83
+2004-11-09,Oklahoma City,81,Atlanta,91
+2004-11-11,LA,115,Atlanta,103
+2004-11-12,Phoenix,94,Atlanta,99
+2004-11-15,Atlanta,85,Brooklyn,100
+2004-11-17,Atlanta,97,Washington,106
+2004-11-18,Milwaukee,93,Atlanta,101
+2004-11-21,San Antonio,114,Atlanta,75
+2004-11-22,Atlanta,92,Cleveland,83
+2004-11-24,Atlanta,89,Detroit,94
+2004-11-26,Atlanta,97 OT,Toronto,99
+2004-11-28,Atlanta,95,Miami,83
+2004-11-29,Philadelphia,98,Atlanta,86
+2004-12-02,Atlanta,94,Milwaukee,106
+2004-12-05,Toronto,92,Atlanta,87
+2004-12-06,Cleveland,95,Atlanta,85
+2004-12-09,Atlanta,112,Denver,98
+2004-12-10,Memphis,103,Atlanta,90
+2004-12-12,Indiana,103,Atlanta,92
+2004-12-13,Atlanta,102,Orlando,105
+2004-12-16,Miami,97,Atlanta,79
+2004-12-17,Atlanta,85,Golden State,98
+2004-12-19,Atlanta,86,Sacramento,98
+2004-12-20,NY Knicks,103,Atlanta,92
+2004-12-23,Atlanta,93,Boston,88
+2004-12-26,New Orleans,109,Atlanta,79
+2004-12-27,Atlanta,84,Detroit,87
+2004-12-30,Washington,73,Atlanta,83
+2004-01-02,Minnesota,93,Atlanta,75
+2004-01-03,Denver,76,Atlanta,84
+2004-01-06,Sacramento,105,Atlanta,89
+2004-01-09,Los Angeles,113,Atlanta,67
+2004-01-10,Utah,92,Atlanta,71
+2004-01-13,Atlanta,86,San Antonio,77
+2004-01-14,Indiana,85,Atlanta,78
+2004-01-17,Atlanta,75,Toronto,70
+2004-01-19,Atlanta,97,Indiana,100
+2004-01-21,Atlanta,97,Chicago,87
+2004-01-23,Atlanta,94,NY Knicks,96
+2004-01-25,Detroit,82,Atlanta,91
+2004-01-27,Atlanta,85,Phoenix,89
+2004-01-29,Atlanta,85,Portland,93
+2004-01-31,Atlanta,93,Milwaukee,83
+2004-02-02,Atlanta,95,LA,101
+2004-02-04,Atlanta,97,Minnesota,89
+2004-02-06,Boston,96,Atlanta,100
+2004-02-07,Atlanta,77,Houston,86
+2004-02-09,Atlanta,102,Dallas,96
+2004-02-18,Brooklyn,98,Atlanta,92
+2004-02-20,Miami,125,Atlanta,92
+2004-02-22,Houston,123,Atlanta,121 3OT
+2004-02-24,Atlanta,86,Philadelphia,75
+2004-02-27,Detroit,105,Atlanta,83
+2004-02-28,Atlanta,99,Orlando,104
+2004-03-02,Atlanta,94,Los Angeles,93
+2004-03-03,Cleveland,112,Atlanta,80
+2004-03-05,Orlando,101,Atlanta,96
+2004-03-08,Atlanta,102,Cleveland,108
+2004-03-10,Milwaukee,94,Atlanta,80
+2004-03-12,Atlanta,138,Washington,124
+2004-03-14,Toronto,101,Atlanta,84
+2004-03-16,Atlanta,110,Oklahoma City,118
+2004-03-17,Dallas,110,Atlanta,111
+2004-03-19,Washington,94,Atlanta,84
+2004-03-20,Atlanta,81,Utah,87
+2004-03-22,NY Knicks,96,Atlanta,84
+2004-03-25,Atlanta,84,New Orleans,76
+2004-03-27,Atlanta,97,Chicago,88
+2004-03-29,Atlanta,133 2OT,Memphis,136
+2004-03-31,Atlanta,97,Miami,100
+2004-04-02,Orlando,87,Atlanta,95
+2004-04-04,Brooklyn,106,Atlanta,89
+2004-04-06,Atlanta,100 OT,Philadelphia,103
+2004-04-09,Chicago,101,Atlanta,116
+2004-04-10,Atlanta,110,Boston,99
+2004-04-12,Atlanta,129,Brooklyn,107
+2004-04-14,Boston,137,Atlanta,132
+2005-11-03,Phoenix,112,Atlanta,82
+2005-11-05,Oklahoma City,106,Atlanta,85
+2005-11-07,Los Angeles,106,Atlanta,90
+2005-11-09,Atlanta,79,Cleveland,93
+2005-11-12,New Orleans,95,Atlanta,96
+2005-11-13,Atlanta,88,San Antonio,103
+2005-11-16,Atlanta,88,Houston,84
+2005-11-17,Indiana,93,Atlanta,86
+2005-11-20,Atlanta,79,Utah,92
+2005-11-23,NY Knicks,104,Atlanta,88
+2005-11-24,Atlanta,93,Miami,99
+2005-11-26,Atlanta,99,Orlando,117
+2005-11-27,Charlotte,107,Atlanta,92
+2005-11-30,Atlanta,109 OT,NY Knicks,110
+2005-12-03,Atlanta,90,Washington,114
+2005-12-04,Brooklyn,109,Atlanta,88
+2005-12-06,Atlanta,96,Philadelphia,92
+2005-12-08,Atlanta,89,Memphis,97
+2005-12-10,Detroit,72,Atlanta,88
+2005-12-11,Atlanta,90,Brooklyn,95
+2005-12-14,Atlanta,97 OT,Indiana,108
+2005-12-15,Houston,92,Atlanta,69
+2005-12-17,Atlanta,84,Portland,100
+2005-12-18,Dallas,90,Atlanta,68
+2005-12-22,Atlanta,113,Dallas,100
+2005-12-27,Miami,116,Atlanta,102
+2005-12-28,Atlanta,102,Cleveland,111
+2005-12-30,Atlanta,79,Oklahoma City,94
+2005-01-02,Washington,104,Atlanta,101
+2005-01-05,Cleveland,101,Atlanta,85
+2005-01-07,Atlanta,97,Sacramento,100
+2005-01-11,Atlanta,103,Milwaukee,80
+2005-01-14,Boston,106,Atlanta,94
+2005-01-15,Atlanta,103,Charlotte,95
+2005-01-17,Atlanta,84,Brooklyn,85
+2005-01-19,Miami,111,Atlanta,92
+2005-01-21,Chicago,95,Atlanta,85
+2005-01-22,Atlanta,100,Boston,96
+2005-01-24,Atlanta,82,Chicago,107
+2005-01-26,Minnesota,104,Atlanta,87
+2005-01-28,Atlanta,96,Miami,106
+2005-01-29,Memphis,84,Atlanta,83
+2005-01-31,Atlanta,80,Orlando,79
+2005-02-02,Detroit,99,Atlanta,84
+2005-02-04,Philadelphia,103,Atlanta,85
+2005-02-05,Atlanta,79,Indiana,84
+2005-02-07,Atlanta,114,Los Angeles,108
+2005-02-10,Orlando,101,Atlanta,96
+2005-02-12,Milwaukee,113,Atlanta,83
+2005-02-15,Atlanta,96,Denver,100
+2005-02-16,Cleveland,111,Atlanta,89
+2005-02-22,Sacramento,114,Atlanta,104
+2005-02-23,Golden State,101,Atlanta,96
+2005-02-25,Portland,102,Atlanta,101
+2005-02-27,LA,111,Atlanta,104
+2005-03-01,Denver,97,Atlanta,74
+2005-03-02,Utah,96,Atlanta,74
+2005-03-05,Atlanta,97,Philadelphia,98
+2005-03-08,Milwaukee,105,Atlanta,101
+2005-03-09,Boston,95,Atlanta,91
+2005-03-11,Toronto,112 OT,Atlanta,116
+2005-03-12,Atlanta,92,Golden State,105
+2005-03-14,Atlanta,108 OT,Detroit,114
+2005-03-16,Atlanta,93,Washington,122
+2005-03-18,Atlanta,92,NY Knicks,106
+2005-03-21,Chicago,105,Atlanta,91
+2005-03-22,Atlanta,94,Phoenix,105
+2005-03-25,San Antonio,111,Atlanta,95
+2005-03-26,Atlanta,104,Toronto,109
+2005-03-28,Orlando,109,Atlanta,102
+2005-03-30,Washington,102,Atlanta,99
+2005-04-01,Atlanta,100,Boston,116
+2005-04-03,Atlanta,91,LA,111
+2005-04-05,Atlanta,86,New Orleans,96
+2005-04-08,Toronto,109,Atlanta,101 OT
+2005-04-09,Atlanta,105,Minnesota,98
+2005-04-11,Atlanta,105 OT,Charlotte,110
+2005-04-13,Charlotte,105,Atlanta,84
+2005-04-16,Atlanta,105,Chicago,114
+2005-04-17,NY Knicks,135 OT,Atlanta,139
+2005-04-19,Atlanta,68,Detroit,95
+2005-04-20,Philadelphia,110,Atlanta,86
+2006-11-02,Golden State,122,Atlanta,97
+2006-11-04,LA,92,Atlanta,77
+2006-11-05,Portland,94,Atlanta,93
+2006-11-08,Atlanta,97,Los Angeles,103
+2006-11-10,Atlanta,95,LA,102
+2006-11-12,Atlanta,84,Memphis,85
+2006-11-15,San Antonio,103,Atlanta,79
+2006-11-17,Dallas,87,Atlanta,78
+2006-11-18,New Orleans,95,Atlanta,92
+2006-11-23,Atlanta,120,Boston,117
+2006-11-25,Indiana,85,Atlanta,87
+2006-11-27,Atlanta,75,Portland,77
+2006-11-29,Houston,100,Atlanta,85
+2006-11-30,Atlanta,74,Miami,96
+2006-12-02,Atlanta,101,Toronto,102
+2006-12-04,Phoenix,112,Atlanta,94
+2006-12-06,Denver,125,Atlanta,116
+2006-12-07,Utah,95,Atlanta,83
+2006-12-10,Atlanta,94,San Antonio,84
+2006-12-13,Cleveland,94,Atlanta,100
+2006-12-14,Philadelphia,106,Atlanta,101
+2006-12-16,Atlanta,122,NY Knicks,111
+2006-12-18,Atlanta,110,Denver,107 OT
+2006-12-20,Miami,111,Atlanta,92
+2006-12-23,Atlanta,111,Philadelphia,108
+2006-12-27,Atlanta,90,Charlotte,93
+2006-12-28,Toronto,108,Atlanta,102
+2006-12-30,Brooklyn,99,Atlanta,91
+2006-01-03,Atlanta,97,Toronto,108
+2006-01-06,Boston,98,Atlanta,103
+2006-01-07,Atlanta,101,New Orleans,93
+2006-01-10,Atlanta,94,Boston,98
+2006-01-11,Washington,103,Atlanta,72
+2006-01-13,NY Knicks,105,Atlanta,94
+2006-01-14,Atlanta,106 OT,Washington,114
+2006-01-16,Atlanta,94,Houston,83
+2006-01-18,Atlanta,89,Detroit,117
+2006-01-20,Atlanta,102,Milwaukee,118
+2006-01-23,Atlanta,104,Indiana,94
+2006-01-25,Atlanta,97,Cleveland,106
+2006-01-27,Atlanta,106,Phoenix,110
+2006-01-28,Chicago,111,Atlanta,99
+2006-01-30,Atlanta,120,NY Knicks,101
+2006-02-01,Charlotte,92,Atlanta,102
+2006-02-03,Atlanta,96,Orlando,94
+2006-02-04,Washington,98,Atlanta,85
+2006-02-07,Atlanta,99,Detroit,98
+2006-02-10,Oklahoma City,99,Atlanta,91
+2006-02-12,Sacramento,109,Atlanta,84
+2006-02-15,Los Angeles,110,Atlanta,114
+2006-02-21,Detroit,97,Atlanta,87
+2006-02-22,Atlanta,109,Oklahoma City,114
+2006-02-24,Indiana,112 OT,Atlanta,117
+2006-02-25,Atlanta,89,Milwaukee,99
+2006-02-27,Atlanta,104,Brooklyn,102 OT
+2006-03-01,Toronto,111 OT,Atlanta,113
+2006-03-03,Atlanta,93,Sacramento,102
+2006-03-04,Miami,95,Atlanta,93
+2006-03-07,Atlanta,113,Golden State,106
+2006-03-11,Atlanta,90,Chicago,95
+2006-03-13,Milwaukee,88,Atlanta,87
+2006-03-15,NY Knicks,121,Atlanta,117 2OT
+2006-03-17,Atlanta,101,Utah,111
+2006-03-19,Atlanta,108,Orlando,107 OT
+2006-03-20,Detroit,91,Atlanta,84
+2006-03-22,Philadelphia,115,Atlanta,106
+2006-03-25,Atlanta,83,Dallas,98
+2006-03-26,Orlando,108,Atlanta,101
+2006-03-28,Charlotte,125,Atlanta,117
+2006-03-29,Atlanta,94,Indiana,93
+2006-03-31,Atlanta,88,Brooklyn,91
+2006-04-02,Memphis,98,Atlanta,87
+2006-04-04,Brooklyn,96,Atlanta,94
+2006-04-05,Atlanta,101,Minnesota,99
+2006-04-07,Atlanta,114,Washington,101
+2006-04-09,Minnesota,84,Atlanta,83
+2006-04-10,Orlando,105,Atlanta,88
+2006-04-12,Atlanta,90,Chicago,96
+2006-04-14,Atlanta,110,Charlotte,116
+2006-04-15,Milwaukee,114,Atlanta,120
+2006-04-18,Atlanta,103,Miami,100
+2006-04-19,Cleveland,100,Atlanta,99
+2007-11-01,Philadelphia,88,Atlanta,75
+2007-11-03,Atlanta,102,NY Knicks,92
+2007-11-05,Atlanta,95,Orlando,82
+2007-11-07,Cleveland,95 OT,Atlanta,104
+2007-11-10,Toronto,102,Atlanta,111
+2007-11-11,Atlanta,112 OT,Oklahoma City,113
+2007-11-14,Atlanta,101,Milwaukee,103
+2007-11-18,Atlanta,88 OT,Miami,93
+2007-11-22,Detroit,103,Atlanta,98
+2007-11-24,Atlanta,97,Toronto,93
+2007-11-25,Orlando,98,Atlanta,79
+2007-11-28,Washington,96,Atlanta,95
+2007-11-29,Atlanta,99,Charlotte,90
+2007-12-01,Atlanta,95,Cleveland,106
+2007-12-03,Portland,96,Atlanta,107
+2007-12-05,Oklahoma City,102,Atlanta,87
+2007-12-06,Denver,96,Atlanta,98
+2007-12-08,Los Angeles,106,Atlanta,95
+2007-12-10,Sacramento,117,Atlanta,92
+2007-12-12,Atlanta,87,Denver,100
+2007-12-13,NY Knicks,94,Atlanta,82
+2007-12-15,Memphis,88,Atlanta,97
+2007-12-16,Atlanta,104 OT,Chicago,106
+2007-12-20,Atlanta,106,Utah,112
+2007-12-22,Atlanta,90,Indiana,100
+2007-12-23,Detroit,108,Atlanta,81
+2007-12-27,Atlanta,76,Cleveland,89
+2007-12-29,Houston,94,Atlanta,68
+2007-12-31,San Antonio,95,Atlanta,81
+2007-01-05,Toronto,105,Atlanta,92
+2007-01-06,Atlanta,86,LA,74
+2007-01-09,Indiana,91,Atlanta,72
+2007-01-10,Atlanta,77,New Orleans,96
+2007-01-12,Atlanta,99,Detroit,93
+2007-01-15,Atlanta,100,Boston,96
+2007-01-17,Minnesota,88,Atlanta,105
+2007-01-19,Atlanta,75,Charlotte,96
+2007-01-20,Charlotte,104,Atlanta,85
+2007-01-23,Chicago,94,Atlanta,86
+2007-01-24,Boston,76,Atlanta,82
+2007-01-26,Orlando,90,Atlanta,93
+2007-01-27,Atlanta,89,Philadelphia,104
+2007-01-29,Atlanta,93,Orlando,83
+2007-01-31,Atlanta,115,Golden State,94
+2007-02-02,Atlanta,91,Toronto,103
+2007-02-04,Brooklyn,99 OT,Atlanta,101
+2007-02-05,Atlanta,83,Los Angeles,90
+2007-02-07,Atlanta,85,Brooklyn,87
+2007-02-09,Phoenix,111,Atlanta,120
+2007-02-11,Golden State,105,Atlanta,106
+2007-02-12,Utah,102,Atlanta,76
+2007-02-14,LA,93,Atlanta,96
+2007-02-20,Chicago,106,Atlanta,81
+2007-02-21,Atlanta,96,San Antonio,103
+2007-02-23,Atlanta,105,Houston,99
+2007-02-25,Atlanta,106,Phoenix,115
+2007-02-26,Dallas,110,Atlanta,87
+2007-02-28,New Orleans,107,Atlanta,100
+2007-03-02,Washington,93,Atlanta,92
+2007-03-03,Atlanta,100 OT,NY Knicks,104
+2007-03-05,Miami,88,Atlanta,81
+2007-03-07,Atlanta,100,Washington,97
+2007-03-09,Atlanta,106,Memphis,105
+2007-03-10,Atlanta,99,Minnesota,93
+2007-03-13,Atlanta,104,Philadelphia,92
+2007-03-14,Boston,109,Atlanta,88
+2007-03-17,Indiana,113,Atlanta,90
+2007-03-19,Atlanta,99,Sacramento,76
+2007-03-21,Atlanta,83,Miami,91
+2007-03-23,Atlanta,100 OT,Portland,102
+2007-03-25,Atlanta,97,Dallas,104
+2007-03-26,Miami,106,Atlanta,89
+2007-03-28,Charlotte,101,Atlanta,87
+2007-04-01,Atlanta,97,Chicago,105
+2007-04-04,Brooklyn,101,Atlanta,86
+2007-04-06,Atlanta,115,Milwaukee,102
+2007-04-08,Philadelphia,109,Atlanta,104 OT
+2007-04-10,Atlanta,104,Boston,96
+2007-04-13,Atlanta,85,Washington,98
+2007-04-14,Cleveland,110,Atlanta,76
+2007-04-16,Milwaukee,102,Atlanta,96
+2007-04-17,Atlanta,118,Indiana,102
+2008-11-02,Atlanta,101,Dallas,94
+2008-11-04,Detroit,92,Atlanta,91
+2008-11-06,Brooklyn,87,Atlanta,82
+2008-11-07,Atlanta,105,Phoenix,96
+2008-11-09,Boston,106,Atlanta,83
+2008-11-11,Atlanta,90,Washington,101
+2008-11-14,Atlanta,117,Charlotte,109
+2008-11-16,Atlanta,123 2OT,Oklahoma City,126
+2008-11-17,Milwaukee,105,Atlanta,96
+2008-11-20,Atlanta,83,San Antonio,95
+2008-11-21,Miami,79,Atlanta,82
+2008-11-24,Minnesota,87,Atlanta,94
+2008-11-27,Chicago,90,Atlanta,78
+2008-11-28,Atlanta,96,Milwaukee,80
+2008-11-30,Atlanta,86,New Orleans,92
+2008-12-03,Philadelphia,79,Atlanta,88
+2008-12-04,Atlanta,95,Detroit,106
+2008-12-06,Atlanta,90,Minnesota,89
+2008-12-08,Atlanta,86,Memphis,78
+2008-12-10,Orlando,87,Atlanta,98
+2008-12-11,Atlanta,88,Toronto,100
+2008-12-14,Detroit,91,Atlanta,81
+2008-12-15,Atlanta,93,Charlotte,84
+2008-12-17,Atlanta,116,Utah,111
+2008-12-19,Atlanta,114,Miami,111 OT
+2008-12-21,Washington,92,Atlanta,97
+2008-12-26,Atlanta,107,Indiana,95
+2008-12-29,Dallas,97,Atlanta,84
+2008-01-02,Cleveland,98,Atlanta,94
+2008-01-04,Indiana,113,Atlanta,91
+2008-01-05,Atlanta,107,Brooklyn,113
+2008-01-09,Atlanta,90,Cleveland,81
+2008-01-11,Atlanta,98 OT,Washington,102
+2008-01-13,Atlanta,105,Chicago,84
+2008-01-15,Atlanta,104,Denver,93
+2008-01-16,Milwaukee,87,Atlanta,80
+2008-01-18,Toronto,89,Atlanta,78
+2008-01-21,Atlanta,109 OT,Portland,111
+2008-01-23,Denver,107,Atlanta,100
+2008-01-25,Oklahoma City,90,Atlanta,99
+2008-01-27,Portland,94,Atlanta,93
+2008-01-29,Phoenix,125,Atlanta,92
+2008-01-30,LA,95,Atlanta,88
+2008-02-02,Atlanta,104,Brooklyn,92
+2008-02-04,Atlanta,96,Philadelphia,91
+2008-02-06,Atlanta,98,Los Angeles,95
+2008-02-08,Atlanta,95,Cleveland,100
+2008-02-09,Houston,108,Atlanta,89
+2008-02-12,Atlanta,90,Detroit,94
+2008-02-13,Charlotte,100,Atlanta,98 OT
+2008-02-19,Los Angeles,122,Atlanta,93
+2008-02-20,Sacramento,119,Atlanta,107
+2008-02-22,Golden State,110,Atlanta,117
+2008-02-23,Utah,100,Atlanta,94
+2008-02-25,San Antonio,89,Atlanta,74
+2008-02-27,Atlanta,123,Sacramento,117
+2008-02-29,Atlanta,99,NY Knicks,93
+2008-03-02,Boston,98,Atlanta,88
+2008-03-04,Atlanta,118,Golden State,135
+2008-03-05,New Orleans,116,Atlanta,101
+2008-03-07,Charlotte,108,Atlanta,93
+2008-03-08,Atlanta,97,Miami,94
+2008-03-10,Orlando,123,Atlanta,112
+2008-03-12,Atlanta,75,Houston,83
+2008-03-14,Atlanta,117,LA,93
+2008-03-16,NY Knicks,98,Atlanta,109
+2008-03-17,Washington,96,Atlanta,105
+2008-03-19,Brooklyn,125,Atlanta,117
+2008-03-22,Atlanta,98,Orlando,90
+2008-03-25,Chicago,103,Atlanta,94
+2008-03-26,Atlanta,115,Milwaukee,96
+2008-03-28,Atlanta,106,Chicago,103
+2008-03-30,Atlanta,114,NY Knicks,109
+2008-03-31,Memphis,99,Atlanta,116
+2008-04-02,Atlanta,127,Toronto,120 OT
+2008-04-04,Atlanta,104,Philadelphia,109
+2008-04-05,Philadelphia,85,Atlanta,92
+2008-04-08,Indiana,112,Atlanta,98
+2008-04-11,NY Knicks,104,Atlanta,116
+2008-04-12,Atlanta,89,Boston,99
+2008-04-15,Atlanta,105,Orlando,121
+2008-04-16,Miami,113,Atlanta,99
+2009-10-29,Orlando,85,Atlanta,99
+2009-11-01,Atlanta,95,Philadelphia,88
+2009-11-05,New Orleans,79,Atlanta,87
+2009-11-07,Atlanta,110,Toronto,92
+2009-11-09,Oklahoma City,85,Atlanta,89
+2009-11-11,Chicago,108,Atlanta,113
+2009-11-12,Boston,103,Atlanta,102
+2009-11-14,Brooklyn,115,Atlanta,108
+2009-11-15,Atlanta,107,Brooklyn,119
+2009-11-18,Indiana,113,Atlanta,96
+2009-11-19,Atlanta,91,Washington,87
+2009-11-21,Atlanta,88,Charlotte,83
+2009-11-22,Cleveland,110,Atlanta,96
+2009-11-26,Atlanta,102,Milwaukee,96
+2009-11-28,Toronto,93,Atlanta,88
+2009-11-29,Washington,98,Atlanta,102
+2009-12-03,Atlanta,105,Memphis,95
+2009-12-05,Atlanta,98,NY Knicks,95
+2009-12-06,Dallas,100,Atlanta,98
+2009-12-09,Houston,92,Atlanta,84
+2009-12-10,San Antonio,95,Atlanta,89
+2009-12-12,Miami,73,Atlanta,87
+2009-12-13,Atlanta,97,Cleveland,92
+2009-12-15,Atlanta,83,Charlotte,79
+2009-12-17,Atlanta,85,Boston,88
+2009-12-19,Atlanta,115,Golden State,99
+2009-12-21,Atlanta,85,Detroit,78
+2009-12-23,Atlanta,99,Oklahoma City,88
+2009-12-27,Atlanta,129,Chicago,117
+2009-12-29,Atlanta,109,Denver,91
+2009-12-30,Indiana,104,Atlanta,110
+2009-01-02,Brooklyn,93,Atlanta,91 OT
+2009-01-03,Atlanta,103,Houston,100
+2009-01-07,Atlanta,102,Orlando,106
+2009-01-09,Orlando,121,Atlanta,87
+2009-01-11,Atlanta,94,Philadelphia,109
+2009-01-13,Phoenix,107,Atlanta,102
+2009-01-14,LA,80,Atlanta,97
+2009-01-16,Golden State,119,Atlanta,114
+2009-01-19,Atlanta,87,Toronto,84
+2009-01-20,Chicago,102,Atlanta,105
+2009-01-23,Atlanta,117,Milwaukee,87
+2009-01-25,Atlanta,99,Phoenix,104
+2009-01-26,Miami,95,Atlanta,79
+2009-01-28,NY Knicks,112,Atlanta,104
+2009-01-30,Atlanta,105,Brooklyn,88
+2009-01-31,Milwaukee,110,Atlanta,107
+2009-02-04,Minnesota,86,Atlanta,94
+2009-02-06,Charlotte,97,Atlanta,102
+2009-02-07,Atlanta,97,LA,121
+2009-02-10,Atlanta,111,Washington,90
+2009-02-11,Detroit,95,Atlanta,99
+2009-02-17,Los Angeles,96,Atlanta,83
+2009-02-18,Sacramento,100,Atlanta,105
+2009-02-20,Portland,108,Atlanta,98
+2009-02-23,Utah,108,Atlanta,89
+2009-02-25,Denver,110,Atlanta,109
+2009-02-27,Atlanta,91,Miami,83
+2009-03-01,Atlanta,87,Cleveland,88
+2009-03-02,Washington,89,Atlanta,98
+2009-03-04,NY Knicks,109,Atlanta,105
+2009-03-06,Charlotte,98,Atlanta,91
+2009-03-07,Atlanta,87,Detroit,83
+2009-03-09,Atlanta,89,New Orleans,79
+2009-03-11,Atlanta,100,Utah,93
+2009-03-13,Atlanta,101,Indiana,87
+2009-03-15,Atlanta,98,Portland,80
+2009-03-17,Atlanta,119,Sacramento,97
+2009-03-19,Atlanta,95,Dallas,87
+2009-03-21,Cleveland,102,Atlanta,96
+2009-03-23,Atlanta,109,Minnesota,97
+2009-03-25,Atlanta,92,San Antonio,102
+2009-03-27,Atlanta,93,Boston,99
+2009-03-29,Atlanta,86,Los Angeles,76
+2009-03-31,Philadelphia,98,Atlanta,85
+2009-04-03,Boston,104,Atlanta,92
+2009-04-04,Atlanta,82,Orlando,88
+2009-04-07,Toronto,110,Atlanta,118
+2009-04-08,Milwaukee,105,Atlanta,113
+2009-04-10,Atlanta,122,Indiana,118
+2009-04-14,Atlanta,81,Miami,79
+2009-04-15,Memphis,98,Atlanta,90
+2010-10-28,Atlanta,120,Indiana,109
+2010-10-30,Atlanta,100,Washington,89
+2010-11-01,Los Angeles,118,Atlanta,110
+2010-11-03,Portland,91,Atlanta,97
+2010-11-04,Sacramento,105,Atlanta,113
+2010-11-06,Charlotte,103,Atlanta,83
+2010-11-07,Atlanta,125,Denver,100
+2010-11-11,NY Knicks,101,Atlanta,114
+2010-11-13,Boston,86,Atlanta,97
+2010-11-14,Atlanta,121,New Orleans,98
+2010-11-16,Atlanta,99,Portland,95 OT
+2010-11-18,Atlanta,105,Miami,90
+2010-11-20,Atlanta,105,Houston,103
+2010-11-21,New Orleans,96,Atlanta,88
+2010-11-26,Atlanta,76,Orlando,93
+2010-11-27,Philadelphia,86,Atlanta,100
+2010-11-29,Detroit,94,Atlanta,88
+2010-12-02,Atlanta,146,Toronto,115
+2010-12-04,Atlanta,107,NY Knicks,114
+2010-12-05,Dallas,75,Atlanta,80
+2010-12-09,Atlanta,118,Chicago,83
+2010-12-11,Toronto,89,Atlanta,111
+2010-12-13,Atlanta,130,Brooklyn,107
+2010-12-16,Atlanta,110,Memphis,97
+2010-12-18,Atlanta,96,Utah,83
+2010-12-19,Chicago,101,Atlanta,98 OT
+2010-12-22,Minnesota,87,Atlanta,112
+2010-12-23,Denver,124,Atlanta,104
+2010-12-26,Indiana,98,Atlanta,110
+2010-12-29,Atlanta,84,Cleveland,95
+2010-12-30,Cleveland,106,Atlanta,101
+2010-01-01,Atlanta,108 OT,NY Knicks,112
+2010-01-04,Miami,92,Atlanta,75
+2010-01-06,Atlanta,119,Brooklyn,89
+2010-01-08,Atlanta,93,Boston,85
+2010-01-09,Orlando,113,Atlanta,81
+2010-01-11,Boston,96,Atlanta,102
+2010-01-13,Atlanta,94,Washington,82
+2010-01-15,Atlanta,102,Phoenix,101
+2010-01-18,Atlanta,91,Oklahoma City,94
+2010-01-20,Atlanta,108,Sacramento,97
+2010-01-22,Atlanta,103,Charlotte,89
+2010-01-25,Houston,95,Atlanta,102
+2010-01-27,San Antonio,105,Atlanta,90
+2010-01-29,Atlanta,100,Boston,91
+2010-01-30,Orlando,104,Atlanta,86
+2010-02-02,Oklahoma City,106,Atlanta,99
+2010-02-03,Atlanta,103,LA,97
+2010-02-05,Atlanta,91,Chicago,81
+2010-02-06,Washington,-,Atlanta,-
+2010-02-09,Memphis,94,Atlanta,108
+2010-02-10,Atlanta,76,Miami,94
+2010-02-17,LA,92,Atlanta,110
+2010-02-19,Phoenix,88,Atlanta,80
+2010-02-21,Golden State,108,Atlanta,104
+2010-02-22,Utah,100,Atlanta,105
+2010-02-24,Atlanta,98,Minnesota,92
+2010-02-26,Atlanta,103 OT,Dallas,111
+2010-02-28,Atlanta,106,Milwaukee,102 OT
+2010-03-01,Chicago,92,Atlanta,116
+2010-03-03,Atlanta,112,Philadelphia,93
+2010-03-05,Atlanta,127,Golden State,122
+2010-03-06,Miami,100,Atlanta,94
+2010-03-08,NY Knicks,99,Atlanta,98
+2010-03-11,Washington,99,Atlanta,105
+2010-03-13,Atlanta,112,Detroit,99
+2010-03-16,Brooklyn,84,Atlanta,108
+2010-03-17,Toronto,106,Atlanta,105
+2010-03-19,Atlanta,93,Charlotte,92 OT
+2010-03-21,Atlanta,119,San Antonio,114 OT
+2010-03-22,Milwaukee,98,Atlanta,95
+2010-03-24,Atlanta,86,Orlando,84
+2010-03-26,Philadelphia,105,Atlanta,98
+2010-03-28,Atlanta,94,Indiana,84
+2010-03-31,Atlanta,109,Los Angeles,92
+2010-04-02,Cleveland,93,Atlanta,88
+2010-04-03,Atlanta,91,Detroit,85
+2010-04-06,Charlotte,109,Atlanta,100
+2010-04-07,Detroit,90,Atlanta,88
+2010-04-09,Atlanta,107,Toronto,101
+2010-04-10,Washington,95,Atlanta,105
+2010-04-12,Milwaukee,96,Atlanta,104
+2010-04-14,Atlanta,99,Cleveland,83

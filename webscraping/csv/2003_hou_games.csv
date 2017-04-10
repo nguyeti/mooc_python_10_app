@@ -1,0 +1,83 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Indiana,91,Houston,82
+2003-11-01,Denver,74,Houston,83
+2003-11-02,Houston,88,Toronto,76
+2003-11-05,Houston,97,Oklahoma City,104
+2003-11-09,Houston,111,Golden State,104
+2003-11-12,Houston,86,Portland,83
+2003-11-15,Phoenix,88,Houston,87
+2003-11-17,Los Angeles,89,Houston,93
+2003-11-19,Houston,97,Cleveland,80
+2003-11-21,Dallas,103,Houston,90
+2003-11-22,Houston,93,Washington,86
+2003-11-24,LA,90,Houston,89
+2003-11-26,Portland,77,Houston,71
+2003-11-27,Golden State,84,Houston,91
+2003-11-29,Oklahoma City,72,Houston,83
+2003-12-01,Sacramento,103,Houston,84
+2003-12-03,Houston,89,San Antonio,75
+2003-12-06,New Orleans,98,Houston,96 OT
+2003-12-07,Houston,97,Philadelphia,72
+2003-12-10,Houston,103,Sacramento,96
+2003-12-13,Memphis,114,Houston,109 OT
+2003-12-14,Houston,83,LA,94
+2003-12-16,Miami,100 OT,Houston,105
+2003-12-18,Houston,95,Indiana,83
+2003-12-20,Houston,101,Atlanta,82
+2003-12-21,Minnesota,98,Houston,86
+2003-12-23,Houston,91,Utah,96
+2003-12-27,Houston,83,NY Knicks,99
+2003-12-29,Houston,97,New Orleans,85
+2003-12-31,Houston,105,Milwaukee,80
+2003-01-04,Houston,84,Golden State,86
+2003-01-07,Houston,94,Minnesota,86
+2003-01-08,Orlando,81,Houston,91
+2003-01-10,Atlanta,84,Houston,75
+2003-01-11,Houston,87,Denver,85
+2003-01-13,Houston,101,Boston,92
+2003-01-15,Houston,102,Phoenix,96
+2003-01-17,Houston,108,Los Angeles,104 OT
+2003-01-20,San Antonio,87,Houston,82
+2003-01-21,Dallas,107,Houston,86
+2003-01-24,Houston,74,Detroit,98
+2003-01-26,Chicago,100,Houston,98
+2003-01-27,Memphis,95,Houston,100
+2003-01-29,Houston,81,Dallas,104
+2003-01-31,Houston,121,Minnesota,101
+2003-02-02,Houston,105,Sacramento,89
+2003-02-04,Minnesota,103,Houston,89
+2003-02-05,Cleveland,105,Houston,102
+2003-02-11,Houston,101 OT,Utah,103
+2003-02-12,Utah,76,Houston,106
+2003-02-14,Houston,82,Miami,94
+2003-02-18,Los Angeles,106,Houston,99 2OT
+2003-02-19,Phoenix,89,Houston,107
+2003-02-21,Houston,85,Dallas,100
+2003-02-22,Houston,93,Memphis,82
+2003-02-24,Boston,95 OT,Houston,101
+2003-02-25,NY Knicks,102,Houston,95
+2003-02-27,Washington,100,Houston,98 OT
+2003-03-02,Houston,88,San Antonio,97
+2003-03-04,Detroit,96,Houston,83
+2003-03-05,Toronto,95,Houston,97
+2003-03-08,Houston,83,Brooklyn,71
+2003-03-12,Houston,119,LA,114 OT
+2003-03-14,Houston,121,Chicago,91
+2003-03-16,Houston,85,Phoenix,75
+2003-03-18,Oklahoma City,100,Houston,94
+2003-03-19,Portland,94,Houston,83
+2003-03-21,Golden State,107,Houston,117
+2003-03-23,Sacramento,109,Houston,108
+2003-03-24,LA,90,Houston,108
+2003-03-26,Houston,93,Los Angeles,96
+2003-03-27,San Antonio,98,Houston,85
+2003-03-29,Houston,102,Denver,89
+2003-03-31,Brooklyn,110,Houston,86
+2003-04-02,Milwaukee,106,Houston,99
+2003-04-04,Philadelphia,79,Houston,88
+2003-04-06,Houston,114,Orlando,93
+2003-04-08,Houston,66,Portland,81
+2003-04-09,Utah,94,Houston,73
+2003-04-12,Houston,101,Oklahoma City,86
+2003-04-15,Houston,97,Memphis,86
+2003-04-16,Denver,84,Houston,89

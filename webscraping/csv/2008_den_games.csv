@@ -1,0 +1,493 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Minnesota,83,Denver,77
+2003-11-01,Denver,74,Houston,83
+2003-11-02,Portland,79,Denver,96
+2003-11-05,Denver,87,Atlanta,103
+2003-11-07,Denver,63,Detroit,89
+2003-11-09,Denver,84,Memphis,73
+2003-11-13,Denver,72,Phoenix,75
+2003-11-15,Toronto,84,Denver,79
+2003-11-16,Detroit,74,Denver,53
+2003-11-18,Brooklyn,99,Denver,79
+2003-11-20,Denver,79,Utah,96
+2003-11-22,Denver,72,LA,70
+2003-11-23,Phoenix,79,Denver,80
+2003-11-26,Denver,85,San Antonio,81
+2003-11-27,San Antonio,99,Denver,68
+2003-11-29,Denver,82,Golden State,92
+2003-12-03,Golden State,110,Denver,89
+2003-12-04,Denver,90,Sacramento,92
+2003-12-06,Sacramento,98,Denver,77
+2003-12-07,Denver,92,Indiana,81
+2003-12-09,Denver,84,Minnesota,92
+2003-12-11,Memphis,96,Denver,93
+2003-12-13,Indiana,94,Denver,72
+2003-12-14,Cleveland,111,Denver,104
+2003-12-16,Philadelphia,93,Denver,71
+2003-12-18,Denver,75,Dallas,80
+2003-12-20,Denver,80,Orlando,89
+2003-12-21,LA,92,Denver,89
+2003-12-28,Denver,93,Los Angeles,112
+2003-12-30,Denver,77,Oklahoma City,79
+2003-01-03,Oklahoma City,82,Denver,94
+2003-01-04,Denver,76,Sacramento,87
+2003-01-06,Dallas,86,Denver,71
+2003-01-08,Denver,86,Miami,76
+2003-01-10,Denver,82,Portland,81
+2003-01-11,Houston,87,Denver,85
+2003-01-13,Minnesota,89,Denver,75
+2003-01-15,Denver,81,Utah,92
+2003-01-17,Denver,97,Cleveland,80
+2003-01-20,Washington,89,Denver,74
+2003-01-22,NY Knicks,97,Denver,88
+2003-01-24,Boston,77,Denver,58
+2003-01-25,Milwaukee,88,Denver,75
+2003-01-27,Denver,66,Brooklyn,92
+2003-01-28,Portland,98,Denver,92
+2003-02-01,Dallas,122,Denver,100
+2003-02-02,Denver,93,Memphis,78
+2003-02-04,Denver,102,Chicago,100 OT
+2003-02-06,Denver,74,San Antonio,83
+2003-02-11,Los Angeles,121,Denver,93
+2003-02-12,Denver,102,Los Angeles,113
+2003-02-15,Chicago,88,Denver,69
+2003-02-16,New Orleans,100,Denver,92
+2003-02-18,San Antonio,101,Denver,76
+2003-02-19,Denver,77,Minnesota,85
+2003-02-22,Utah,99,Denver,89
+2003-02-24,Denver,89,Golden State,94
+2003-02-26,Denver,84,Portland,94
+2003-02-28,Denver,88,New Orleans,94
+2003-03-02,Denver,94,Philadelphia,100
+2003-03-04,Atlanta,92,Denver,86
+2003-03-05,Memphis,96,Denver,86
+2003-03-08,Miami,92,Denver,98
+2003-03-09,Orlando,111,Denver,98
+2003-03-11,Denver,95,Toronto,87
+2003-03-16,Denver,84,Oklahoma City,92
+2003-03-18,Utah,99,Denver,81
+2003-03-19,LA,91,Denver,78
+2003-03-21,Oklahoma City,101,Denver,99 OT
+2003-03-22,Denver,90,Boston,80
+2003-03-24,Denver,96,Dallas,108
+2003-03-26,Denver,108,Milwaukee,103
+2003-03-29,Houston,102,Denver,89
+2003-03-30,Denver,88,Washington,72
+2003-04-01,Phoenix,95,Denver,65
+2003-04-02,Denver,75,NY Knicks,83
+2003-04-06,Golden State,106,Denver,99
+2003-04-08,Denver,78,Phoenix,98
+2003-04-11,Sacramento,105,Denver,103
+2003-04-12,Denver,79,LA,101
+2003-04-15,Los Angeles,126,Denver,104
+2003-04-16,Denver,84,Houston,89
+2004-10-29,Denver,80,San Antonio,72
+2004-10-30,Houston,102,Denver,85
+2004-11-01,Denver,109,Sacramento,88
+2004-11-04,Indiana,71,Denver,60
+2004-11-05,Cleveland,89,Denver,93
+2004-11-07,Denver,102 OT,LA,104
+2004-11-09,Toronto,89,Denver,76
+2004-11-10,Chicago,97,Denver,105
+2004-11-14,Denver,106,Orlando,101
+2004-11-18,Minnesota,89,Denver,76
+2004-11-19,Denver,94,Milwaukee,86
+2004-11-21,Denver,108,Washington,87
+2004-11-22,Dallas,115,Denver,101
+2004-11-25,Denver,110,Phoenix,80
+2004-11-28,Denver,113,Dallas,103
+2004-11-29,LA,86,Denver,98
+2004-12-02,Denver,115,Cleveland,103
+2004-12-03,Golden State,109,Denver,117
+2004-12-05,Denver,98,Golden State,91
+2004-12-07,Denver,111,Boston,116
+2004-12-09,Atlanta,112,Denver,98
+2004-12-12,Philadelphia,77,Denver,86
+2004-12-13,NY Knicks,95,Denver,88
+2004-12-16,Denver,116,New Orleans,94
+2004-12-17,Oklahoma City,98,Denver,99
+2004-12-19,Los Angeles,101,Denver,99
+2004-12-20,Denver,106,Oklahoma City,115
+2004-12-22,Denver,106,Memphis,99
+2004-12-26,Denver,95,Houston,94
+2004-12-28,Denver,103,Golden State,79
+2004-12-30,Denver,74,Toronto,81
+2004-12-31,LA,120,Denver,104
+2004-01-02,Portland,96,Denver,106
+2004-01-03,Denver,76,Atlanta,84
+2004-01-05,Denver,74,San Antonio,98
+2004-01-07,Denver,113,Los Angeles,91
+2004-01-09,Denver,106,Utah,96
+2004-01-11,Sacramento,117,Denver,106
+2004-01-13,Phoenix,92,Denver,105
+2004-01-14,Los Angeles,97,Denver,71
+2004-01-16,Denver,88,Dallas,91
+2004-01-18,Denver,88,Miami,80
+2004-01-20,Utah,75,Denver,96
+2004-01-21,Denver,97,Phoenix,92
+2004-01-23,New Orleans,97,Denver,91
+2004-01-25,Memphis,106,Denver,88
+2004-01-26,Denver,95,Minnesota,97
+2004-01-28,Denver,115,Chicago,99
+2004-01-31,Dallas,102,Denver,107
+2004-02-02,Denver,116,Portland,97
+2004-02-06,Golden State,96,Denver,87
+2004-02-08,Sacramento,115,Denver,92
+2004-02-09,Denver,86,Memphis,83
+2004-02-12,Portland,98,Denver,107
+2004-02-17,Denver,106,Philadelphia,85
+2004-02-20,Orlando,102,Denver,98
+2004-02-21,Miami,97,Denver,81
+2004-02-23,Memphis,109,Denver,106
+2004-02-25,Denver,111,Los Angeles,112
+2004-02-28,San Antonio,117,Denver,92
+2004-02-29,Denver,107,NY Knicks,96
+2004-03-02,Denver,91,Brooklyn,95
+2004-03-06,Denver,66,Detroit,97
+2004-03-07,Denver,94,Indiana,103
+2004-03-09,Washington,87,Denver,117
+2004-03-10,Brooklyn,98,Denver,97
+2004-03-12,Milwaukee,111,Denver,117
+2004-03-14,Denver,102,Utah,75
+2004-03-17,Boston,104,Denver,100
+2004-03-19,Detroit,94,Denver,75
+2004-03-21,Minnesota,98,Denver,77
+2004-03-22,Denver,102,LA,80
+2004-03-24,Denver,101,Minnesota,92
+2004-03-26,Oklahoma City,102,Denver,86
+2004-03-27,Utah,85,Denver,83
+2004-03-30,Denver,124,Oklahoma City,119
+2004-04-02,Denver,110,Houston,100
+2004-04-07,Phoenix,96,Denver,111
+2004-04-09,Houston,106,Denver,103
+2004-04-10,Denver,110,Portland,100 OT
+2004-04-12,Denver,97,Sacramento,89
+2004-04-14,San Antonio,93,Denver,67
+2005-11-02,Los Angeles,89,Denver,78
+2005-11-04,Denver,94,Minnesota,92 OT
+2005-11-06,Denver,82,Utah,106
+2005-11-08,Utah,102,Denver,91
+2005-11-09,Denver,88,Oklahoma City,108
+2005-11-11,Denver,117,Detroit,109
+2005-11-14,Sacramento,101,Denver,89
+2005-11-17,Denver,112,Toronto,106
+2005-11-19,Denver,99,Chicago,81
+2005-11-21,Denver,110,Dallas,82
+2005-11-23,Denver,90,Brooklyn,88
+2005-11-26,Denver,75,San Antonio,89
+2005-11-27,Houston,76,Denver,82
+2005-11-29,Denver,76,New Orleans,67
+2005-12-02,Denver,73,Cleveland,92
+2005-12-04,Denver,104,Miami,95
+2005-12-06,Denver,115,Orlando,102
+2005-12-08,Washington,105,Denver,111
+2005-12-10,Toronto,87,Denver,101
+2005-12-12,NY Knicks,107,Denver,96
+2005-12-14,Philadelphia,110,Denver,102
+2005-12-15,Boston,99,Denver,100
+2005-12-17,Miami,107,Denver,100
+2005-12-18,Orlando,117,Denver,95
+2005-12-20,Denver,105,Phoenix,107
+2005-12-22,Oklahoma City,98,Denver,83
+2005-12-26,Denver,88,Dallas,102
+2005-12-27,Golden State,104,Denver,101
+2005-12-31,Denver,97,Philadelphia,92
+2005-01-02,Los Angeles,99,Denver,91
+2005-01-03,Denver,98,LA,102
+2005-01-08,San Antonio,99,Denver,90
+2005-01-09,Denver,98,Houston,116
+2005-01-11,Sacramento,109,Denver,100
+2005-01-12,Denver,95,Los Angeles,83
+2005-01-14,Denver,83,Minnesota,93
+2005-01-17,Golden State,107,Denver,97
+2005-01-18,Oklahoma City,110 OT,Denver,116
+2005-01-21,Denver,92,Memphis,82
+2005-01-23,Dallas,95,Denver,93
+2005-01-25,Chicago,111,Denver,107
+2005-01-26,Detroit,87,Denver,70
+2005-01-28,Milwaukee,100,Denver,106
+2005-01-29,Indiana,88,Denver,95
+2005-02-01,Denver,96,NY Knicks,76
+2005-02-02,Portland,97,Denver,94
+2005-02-05,Denver,107,Golden State,91
+2005-02-08,Denver,97,Utah,87
+2005-02-09,Minnesota,98,Denver,92
+2005-02-11,Cleveland,101,Denver,106
+2005-02-13,Brooklyn,94,Denver,79
+2005-02-15,Atlanta,96,Denver,100
+2005-02-16,Charlotte,94,Denver,88
+2005-02-23,Denver,107,Boston,86
+2005-02-25,Memphis,94 OT,Denver,97
+2005-02-27,New Orleans,93,Denver,94
+2005-03-01,Denver,97,Atlanta,74
+2005-03-03,Denver,96,Indiana,87
+2005-03-05,LA,89,Denver,105
+2005-03-07,Denver,111,Portland,98
+2005-03-12,San Antonio,87,Denver,90
+2005-03-13,Denver,101,Phoenix,106
+2005-03-16,Denver,120,Charlotte,101
+2005-03-18,Denver,115,LA,96
+2005-03-20,Denver,114,Milwaukee,103
+2005-03-22,Denver,127,Washington,98
+2005-03-24,Denver,117,Los Angeles,96
+2005-03-26,Denver,113,Sacramento,99
+2005-03-28,Phoenix,123,Denver,114
+2005-03-30,Utah,98,Denver,109
+2005-04-01,Denver,102,San Antonio,84
+2005-04-02,Portland,97,Denver,103
+2005-04-05,Memphis,91,Denver,94
+2005-04-06,New Orleans,83,Denver,94
+2005-04-08,Minnesota,104,Denver,107
+2005-04-09,Denver,121,Oklahoma City,105
+2005-04-11,Denver,122,Golden State,106
+2005-04-13,Denver,116,New Orleans,102
+2005-04-15,Denver,111,Memphis,102
+2005-04-16,Houston,115,Denver,87
+2005-04-18,Phoenix,128,Denver,114
+2005-04-19,Denver,119,Portland,115
+2006-11-01,San Antonio,102,Denver,91
+2006-11-02,Denver,97 OT,Los Angeles,99
+2006-11-04,Denver,107,Portland,68
+2006-11-06,Los Angeles,112,Denver,92
+2006-11-09,Denver,107,Sacramento,91
+2006-11-11,Sacramento,101,Denver,85
+2006-11-13,Denver,102,Minnesota,91
+2006-11-15,Dallas,83,Denver,80
+2006-11-16,New Orleans,81,Denver,91
+2006-11-18,Denver,95,NY Knicks,86
+2006-11-20,Denver,99,Memphis,83
+2006-11-22,Washington,105,Denver,108
+2006-11-23,Detroit,114,Denver,89
+2006-11-25,Denver,105,LA,95
+2006-11-28,Denver,92,Brooklyn,101
+2006-11-30,Denver,95,New Orleans,102
+2006-12-02,Phoenix,102,Denver,97
+2006-12-03,Denver,101,Miami,99
+2006-12-06,Denver,125,Atlanta,116
+2006-12-09,Miami,92,Denver,100
+2006-12-10,Orlando,94,Denver,83
+2006-12-13,Charlotte,85,Denver,101
+2006-12-15,Cleveland,94,Denver,85
+2006-12-16,Brooklyn,115,Denver,106 OT
+2006-12-18,Atlanta,110,Denver,107 OT
+2006-12-21,Denver,110,Washington,116
+2006-12-23,Denver,108,Houston,86
+2006-12-26,Golden State,112,Denver,118
+2006-12-27,Denver,106,Philadelphia,108
+2006-12-29,Denver,105,Oklahoma City,112
+2006-12-31,Denver,88,San Antonio,98
+2006-01-02,Denver,120,Boston,110
+2006-01-04,Denver,106,Indiana,86
+2006-01-06,Denver,112 OT,Dallas,114
+2006-01-08,Houston,90,Denver,92
+2006-01-10,Denver,139,Phoenix,137 3OT
+2006-01-13,Minnesota,103,Denver,89
+2006-01-14,Milwaukee,93,Denver,100
+2006-01-16,Chicago,94,Denver,97
+2006-01-18,Denver,90,Cleveland,89
+2006-01-20,Denver,113,Utah,83
+2006-01-22,San Antonio,85,Denver,89
+2006-01-23,Denver,107,Toronto,101
+2006-01-25,Portland,94,Denver,97
+2006-01-27,Denver,87,LA,105
+2006-01-28,LA,112,Denver,79
+2006-01-31,Sacramento,98,Denver,91
+2006-02-01,Utah,103,Denver,90
+2006-02-04,Denver,105,Portland,104
+2006-02-06,Golden State,122,Denver,114
+2006-02-08,Denver,107,Chicago,110
+2006-02-10,Denver,113,Dallas,104
+2006-02-12,Oklahoma City,112 OT,Denver,120
+2006-02-15,Denver,101,Phoenix,116
+2006-02-21,Denver,100,Charlotte,84
+2006-02-24,Minnesota,101 OT,Denver,102
+2006-02-27,Denver,89,Milwaukee,110
+2006-03-01,Denver,98,Detroit,87
+2006-03-03,Houston,89,Denver,78
+2006-03-04,Denver,110,Orlando,94
+2006-03-06,Denver,115,Memphis,101
+2006-03-09,Philadelphia,93,Denver,97
+2006-03-10,Toronto,97,Denver,108
+2006-03-12,Boston,106,Denver,101
+2006-03-13,NY Knicks,96,Denver,108
+2006-03-15,Indiana,99,Denver,101
+2006-03-17,Memphis,116,Denver,102
+2006-03-18,New Orleans,94,Denver,109
+2006-03-22,Denver,104,San Antonio,92
+2006-03-24,Denver,117,Oklahoma City,104
+2006-03-25,Phoenix,107,Denver,96
+2006-03-29,Denver,104,Utah,115
+2006-03-31,Denver,106,Minnesota,94
+2006-04-02,Dallas,103,Denver,79
+2006-04-04,LA,111,Denver,109
+2006-04-06,Denver,110,Los Angeles,108 OT
+2006-04-08,Denver,95,Golden State,92
+2006-04-10,Portland,98,Denver,110
+2006-04-12,Utah,104,Denver,83
+2006-04-15,Denver,82,Sacramento,100
+2006-04-17,Denver,83,Houston,86
+2006-04-19,Oklahoma City,109,Denver,98
+2007-11-02,LA,96,Denver,95
+2007-11-03,Denver,109,Minnesota,112
+2007-11-08,Denver,107,NY Knicks,109
+2007-11-10,Philadelphia,101,Denver,108
+2007-11-12,Charlotte,101,Denver,108
+2007-11-14,Miami,105,Denver,112
+2007-11-15,Orlando,108,Denver,99
+2007-11-18,Denver,117,Toronto,109
+2007-11-21,Denver,113,Chicago,109
+2007-11-22,Golden State,112,Denver,115
+2007-11-24,Denver,140,Golden State,129
+2007-11-26,Denver,103,LA,88
+2007-11-28,Denver,96,Memphis,108
+2007-12-01,Minnesota,92,Denver,106
+2007-12-02,Denver,121,Indiana,101
+2007-12-06,Denver,96,Atlanta,98
+2007-12-08,Denver,123,Miami,107
+2007-12-09,Dallas,105,Denver,90
+2007-12-12,Atlanta,87,Denver,100
+2007-12-13,Washington,120,Denver,91
+2007-12-15,Boston,119,Denver,114
+2007-12-16,NY Knicks,100,Denver,123
+2007-12-18,Denver,117,Washington,108
+2007-12-22,Denver,96,Sacramento,101
+2007-12-26,Denver,116,Boston,105
+2007-12-28,Denver,112,Oklahoma City,98
+2007-12-29,New Orleans,99,Denver,89
+2007-12-31,Denver,85,Dallas,89
+2007-01-02,Denver,97,Philadelphia,108
+2007-01-05,Los Angeles,123,Denver,104
+2007-01-06,Denver,84,Utah,96
+2007-01-08,Denver,104,Milwaukee,92
+2007-01-10,Denver,83,San Antonio,92
+2007-01-12,Denver,86,Houston,90
+2007-01-14,Portland,93,Denver,109
+2007-01-19,Denver,110,Cleveland,99
+2007-01-20,Houston,113 OT,Denver,121
+2007-01-22,Denver,115,Memphis,98
+2007-01-23,Oklahoma City,112,Denver,117
+2007-01-26,Utah,116,Denver,111
+2007-01-27,Denver,102,Brooklyn,112
+2007-01-29,Denver,101,Charlotte,105
+2007-01-31,Portland,100,Denver,91
+2007-02-02,Denver,114,Portland,107 OT
+2007-02-03,Sacramento,94,Denver,87
+2007-02-05,Denver,108,Phoenix,113
+2007-02-07,Denver,112 OT,New Orleans,114
+2007-02-09,Indiana,95,Denver,102
+2007-02-10,Milwaukee,102,Denver,109
+2007-02-12,Denver,123,Golden State,111
+2007-02-14,Minnesota,99,Denver,94
+2007-02-20,San Antonio,95,Denver,80
+2007-02-23,Denver,104,Utah,114
+2007-02-24,Dallas,115,Denver,95
+2007-02-26,Memphis,107,Denver,111
+2007-02-28,Denver,111,Orlando,101
+2007-03-02,Denver,97,Houston,108
+2007-03-06,Denver,106,New Orleans,91
+2007-03-07,Golden State,110,Denver,96
+2007-03-09,Denver,82,Detroit,95
+2007-03-11,Sacramento,101,Denver,113
+2007-03-13,Denver,107,Portland,99
+2007-03-15,Denver,113,Los Angeles,86
+2007-03-17,Denver,131,Phoenix,107
+2007-03-20,Brooklyn,90,Denver,94
+2007-03-22,Chicago,109,Denver,108
+2007-03-23,Toronto,121,Denver,94
+2007-03-25,Cleveland,93,Denver,105
+2007-03-26,Detroit,113,Denver,109 OT
+2007-03-28,Denver,97,Oklahoma City,100
+2007-03-30,Phoenix,125,Denver,108
+2007-04-01,Oklahoma City,103,Denver,114
+2007-04-03,Los Angeles,105,Denver,111
+2007-04-04,Denver,120,Sacramento,115
+2007-04-06,Denver,75,Dallas,71
+2007-04-07,LA,93,Denver,96
+2007-04-09,Denver,115,Los Angeles,111
+2007-04-11,Utah,106,Denver,115
+2007-04-13,New Orleans,105,Denver,107
+2007-04-14,Memphis,133,Denver,118
+2007-04-16,Denver,122,Minnesota,107
+2007-04-18,San Antonio,77,Denver,100
+2008-10-31,Denver,120,Oklahoma City,103
+2008-11-02,Minnesota,91,Denver,99
+2008-11-04,Denver,88,New Orleans,93
+2008-11-06,NY Knicks,119,Denver,112
+2008-11-07,Boston,119,Denver,93
+2008-11-09,Washington,92,Denver,118
+2008-11-10,Indiana,106,Denver,113
+2008-11-12,Denver,122,Cleveland,100
+2008-11-14,Denver,110,Portland,93
+2008-11-17,Denver,115,NY Knicks,83
+2008-11-20,Denver,112,Chicago,91
+2008-11-21,LA,101,Denver,90
+2008-11-23,Denver,99,Minnesota,93
+2008-11-24,Houston,109,Denver,81
+2008-11-27,Denver,110,Indiana,112
+2008-11-29,Los Angeles,127,Denver,99
+2008-11-30,Denver,123,LA,107
+2008-12-02,Denver,115,Miami,89
+2008-12-05,Denver,107,Los Angeles,111
+2008-12-06,Dallas,109,Denver,122
+2008-12-08,Denver,101,Sacramento,97
+2008-12-12,Denver,105,New Orleans,99
+2008-12-15,San Antonio,102,Denver,91
+2008-12-16,Denver,105,Portland,116
+2008-12-20,Denver,112,Houston,111 2OT
+2008-12-21,Portland,99,Denver,96
+2008-12-23,Sacramento,105,Denver,106
+2008-12-26,Denver,125,Milwaukee,105
+2008-12-28,Golden State,120,Denver,124
+2008-12-30,Denver,95,Golden State,105
+2008-01-03,Denver,80,San Antonio,77
+2008-01-04,Minnesota,107,Denver,118
+2008-01-06,Denver,109,Philadelphia,96
+2008-01-07,Phoenix,137,Denver,115
+2008-01-11,Denver,113,Orlando,103
+2008-01-14,Charlotte,119,Denver,116
+2008-01-15,Atlanta,104,Denver,93
+2008-01-17,Denver,120,Utah,109
+2008-01-19,Denver,111,Minnesota,108
+2008-01-21,Los Angeles,116,Denver,99
+2008-01-23,Denver,107,Atlanta,100
+2008-01-25,Denver,100,Brooklyn,85
+2008-01-27,Dallas,90,Denver,85
+2008-01-28,New Orleans,117,Denver,93
+2008-01-30,Memphis,102,Denver,106
+2008-02-02,Denver,117,Charlotte,101
+2008-02-04,Portland,103 OT,Denver,105
+2008-02-06,Denver,115 OT,Utah,118
+2008-02-08,Denver,111,Washington,100
+2008-02-10,Cleveland,83,Denver,113
+2008-02-12,Miami,113 OT,Denver,114
+2008-02-13,Orlando,109,Denver,98
+2008-02-19,Denver,124,Boston,118
+2008-02-22,Chicago,135,Denver,121
+2008-02-23,Milwaukee,115,Denver,109
+2008-02-25,Denver,93,Detroit,98
+2008-02-27,Oklahoma City,96,Denver,138
+2008-02-29,Denver,110,LA,104
+2008-03-02,Houston,103,Denver,89
+2008-03-05,Denver,126,Phoenix,113
+2008-03-07,Denver,109,San Antonio,96
+2008-03-08,Utah,132,Denver,105
+2008-03-10,San Antonio,107,Denver,103
+2008-03-12,Denver,108,Memphis,86
+2008-03-14,Denver,137,Toronto,105
+2008-03-16,Denver,168,Oklahoma City,116
+2008-03-18,Detroit,136,Denver,120
+2008-03-19,Philadelphia,115,Denver,113
+2008-03-21,Brooklyn,114,Denver,125
+2008-03-23,Toronto,100,Denver,109
+2008-03-24,Memphis,106,Denver,120
+2008-03-27,Denver,118,Dallas,105
+2008-03-29,Denver,119,Golden State,112
+2008-03-31,Phoenix,132,Denver,117
+2008-04-01,Denver,126,Phoenix,120
+2008-04-05,Denver,115,Sacramento,118
+2008-04-06,Oklahoma City,151,Denver,147 2OT
+2008-04-08,LA,99,Denver,117
+2008-04-10,Golden State,105,Denver,114
+2008-04-12,Utah,124,Denver,97
+2008-04-13,Denver,111,Houston,94
+2008-04-16,Denver,120,Memphis,111

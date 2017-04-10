@@ -1,0 +1,493 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Memphis,108,Dallas,119
+2003-11-02,Dallas,97,Phoenix,83
+2003-11-04,Dallas,107,Golden State,100
+2003-11-06,Toronto,92,Dallas,106
+2003-11-08,Chicago,87,Dallas,114
+2003-11-09,Dallas,114,Detroit,75
+2003-11-11,Dallas,82,Portland,73
+2003-11-13,Cleveland,99,Dallas,103
+2003-11-15,Boston,86,Dallas,97
+2003-11-16,Brooklyn,88,Dallas,96
+2003-11-19,Dallas,98,Los Angeles,72
+2003-11-21,Dallas,103,Houston,90
+2003-11-23,Dallas,115,Oklahoma City,105
+2003-11-27,Detroit,82,Dallas,102
+2003-11-28,Indiana,110,Dallas,98
+2003-11-30,Dallas,103,Chicago,90
+2003-12-02,Dallas,113,Toronto,102
+2003-12-04,Portland,88,Dallas,103
+2003-12-06,Los Angeles,105,Dallas,103
+2003-12-07,Golden State,116,Dallas,121
+2003-12-10,Dallas,122,LA,95
+2003-12-11,San Antonio,111,Dallas,104
+2003-12-14,Dallas,104,Memphis,87
+2003-12-17,Dallas,118,Indiana,97
+2003-12-18,Denver,75,Dallas,80
+2003-12-20,Dallas,81,Utah,93
+2003-12-23,Dallas,92,Washington,86
+2003-12-26,New Orleans,81,Dallas,83
+2003-12-28,Dallas,107,NY Knicks,82
+2003-12-30,Dallas,107,Milwaukee,110
+2003-01-02,Dallas,102,LA,92
+2003-01-04,Dallas,102,Philadelphia,83
+2003-01-06,Dallas,86,Denver,71
+2003-01-08,Atlanta,99,Dallas,117
+2003-01-10,Dallas,103,Boston,78
+2003-01-12,LA,90,Dallas,96
+2003-01-15,Sacramento,123,Dallas,94
+2003-01-17,Phoenix,111,Dallas,106
+2003-01-19,Oklahoma City,85,Dallas,81
+2003-01-21,Dallas,107,Houston,86
+2003-01-23,Philadelphia,94,Dallas,107
+2003-01-24,NY Knicks,90,Dallas,101
+2003-01-26,Dallas,93,Portland,100
+2003-01-29,Houston,81,Dallas,104
+2003-01-30,Dallas,112,Minnesota,109
+2003-02-01,Dallas,122,Denver,100
+2003-02-03,Utah,90,Dallas,92
+2003-02-04,Dallas,109,Sacramento,110
+2003-02-11,Minnesota,100,Dallas,98
+2003-02-12,Milwaukee,120,Dallas,114
+2003-02-14,Memphis,103,Dallas,110
+2003-02-15,Dallas,98,Miami,92
+2003-02-18,Dallas,105,Atlanta,79
+2003-02-20,Dallas,95,San Antonio,87
+2003-02-21,Houston,85,Dallas,100
+2003-02-23,Washington,101 OT,Dallas,106
+2003-02-25,Orlando,98,Dallas,93
+2003-02-27,Dallas,124 OT,Sacramento,126
+2003-03-01,Dallas,114,Memphis,87
+2003-03-04,Dallas,88,Brooklyn,79
+2003-03-07,Miami,89,Dallas,91
+2003-03-08,Dallas,101,Utah,77
+2003-03-10,Dallas,83,Minnesota,92
+2003-03-13,Oklahoma City,107,Dallas,100
+2003-03-14,Golden State,114,Dallas,116
+2003-03-16,Sacramento,123 OT,Dallas,129
+2003-03-18,Dallas,114,Cleveland,93
+2003-03-20,Dallas,110 OT,San Antonio,112
+2003-03-22,Dallas,102,Phoenix,95
+2003-03-24,Denver,96,Dallas,108
+2003-03-26,LA,107,Dallas,114
+2003-03-28,Portland,112,Dallas,95
+2003-03-30,Minnesota,95,Dallas,119
+2003-04-01,Dallas,95,New Orleans,86
+2003-04-03,Dallas,89,Los Angeles,100
+2003-04-05,Dallas,108,Orlando,90
+2003-04-08,Los Angeles,108,Dallas,99
+2003-04-09,Phoenix,112,Dallas,89
+2003-04-11,Utah,95,Dallas,92
+2003-04-12,Dallas,117,Golden State,108
+2003-04-14,Dallas,109,Oklahoma City,106
+2003-04-16,San Antonio,72,Dallas,93
+2004-10-28,Los Angeles,109,Dallas,93
+2004-10-29,Golden State,87,Dallas,95
+2004-11-01,Dallas,127,Utah,102
+2004-11-03,Dallas,103,Miami,93
+2004-11-05,Washington,100,Dallas,90
+2004-11-06,Toronto,77,Dallas,71
+2004-11-08,San Antonio,78,Dallas,81
+2004-11-11,Dallas,125,New Orleans,97
+2004-11-13,Dallas,97,Houston,86
+2004-11-15,Memphis,108,Dallas,101 OT
+2004-11-17,Dallas,105,Portland,98
+2004-11-20,Dallas,95,San Antonio,92
+2004-11-22,Dallas,115,Denver,101
+2004-11-25,Dallas,124,Chicago,98
+2004-11-26,Phoenix,121,Dallas,90
+2004-11-28,Denver,113,Dallas,103
+2004-11-29,Dallas,92,Minnesota,88
+2004-12-02,Dallas,97,Washington,72
+2004-12-04,Dallas,103,Los Angeles,114
+2004-12-06,Dallas,110,Orlando,97
+2004-12-10,LA,100,Dallas,99
+2004-12-12,Los Angeles,93,Dallas,110
+2004-12-15,Dallas,111,Toronto,94
+2004-12-17,Boston,105,Dallas,103
+2004-12-18,Minnesota,114,Dallas,109
+2004-12-20,Dallas,105,LA,115
+2004-12-23,Portland,97,Dallas,88
+2004-12-25,Sacramento,103,Dallas,111
+2004-12-27,Dallas,104,Memphis,98
+2004-12-30,Dallas,101,Milwaukee,92
+2004-01-02,Milwaukee,109,Dallas,101
+2004-01-03,Dallas,119,Minnesota,112
+2004-01-05,Utah,108,Dallas,94
+2004-01-07,Dallas,105,Golden State,99
+2004-01-09,Dallas,80,Indiana,92
+2004-01-11,Detroit,115,Dallas,102
+2004-01-12,NY Knicks,121 OT,Dallas,127
+2004-01-14,Dallas,125,Philadelphia,122 2OT
+2004-01-16,Denver,88,Dallas,91
+2004-01-17,Portland,104,Dallas,108
+2004-01-20,Dallas,106,Brooklyn,93
+2004-01-22,Dallas,106,Los Angeles,87
+2004-01-23,Chicago,93,Dallas,106
+2004-01-25,Dallas,108,Sacramento,99
+2004-01-27,Oklahoma City,116,Dallas,118
+2004-01-28,Utah,91,Dallas,88
+2004-01-31,Dallas,102,Denver,107
+2004-02-03,Dallas,107,Golden State,93
+2004-02-04,New Orleans,104,Dallas,113
+2004-02-07,Dallas,111,Detroit,108
+2004-02-09,Atlanta,102,Dallas,96
+2004-02-10,Dallas,105,NY Knicks,90
+2004-02-17,Memphis,109,Dallas,92
+2004-02-18,Cleveland,98,Dallas,114
+2004-02-21,Dallas,97,Houston,88
+2004-02-24,Dallas,116,LA,91
+2004-02-26,Dallas,115,San Antonio,91
+2004-02-28,Dallas,111,Portland,91
+2004-03-02,Dallas,107,Oklahoma City,96
+2004-03-03,Minnesota,121,Dallas,97
+2004-03-05,San Antonio,113,Dallas,100
+2004-03-07,Houston,101,Dallas,98
+2004-03-08,Dallas,103,Phoenix,90
+2004-03-11,Sacramento,120,Dallas,102
+2004-03-13,Phoenix,90,Dallas,113
+2004-03-14,LA,88,Dallas,101
+2004-03-17,Dallas,110,Atlanta,111
+2004-03-19,Dallas,120,Boston,104
+2004-03-21,Brooklyn,98,Dallas,101
+2004-03-22,Philadelphia,107,Dallas,98
+2004-03-24,Indiana,103,Dallas,99
+2004-03-26,Miami,119,Dallas,118 OT
+2004-03-28,Orlando,88,Dallas,118
+2004-03-30,Dallas,126,Cleveland,109
+2004-04-01,Dallas,127,Sacramento,117
+2004-04-03,Dallas,124,Phoenix,103
+2004-04-06,Dallas,118,Oklahoma City,108
+2004-04-08,Dallas,117,Utah,94
+2004-04-10,Oklahoma City,119,Dallas,99
+2004-04-11,Golden State,108,Dallas,107
+2004-04-13,Dallas,110,Memphis,103
+2004-04-14,Houston,89,Dallas,92
+2005-11-02,Dallas,107,Sacramento,98
+2005-11-03,New Orleans,91,Dallas,106
+2005-11-06,Dallas,112,Memphis,88
+2005-11-08,Dallas,101,Golden State,98 OT
+2005-11-09,Orlando,94,Dallas,84
+2005-11-11,Miami,93,Dallas,113
+2005-11-13,Brooklyn,78,Dallas,94
+2005-11-14,Washington,113,Dallas,122
+2005-11-16,Dallas,101,Phoenix,107
+2005-11-19,Dallas,103,NY Knicks,101
+2005-11-21,Denver,110,Dallas,82
+2005-11-22,Dallas,82,Minnesota,83
+2005-11-24,San Antonio,94,Dallas,80
+2005-11-26,Dallas,92,Portland,83
+2005-11-27,Memphis,85,Dallas,98
+2005-11-30,Dallas,89,San Antonio,107
+2005-12-02,Dallas,113,Houston,106 OT
+2005-12-04,Dallas,109,Utah,86
+2005-12-06,Dallas,85,Detroit,101
+2005-12-07,Minnesota,87,Dallas,97
+2005-12-09,Dallas,102,Oklahoma City,107
+2005-12-11,Houston,78,Dallas,102
+2005-12-13,Chicago,93,Dallas,94
+2005-12-14,Dallas,107,Golden State,111
+2005-12-18,Dallas,90,Atlanta,68
+2005-12-21,NY Knicks,94,Dallas,123
+2005-12-22,Atlanta,113,Dallas,100
+2005-12-26,Denver,88,Dallas,102
+2005-12-28,Dallas,113,Boston,94
+2005-01-02,Dallas,123,Milwaukee,104
+2005-01-05,Dallas,118,Los Angeles,104
+2005-01-08,Dallas,121,Indiana,101
+2005-01-12,Dallas,114,Houston,124
+2005-01-14,San Antonio,98,Dallas,95
+2005-01-15,Dallas,98,Brooklyn,93
+2005-01-18,Dallas,137,Washington,120
+2005-01-20,Dallas,99,LA,77
+2005-01-21,Charlotte,99,Dallas,105
+2005-01-23,Dallas,95,Denver,93
+2005-01-24,LA,97,Dallas,87
+2005-01-26,Portland,88,Dallas,95
+2005-01-29,Dallas,89,Philadelphia,93
+2005-02-01,Dallas,109,Miami,104
+2005-02-02,New Orleans,82,Dallas,90
+2005-02-04,Indiana,95,Dallas,94
+2005-02-06,Toronto,113,Dallas,122
+2005-02-08,Dallas,100,Chicago,107
+2005-02-11,Sacramento,113,Dallas,115
+2005-02-13,Oklahoma City,92,Dallas,95
+2005-02-15,Golden State,107,Dallas,114
+2005-02-17,Phoenix,113,Dallas,119
+2005-02-23,Utah,83,Dallas,101
+2005-02-24,Dallas,122,Sacramento,113
+2005-02-26,Dallas,123,Phoenix,124
+2005-02-28,Dallas,90,New Orleans,86
+2005-03-02,LA,101,Dallas,92
+2005-03-04,Los Angeles,108,Dallas,103
+2005-03-06,Houston,90,Dallas,69
+2005-03-07,Dallas,113,Toronto,105
+2005-03-10,Dallas,95,Los Angeles,100
+2005-03-11,Milwaukee,110,Dallas,112
+2005-03-13,Minnesota,93,Dallas,102
+2005-03-15,Dallas,91,Minnesota,100
+2005-03-17,Dallas,98,Portland,94
+2005-03-19,Dallas,104,Charlotte,93
+2005-03-21,Dallas,103,New Orleans,86
+2005-03-23,Golden State,97,Dallas,109
+2005-03-24,Sacramento,109,Dallas,101
+2005-03-26,Dallas,117,Cleveland,86
+2005-03-28,Detroit,88,Dallas,95
+2005-03-30,Boston,100,Dallas,112
+2005-04-01,Philadelphia,83,Dallas,100
+2005-04-03,Cleveland,100,Dallas,80
+2005-04-05,Dallas,114,Orlando,105
+2005-04-07,Dallas,104,San Antonio,68
+2005-04-09,Dallas,88,Utah,81
+2005-04-11,Dallas,110,Memphis,89
+2005-04-13,Oklahoma City,90,Dallas,95
+2005-04-14,Portland,90,Dallas,102
+2005-04-17,Los Angeles,112,Dallas,114
+2005-04-19,Dallas,101,Oklahoma City,96
+2005-04-20,Memphis,88,Dallas,108
+2006-11-01,Phoenix,108 2OT,Dallas,111
+2006-11-02,Utah,93,Dallas,82
+2006-11-05,Dallas,103,San Antonio,84
+2006-11-09,Philadelphia,112,Dallas,97
+2006-11-11,Charlotte,88,Dallas,98
+2006-11-12,New Orleans,103,Dallas,109
+2006-11-15,Dallas,83,Denver,80
+2006-11-17,Dallas,87,Atlanta,78
+2006-11-19,Dallas,119,Detroit,82
+2006-11-22,Dallas,102,Houston,93
+2006-11-25,Miami,90,Dallas,103
+2006-11-26,Dallas,92,Memphis,112
+2006-11-28,Toronto,91,Dallas,93
+2006-11-29,Milwaukee,113,Dallas,111 OT
+2006-12-01,Dallas,90,San Antonio,92
+2006-12-03,Dallas,97,New Orleans,88
+2006-12-05,Chicago,94,Dallas,102
+2006-12-06,Indiana,75,Dallas,84
+2006-12-09,Memphis,83,Dallas,90
+2006-12-10,Dallas,103,Boston,94
+2006-12-12,Dallas,106,Los Angeles,109
+2006-12-14,Dallas,102,Phoenix,96
+2006-12-16,Dallas,109,Orlando,103 OT
+2006-12-18,Dallas,102,Minnesota,95
+2006-12-20,Los Angeles,112,Dallas,90
+2006-12-22,Sacramento,95,Dallas,105
+2006-12-23,Oklahoma City,98,Dallas,101
+2006-12-26,Dallas,102,Indiana,80
+2006-12-30,Dallas,109,Golden State,111
+2006-12-31,New Orleans,90,Dallas,95
+2006-01-03,Dallas,95,Portland,81
+2006-01-04,Minnesota,91,Dallas,78
+2006-01-06,Denver,112 OT,Dallas,114
+2006-01-07,Dallas,83,Minnesota,79
+2006-01-09,Boston,102,Dallas,104
+2006-01-11,NY Knicks,117,Dallas,115 OT
+2006-01-14,Dallas,110,Brooklyn,77
+2006-01-16,Dallas,114,Milwaukee,95
+2006-01-18,Houston,76,Dallas,103
+2006-01-20,LA,81,Dallas,101
+2006-01-22,Portland,89 OT,Dallas,95
+2006-01-25,Golden State,93,Dallas,102
+2006-01-26,Oklahoma City,97,Dallas,104
+2006-01-28,Dallas,103,Utah,89
+2006-01-31,Dallas,98,Chicago,94
+2006-02-01,Memphis,80,Dallas,81
+2006-02-04,Dallas,110,Oklahoma City,91
+2006-02-07,Dallas,102,Los Angeles,87
+2006-02-09,Dallas,112,Miami,76
+2006-02-10,Denver,113,Dallas,104
+2006-02-13,Dallas,100,NY Knicks,72
+2006-02-15,Dallas,103,Washington,97
+2006-02-21,Dallas,93,LA,91
+2006-02-23,Dallas,97,Memphis,87
+2006-02-25,Dallas,115,Toronto,113 OT
+2006-02-27,Dallas,104,Philadelphia,92
+2006-03-02,San Antonio,98,Dallas,89
+2006-03-03,Dallas,90,Charlotte,76
+2006-03-05,Dallas,107,Phoenix,115
+2006-03-07,Dallas,93,Portland,87
+2006-03-09,Portland,92,Dallas,109
+2006-03-11,Utah,87,Dallas,90
+2006-03-12,Sacramento,85,Dallas,80
+2006-03-14,Dallas,91,Cleveland,87
+2006-03-15,Houston,81,Dallas,95
+2006-03-17,Washington,94,Dallas,104
+2006-03-19,Brooklyn,100,Dallas,89
+2006-03-21,Dallas,88,Houston,72
+2006-03-23,Dallas,121,Golden State,122
+2006-03-25,Atlanta,83,Dallas,98
+2006-03-28,Detroit,97,Dallas,90
+2006-03-29,Cleveland,107,Dallas,94
+2006-03-31,Orlando,108,Dallas,99
+2006-04-02,Dallas,103,Denver,79
+2006-04-04,Dallas,127,Sacramento,101
+2006-04-07,San Antonio,86,Dallas,92
+2006-04-08,Dallas,101,New Orleans,77
+2006-04-10,LA,73,Dallas,75
+2006-04-12,Golden State,114,Dallas,102
+2006-04-13,Phoenix,117,Dallas,104
+2006-04-16,Dallas,111,Utah,95
+2006-04-19,Dallas,71,LA,85
+2007-11-02,Dallas,91,San Antonio,97
+2007-11-04,Houston,107,Dallas,76
+2007-11-06,Dallas,104,Golden State,107
+2007-11-08,LA,103,Dallas,85
+2007-11-09,Phoenix,112,Dallas,119
+2007-11-12,Portland,96,Dallas,103
+2007-11-14,Dallas,111,Chicago,99
+2007-11-17,Memphis,103,Dallas,115
+2007-11-18,Dallas,89,Memphis,84
+2007-11-20,Charlotte,85,Dallas,93
+2007-11-21,Dallas,107,Washington,80
+2007-11-24,San Antonio,92,Dallas,95
+2007-11-25,Dallas,85,New Orleans,73
+2007-11-27,Dallas,93,Minnesota,87
+2007-11-29,Dallas,117,Toronto,98
+2007-12-01,Dallas,109,Sacramento,90
+2007-12-04,Washington,106,Dallas,97
+2007-12-05,Brooklyn,75,Dallas,92
+2007-12-07,Dallas,82,Detroit,92
+2007-12-09,Dallas,105,Denver,90
+2007-12-11,Utah,101,Dallas,79
+2007-12-13,Dallas,110,Los Angeles,101
+2007-12-15,Dallas,93,Philadelphia,79
+2007-12-16,New Orleans,79,Dallas,90
+2007-12-18,Sacramento,91,Dallas,109
+2007-12-20,Oklahoma City,95,Dallas,103
+2007-12-22,Dallas,115,LA,83
+2007-12-26,Dallas,97,Charlotte,84
+2007-12-28,Dallas,101,Phoenix,99
+2007-12-30,Dallas,94,New Orleans,80
+2007-12-31,Denver,85,Dallas,89
+2007-01-02,Dallas,112,Oklahoma City,88
+2007-01-04,Dallas,100,Indiana,91
+2007-01-05,San Antonio,85,Dallas,90
+2007-01-07,Los Angeles,101,Dallas,98
+2007-01-09,Utah,105,Dallas,108
+2007-01-10,Dallas,99,Portland,74
+2007-01-12,Indiana,113 OT,Dallas,115
+2007-01-14,Toronto,96,Dallas,97
+2007-01-16,Dallas,109,Houston,96
+2007-01-18,Dallas,114,Los Angeles,95
+2007-01-21,Miami,93,Dallas,99
+2007-01-23,Orlando,95,Dallas,111
+2007-01-25,Chicago,96,Dallas,85
+2007-01-27,Dallas,106,Sacramento,104
+2007-01-30,Dallas,122,Oklahoma City,102
+2007-01-31,Memphis,94,Dallas,95
+2007-02-03,Dallas,94,Minnesota,93
+2007-02-07,Dallas,113,Memphis,97
+2007-02-09,Dallas,95,Houston,74
+2007-02-11,Philadelphia,89,Dallas,106
+2007-02-13,Milwaukee,93,Dallas,99
+2007-02-15,Houston,77,Dallas,80
+2007-02-22,Dallas,112,Miami,100
+2007-02-24,Dallas,115,Denver,95
+2007-02-26,Dallas,110,Atlanta,87
+2007-02-27,Minnesota,65,Dallas,91
+2007-03-01,Dallas,95,Cleveland,92
+2007-03-03,Dallas,103,Orlando,98
+2007-03-06,Dallas,102,Brooklyn,89
+2007-03-11,Los Angeles,72,Dallas,108
+2007-03-12,Golden State,117,Dallas,100
+2007-03-14,Dallas,127 2OT,Phoenix,129
+2007-03-16,Dallas,106,Boston,101
+2007-03-18,Detroit,88,Dallas,92
+2007-03-20,NY Knicks,77,Dallas,92
+2007-03-21,Cleveland,90,Dallas,98
+2007-03-23,Boston,95,Dallas,109
+2007-03-25,Atlanta,97,Dallas,104
+2007-03-27,New Orleans,89,Dallas,105
+2007-03-28,Dallas,105,Milwaukee,103
+2007-03-30,Dallas,105,NY Knicks,103
+2007-04-01,Phoenix,126,Dallas,104
+2007-04-03,Sacramento,93,Dallas,97
+2007-04-06,Denver,75,Dallas,71
+2007-04-07,Dallas,86,Portland,74
+2007-04-09,Dallas,96,LA,86
+2007-04-11,Minnesota,88,Dallas,105
+2007-04-13,Dallas,89,Utah,104
+2007-04-15,Dallas,91,San Antonio,86
+2007-04-17,Golden State,111,Dallas,82
+2007-04-18,Oklahoma City,75,Dallas,106
+2008-10-31,Cleveland,74,Dallas,92
+2008-11-02,Atlanta,101,Dallas,94
+2008-11-03,Dallas,123,Sacramento,102
+2008-11-05,Dallas,107,Houston,98
+2008-11-08,Golden State,115,Dallas,120
+2008-11-10,Portland,91,Dallas,82
+2008-11-13,Dallas,99,Philadelphia,84
+2008-11-15,Dallas,105,San Antonio,92
+2008-11-17,Dallas,108,Memphis,105
+2008-11-20,Dallas,105,Toronto,99
+2008-11-21,Houston,94,Dallas,100
+2008-11-23,Indiana,111,Dallas,107
+2008-11-24,Milwaukee,97,Dallas,95
+2008-11-26,Dallas,98,Washington,110
+2008-11-28,Dallas,109,Minnesota,103
+2008-11-30,Dallas,91,Portland,80
+2008-12-01,New Orleans,112,Dallas,108 OT
+2008-12-03,Chicago,98,Dallas,103
+2008-12-05,San Antonio,97,Dallas,95
+2008-12-06,Dallas,109,Denver,122
+2008-12-08,Dallas,125,Utah,117
+2008-12-10,NY Knicks,89,Dallas,99
+2008-12-12,Toronto,92,Dallas,76
+2008-12-14,Dallas,89,New Orleans,80
+2008-12-15,Houston,83,Dallas,96
+2008-12-17,Dallas,111,Orlando,108
+2008-12-19,Dallas,108,Phoenix,105
+2008-12-21,Dallas,102,LA,89
+2008-12-26,Utah,99,Dallas,90
+2008-12-27,Dallas,81,Cleveland,88
+2008-12-29,Dallas,97,Atlanta,84
+2008-01-02,Dallas,121,Golden State,99
+2008-01-04,Dallas,94,Miami,89
+2008-01-06,Minnesota,78,Dallas,101
+2008-01-09,Dallas,102,Detroit,86
+2008-01-11,Oklahoma City,70,Dallas,90
+2008-01-12,LA,94,Dallas,95
+2008-01-14,Sacramento,122,Dallas,120
+2008-01-19,Dallas,111,Oklahoma City,96
+2008-01-21,Washington,102,Dallas,84
+2008-01-23,Charlotte,95,Dallas,102
+2008-01-25,Dallas,112,Los Angeles,105
+2008-01-27,Dallas,90,Denver,85
+2008-01-28,Memphis,84,Dallas,103
+2008-01-31,Boston,96,Dallas,90
+2008-02-03,Detroit,90,Dallas,67
+2008-02-04,Orlando,98,Dallas,107
+2008-02-06,Dallas,107,Milwaukee,96
+2008-02-08,Dallas,92,Memphis,81
+2008-02-10,Brooklyn,101,Dallas,82
+2008-02-11,Philadelphia,84,Dallas,76
+2008-02-13,Dallas,96,Portland,76
+2008-02-14,Phoenix,109,Dallas,97
+2008-02-20,New Orleans,104,Dallas,93
+2008-02-22,Memphis,83,Dallas,98
+2008-02-24,Minnesota,83,Dallas,99
+2008-02-25,Dallas,102,Chicago,94
+2008-02-28,San Antonio,97,Dallas,94
+2008-02-29,Dallas,115,Sacramento,106
+2008-03-02,Los Angeles,108,Dallas,104 OT
+2008-03-03,Utah,116,Dallas,110
+2008-03-06,Dallas,98,Houston,113
+2008-03-08,Dallas,111,Brooklyn,91
+2008-03-10,Dallas,108,NY Knicks,79
+2008-03-12,Dallas,118,Charlotte,93
+2008-03-14,Dallas,116,Indiana,97
+2008-03-16,Miami,73,Dallas,98
+2008-03-18,Dallas,100,Los Angeles,102
+2008-03-20,Dallas,90,Boston,94
+2008-03-23,Dallas,81,San Antonio,88
+2008-03-25,Dallas,103,LA,90
+2008-03-27,Denver,118,Dallas,105
+2008-03-30,Golden State,114,Dallas,104
+2008-03-31,LA,86,Dallas,93
+2008-04-02,Dallas,111,Golden State,86
+2008-04-04,Los Angeles,112,Dallas,108
+2008-04-06,Phoenix,98,Dallas,105
+2008-04-08,Dallas,99,Oklahoma City,83
+2008-04-10,Dallas,97,Utah,94
+2008-04-12,Portland,108,Dallas,105
+2008-04-13,Oklahoma City,99,Dallas,95
+2008-04-16,Dallas,111,New Orleans,98

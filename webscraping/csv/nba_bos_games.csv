@@ -1,0 +1,84 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2016-10-28,Boston,112,Philadelphia,95
+2016-10-30,Boston,103,Toronto,113
+2016-11-01,Boston,87,San Antonio,95
+2016-11-04,Indiana,100,Boston,98
+2016-11-06,Boston,118,Washington,98
+2016-11-10,Milwaukee,83,Boston,99
+2016-11-11,Boston,91,Indiana,102
+2016-11-13,Boston,106,Atlanta,93
+2016-11-15,Oklahoma City,85,Boston,100
+2016-11-16,Houston,95,Boston,111
+2016-11-18,Boston,102,Dallas,106
+2016-11-20,Boston,120,Brooklyn,95
+2016-11-22,Brooklyn,111,Boston,101
+2016-11-24,Atlanta,121,Boston,97
+2016-11-25,Boston,84,Philadelphia,80
+2016-11-27,Boston,111,Washington,78
+2016-11-29,Orlando,110,Boston,91
+2016-11-30,Miami,95,Boston,105
+2016-12-03,Sacramento,97,Boston,114
+2016-12-05,San Antonio,108,Boston,105
+2016-12-07,New Orleans,93,Boston,111
+2016-12-09,Boston,105,Chicago,100
+2016-12-11,Boston,119 2OT,Golden State,124
+2016-12-12,Charlotte,93,Boston,98
+2016-12-15,Boston,77,Cleveland,89
+2016-12-16,Detroit,119,Boston,116
+2016-12-18,Boston,101,Atlanta,109
+2016-12-21,Boston,113,Minnesota,99
+2016-12-23,Charlotte,89,Boston,102
+2016-12-26,Detroit,93,Boston,99
+2016-12-27,Boston,100,NY Knicks,91
+2016-12-30,Boston,104,Los Angeles,112
+2016-01-02,Boston,97,Brooklyn,100
+2016-01-04,Brooklyn,94,Boston,103
+2016-01-06,Boston,94,Detroit,99
+2016-01-07,Chicago,101,Boston,92
+2016-01-10,Memphis,101,Boston,98
+2016-01-12,NY Knicks,120,Boston,114
+2016-01-13,Boston,103,Indiana,94
+2016-01-15,Boston,117,Phoenix,103
+2016-01-16,Washington,117,Boston,119
+2016-01-18,Dallas,118,Boston,113 OT
+2016-01-20,Toronto,115,Boston,109
+2016-01-22,Boston,110,Chicago,101
+2016-01-23,Philadelphia,-,Boston,-
+2016-01-24,Philadelphia,92,Boston,112
+2016-01-25,Washington,91,Boston,116
+2016-01-27,Boston,111,Denver,103
+2016-01-29,Boston,113,Orlando,94
+2016-01-31,Orlando,119,Boston,114
+2016-02-02,NY Knicks,89,Boston,97
+2016-02-03,Boston,102,Detroit,95
+2016-02-05,Cleveland,103,Boston,104
+2016-02-07,Boston,128,Sacramento,119
+2016-02-09,Milwaukee,112,Boston,111
+2016-02-10,Boston,139,LA,134 OT
+2016-02-19,Utah,111,Boston,93
+2016-02-21,Denver,101,Boston,121
+2016-02-22,Minnesota,124,Boston,122
+2016-02-25,Boston,112,Milwaukee,107
+2016-02-27,Boston,101,Miami,89
+2016-02-29,Boston,100,Utah,95
+2016-03-02,Boston,116,Portland,93
+2016-03-04,Boston,105,NY Knicks,104
+2016-03-05,Cleveland,120,Boston,103
+2016-03-09,Boston,116,Memphis,96
+2016-03-11,Boston,98,Houston,102
+2016-03-15,Indiana,103,Boston,98
+2016-03-16,Boston,109,Oklahoma City,130
+2016-03-18,Toronto,105,Boston,91
+2016-03-20,Philadelphia,105,Boston,120
+2016-03-21,Boston,107,Orlando,96
+2016-03-23,Boston,91,Toronto,79
+2016-03-26,Phoenix,99,Boston,102
+2016-03-28,LA,114,Boston,90
+2016-03-31,Portland,116,Boston,109
+2016-04-01,Golden State,106,Boston,109
+2016-04-03,Los Angeles,100,Boston,107
+2016-04-06,Boston,104,New Orleans,97
+2016-04-08,Boston,124,Milwaukee,109
+2016-04-09,Atlanta,118,Boston,107
+2016-04-11,Boston,100,Charlotte,114
+2016-04-13,Boston,98,Miami,88

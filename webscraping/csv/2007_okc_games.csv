@@ -1,0 +1,411 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,Oklahoma,86,Phoenix,73
+2003-11-01,Golden State,93,Oklahoma,106
+2003-11-03,Oklahoma,91,Utah,77
+2003-11-05,Houston,97,Oklahoma,104
+2003-11-06,New Orleans,86,Oklahoma,84
+2003-11-08,Orlando,105,Oklahoma,98
+2003-11-09,Miami,82,Oklahoma,84
+2003-11-12,Washington,95,Oklahoma,101
+2003-11-15,Oklahoma,111,Sacramento,97
+2003-11-17,LA,78,Oklahoma,84
+2003-11-19,Oklahoma,84,Orlando,101
+2003-11-21,Oklahoma,85,Portland,89
+2003-11-23,Dallas,115,Oklahoma,105
+2003-11-24,San Antonio,90,Oklahoma,91
+2003-11-26,Atlanta,119,Oklahoma,116 OT
+2003-11-27,Memphis,117,Oklahoma,99
+2003-11-29,Oklahoma,72,Houston,83
+2003-12-01,Oklahoma,96,Brooklyn,95
+2003-12-04,Oklahoma,111 OT,Indiana,114
+2003-12-07,Oklahoma,100,Miami,71
+2003-12-10,NY Knicks,97,Oklahoma,80
+2003-12-11,Philadelphia,88,Oklahoma,92
+2003-12-13,Toronto,79,Oklahoma,91
+2003-12-14,Detroit,91,Oklahoma,78
+2003-12-16,Cleveland,98,Oklahoma,111
+2003-12-18,Oklahoma,88,San Antonio,91
+2003-12-20,Oklahoma,86 OT,New Orleans,88
+2003-12-21,Portland,81,Oklahoma,80
+2003-12-23,Phoenix,89,Oklahoma,88
+2003-12-26,Oklahoma,97,Toronto,88
+2003-12-30,Denver,77,Oklahoma,79
+2003-01-03,Oklahoma,82,Denver,94
+2003-01-07,Los Angeles,119,Oklahoma,98
+2003-01-08,Oklahoma,95,San Antonio,106
+2003-01-10,Oklahoma,88,LA,90
+2003-01-12,Oklahoma,79,Cleveland,87
+2003-01-16,Utah,92,Oklahoma,85
+2003-01-17,Oklahoma,103,Memphis,97 OT
+2003-01-19,Oklahoma,85,Dallas,81
+2003-01-22,Minnesota,96,Oklahoma,91
+2003-01-24,Indiana,93,Oklahoma,80
+2003-01-25,Memphis,83,Oklahoma,95
+2003-01-28,Oklahoma,91,Golden State,88
+2003-01-30,Oklahoma,77,Sacramento,95
+2003-02-01,Oklahoma,90,Chicago,77
+2003-02-03,Brooklyn,109,Oklahoma,108 OT
+2003-02-05,Boston,114,Oklahoma,74
+2003-02-06,Milwaukee,97,Oklahoma,91
+2003-02-11,Oklahoma,76,Boston,82
+2003-02-14,Sacramento,110,Oklahoma,81
+2003-02-15,Portland,101,Oklahoma,96
+2003-02-19,Oklahoma,103,NY Knicks,94
+2003-02-21,Oklahoma,88,Milwaukee,58
+2003-02-23,Los Angeles,106,Oklahoma,101
+2003-02-24,Oklahoma,86,Detroit,79
+2003-02-26,Oklahoma,93,Atlanta,76
+2003-02-28,Oklahoma,107,Los Angeles,90
+2003-03-01,LA,101,Oklahoma,109
+2003-03-04,Oklahoma,92,Minnesota,83
+2003-03-05,Utah,94,Oklahoma,83
+2003-03-07,Oklahoma,99,Philadelphia,108
+2003-03-11,Oklahoma,77,Portland,92
+2003-03-13,Oklahoma,107,Dallas,100
+2003-03-15,Oklahoma,88,Golden State,94
+2003-03-16,Denver,84,Oklahoma,92
+2003-03-18,Oklahoma,100,Houston,94
+2003-03-19,Golden State,105,Oklahoma,99
+2003-03-21,Oklahoma,101,Denver,99 OT
+2003-03-24,Phoenix,73,Oklahoma,82
+2003-03-26,Oklahoma,74,Washington,80
+2003-03-28,Oklahoma,95,Memphis,71
+2003-03-30,Oklahoma,119,Los Angeles,98
+2003-04-01,Chicago,94 OT,Oklahoma,101
+2003-04-02,Minnesota,91,Oklahoma,86
+2003-04-04,Oklahoma,101,LA,93
+2003-04-06,Oklahoma,82,Utah,80
+2003-04-08,Sacramento,107,Oklahoma,85
+2003-04-09,Oklahoma,100,Minnesota,92
+2003-04-11,San Antonio,94,Oklahoma,86
+2003-04-12,Houston,101,Oklahoma,86
+2003-04-14,Dallas,109,Oklahoma,106
+2003-04-16,Oklahoma,84,Phoenix,70
+2004-10-30,Oklahoma,109,LA,100
+2004-10-31,LA,105,Oklahoma,124
+2004-11-07,Oklahoma,100,Portland,82
+2004-11-09,Oklahoma,81,Atlanta,91
+2004-11-11,Minnesota,87,Oklahoma,89
+2004-11-12,Milwaukee,99,Oklahoma,104
+2004-11-14,Indiana,101,Oklahoma,78
+2004-11-15,Chicago,90,Oklahoma,98
+2004-11-18,Oklahoma,98,Miami,105
+2004-11-21,Oklahoma,97,Memphis,98
+2004-11-23,Oklahoma,88,Washington,85
+2004-11-25,Oklahoma,70,Brooklyn,93
+2004-11-28,Utah,98,Oklahoma,81
+2004-11-29,Oklahoma,95,Houston,88
+2004-12-03,Oklahoma,95,NY Knicks,87
+2004-12-05,Oklahoma,94,Indiana,101
+2004-12-07,Toronto,108,Oklahoma,98
+2004-12-09,Brooklyn,101,Oklahoma,88
+2004-12-10,Boston,126,Oklahoma,112
+2004-12-12,Detroit,72,Oklahoma,93
+2004-12-14,Oklahoma,108,Milwaukee,102
+2004-12-16,Phoenix,92,Oklahoma,91 OT
+2004-12-17,Oklahoma,98,Denver,99
+2004-12-19,Oklahoma,73,San Antonio,87
+2004-12-20,Denver,106,Oklahoma,115
+2004-12-23,Oklahoma,116,Phoenix,90
+2004-12-27,Oklahoma,86,Minnesota,104
+2004-12-29,Houston,86,Oklahoma,87
+2004-12-30,Memphis,99,Oklahoma,105
+2004-01-02,Oklahoma,111,Los Angeles,109
+2004-01-04,Sacramento,130,Oklahoma,99
+2004-01-05,Oklahoma,119,Portland,108 OT
+2004-01-07,Oklahoma,104,Sacramento,93
+2004-01-09,Oklahoma,122,Memphis,116
+2004-01-10,Golden State,113,Oklahoma,110 OT
+2004-01-13,Oklahoma,96,Cleveland,104
+2004-01-16,NY Knicks,108,Oklahoma,88
+2004-01-17,Washington,99,Oklahoma,84
+2004-01-19,Philadelphia,81,Oklahoma,90
+2004-01-20,Cleveland,99,Oklahoma,94
+2004-01-22,Oklahoma,103,Golden State,87
+2004-01-24,Oklahoma,102,LA,97
+2004-01-27,Oklahoma,116,Dallas,118
+2004-01-28,Los Angeles,96,Oklahoma,82
+2004-01-31,Oklahoma,103,Sacramento,110
+2004-02-02,Oklahoma,109,Chicago,97
+2004-02-03,Sacramento,117,Oklahoma,101
+2004-02-05,Oklahoma,90,San Antonio,96
+2004-02-06,Phoenix,105,Oklahoma,107
+2004-02-08,Portland,95,Oklahoma,85
+2004-02-10,Oklahoma,97,Golden State,106
+2004-02-12,Oklahoma,94,Toronto,74
+2004-02-19,Oklahoma,101,Philadelphia,112
+2004-02-21,Golden State,94,Oklahoma,92
+2004-02-22,Oklahoma,108,Boston,87
+2004-02-24,Utah,99,Oklahoma,86
+2004-02-25,Oklahoma,92 OT,Utah,93
+2004-02-27,Oklahoma,99,Phoenix,104
+2004-02-29,Houston,80,Oklahoma,97
+2004-03-02,Dallas,107,Oklahoma,96
+2004-03-03,San Antonio,88,Oklahoma,84
+2004-03-05,Los Angeles,99,Oklahoma,91
+2004-03-07,Oklahoma,65,Detroit,86
+2004-03-09,Oklahoma,92,Minnesota,105
+2004-03-12,Miami,82,Oklahoma,74
+2004-03-13,Orlando,101,Oklahoma,115
+2004-03-16,Atlanta,110,Oklahoma,118
+2004-03-18,Memphis,94,Oklahoma,97
+2004-03-19,New Orleans,80,Oklahoma,91
+2004-03-21,Oklahoma,84,Orlando,67
+2004-03-24,Oklahoma,84,Utah,77
+2004-03-26,Oklahoma,102,Denver,86
+2004-03-27,Portland,115,Oklahoma,108 OT
+2004-03-30,Denver,124,Oklahoma,119
+2004-03-31,Minnesota,90,Oklahoma,83
+2004-04-02,Oklahoma,86,Los Angeles,97
+2004-04-04,Oklahoma,96,New Orleans,88
+2004-04-06,Dallas,118,Oklahoma,108
+2004-04-07,San Antonio,96,Oklahoma,75
+2004-04-10,Oklahoma,119,Dallas,99
+2004-04-12,Oklahoma,107,Houston,111
+2004-04-14,LA,87,Oklahoma,118
+2005-11-03,LA,114,Oklahoma,84
+2005-11-05,Oklahoma,106,Atlanta,85
+2005-11-07,Oklahoma,113,San Antonio,94
+2005-11-09,Denver,88,Oklahoma,108
+2005-11-10,Oklahoma,108,Sacramento,78
+2005-11-12,Oklahoma,88,Toronto,87
+2005-11-14,Oklahoma,118,Memphis,113
+2005-11-16,Philadelphia,95,Oklahoma,103
+2005-11-17,Brooklyn,68,Oklahoma,79
+2005-11-19,Toronto,94,Oklahoma,101
+2005-11-21,Boston,102,Oklahoma,83
+2005-11-23,Minnesota,92,Oklahoma,103
+2005-11-24,Memphis,84,Oklahoma,93
+2005-11-26,Oklahoma,92,Brooklyn,79
+2005-11-28,Oklahoma,103,Indiana,95
+2005-11-30,Portland,100,Oklahoma,94
+2005-12-01,Oklahoma,129,Utah,119 OT
+2005-12-04,Oklahoma,99,Portland,89
+2005-12-08,San Antonio,96,Oklahoma,102
+2005-12-09,Dallas,102,Oklahoma,107
+2005-12-11,Oklahoma,84,Boston,98
+2005-12-14,Oklahoma,108,Los Angeles,93
+2005-12-17,Oklahoma,110,Phoenix,112
+2005-12-22,Oklahoma,98,Denver,83
+2005-12-27,Utah,88,Oklahoma,98
+2005-12-28,Oklahoma,107,Philadelphia,114
+2005-12-30,Atlanta,79,Oklahoma,94
+2005-12-31,Charlotte,97,Oklahoma,103
+2005-01-03,Miami,96,Oklahoma,98
+2005-01-05,Orlando,105,Oklahoma,87
+2005-01-06,Washington,107,Oklahoma,96
+2005-01-09,Oklahoma,108,Miami,98
+2005-01-11,Oklahoma,104,LA,99
+2005-01-12,LA,103,Oklahoma,92
+2005-01-14,Oklahoma,103,Golden State,84
+2005-01-16,Oklahoma,105,Cleveland,97
+2005-01-18,Oklahoma,110 OT,Denver,116
+2005-01-21,Oklahoma,107,Minnesota,112
+2005-01-23,Oklahoma,122,Utah,105
+2005-01-25,Los Angeles,93,Oklahoma,104
+2005-01-26,Utah,109,Oklahoma,100
+2005-01-28,Golden State,85,Oklahoma,88
+2005-01-31,Oklahoma,84,San Antonio,103
+2005-02-01,Sacramento,101,Oklahoma,106
+2005-02-05,Oklahoma,113,Charlotte,99
+2005-02-08,Oklahoma,108,New Orleans,91
+2005-02-10,Oklahoma,115,Sacramento,107
+2005-02-11,Phoenix,105,Oklahoma,113
+2005-02-13,Oklahoma,92,Dallas,95
+2005-02-16,Oklahoma,110,Golden State,117
+2005-02-22,Houston,85,Oklahoma,87
+2005-02-23,New Orleans,85,Oklahoma,103
+2005-02-25,Oklahoma,98,Minnesota,88
+2005-02-27,Milwaukee,99,Oklahoma,73
+2005-03-01,Indiana,93,Oklahoma,101
+2005-03-02,Cleveland,86,Oklahoma,103
+2005-03-04,Oklahoma,95,Detroit,87
+2005-03-06,Oklahoma,99,Phoenix,110
+2005-03-08,Oklahoma,95,Houston,97
+2005-03-11,Oklahoma,97,Chicago,100
+2005-03-13,NY Knicks,80,Oklahoma,90
+2005-03-15,Chicago,93,Oklahoma,99
+2005-03-16,Detroit,102,Oklahoma,95
+2005-03-18,Oklahoma,98,Orlando,90
+2005-03-20,Los Angeles,100,Oklahoma,102
+2005-03-22,Oklahoma,92,Milwaukee,84
+2005-03-24,Portland,91,Oklahoma,96
+2005-03-25,Oklahoma,109,NY Knicks,101 OT
+2005-03-27,Oklahoma,94,Washington,95
+2005-03-29,Memphis,99,Oklahoma,102
+2005-03-30,San Antonio,89,Oklahoma,76
+2005-04-01,Oklahoma,89,Portland,87
+2005-04-03,Golden State,101,Oklahoma,92
+2005-04-05,Sacramento,122,Oklahoma,101
+2005-04-08,Oklahoma,94,Los Angeles,117
+2005-04-09,Denver,121,Oklahoma,105
+2005-04-11,Oklahoma,78,Houston,90
+2005-04-13,Oklahoma,90,Dallas,95
+2005-04-15,Oklahoma,97,New Orleans,72
+2005-04-17,Minnesota,94,Oklahoma,109
+2005-04-19,Dallas,101,Oklahoma,96
+2005-04-20,Houston,106,Oklahoma,78
+2006-11-02,Oklahoma,93,LA,101
+2006-11-04,Oklahoma,107,Minnesota,102 OT
+2006-11-08,Memphis,94,Oklahoma,69
+2006-11-09,Cleveland,112,Oklahoma,85
+2006-11-11,Washington,137,Oklahoma,96
+2006-11-13,Toronto,121 OT,Oklahoma,126
+2006-11-15,Brooklyn,109,Oklahoma,99
+2006-11-16,Boston,100,Oklahoma,113
+2006-11-18,Oklahoma,98,Chicago,84
+2006-11-20,Oklahoma,106,Sacramento,104
+2006-11-22,Oklahoma,87,Utah,93
+2006-11-24,Los Angeles,108,Oklahoma,96
+2006-11-26,Oklahoma,99,New Orleans,105
+2006-11-30,Oklahoma,104,Charlotte,94
+2006-12-02,Oklahoma,115,Cleveland,108
+2006-12-04,Oklahoma,107,Indiana,102
+2006-12-06,Oklahoma,101,NY Knicks,104
+2006-12-09,Utah,90,Oklahoma,106
+2006-12-10,Oklahoma,104,Sacramento,123
+2006-12-13,Oklahoma,107 OT,Golden State,110
+2006-12-15,Oklahoma,98,Houston,104
+2006-12-16,Portland,99,Oklahoma,111
+2006-12-19,Oklahoma,111,Washington,101
+2006-12-20,Phoenix,111,Oklahoma,83
+2006-12-23,Oklahoma,98,Dallas,101
+2006-12-26,Oklahoma,118,Boston,111
+2006-12-28,Minnesota,108,Oklahoma,95
+2006-12-29,Denver,105,Oklahoma,112
+2006-12-31,Oklahoma,96,Memphis,100
+2006-01-02,Indiana,115,Oklahoma,96
+2006-01-04,Chicago,97,Oklahoma,101
+2006-01-06,Detroit,97,Oklahoma,85
+2006-01-08,NY Knicks,120,Oklahoma,116
+2006-01-09,Philadelphia,107,Oklahoma,98
+2006-01-11,Oklahoma,113,Orlando,104
+2006-01-13,Oklahoma,104,Miami,117
+2006-01-14,LA,98,Oklahoma,72
+2006-01-16,Golden State,109,Oklahoma,93
+2006-01-20,Oklahoma,113,Toronto,121
+2006-01-22,Phoenix,149 2OT,Oklahoma,152
+2006-01-25,Utah,94,Oklahoma,113
+2006-01-26,Oklahoma,97,Dallas,104
+2006-01-28,Oklahoma,113,Brooklyn,104
+2006-01-30,Oklahoma,111,Portland,116
+2006-02-01,Oklahoma,111,Golden State,107
+2006-02-03,Houston,100,Oklahoma,77
+2006-02-04,Dallas,110,Oklahoma,91
+2006-02-06,Charlotte,119,Oklahoma,106
+2006-02-08,New Orleans,109,Oklahoma,102
+2006-02-10,Oklahoma,99,Atlanta,91
+2006-02-12,Oklahoma,112 OT,Denver,120
+2006-02-14,Milwaukee,106,Oklahoma,91
+2006-02-15,Minnesota,102,Oklahoma,92
+2006-02-21,San Antonio,103,Oklahoma,78
+2006-02-22,Atlanta,109,Oklahoma,114
+2006-02-24,Orlando,102,Oklahoma,89
+2006-02-25,Miami,115,Oklahoma,106
+2006-02-28,Oklahoma,114,New Orleans,104
+2006-03-03,Oklahoma,96,Detroit,98
+2006-03-05,Oklahoma,113,Utah,81
+2006-03-08,Oklahoma,74,Memphis,99
+2006-03-10,Oklahoma,107,Minnesota,96
+2006-03-12,Los Angeles,113,Oklahoma,120
+2006-03-14,Oklahoma,120,Phoenix,129
+2006-03-16,Oklahoma,102,Philadelphia,98
+2006-03-21,Sacramento,105,Oklahoma,96
+2006-03-22,Oklahoma,114,Milwaukee,105
+2006-03-24,Denver,117,Oklahoma,104
+2006-03-26,Oklahoma,106,San Antonio,102
+2006-03-28,Memphis,97,Oklahoma,98
+2006-03-29,Houston,115,Oklahoma,87
+2006-03-31,Oklahoma,93,Los Angeles,106
+2006-04-02,Oklahoma,122,Portland,83
+2006-04-04,Oklahoma,104,Houston,87
+2006-04-07,Portland,108,Oklahoma,121
+2006-04-09,Oklahoma,116,Phoenix,114
+2006-04-11,San Antonio,104,Oklahoma,95
+2006-04-12,New Orleans,104,Oklahoma,99
+2006-04-14,Oklahoma,97,LA,101
+2006-04-16,LA,98,Oklahoma,114
+2006-04-18,Sacramento,111,Oklahoma,105
+2006-04-19,Oklahoma,109,Denver,98
+2007-11-01,Oklahoma,106,Portland,110
+2007-11-03,Los Angeles,118,Oklahoma,112
+2007-11-05,Oklahoma,117,Los Angeles,101
+2007-11-07,Miami,90,Oklahoma,87
+2007-11-08,Orlando,88,Oklahoma,87
+2007-11-10,Charlotte,85,Oklahoma,99
+2007-11-11,Atlanta,112 OT,Oklahoma,113
+2007-11-13,Brooklyn,113,Oklahoma,119
+2007-11-15,Oklahoma,90,Philadelphia,96
+2007-11-17,Oklahoma,109,Utah,118
+2007-11-18,Golden State,107,Oklahoma,95
+2007-11-20,Oklahoma,99,Brooklyn,87
+2007-11-22,LA,85,Oklahoma,95
+2007-11-24,Oklahoma,100,Sacramento,109
+2007-11-26,Oklahoma,78,San Antonio,98
+2007-11-29,Oklahoma,84,Orlando,94
+2007-12-01,Oklahoma,105,Indiana,103
+2007-12-02,Utah,109,Oklahoma,107
+2007-12-05,Oklahoma,102,Atlanta,87
+2007-12-08,Oklahoma,94,New Orleans,74
+2007-12-10,Oklahoma,117,Golden State,115
+2007-12-12,Milwaukee,94,Oklahoma,93
+2007-12-13,Chicago,99,Oklahoma,84
+2007-12-15,Cleveland,106,Oklahoma,84
+2007-12-17,Detroit,97,Oklahoma,93
+2007-12-18,Memphis,134,Oklahoma,126 2OT
+2007-12-20,Oklahoma,95,Dallas,103
+2007-12-23,Oklahoma,110,Toronto,97
+2007-12-26,Oklahoma,102,New Orleans,94
+2007-12-28,Denver,112,Oklahoma,98
+2007-12-29,Minnesota,101,Oklahoma,82
+2007-12-31,Oklahoma,101,Boston,95
+2007-01-02,Dallas,112,Oklahoma,88
+2007-01-03,Houston,103,Oklahoma,96
+2007-01-05,Oklahoma,93,NY Knicks,111
+2007-01-06,Golden State,108,Oklahoma,104
+2007-01-09,Phoenix,113,Oklahoma,102
+2007-01-10,Oklahoma,103,Miami,107
+2007-01-12,Oklahoma,122,Utah,114 OT
+2007-01-16,Oklahoma,101,Cleveland,96
+2007-01-19,Oklahoma,99,Milwaukee,72
+2007-01-23,Oklahoma,112,Denver,117
+2007-01-26,Oklahoma,102,Minnesota,100
+2007-01-28,Oklahoma,76,LA,98
+2007-01-30,Dallas,122,Oklahoma,102
+2007-01-31,Houston,112,Oklahoma,102
+2007-02-02,Oklahoma,101,Chicago,107
+2007-02-05,Washington,118,Oklahoma,108
+2007-02-07,Indiana,102,Oklahoma,103
+2007-02-10,Oklahoma,93,Sacramento,114
+2007-02-11,Sacramento,103,Oklahoma,114
+2007-02-14,Oklahoma,114,Phoenix,90
+2007-02-20,Oklahoma,121,Memphis,105
+2007-02-23,New Orleans,98,Oklahoma,97
+2007-02-24,San Antonio,102,Oklahoma,71
+2007-02-26,Oklahoma,97,Portland,73
+2007-02-28,LA,96,Oklahoma,91
+2007-03-01,Oklahoma,77,LA,75
+2007-03-04,Oklahoma,96,Charlotte,89
+2007-03-06,NY Knicks,99,Oklahoma,100
+2007-03-07,Philadelphia,92,Oklahoma,89
+2007-03-09,Boston,118,Oklahoma,103
+2007-03-11,Toronto,120,Oklahoma,119 OT
+2007-03-13,Oklahoma,97,Detroit,101
+2007-03-17,Oklahoma,98,Golden State,99
+2007-03-18,Portland,77,Oklahoma,95
+2007-03-21,Oklahoma,106,Washington,108
+2007-03-23,Oklahoma,85,Minnesota,82
+2007-03-25,Oklahoma,79,San Antonio,120
+2007-03-27,Minnesota,106,Oklahoma,114
+2007-03-28,Denver,97,Oklahoma,100
+2007-03-30,Oklahoma,120,Memphis,93
+2007-04-01,Oklahoma,103,Denver,114
+2007-04-03,San Antonio,110,Oklahoma,91
+2007-04-04,New Orleans,101,Oklahoma,92 OT
+2007-04-06,Oklahoma,109,Los Angeles,112
+2007-04-07,Utah,103,Oklahoma,106
+2007-04-09,Oklahoma,90,Houston,95
+2007-04-11,Phoenix,109,Oklahoma,91
+2007-04-14,Portland,108,Oklahoma,102
+2007-04-15,Los Angeles,109,Oklahoma,98
+2007-04-18,Oklahoma,75,Dallas,106

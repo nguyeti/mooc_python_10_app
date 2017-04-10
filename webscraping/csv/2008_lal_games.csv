@@ -1,0 +1,493 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-29,Los,81,San Antonio,87
+2003-10-30,Portland,102,Los,90
+2003-11-01,LA,93,Los,108
+2003-11-03,Los,98,Portland,95 OT
+2003-11-05,Cleveland,89,Los,70
+2003-11-07,Boston,98,Los,95 OT
+2003-11-08,Washington,100,Los,99
+2003-11-12,Los,83,Atlanta,95
+2003-11-15,Los,96,Golden State,89 OT
+2003-11-17,Los,89,Houston,93
+2003-11-19,Dallas,98,Los,72
+2003-11-20,San Antonio,95,Los,88
+2003-11-22,Los,86,Chicago,73
+2003-11-24,Los,111,Milwaukee,99
+2003-11-26,Miami,97,Los,85
+2003-11-27,Orlando,112,Los,102
+2003-11-29,Memphis,106 OT,Los,112
+2003-12-01,Los,107,Minnesota,110
+2003-12-03,Los,101,Memphis,91
+2003-12-04,Utah,93,Los,85
+2003-12-06,Los,105,Dallas,103
+2003-12-08,Los,110,Utah,101
+2003-12-10,Golden State,106,Los,102
+2003-12-13,Los,82,New Orleans,98
+2003-12-15,Los,107,Orlando,84
+2003-12-17,Minnesota,96,Los,80
+2003-12-19,Brooklyn,98,Los,71
+2003-12-20,Philadelphia,107,Los,104 OT
+2003-12-22,Toronto,107 OT,Los,109
+2003-12-25,Los,99,Sacramento,105
+2003-12-28,Denver,93,Los,112
+2003-12-29,Los,104,Toronto,88
+2003-01-04,Phoenix,107,Los,93
+2003-01-05,Los,109,Phoenix,97
+2003-01-07,Los,119,Oklahoma City,98
+2003-01-10,Los,115,Cleveland,99
+2003-01-12,Los,106,Miami,81
+2003-01-15,New Orleans,82,Los,90
+2003-01-17,Houston,108,Los,104 OT
+2003-01-20,Los,96,LA,92
+2003-01-22,Los,110,Golden State,114
+2003-01-24,Los,83,Brooklyn,89
+2003-01-29,Phoenix,90,Los,99
+2003-01-31,Sacramento,113,Los,124
+2003-02-01,Los,99,Utah,87
+2003-02-04,Indiana,94,Los,97
+2003-02-06,NY Knicks,109,Los,114
+2003-02-11,Los,121,Denver,93
+2003-02-12,Denver,102,Los,113
+2003-02-14,Los,95,San Antonio,103
+2003-02-16,Los,110,NY Knicks,117
+2003-02-18,Los,106,Houston,99 2OT
+2003-02-19,Utah,87,Los,93
+2003-02-21,Los,92,Portland,84
+2003-02-23,Los,106,Oklahoma City,101
+2003-02-25,Los,109,LA,98
+2003-02-27,Los,95,Detroit,85
+2003-02-28,Oklahoma City,107,Los,90
+2003-03-05,Los,97,Indiana,95
+2003-03-07,Los,106,Minnesota,96
+2003-03-09,Los,106,Philadelphia,92
+2003-03-11,Chicago,116,Los,99
+2003-03-12,Detroit,111,Los,88
+2003-03-14,Minnesota,99,Los,106
+2003-03-15,Milwaukee,94,Los,98
+2003-03-17,LA,85,Los,102
+2003-03-20,Sacramento,107,Los,99
+2003-03-21,Los,104,Boston,96
+2003-03-23,San Antonio,98,Los,89
+2003-03-25,Atlanta,91,Los,108
+2003-03-26,Houston,93,Los,96
+2003-03-28,Los,108,Washington,94
+2003-03-30,Oklahoma City,119,Los,98
+2003-03-31,Los,110,Memphis,94
+2003-04-03,Dallas,89,Los,100
+2003-04-04,Memphis,101,Los,102
+2003-04-06,Los,115,Phoenix,113 OT
+2003-04-08,Los,108,Dallas,99
+2003-04-10,Los,117,Sacramento,104
+2003-04-13,Portland,101,Los,99
+2003-04-15,Los,126,Denver,104
+2003-04-16,Golden State,111,Los,117
+2004-10-28,Los,109,Dallas,93
+2004-11-01,Phoenix,99,Los,103
+2004-11-02,Los,87,Golden State,72
+2004-11-04,Milwaukee,107,Los,113
+2004-11-06,San Antonio,117 2OT,Los,120
+2004-11-07,New Orleans,114,Los,95
+2004-11-10,Memphis,105,Los,95
+2004-11-12,Los,94,Toronto,79
+2004-11-14,Los,94,Detroit,89
+2004-11-16,Los,99,Miami,77
+2004-11-18,Detroit,106,Los,96
+2004-11-19,NY Knicks,83,Los,104
+2004-11-21,Los,101,Chicago,94
+2004-11-23,Los,121,Memphis,89
+2004-11-26,Los,120,Washington,99
+2004-11-28,Los,103,San Antonio,87
+2004-11-30,Los,99,Indiana,77
+2004-12-03,San Antonio,86,Los,90
+2004-12-04,Dallas,103,Los,114
+2004-12-07,Los,94,Utah,92
+2004-12-09,Los,98,NY Knicks,90
+2004-12-12,Los,93,Dallas,110
+2004-12-13,Portland,112,Los,108
+2004-12-19,Los,101,Denver,99
+2004-12-21,Los,107,Phoenix,101
+2004-12-23,Golden State,107,Los,98
+2004-12-25,Los,87,Houston,99
+2004-12-28,Los,105,Boston,82
+2004-01-02,Oklahoma City,111,Los,109
+2004-01-04,LA,101,Los,98
+2004-01-06,Minnesota,106,Los,90
+2004-01-07,Denver,113,Los,91
+2004-01-09,Los,113,Atlanta,67
+2004-01-12,Los,89,Cleveland,79
+2004-01-14,Los,97,Denver,71
+2004-01-16,Sacramento,103,Los,83
+2004-01-17,Los,91,LA,89
+2004-01-19,Los,85,Phoenix,88
+2004-01-21,Memphis,88,Los,82
+2004-01-22,Dallas,106,Los,87
+2004-01-24,Utah,86,Los,93
+2004-01-28,Los,96,Oklahoma City,82
+2004-01-30,Los,84,Minnesota,97
+2004-02-01,Toronto,83,Los,84
+2004-02-02,Indiana,85,Los,72
+2004-02-04,Cleveland,106 OT,Los,111
+2004-02-05,Philadelphia,96,Los,73
+2004-02-08,Orlando,96,Los,98
+2004-02-10,Miami,83,Los,98
+2004-02-11,Houston,102,Los,87
+2004-02-17,Los,89,Portland,86
+2004-02-18,Golden State,99,Los,100
+2004-02-20,Los,116,Philadelphia,88
+2004-02-22,Phoenix,92,Los,104
+2004-02-25,Denver,111,Los,112
+2004-02-26,Los,101,Sacramento,103
+2004-02-28,Washington,110,Los,122
+2004-02-29,Brooklyn,83,Los,100
+2004-03-02,Atlanta,94,Los,93
+2004-03-03,Houston,93,Los,96
+2004-03-05,Los,99,Oklahoma City,91
+2004-03-07,Los,94,Brooklyn,88
+2004-03-08,Utah,88,Los,83
+2004-03-10,Boston,109,Los,117
+2004-03-12,Minnesota,96,Los,86
+2004-03-13,Chicago,81,Los,88
+2004-03-15,Los,113,Orlando,110 OT
+2004-03-17,LA,103,Los,106
+2004-03-19,Los,106,LA,100
+2004-03-21,Los,104,Milwaukee,103 OT
+2004-03-24,Los,115,Sacramento,91
+2004-03-26,Los,90,Minnesota,73
+2004-03-28,Los,91,Utah,84
+2004-03-30,Los,107,New Orleans,88
+2004-04-01,Los,93,Houston,85
+2004-04-02,Oklahoma City,86,Los,97
+2004-04-04,Los,89,San Antonio,95
+2004-04-06,Los,80,Portland,91
+2004-04-09,Los,103,Memphis,95
+2004-04-11,Sacramento,102,Los,85
+2004-04-13,Los,109,Golden State,104
+2004-04-14,Portland,104 2OT,Los,105
+2005-11-02,Los,89,Denver,78
+2005-11-03,Utah,104,Los,78
+2005-11-05,Los,96,San Antonio,105
+2005-11-07,Los,106,Atlanta,90
+2005-11-09,New Orleans,98,Los,106
+2005-11-10,Memphis,110,Los,87
+2005-11-12,Orlando,122,Los,113
+2005-11-13,Houston,79,Los,84
+2005-11-17,Los,103,LA,89
+2005-11-19,Phoenix,107,Los,102
+2005-11-21,Los,102,Chicago,93
+2005-11-23,Los,100,Milwaukee,96
+2005-11-26,Los,106,Sacramento,109
+2005-11-28,Los,89,New Orleans,76
+2005-11-30,Milwaukee,90,Los,95
+2005-12-01,Chicago,92,Los,84
+2005-12-03,Los,97,Golden State,88
+2005-12-08,Los,110,Phoenix,113
+2005-12-11,LA,87,Los,89
+2005-12-12,Los,105,Orlando,98
+2005-12-14,Oklahoma City,108,Los,93
+2005-12-16,Sacramento,99,Los,115
+2005-12-17,Los,116 OT,Washington,120
+2005-12-20,Los,72,Memphis,82
+2005-12-22,Los,101,New Orleans,89
+2005-12-25,Los,102 OT,Miami,104
+2005-12-28,Los,117,Toronto,99
+2005-01-02,Los,99,Denver,91
+2005-01-04,San Antonio,100,Los,83
+2005-01-05,Dallas,118,Los,104
+2005-01-07,Los,111,Houston,104
+2005-01-10,Minnesota,96,Los,105
+2005-01-12,Denver,95,Los,83
+2005-01-13,Los,98,Cleveland,94
+2005-01-15,Golden State,102,Los,104
+2005-01-17,Los,94,Utah,102
+2005-01-19,Los,93,Minnesota,90
+2005-01-21,Los,105,Golden State,101
+2005-01-25,Los,93,Oklahoma City,104
+2005-01-26,LA,105,Los,89
+2005-01-28,Los,103,Brooklyn,109
+2005-01-30,Los,101,Charlotte,90
+2005-02-01,Los,92,Portland,79
+2005-02-03,Los,91,San Antonio,103
+2005-02-06,Houston,103,Los,102
+2005-02-07,Atlanta,114,Los,108
+2005-02-09,Brooklyn,103 OT,Los,104
+2005-02-10,Detroit,103,Los,81
+2005-02-13,Cleveland,103,Los,89
+2005-02-15,Los,102,Utah,95
+2005-02-22,Los,104,Boston,95
+2005-02-23,Portland,83,Los,86
+2005-02-25,Los,90,Detroit,111
+2005-02-27,Toronto,108,Los,102
+2005-02-28,NY Knicks,117,Los,115 OT
+2005-03-02,Boston,104,Los,101
+2005-03-04,Los,108,Dallas,103
+2005-03-06,Los,103,Indiana,94
+2005-03-08,Los,101,LA,110
+2005-03-10,Dallas,95,Los,100
+2005-03-12,Charlotte,116,Los,117
+2005-03-14,Washington,95,Los,81
+2005-03-15,Philadelphia,108,Los,91
+2005-03-17,Miami,102,Los,89
+2005-03-18,Indiana,103,Los,97
+2005-03-20,Los,100,Oklahoma City,102
+2005-03-22,Utah,115,Los,107
+2005-03-24,Denver,117,Los,96
+2005-03-27,Los,89,Philadelphia,96
+2005-03-29,Los,117,NY Knicks,107
+2005-03-31,Los,96,Minnesota,105
+2005-04-02,San Antonio,95,Los,94
+2005-04-03,Memphis,102,Los,82
+2005-04-05,Phoenix,125,Los,99
+2005-04-07,Los,100,Houston,114
+2005-04-08,Oklahoma City,94,Los,117
+2005-04-10,Sacramento,124,Los,105
+2005-04-11,Los,97,Phoenix,108
+2005-04-15,Los,106,Sacramento,115
+2005-04-17,Los,112,Dallas,114
+2005-04-18,Golden State,126,Los,99
+2005-04-20,Portland,106,Los,103
+2006-11-02,Denver,97 OT,Los,99
+2006-11-03,Los,112,Phoenix,122
+2006-11-06,Los,112,Denver,92
+2006-11-08,Atlanta,97,Los,103
+2006-11-09,Minnesota,88,Los,74
+2006-11-11,Philadelphia,85,Los,81
+2006-11-14,Memphis,85,Los,73
+2006-11-16,Los,97,NY Knicks,92
+2006-11-18,Los,91,LA,97
+2006-11-20,Los,93,Chicago,96
+2006-11-24,Los,108,Oklahoma City,96
+2006-11-27,Los,96 OT,Brooklyn,102
+2006-11-29,San Antonio,90,Los,84
+2006-12-01,Utah,101 OT,Los,105
+2006-12-02,Los,108,Minnesota,113
+2006-12-04,Los,99,Charlotte,98
+2006-12-06,Milwaukee,92,Los,111
+2006-12-07,Toronto,91,Los,102
+2006-12-09,Chicago,80,Los,93
+2006-12-10,Minnesota,95,Los,82
+2006-12-12,Dallas,106,Los,109
+2006-12-14,Memphis,79,Los,94
+2006-12-16,Los,97,Washington,91
+2006-12-18,Los,74,Houston,76
+2006-12-20,Los,112,Dallas,90
+2006-12-23,Orlando,88,Los,104
+2006-12-25,Miami,97,Los,92
+2006-12-26,Washington,94,Los,91
+2006-12-28,Los,99 OT,Memphis,100
+2006-01-01,Los,94,Utah,98
+2006-01-03,Utah,90,Los,80
+2006-01-06,Los,119,Philadelphia,93
+2006-01-07,LA,109,Los,112
+2006-01-09,Los,96,Indiana,90
+2006-01-11,Portland,113,Los,103
+2006-01-12,Los,99,Cleveland,98
+2006-01-14,Golden State,104,Los,110
+2006-01-16,Los,100,Miami,92
+2006-01-19,Sacramento,118,Los,109 OT
+2006-01-20,Phoenix,106,Los,93
+2006-01-22,Los,122,Toronto,104
+2006-01-27,Los,106,Golden State,105 OT
+2006-01-29,Detroit,102,Los,93
+2006-01-31,NY Knicks,97,Los,130
+2006-02-01,Indiana,105,Los,79
+2006-02-03,Charlotte,112,Los,102
+2006-02-04,New Orleans,106,Los,90
+2006-02-07,Dallas,102,Los,87
+2006-02-08,Houston,78,Los,89
+2006-02-11,Los,99,Memphis,100
+2006-02-13,Los,94,Utah,88
+2006-02-15,Los,110,Atlanta,114
+2006-02-21,Los,99,Portland,82
+2006-02-23,Los,106,Sacramento,85
+2006-02-24,LA,102,Los,83
+2006-02-26,Los,111,Boston,112
+2006-02-28,Los,102,Orlando,87
+2006-03-01,Portland,99,Los,93
+2006-03-03,Golden State,94,Los,106
+2006-03-04,Los,105,Detroit,94
+2006-03-06,Los,96,San Antonio,103
+2006-03-08,New Orleans,107,Los,113
+2006-03-10,San Antonio,92,Los,100
+2006-03-12,Los,113,Oklahoma City,120
+2006-03-14,Sacramento,114,Los,98
+2006-03-15,Los,92,Minnesota,89
+2006-03-17,Brooklyn,92,Los,89
+2006-03-19,Cleveland,96,Los,95
+2006-03-20,Boston,97,Los,105
+2006-03-22,Los,87,Sacramento,80
+2006-03-24,Los,101,Milwaukee,96
+2006-03-26,Los,105,New Orleans,94
+2006-03-30,Los,85,San Antonio,96
+2006-03-31,Oklahoma City,93,Los,106
+2006-04-02,Los,104,Houston,88
+2006-04-06,Denver,110,Los,108 OT
+2006-04-07,Phoenix,107,Los,96
+2006-04-09,Los,100,LA,83
+2006-04-11,Los,111,Golden State,100
+2006-04-14,Los,110,Portland,99
+2006-04-16,Los,109,Phoenix,89
+2006-04-19,Los,115,New Orleans,95
+2007-10-31,Los,114,Phoenix,106
+2007-11-01,Golden State,98,Los,110
+2007-11-03,Los,118,Oklahoma City,112
+2007-11-05,Oklahoma City,117,Los,101
+2007-11-07,Los,95,Minnesota,88
+2007-11-08,Portland,101,Los,90
+2007-11-10,Los,83,Detroit,97
+2007-11-12,Los,91,Memphis,81
+2007-11-17,Los,107,Toronto,100
+2007-11-19,Los,82,Chicago,72
+2007-11-21,Los,105,LA,101
+2007-11-24,Utah,114,Los,108
+2007-11-26,Los,99,Brooklyn,93
+2007-11-28,Los,105,Milwaukee,109
+2007-11-30,Los,132,Utah,102
+2007-12-02,LA,88,Los,97
+2007-12-04,Los,101,Indiana,87
+2007-12-06,Los,89,New Orleans,105
+2007-12-08,Los,106,Atlanta,95
+2007-12-10,Los,106,San Antonio,99
+2007-12-12,Houston,94,Los,102
+2007-12-13,Dallas,110,Los,101
+2007-12-15,Los,112,Houston,101 2OT
+2007-12-17,Los,141 OT,Washington,147
+2007-12-19,Chicago,94,Los,89
+2007-12-20,Minnesota,94,Los,111
+2007-12-22,Brooklyn,95,Los,99
+2007-12-25,Miami,101,Los,85
+2007-12-27,Orlando,93,Los,106
+2007-12-29,Charlotte,133,Los,124 3OT
+2007-12-31,Los,104,Philadelphia,94
+2007-01-04,Sacramento,128 OT,Los,132
+2007-01-05,Los,123,Denver,104
+2007-01-07,Los,101,Dallas,98
+2007-01-09,Memphis,128,Los,118
+2007-01-10,Houston,102,Los,77
+2007-01-12,Los,109,Orlando,106
+2007-01-15,Los,124,Miami,118 OT
+2007-01-17,San Antonio,96,Los,100
+2007-01-18,Dallas,114,Los,95
+2007-01-20,New Orleans,113,Los,103
+2007-01-22,Los,108,Golden State,103
+2007-01-26,Los,97 OT,Charlotte,106
+2007-01-28,Los,94 OT,San Antonio,96
+2007-01-30,NY Knicks,99,Los,94
+2007-01-31,Boston,98,Los,111
+2007-02-02,Indiana,95,Los,84
+2007-02-03,Washington,102,Los,118
+2007-02-05,Atlanta,83,Los,90
+2007-02-08,Detroit,93,Los,78
+2007-02-09,Toronto,96,Los,92
+2007-02-11,Cleveland,99,Los,90
+2007-02-13,Los,106,NY Knicks,107
+2007-02-15,Los,108,Cleveland,114
+2007-02-21,Los,108,Portland,112
+2007-02-23,Los,122,Boston,96
+2007-02-25,Golden State,85,Los,102
+2007-02-26,Utah,94,Los,102
+2007-03-02,Los,108,Sacramento,116
+2007-03-04,Phoenix,99,Los,94
+2007-03-06,Minnesota,117,Los,107 2OT
+2007-03-07,Milwaukee,110,Los,90
+2007-03-09,Philadelphia,108,Los,92
+2007-03-11,Los,72,Dallas,108
+2007-03-15,Denver,113,Los,86
+2007-03-16,Los,116,Portland,111 OT
+2007-03-18,Los,109,Minnesota,102
+2007-03-22,Memphis,119,Los,121
+2007-03-23,New Orleans,105,Los,111
+2007-03-25,Los,115,Golden State,113
+2007-03-27,Los,86,Memphis,88
+2007-03-30,Los,104 OT,Houston,107
+2007-04-01,Los,126,Sacramento,103
+2007-04-03,Los,105,Denver,111
+2007-04-04,LA,90,Los,82
+2007-04-06,Oklahoma City,109,Los,112
+2007-04-08,Los,107,Phoenix,115
+2007-04-09,Denver,115,Los,111
+2007-04-12,Los,110,LA,118
+2007-04-13,Phoenix,93,Los,85
+2007-04-15,Los,109,Oklahoma City,98
+2007-04-18,Sacramento,106,Los,117
+2008-10-30,Los,93,Houston,95
+2008-11-02,Phoenix,98,Los,119
+2008-11-04,Los,119,Utah,109
+2008-11-06,Los,104,New Orleans,118
+2008-11-09,Los,107,Minnesota,93
+2008-11-13,San Antonio,107,Los,92
+2008-11-14,Houston,90,Los,93
+2008-11-16,Los,103,Detroit,91
+2008-11-18,Los,106,Chicago,78
+2008-11-20,Indiana,114,Los,134
+2008-11-21,Milwaukee,110,Los,103
+2008-11-23,Boston,107,Los,94
+2008-11-25,Los,100,Brooklyn,102
+2008-11-27,Los,106,Oklahoma City,99
+2008-11-29,Los,127,Denver,99
+2008-11-30,Utah,120,Los,96
+2008-12-02,Los,97,Orlando,104
+2008-12-04,Minnesota,95,Los,116
+2008-12-05,Denver,107,Los,111
+2008-12-09,Los,123,Golden State,113
+2008-12-13,Los,102,San Antonio,97
+2008-12-14,Golden State,108,Los,106
+2008-12-16,Los,113,LA,92
+2008-12-18,Chicago,91,Los,103
+2008-12-20,Cleveland,94,Los,90
+2008-12-21,Philadelphia,101,Los,106
+2008-12-23,NY Knicks,90,Los,95
+2008-12-25,Los,122,Phoenix,115
+2008-12-28,Los,123,Utah,109
+2008-12-30,Los,91,Boston,110
+2008-01-04,Los,124,Philadelphia,93
+2008-01-06,Los,112,Indiana,96
+2008-01-08,Memphis,101,Los,117
+2008-01-09,New Orleans,80,Los,109
+2008-01-11,Los,110,Milwaukee,105
+2008-01-13,Los,100,Memphis,99
+2008-01-14,Oklahoma City,121 OT,Los,123
+2008-01-17,Los,98,Phoenix,106
+2008-01-21,Los,116,Denver,99
+2008-01-23,San Antonio,103,Los,91
+2008-01-25,Dallas,112,Los,105
+2008-01-27,Los,95,Cleveland,98
+2008-01-29,Los,120,NY Knicks,109
+2008-01-31,Detroit,90,Los,89
+2008-02-01,Toronto,101,Los,121
+2008-02-03,Washington,91,Los,103
+2008-02-05,Brooklyn,90,Los,105
+2008-02-06,Atlanta,98,Los,95
+2008-02-08,Orlando,113,Los,117
+2008-02-10,Miami,94,Los,104
+2008-02-11,Charlotte,97,Los,106
+2008-02-13,Minnesota,92,Los,117
+2008-02-19,Los,122,Atlanta,93
+2008-02-20,Phoenix,124,Los,130
+2008-02-23,LA,95,Los,113
+2008-02-24,Oklahoma City,91,Los,111
+2008-02-26,Los,96,Portland,83
+2008-02-28,Los,106,Miami,88
+2008-02-29,Portland,119,Los,111
+2008-03-02,Los,108,Dallas,104 OT
+2008-03-04,Sacramento,105,Los,117
+2008-03-07,Los,119,LA,82
+2008-03-09,Los,113,Sacramento,114
+2008-03-11,Los,117,Toronto,108
+2008-03-14,New Orleans,108,Los,98
+2008-03-16,Houston,104,Los,92
+2008-03-18,Dallas,100,Los,102
+2008-03-20,Utah,95,Los,106
+2008-03-21,Los,130,Oklahoma City,105
+2008-03-23,Los,111,Golden State,115
+2008-03-24,Golden State,119 OT,Los,123
+2008-03-26,Los,95,Charlotte,108
+2008-03-28,Los,111,Memphis,114
+2008-03-30,Los,126,Washington,120 OT
+2008-04-02,Los,104,Portland,91
+2008-04-04,Los,112,Dallas,108
+2008-04-06,Sacramento,92,Los,114
+2008-04-08,Portland,112,Los,103
+2008-04-10,LA,78,Los,106
+2008-04-11,Los,107,New Orleans,104
+2008-04-13,Los,106,San Antonio,85
+2008-04-15,Los,124,Sacramento,101

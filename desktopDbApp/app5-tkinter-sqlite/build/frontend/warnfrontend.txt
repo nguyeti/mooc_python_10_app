@@ -1,0 +1,18 @@
+missing module named resource - imported by posix, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named posix - imported by os, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named _posixsubprocess - imported by subprocess, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named 'org.python' - imported by pickle, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named _winreg - imported by platform, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named 'java.lang' - imported by platform, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named termios - imported by tty, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py, getpass
+missing module named grp - imported by tarfile, shutil, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named org - imported by copy, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py, netrc, getpass
+missing module named ce - imported by os, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py
+missing module named _dummy_threading - imported by dummy_threading, D:\Dropbox\py_tuts\desktopDbApp\app5-tkinter-sqlite\frontend.py

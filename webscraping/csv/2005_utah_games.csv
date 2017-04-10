@@ -1,0 +1,247 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,New Orleans,100,Utah,75
+2003-10-31,Atlanta,105,Utah,98
+2003-11-02,Utah,101,Golden State,92
+2003-11-03,Oklahoma City,91,Utah,77
+2003-11-06,Utah,78,Detroit,80
+2003-11-08,Utah,110,Atlanta,97
+2003-11-11,Boston,112,Utah,95
+2003-11-12,NY Knicks,87,Utah,108
+2003-11-14,Washington,105,Utah,102
+2003-11-15,Detroit,86,Utah,75
+2003-11-17,Toronto,78,Utah,82
+2003-11-19,Utah,99,Phoenix,76
+2003-11-20,Denver,79,Utah,96
+2003-11-23,Utah,110,Chicago,90
+2003-11-26,LA,94,Utah,99
+2003-11-29,Utah,95,Minnesota,77
+2003-11-30,San Antonio,107,Utah,85
+2003-12-02,Utah,102,Indiana,91
+2003-12-04,Utah,93,Los Angeles,85
+2003-12-06,Utah,104,Memphis,71
+2003-12-08,Los Angeles,110,Utah,101
+2003-12-12,Utah,88,New Orleans,93
+2003-12-14,Utah,96,Sacramento,98
+2003-12-18,Utah,90,Orlando,97
+2003-12-20,Dallas,81,Utah,93
+2003-12-22,Memphis,74,Utah,103
+2003-12-23,Houston,91,Utah,96
+2003-12-27,Portland,103,Utah,98
+2003-12-28,Utah,98,Philadelphia,69
+2003-12-30,Utah,107,Toronto,85
+2003-01-03,Milwaukee,115,Utah,118
+2003-01-04,Minnesota,97,Utah,105
+2003-01-06,Chicago,113,Utah,98
+2003-01-08,Utah,99,Phoenix,93
+2003-01-10,Utah,92,Miami,76
+2003-01-12,Phoenix,107,Utah,99
+2003-01-15,Denver,81,Utah,92
+2003-01-16,Utah,92,Oklahoma City,85
+2003-01-18,Utah,95,Cleveland,78
+2003-01-20,Utah,106,Brooklyn,103 OT
+2003-01-22,Utah,89,LA,96
+2003-01-24,Utah,90,San Antonio,91
+2003-01-25,Golden State,108,Utah,95
+2003-01-28,Sacramento,92,Utah,102
+2003-01-29,Utah,95,Portland,71
+2003-01-31,Utah,102,Golden State,94
+2003-02-01,Los Angeles,99,Utah,87
+2003-02-03,Utah,90,Dallas,92
+2003-02-05,Utah,105,Memphis,84
+2003-02-11,Houston,101 OT,Utah,103
+2003-02-12,Utah,76,Houston,106
+2003-02-14,Utah,109,Washington,77
+2003-02-17,Utah,109,Minnesota,97
+2003-02-19,Utah,87,Los Angeles,93
+2003-02-22,Utah,99,Denver,89
+2003-02-24,Memphis,103,Utah,92
+2003-02-26,Minnesota,92,Utah,85
+2003-02-28,Philadelphia,104,Utah,83
+2003-03-02,Brooklyn,90,Utah,91
+2003-03-05,Utah,94,Oklahoma City,83
+2003-03-07,Utah,105 OT,Sacramento,108
+2003-03-08,Dallas,101,Utah,77
+2003-03-10,Miami,73,Utah,83
+2003-03-12,Orlando,108,Utah,111
+2003-03-14,Indiana,101,Utah,81
+2003-03-16,Cleveland,122,Utah,95
+2003-03-18,Utah,99,Denver,81
+2003-03-19,Phoenix,86,Utah,99
+2003-03-22,Utah,88,LA,73
+2003-03-24,Utah,96,Boston,91
+2003-03-26,Utah,94,Portland,85
+2003-03-28,Utah,103,Milwaukee,90
+2003-03-29,San Antonio,101,Utah,81
+2003-04-01,LA,89,Utah,94
+2003-04-03,Portland,88,Utah,93
+2003-04-04,Utah,92 OT,NY Knicks,94
+2003-04-06,Oklahoma City,82,Utah,80
+2003-04-08,Golden State,128,Utah,102
+2003-04-09,Utah,94,Houston,73
+2003-04-11,Utah,95,Dallas,92
+2003-04-14,Utah,83,San Antonio,91
+2003-04-16,Sacramento,95,Utah,84
+2004-10-29,Utah,99,Portland,92
+2004-11-01,Dallas,127,Utah,102
+2004-11-03,Utah,93,Minnesota,88
+2004-11-05,Utah,91,Phoenix,80
+2004-11-07,Golden State,95,Utah,89
+2004-11-08,Utah,96,Memphis,89
+2004-11-10,San Antonio,87,Utah,78
+2004-11-12,New Orleans,96,Utah,89
+2004-11-14,Minnesota,77,Utah,85
+2004-11-15,Milwaukee,100,Utah,95
+2004-11-17,Utah,90,Orlando,88
+2004-11-19,Utah,110,Sacramento,118
+2004-11-21,Utah,99,Milwaukee,90
+2004-11-26,Utah,83,Houston,76
+2004-11-28,Utah,98,Oklahoma City,81
+2004-12-01,Utah,91,Brooklyn,84
+2004-12-03,Houston,107,Utah,101 OT
+2004-12-05,Utah,86,LA,67
+2004-12-07,Los Angeles,94,Utah,92
+2004-12-08,Utah,80,Boston,102
+2004-12-10,Utah,95,NY Knicks,73
+2004-12-12,Utah,93,Sacramento,100
+2004-12-14,Philadelphia,86,Utah,94
+2004-12-16,Washington,91,Utah,87
+2004-12-17,Brooklyn,87,Utah,74
+2004-12-19,Boston,96,Utah,99
+2004-12-21,Detroit,96,Utah,75
+2004-12-22,Chicago,80,Utah,92
+2004-12-26,Utah,97,Toronto,94 OT
+2004-12-28,Sacramento,98,Utah,89
+2004-12-29,Utah,106,Philadelphia,97
+2004-01-02,Memphis,100,Utah,88
+2004-01-03,Houston,84,Utah,63
+2004-01-05,Utah,108,Dallas,94
+2004-01-09,Denver,106,Utah,96
+2004-01-10,Utah,92,Atlanta,71
+2004-01-13,Utah,97,Golden State,80
+2004-01-15,Utah,97,Miami,85
+2004-01-17,Utah,96 OT,Cleveland,102
+2004-01-19,Golden State,101,Utah,85
+2004-01-20,Utah,75,Denver,96
+2004-01-23,LA,93,Utah,82
+2004-01-24,Utah,86,Los Angeles,93
+2004-01-26,Utah,98,LA,93
+2004-01-28,Utah,91,Dallas,88
+2004-01-30,Memphis,79,Utah,85
+2004-01-31,San Antonio,85,Utah,81
+2004-02-02,Utah,65,San Antonio,83
+2004-02-04,Utah,79,Chicago,95
+2004-02-06,Utah,73,Portland,87
+2004-02-07,Phoenix,92,Utah,96
+2004-02-10,Portland,81,Utah,86
+2004-02-11,Utah,66,Minnesota,77
+2004-02-17,Miami,97,Utah,85
+2004-02-18,Orlando,90,Utah,77
+2004-02-20,NY Knicks,78,Utah,92
+2004-02-22,Indiana,94,Utah,80
+2004-02-24,Utah,99,Oklahoma City,86
+2004-02-25,Oklahoma City,92 OT,Utah,93
+2004-02-27,Sacramento,97,Utah,102
+2004-03-01,Utah,94,Detroit,86
+2004-03-05,Utah,88,Indiana,96
+2004-03-06,Portland,91,Utah,70
+2004-03-08,Utah,88,Los Angeles,83
+2004-03-10,Utah,91,Golden State,77
+2004-03-12,Phoenix,90,Utah,99
+2004-03-14,Denver,102,Utah,75
+2004-03-17,Toronto,85,Utah,81
+2004-03-19,Cleveland,88,Utah,97
+2004-03-20,Atlanta,81,Utah,87
+2004-03-23,Utah,85,Washington,77
+2004-03-24,Oklahoma City,84,Utah,77
+2004-03-27,Utah,85,Denver,83
+2004-03-28,Los Angeles,91,Utah,84
+2004-03-31,Utah,89,New Orleans,76
+2004-04-02,Utah,81,San Antonio,94
+2004-04-04,LA,92,Utah,97
+2004-04-05,Utah,92,Memphis,81
+2004-04-08,Dallas,117,Utah,94
+2004-04-10,Utah,82,Houston,69
+2004-04-12,Minnesota,104,Utah,90
+2004-04-14,Utah,84,Phoenix,89
+2005-11-03,Utah,104,Los Angeles,78
+2005-11-05,Golden State,80,Utah,102
+2005-11-06,Denver,82,Utah,106
+2005-11-08,Utah,102,Denver,91
+2005-11-10,Utah,95,Toronto,104
+2005-11-13,Utah,108,Detroit,93
+2005-11-16,Charlotte,105,Utah,107
+2005-11-17,Orlando,107,Utah,92
+2005-11-19,Miami,107,Utah,105 OT
+2005-11-20,Atlanta,79,Utah,92
+2005-11-22,Utah,75,New Orleans,76
+2005-11-24,Utah,99,Chicago,101
+2005-11-26,Utah,90,Houston,80
+2005-11-27,San Antonio,109,Utah,76
+2005-11-30,Utah,102,Phoenix,115
+2005-12-01,Oklahoma City,129,Utah,119 OT
+2005-12-04,Dallas,109,Utah,86
+2005-12-06,Utah,80,Miami,100
+2005-12-08,Utah,100,Orlando,106
+2005-12-10,Utah,92,Portland,87 OT
+2005-12-12,Portland,98,Utah,88
+2005-12-14,Utah,93,LA,91
+2005-12-15,Phoenix,108,Utah,86
+2005-12-17,Boston,114,Utah,106
+2005-12-19,NY Knicks,94,Utah,93
+2005-12-20,Philadelphia,101,Utah,103
+2005-12-22,Toronto,98,Utah,86
+2005-12-27,Utah,88,Oklahoma City,98
+2005-12-29,LA,101,Utah,90
+2005-12-31,Utah,102,Sacramento,109
+2005-01-02,Houston,99,Utah,80
+2005-01-03,Memphis,92,Utah,82
+2005-01-05,Utah,99,Philadelphia,106
+2005-01-07,Chicago,84,Utah,78
+2005-01-08,Milwaukee,89,Utah,86
+2005-01-10,Utah,97,San Antonio,96
+2005-01-12,Utah,115,Phoenix,108
+2005-01-13,Sacramento,107,Utah,93
+2005-01-15,Utah,71,Cleveland,84
+2005-01-17,Los Angeles,94,Utah,102
+2005-01-22,Utah,94,Memphis,110
+2005-01-23,Oklahoma City,122,Utah,105
+2005-01-26,Utah,109,Oklahoma City,100
+2005-01-28,Minnesota,93,Utah,91
+2005-01-29,Utah,82,Brooklyn,99
+2005-02-01,Utah,105,Charlotte,109
+2005-02-05,Utah,108,New Orleans,92
+2005-02-07,Utah,99 OT,NY Knicks,102
+2005-02-08,Denver,97,Utah,87
+2005-02-11,Utah,100,Minnesota,82
+2005-02-14,Phoenix,136,Utah,128
+2005-02-15,Los Angeles,102,Utah,95
+2005-02-23,Utah,83,Dallas,101
+2005-02-25,Utah,102,Boston,109
+2005-02-27,Houston,92,Utah,99
+2005-02-28,Utah,87,LA,86
+2005-03-02,Utah,96,Atlanta,74
+2005-03-04,New Orleans,92,Utah,85
+2005-03-06,San Antonio,101,Utah,94
+2005-03-08,Utah,83,Indiana,89
+2005-03-11,Utah,82,Memphis,94
+2005-03-13,Detroit,64,Utah,62
+2005-03-15,Cleveland,92,Utah,73
+2005-03-16,Indiana,103,Utah,84
+2005-03-18,Brooklyn,94,Utah,80
+2005-03-19,Washington,96,Utah,95
+2005-03-22,Utah,115,Los Angeles,107
+2005-03-24,Utah,84,Washington,85
+2005-03-26,Utah,94,Milwaukee,89
+2005-03-28,Utah,85,Houston,99
+2005-03-30,Utah,98,Denver,109
+2005-04-01,Utah,91,Golden State,108
+2005-04-05,Utah,90,Portland,79
+2005-04-06,Minnesota,111,Utah,86
+2005-04-08,New Orleans,87,Utah,98
+2005-04-09,Dallas,88,Utah,81
+2005-04-12,LA,94,Utah,85
+2005-04-13,Utah,93,San Antonio,91
+2005-04-15,Utah,84,Minnesota,100
+2005-04-17,Portland,100,Utah,82
+2005-04-18,Utah,92,Sacramento,82
+2005-04-20,Golden State,106,Utah,89

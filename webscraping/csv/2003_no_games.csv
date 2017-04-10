@@ -1,0 +1,83 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-30,New,100,Utah,75
+2003-11-01,Chicago,84,New,79
+2003-11-02,New,100,Miami,95
+2003-11-06,New,86,Oklahoma City,84
+2003-11-08,New,110,Golden State,104
+2003-11-10,NY Knicks,91 OT,New,97
+2003-11-12,Detroit,93,New,87
+2003-11-13,New,102,Minnesota,98
+2003-11-15,New,105,Chicago,87
+2003-11-16,Atlanta,89,New,82
+2003-11-19,New,99,Philadelphia,98
+2003-11-22,New,105,NY Knicks,97 OT
+2003-11-23,Cleveland,84,New,97
+2003-11-25,Philadelphia,108,New,87
+2003-11-27,New,106,Atlanta,94
+2003-11-30,NY Knicks,92,New,86 OT
+2003-12-01,Boston,95,New,86
+2003-12-03,Chicago,90,New,115
+2003-12-04,New,89,Toronto,74
+2003-12-06,New,98,Houston,96 OT
+2003-12-07,Milwaukee,88,New,94
+2003-12-09,New,90,LA,94
+2003-12-12,Utah,88,New,93
+2003-12-13,Los Angeles,82,New,98
+2003-12-15,Sacramento,107,New,92
+2003-12-17,Portland,102,New,93
+2003-12-18,Golden State,111,New,106
+2003-12-20,Oklahoma City,86 OT,New,88
+2003-12-23,San Antonio,99,New,94 OT
+2003-12-26,New,81,Dallas,83
+2003-12-28,Indiana,91,New,84
+2003-12-29,Houston,97,New,85
+2003-12-31,New,86,Indiana,89
+2003-01-03,New,100,Orlando,89
+2003-01-05,Toronto,84,New,99
+2003-01-06,Memphis,106,New,102
+2003-01-08,New,83,Boston,93
+2003-01-10,New,99 OT,Detroit,101
+2003-01-11,Atlanta,87,New,80
+2003-01-15,New,82,Los Angeles,90
+2003-01-17,New,90,Chicago,83
+2003-01-20,New,114,Phoenix,102
+2003-01-22,New,103,Washington,94
+2003-01-24,New,96 OT,Portland,97
+2003-01-27,New,93,Milwaukee,108
+2003-01-29,New,104,Toronto,83
+2003-01-31,Brooklyn,89,New,72
+2003-02-01,Washington,109,New,104
+2003-02-03,New,103,Boston,96
+2003-02-05,New,108,Sacramento,84
+2003-02-11,Miami,69,New,78
+2003-02-12,New,72,Indiana,83
+2003-02-14,Minnesota,114,New,93
+2003-02-16,New,100,Denver,92
+2003-02-18,Orlando,99,New,94
+2003-02-19,New,87,Washington,75
+2003-02-21,New,125,Memphis,123 OT
+2003-02-22,Detroit,91,New,93
+2003-02-26,New,91,Miami,82
+2003-02-28,Denver,88,New,94
+2003-03-01,Phoenix,92,New,97
+2003-03-03,LA,108,New,111
+2003-03-07,New,102,Cleveland,76
+2003-03-09,New,92,Brooklyn,102
+2003-03-11,Indiana,71,New,81
+2003-03-12,Boston,93,New,65
+2003-03-14,Miami,83,New,87
+2003-03-15,Orlando,96,New,86
+2003-03-19,New,101,NY Knicks,96
+2003-03-21,New,113,Milwaukee,98
+2003-03-22,Milwaukee,93,New,85
+2003-03-26,New,95,Orlando,97
+2003-03-28,Toronto,92,New,101
+2003-03-30,New,90,San Antonio,92
+2003-04-01,Dallas,95,New,86
+2003-04-02,New,106,Brooklyn,97
+2003-04-05,Cleveland,79,New,76
+2003-04-09,New,100,Cleveland,81
+2003-04-11,New,93,Detroit,89
+2003-04-13,Philadelphia,89,New,94
+2003-04-14,Brooklyn,74,New,87
+2003-04-16,New,92,Atlanta,77

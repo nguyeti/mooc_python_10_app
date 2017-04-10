@@ -1,0 +1,83 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2016-10-27,Golden State,111,New,95
+2016-10-28,Portland,112,New,94
+2016-10-31,New,120,Golden State,134
+2016-11-03,New,94,Orlando,103
+2016-11-06,New,115,Atlanta,121
+2016-11-07,Dallas,107,New,98
+2016-11-10,New,120,Dallas,105
+2016-11-11,Atlanta,106,New,98
+2016-11-13,Toronto,100,New,81
+2016-11-15,NY Knicks,95,New,87
+2016-11-17,New,98,Denver,115
+2016-11-18,Oklahoma City,110,New,103
+2016-11-20,New,104,San Antonio,90
+2016-11-22,New,122,Phoenix,116
+2016-11-25,Phoenix,114,New,120
+2016-11-27,LA,111,New,90
+2016-11-28,Utah,101,New,87
+2016-12-01,New,104,Memphis,113
+2016-12-02,Houston,108,New,101
+2016-12-04,New,114,Cleveland,108 OT
+2016-12-07,New,93,Boston,111
+2016-12-11,New,107,Washington,105
+2016-12-12,Chicago,98,New,94
+2016-12-14,Portland,105,New,101
+2016-12-16,Utah,94,New,104
+2016-12-18,Phoenix,104,New,88
+2016-12-20,Denver,125,New,130
+2016-12-23,New,115,Portland,89
+2016-12-25,Miami,94,New,88 OT
+2016-12-26,New,110,Houston,108
+2016-12-28,Orlando,104,New,89
+2016-12-31,New,89,LA,95
+2016-01-02,Dallas,98,New,105
+2016-01-06,New,91,Dallas,100
+2016-01-08,New,86,Indiana,91
+2016-01-10,LA,114,New,111 OT
+2016-01-12,Los Angeles,95,New,91
+2016-01-13,Sacramento,97,New,109
+2016-01-15,New,109,Charlotte,107
+2016-01-18,Memphis,101,New,99
+2016-01-19,New,114,Minnesota,99
+2016-01-21,New,115,Detroit,99
+2016-01-23,New,116,Milwaukee,99
+2016-01-25,New,111,Houston,112
+2016-01-28,New,114,Sacramento,105
+2016-01-30,New,105,Brooklyn,103
+2016-02-01,New,95,Memphis,110
+2016-02-03,San Antonio,110,New,97
+2016-02-04,New,96,Los Angeles,99
+2016-02-06,Cleveland,99,New,84
+2016-02-08,Minnesota,102,New,116
+2016-02-10,New,100,Utah,96
+2016-02-11,Oklahoma City,121,New,95
+2016-02-19,New,121,Philadelphia,114
+2016-02-21,Detroit,106,New,111
+2016-02-23,Washington,109,New,89
+2016-02-25,New,123,Oklahoma City,119
+2016-02-27,New,110,Minnesota,112
+2016-03-02,Houston,100,New,95
+2016-03-03,New,86,San Antonio,94
+2016-03-05,New,94,Utah,106
+2016-03-07,New,115,Sacramento,112
+2016-03-09,Charlotte,122,New,113
+2016-03-11,Memphis,121,New,114 OT
+2016-03-12,Milwaukee,103,New,92
+2016-03-14,Golden State,125,New,107
+2016-03-16,Sacramento,108,New,123
+2016-03-18,New,112,Portland,117
+2016-03-20,New,109,LA,105
+2016-03-22,New,99,Miami,113
+2016-03-24,Indiana,92,New,84
+2016-03-26,New,91,Toronto,115
+2016-03-28,New,99,NY Knicks,91
+2016-03-30,San Antonio,100,New,92
+2016-03-31,New,101,Denver,95
+2016-04-03,Brooklyn,87,New,106
+2016-04-05,Philadelphia,107,New,93
+2016-04-06,Boston,104,New,97
+2016-04-08,New,110,Los Angeles,102
+2016-04-09,New,100,Phoenix,121
+2016-04-11,New,116,Chicago,121
+2016-04-13,Minnesota,144,New,109

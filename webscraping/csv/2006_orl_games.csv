@@ -1,0 +1,329 @@
+date,home_team,home_team_score,visit_team,visit_team_score
+2003-10-29,Orlando,95,Philadelphia,88
+2003-10-30,Miami,86,Orlando,100
+2003-11-01,Minnesota,111,Orlando,105
+2003-11-02,Milwaukee,90,Orlando,100
+2003-11-05,Orlando,125,Sacramento,121
+2003-11-08,Orlando,105,Oklahoma City,98
+2003-11-10,Orlando,117,LA,120
+2003-11-12,Orlando,109,Toronto,115
+2003-11-14,LA,80,Orlando,101
+2003-11-16,Golden State,134,Orlando,92
+2003-11-17,Sacramento,101,Orlando,99
+2003-11-19,Oklahoma City,84,Orlando,101
+2003-11-20,Portland,98,Orlando,84
+2003-11-22,Indiana,106,Orlando,70
+2003-11-24,Orlando,77,Miami,75
+2003-11-27,Orlando,112,Los Angeles,102
+2003-11-30,Orlando,117,Atlanta,92
+2003-12-02,Orlando,97,Boston,102
+2003-12-04,NY Knicks,85,Orlando,87
+2003-12-06,Orlando,88,Washington,78
+2003-12-07,Brooklyn,121,Orlando,88
+2003-12-09,Boston,114,Orlando,109 OT
+2003-12-10,Chicago,107,Orlando,87
+2003-12-13,Orlando,111,Golden State,85
+2003-12-15,Los Angeles,107,Orlando,84
+2003-12-16,Phoenix,87,Orlando,84
+2003-12-18,Utah,90,Orlando,97
+2003-12-20,Denver,80,Orlando,89
+2003-12-23,Orlando,103,Milwaukee,108
+2003-12-25,Orlando,104,Detroit,99
+2003-12-27,Memphis,99,Orlando,86
+2003-12-28,Orlando,101,Boston,95
+2003-12-30,Orlando,112,Washington,95
+2003-01-03,New Orleans,100,Orlando,89
+2003-01-04,Orlando,83,Brooklyn,88
+2003-01-06,Orlando,103,NY Knicks,100
+2003-01-08,Orlando,81,Houston,91
+2003-01-10,Orlando,97 OT,Indiana,101
+2003-01-12,Philadelphia,105,Orlando,107
+2003-01-13,Orlando,86,Detroit,101
+2003-01-16,Washington,108,Orlando,93
+2003-01-19,Toronto,93,Orlando,101
+2003-01-21,Cleveland,94,Orlando,103
+2003-01-22,Orlando,94,Chicago,91
+2003-01-24,Orlando,107,Phoenix,110
+2003-01-26,Boston,91,Orlando,83
+2003-01-29,Orlando,113,Cleveland,108
+2003-01-31,Orlando,108,San Antonio,109
+2003-02-02,Atlanta,97,Orlando,89
+2003-02-04,Orlando,89,Portland,96
+2003-02-11,Orlando,92,Brooklyn,83
+2003-02-13,Detroit,98,Orlando,88
+2003-02-14,Philadelphia,99,Orlando,98
+2003-02-16,Toronto,99,Orlando,97
+2003-02-18,Orlando,99,New Orleans,94
+2003-02-21,Orlando,110,Chicago,96
+2003-02-23,Brooklyn,105,Orlando,113
+2003-02-25,Orlando,98,Dallas,93
+2003-02-28,NY Knicks,118,Orlando,110 2OT
+2003-03-02,Cleveland,76,Orlando,102
+2003-03-03,Chicago,89,Orlando,104
+2003-03-05,Orlando,111,Milwaukee,99
+2003-03-07,Orlando,102,NY Knicks,111
+2003-03-09,Orlando,111,Denver,98
+2003-03-11,Washington,106,Orlando,105
+2003-03-12,Orlando,108,Utah,111
+2003-03-15,Orlando,96,New Orleans,86
+2003-03-19,Orlando,109,Miami,93
+2003-03-21,Orlando,109,Cleveland,85
+2003-03-23,Miami,74,Orlando,96
+2003-03-24,Orlando,104,Memphis,110
+2003-03-26,New Orleans,95,Orlando,97
+2003-03-27,Orlando,110,Minnesota,107
+2003-03-31,Orlando,113 OT,Philadelphia,118
+2003-04-01,San Antonio,118,Orlando,105
+2003-04-05,Dallas,108,Orlando,90
+2003-04-06,Houston,114,Orlando,93
+2003-04-09,Orlando,88,Toronto,82
+2003-04-11,Indiana,86,Orlando,98
+2003-04-12,Orlando,89,Boston,86
+2003-04-14,Atlanta,100,Orlando,84
+2003-04-16,Milwaukee,93,Orlando,87
+2004-10-29,NY Knicks,83 OT,Orlando,85
+2004-10-30,Orlando,98,New Orleans,100
+2004-11-01,Orlando,85,Detroit,96
+2004-11-03,Orlando,68,NY Knicks,75
+2004-11-05,Orlando,100,Chicago,106
+2004-11-07,Orlando,71,Minnesota,100
+2004-11-08,Houston,96,Orlando,86
+2004-11-12,Orlando,97,Memphis,107
+2004-11-14,Denver,106,Orlando,101
+2004-11-15,LA,95,Orlando,92
+2004-11-17,Utah,90,Orlando,88
+2004-11-20,Phoenix,96,Orlando,89
+2004-11-21,Sacramento,122,Orlando,92
+2004-11-24,Orlando,78,Indiana,89
+2004-11-26,Orlando,92,Boston,94
+2004-11-28,Orlando,86,Toronto,87
+2004-12-02,Orlando,91,New Orleans,100
+2004-12-03,New Orleans,106,Orlando,91
+2004-12-05,Orlando,94,San Antonio,105
+2004-12-06,Dallas,110,Orlando,97
+2004-12-08,Orlando,105,Phoenix,98
+2004-12-10,Washington,91,Orlando,95
+2004-12-12,Orlando,95,Brooklyn,99
+2004-12-13,Atlanta,102,Orlando,105
+2004-12-16,Chicago,102,Orlando,88
+2004-12-17,Indiana,90,Orlando,94
+2004-12-19,Orlando,119,Golden State,93
+2004-12-21,Toronto,93,Orlando,104
+2004-12-22,Philadelphia,95,Orlando,73
+2004-12-25,Orlando,113,Cleveland,101 OT
+2004-12-26,San Antonio,98,Orlando,83
+2004-12-29,Orlando,86,NY Knicks,114
+2004-01-02,Miami,112,Orlando,101
+2004-01-03,Memphis,112,Orlando,103
+2004-01-06,Indiana,114,Orlando,107
+2004-01-07,Boston,101,Orlando,93
+2004-01-09,Orlando,103,Washington,92
+2004-01-12,Orlando,82,Philadelphia,87
+2004-01-14,NY Knicks,120,Orlando,110
+2004-01-16,Orlando,124,Boston,118 OT
+2004-01-17,New Orleans,91,Orlando,90
+2004-01-19,Orlando,106,Milwaukee,99
+2004-01-21,Milwaukee,113,Orlando,102
+2004-01-23,Philadelphia,93,Orlando,98
+2004-01-25,Orlando,87,Houston,99
+2004-01-26,Cleveland,99,Orlando,98
+2004-01-28,Washington,100,Orlando,104
+2004-01-29,Orlando,79,Brooklyn,89
+2004-01-31,Orlando,106,LA,115
+2004-02-03,Minnesota,113,Orlando,100
+2004-02-04,Toronto,110,Orlando,90
+2004-02-06,Brooklyn,120,Orlando,99
+2004-02-08,Orlando,96,Los Angeles,98
+2004-02-11,Orlando,98,Miami,111
+2004-02-17,Milwaukee,127,Orlando,104
+2004-02-18,Orlando,90,Utah,77
+2004-02-20,Orlando,102,Denver,98
+2004-02-22,Detroit,86,Orlando,87
+2004-02-24,Orlando,91 OT,Portland,94
+2004-02-27,Orlando,107 OT,Cleveland,112
+2004-02-28,Atlanta,99,Orlando,104
+2004-03-01,Boston,117,Orlando,96
+2004-03-03,Orlando,97,Milwaukee,105
+2004-03-05,Orlando,101,Atlanta,96
+2004-03-07,Orlando,90,Sacramento,107
+2004-03-09,Miami,100,Orlando,89
+2004-03-10,Orlando,108,Washington,99
+2004-03-13,Orlando,101,Oklahoma City,115
+2004-03-15,Los Angeles,113,Orlando,110 OT
+2004-03-17,Golden State,110,Orlando,85
+2004-03-20,Portland,92,Orlando,73
+2004-03-21,Oklahoma City,84,Orlando,67
+2004-03-24,Orlando,90,Miami,105
+2004-03-26,Orlando,92,Indiana,107
+2004-03-28,Orlando,88,Dallas,118
+2004-03-31,Orlando,91,Chicago,109
+2004-04-02,Orlando,87,Atlanta,95
+2004-04-06,Detroit,102,Orlando,86
+2004-04-08,Brooklyn,101,Orlando,81
+2004-04-10,Orlando,89,Detroit,101
+2004-04-12,Chicago,84,Orlando,93
+2004-04-14,Orlando,95,Philadelphia,89
+2005-11-03,Orlando,93,Milwaukee,92
+2005-11-05,New Orleans,89,Orlando,90
+2005-11-06,Charlotte,111,Orlando,100
+2005-11-09,Orlando,94,Dallas,84
+2005-11-10,Washington,106,Orlando,96
+2005-11-12,Orlando,122,Los Angeles,113
+2005-11-14,Philadelphia,96,Orlando,87
+2005-11-17,Orlando,107,Utah,92
+2005-11-20,Indiana,83,Orlando,86
+2005-11-24,Orlando,83,Portland,89
+2005-11-26,Atlanta,99,Orlando,117
+2005-11-27,Orlando,105,Philadelphia,99
+2005-11-29,Orlando,101,Boston,117
+2005-12-01,Orlando,129,Toronto,108
+2005-12-03,NY Knicks,98,Orlando,104
+2005-12-04,Orlando,96,Memphis,91
+2005-12-06,Denver,115,Orlando,102
+2005-12-08,Utah,100,Orlando,106
+2005-12-10,Golden State,109,Orlando,113
+2005-12-12,Los Angeles,105,Orlando,98
+2005-12-13,Phoenix,121,Orlando,100
+2005-12-15,San Antonio,94,Orlando,91
+2005-12-18,Orlando,117,Denver,95
+2005-12-19,Miami,117,Orlando,107
+2005-12-22,Orlando,93,San Antonio,87
+2005-12-27,Orlando,111,NY Knicks,119
+2005-12-29,Orlando,105,Milwaukee,111
+2005-01-01,Chicago,105,Orlando,90
+2005-01-03,Toronto,105,Orlando,94
+2005-01-05,Orlando,105,Oklahoma City,87
+2005-01-07,Orlando,111,Charlotte,91
+2005-01-08,Orlando,104,Brooklyn,101
+2005-01-10,Boston,119,Orlando,101
+2005-01-12,Minnesota,80,Orlando,87
+2005-01-14,Detroit,101,Orlando,94
+2005-01-15,Indiana,84,Orlando,85
+2005-01-18,Orlando,103,Detroit,101
+2005-01-20,Orlando,99,Houston,108
+2005-01-22,Orlando,115,Philadelphia,111
+2005-01-24,Houston,89,Orlando,78
+2005-01-25,Memphis,95,Orlando,83
+2005-01-28,Orlando,108,Washington,101
+2005-01-29,Washington,97,Orlando,103
+2005-01-31,Atlanta,80,Orlando,79
+2005-02-01,Orlando,105,Cleveland,102
+2005-02-04,Boston,112,Orlando,100
+2005-02-05,Cleveland,101,Orlando,92
+2005-02-08,Orlando,109,Golden State,113
+2005-02-10,Orlando,101,Atlanta,96
+2005-02-12,Philadelphia,112,Orlando,99
+2005-02-13,Orlando,97,New Orleans,94
+2005-02-15,Orlando,99,LA,94
+2005-02-22,Orlando,84,Indiana,108
+2005-02-26,Miami,101,Orlando,98
+2005-02-27,Orlando,103,Miami,112
+2005-03-02,Orlando,114,Sacramento,111
+2005-03-04,Orlando,111,NY Knicks,89
+2005-03-05,Brooklyn,81,Orlando,105
+2005-03-08,Cleveland,111,Orlando,92
+2005-03-09,Toronto,106,Orlando,96
+2005-03-11,Orlando,96,Minnesota,101
+2005-03-13,Orlando,82,Brooklyn,98
+2005-03-15,Sacramento,105,Orlando,94
+2005-03-16,LA,110,Orlando,102
+2005-03-18,Oklahoma City,98,Orlando,90
+2005-03-19,Portland,92,Orlando,97
+2005-03-21,Charlotte,102,Orlando,97
+2005-03-24,Orlando,94,Charlotte,108
+2005-03-26,Orlando,116,Phoenix,118
+2005-03-28,Orlando,109,Atlanta,102
+2005-03-30,Orlando,108,Toronto,96
+2005-04-01,Orlando,102,Washington,111
+2005-04-02,Brooklyn,102,Orlando,103
+2005-04-05,Dallas,114,Orlando,105
+2005-04-06,Orlando,101 OT,Chicago,102
+2005-04-08,Orlando,102,Detroit,114
+2005-04-11,Orlando,106,Cleveland,114
+2005-04-13,Detroit,103,Orlando,94
+2005-04-15,Chicago,117,Orlando,77
+2005-04-16,Milwaukee,113,Orlando,103
+2005-04-18,Orlando,92,Indiana,88
+2005-04-20,Orlando,93,Miami,98
+2006-11-02,Orlando,78,Indiana,90
+2006-11-04,Orlando,85,Memphis,94
+2006-11-05,Washington,87,Orlando,79
+2006-11-08,Houston,74,Orlando,76
+2006-11-09,New Orleans,83,Orlando,88
+2006-11-13,Orlando,100 OT,Cleveland,108
+2006-11-15,Orlando,85,Charlotte,77
+2006-11-18,Cleveland,102,Orlando,84
+2006-11-19,Orlando,95,New Orleans,98
+2006-11-23,Orlando,91,Washington,83
+2006-11-25,Orlando,104,Portland,89
+2006-11-26,Orlando,80,Miami,77
+2006-11-28,Boston,83,Orlando,87
+2006-11-29,Chicago,85,Orlando,76
+2006-12-02,Memphis,91,Orlando,69
+2006-12-03,Milwaukee,104,Orlando,84
+2006-12-05,Orlando,85,San Antonio,110
+2006-12-07,Orlando,93,Chicago,102
+2006-12-10,Orlando,94,Denver,83
+2006-12-14,NY Knicks,90,Orlando,105
+2006-12-16,Dallas,109,Orlando,103 OT
+2006-12-19,Orlando,90,Toronto,92
+2006-12-21,Orlando,85,Brooklyn,96
+2006-12-23,Orlando,88,Los Angeles,104
+2006-12-26,Orlando,108,Milwaukee,93
+2006-12-28,Orlando,105,NY Knicks,95
+2006-12-30,Orlando,107,Minnesota,87
+2006-01-03,Detroit,108,Orlando,99
+2006-01-04,Toronto,121,Orlando,97
+2006-01-06,Brooklyn,113,Orlando,106
+2006-01-07,Orlando,108,Charlotte,92
+2006-01-10,LA,90,Orlando,73
+2006-01-11,Oklahoma City,113,Orlando,104
+2006-01-13,Portland,113,Orlando,108
+2006-01-15,Sacramento,104,Orlando,100
+2006-01-18,Orlando,106,Washington,98
+2006-01-20,Charlotte,93,Orlando,104
+2006-01-21,Orlando,83,Sacramento,78 OT
+2006-01-24,Orlando,111,Phoenix,102
+2006-01-26,Philadelphia,115 OT,Orlando,119
+2006-01-27,NY Knicks,97,Orlando,94
+2006-01-29,Orlando,81,Philadelphia,89
+2006-02-01,Orlando,94,LA,106
+2006-02-03,Atlanta,96,Orlando,94
+2006-02-04,Orlando,100,Boston,91
+2006-02-06,Washington,94,Orlando,82
+2006-02-08,Milwaukee,94,Orlando,89 2OT
+2006-02-10,Orlando,73,Detroit,84
+2006-02-12,Boston,102,Orlando,94
+2006-02-14,Miami,107,Orlando,93
+2006-02-15,Orlando,100,Miami,110
+2006-02-21,Cleveland,105,Orlando,92
+2006-02-22,Brooklyn,96,Orlando,93
+2006-02-24,Orlando,102,Oklahoma City,89
+2006-02-26,Orlando,84,Houston,89
+2006-02-28,Los Angeles,102,Orlando,87
+2006-03-01,Golden State,98,Orlando,94
+2006-03-03,Phoenix,123,Orlando,118
+2006-03-04,Denver,110,Orlando,94
+2006-03-06,Utah,90,Orlando,85
+2006-03-10,Orlando,102,Cleveland,73
+2006-03-11,Orlando,103,Golden State,92
+2006-03-13,Indiana,97,Orlando,83
+2006-03-15,Orlando,114,Utah,108 OT
+2006-03-17,Orlando,84,Boston,77
+2006-03-19,Atlanta,108,Orlando,107 OT
+2006-03-21,Charlotte,108,Orlando,102
+2006-03-22,Orlando,111,NY Knicks,87
+2006-03-24,Philadelphia,86,Orlando,102
+2006-03-26,Orlando,108,Atlanta,101
+2006-03-28,Chicago,93,Orlando,97
+2006-03-29,Minnesota,103,Orlando,91
+2006-03-31,Orlando,108,Dallas,99
+2006-04-05,Orlando,108,Milwaukee,105
+2006-04-07,Orlando,89,Detroit,87
+2006-04-09,Miami,84,Orlando,93
+2006-04-10,Orlando,105,Atlanta,88
+2006-04-12,Orlando,103,Toronto,96
+2006-04-13,San Antonio,80,Orlando,92
+2006-04-15,Orlando,102,Philadelphia,97
+2006-04-17,Orlando,112 OT,Chicago,116
+2006-04-19,Indiana,89,Orlando,83

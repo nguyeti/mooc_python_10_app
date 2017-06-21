@@ -48,7 +48,7 @@ def drop_table(name):
     cur.execute("DROP TABLE IF EXISTS " + name )
     conn.close()
 
-
+drop_table('store')
 create()
 insert('car',1,123.1)
 print(view())

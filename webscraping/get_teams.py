@@ -10,7 +10,7 @@ c = r.content
 soup = BeautifulSoup(c,"html.parser")
 
 all = soup.find_all("div",{"class":"mod-container mod-open-list mod-teams-list-medium mod-no-footer"})
-#print(all[2].prettify())
+print(all[2].prettify())
 l=[]
 
 for division in all:
